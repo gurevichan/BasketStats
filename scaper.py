@@ -6,6 +6,8 @@ import requests
 from tqdm import tqdm
 import backoff 
 import os
+import seaborn as sns
+import matplotlib.pyplot as plt
 
 def print_tables(cls):
     for key in cls.__dict__:
@@ -133,6 +135,20 @@ if __name__ == "__main__":
         df.to_csv(team_csv_path)
     players_filter =  (df.groupby('player name')['min'].sum() > 100) & (df.groupby('player name')['min'].count() > 3)
     players = df.groupby('player name').mean()[players_filter]
+
+    # create a plot of the players pts per game with color as loc
+    # sns.set(rc={'figure.figsize':(15,10)})
+    yz = df[df['player name'] == "Yovel Zoosman"]
+    speedy = df[df['player name'] == "Speedy Smith"]
+    blayzer = df[df['player name'] == "Oz Blayzer"]
+    yz['idx'] = range(len(yz))
+    speedy['idx'] = range(len(speedy))
+    blayzer['idx'] = range(len(blayzer))
+    sns.scatterplot(data=yz, y='pts', x='idx', hue='loc', marker='o')
+    sns.scatterplot(data=speedy, y='pts', x='idx', hue='loc', marker='x')
+    sns.scatterplot(data=blayzer, y='pts', x='idx', hue='loc', marker='s')
+    plt.show()
+
     # game_url = "https://basket.co.il/game-zone.asp?GameId=25036&lang=en"
     # game = GameScraper(game_url)
     # # game.print_tables()
