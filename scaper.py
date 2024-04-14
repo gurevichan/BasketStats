@@ -112,12 +112,13 @@ class TeamScraper:
     
     def creat_per_game_player_stats(self):
         player_stats_list = []
-        for key in self.all_games:
+        for i, key in enumerate(self.all_games):
             team, loc = key.split("\xa0")
             loc = loc.strip('(').strip(')')
             player_stats = self.all_games[key].team1 if loc == "H" else self.all_games[key].team2
             player_stats.loc[:, 'opponent'] = team
             player_stats.loc[:, 'loc'] = loc
+            player_stats.loc[:, 'game_idx'] = i
             player_stats_list.append(player_stats)
         return pd.concat(player_stats_list)
     
@@ -141,12 +142,11 @@ if __name__ == "__main__":
     yz = df[df['player name'] == "Yovel Zoosman"]
     speedy = df[df['player name'] == "Speedy Smith"]
     blayzer = df[df['player name'] == "Oz Blayzer"]
-    yz['idx'] = range(len(yz))
-    speedy['idx'] = range(len(speedy))
-    blayzer['idx'] = range(len(blayzer))
-    sns.scatterplot(data=yz, y='pts', x='idx', hue='loc', marker='o')
-    sns.scatterplot(data=speedy, y='pts', x='idx', hue='loc', marker='x')
-    sns.scatterplot(data=blayzer, y='pts', x='idx', hue='loc', marker='s')
+    filtered_df = df[df['player name'].isin(["Yovel Zoosman", "Speedy Smith", "Oz Blayzer"])]
+    sns.scatterplot(data=filtered_df, y='pts', x='game_idx', hue='player name')
+    sns.lineplot(data=filtered_df, y='pts', x='game_idx', hue='player name')
+    # sns.scatterplot(data=speedy, y='pts', x='game_idx', hue='loc', marker='x')
+    # sns.scatterplot(data=blayzer, y='pts', x='game_idx', hue='loc', marker='s')
     plt.show()
 
     # game_url = "https://basket.co.il/game-zone.asp?GameId=25036&lang=en"
