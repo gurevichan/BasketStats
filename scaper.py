@@ -7,7 +7,15 @@ from tqdm import tqdm
 import backoff 
 import os
 import seaborn as sns
+from time import sleep
 import matplotlib.pyplot as plt
+import urllib.error
+import concurrent.futures
+
+
+@backoff.on_exception(backoff.expo, (urllib.error.URLError), max_tries=3)
+def read_html(url):
+    return pd.read_html(url)
 
 def print_tables(cls):
     for key in cls.__dict__:
@@ -54,7 +62,7 @@ def read_html_with_links(url):
     link_maps = []
 
     for table in tables:
-        df = pd.read_html(str(table))[0]
+        df = read_html(str(table))[0]
         dataframes.append(df)
 
         link_map = {}
@@ -68,7 +76,7 @@ def read_html_with_links(url):
 class GameScraper:
     def __init__(self, url):
         self.url = url
-        tables = pd.read_html(self.url)
+        tables = read_html(self.url)
         self.quaters = parse_table(tables[3],0)
         self.metadata = {i: tables[i].iloc[0,0] for i in range(3, len(tables)) }
         self.team1 = parse_table(tables[4], 2)
@@ -78,10 +86,6 @@ class GameScraper:
         self.team2_bench = parse_table(tables[8], 2, end_idx=5, ignore_prev_idx=False)
         self.team1_locals = parse_table(tables[7], 2, start_idx=6, ignore_prev_idx=False)
         self.team2_locals = parse_table(tables[8], 2, start_idx=6, ignore_prev_idx=False)
-    
-    @backoff.on_exception(backoff.expo, (requests.exceptions.RequestException), max_tries=3)
-    def read_html(self):
-        return pd.read_html(self.url)
 
 
 class TeamScraper:
@@ -97,17 +101,22 @@ class TeamScraper:
         released_idx = np.where(tables[5].iloc[:,0] == 'Released Players')[0][0]
         self.stats_players = parse_table(tables[5], 2)
 
-    def read_games(self, max_games=None):
+
+    def read_games(self, max_games=None, sleep_time=0.1):
         all_games_links = self.links[4]
         url_prefix = "https://basket.co.il/"
         self.all_games = {}
-        from time import sleep
-        for index, row in tqdm(self.stats_per_game.iterrows()):
-            sleep(1)
-            game = GameScraper(url_prefix + all_games_links[row['game']])
-            self.all_games[row['game']] = game
-            if max_games and len(self.all_games) > 4:
-                break
+        with concurrent.futures.ThreadPoolExecutor() as executor:
+            futures, indecies = [], []
+            for _, row in tqdm(self.stats_per_game.iterrows()):
+                future = executor.submit(GameScraper, url_prefix + all_games_links[row['game']])
+                futures.append(future)
+                indecies.append(row['game'])
+                if max_games and len(self.all_games) > 4:
+                    break
+            for idx, future in tqdm(zip(indecies, concurrent.futures.as_completed(futures))):
+                game = future.result()
+                self.all_games[idx] = game
         self.per_game_player_stats = self.creat_per_game_player_stats()
     
     def creat_per_game_player_stats(self):
@@ -122,6 +131,12 @@ class TeamScraper:
             player_stats_list.append(player_stats)
         return pd.concat(player_stats_list)
     
+
+def plot_violin(df, x, y):
+    plt.figure()
+    sns.violinplot(x=x, y=y, data=df)
+    plt.grid()
+    plt.show()
 
 if __name__ == "__main__":
     team_url = "https://basket.co.il/team.asp?TeamId=1054&lang=en"
@@ -145,11 +160,6 @@ if __name__ == "__main__":
     filtered_df = df[df['player name'].isin(["Yovel Zoosman", "Speedy Smith", "Oz Blayzer"])]
     sns.scatterplot(data=filtered_df, y='pts', x='game_idx', hue='player name')
     sns.lineplot(data=filtered_df, y='pts', x='game_idx', hue='player name')
-    # sns.scatterplot(data=speedy, y='pts', x='game_idx', hue='loc', marker='x')
-    # sns.scatterplot(data=blayzer, y='pts', x='game_idx', hue='loc', marker='s')
     plt.show()
-
-    # game_url = "https://basket.co.il/game-zone.asp?GameId=25036&lang=en"
-    # game = GameScraper(game_url)
-    # # game.print_tables()
+    plot_violin(df[df['player name'] != "Total"], 'player name', 'pts')
     a = 3 
