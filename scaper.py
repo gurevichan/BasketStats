@@ -74,8 +74,9 @@ def read_html_with_links(url):
     return dataframes, link_maps
 
 class GameScraper:
-    def __init__(self, url):
+    def __init__(self, url, name=None):
         self.url = url
+        self.name = name
         tables = read_html(self.url)
         self.quaters = parse_table(tables[3],0)
         self.metadata = {i: tables[i].iloc[0,0] for i in range(3, len(tables)) }
@@ -107,16 +108,15 @@ class TeamScraper:
         url_prefix = "https://basket.co.il/"
         self.all_games = {}
         with concurrent.futures.ThreadPoolExecutor() as executor:
-            futures, indecies = [], []
+            futures= []
             for _, row in tqdm(self.stats_per_game.iterrows()):
-                future = executor.submit(GameScraper, url_prefix + all_games_links[row['game']])
+                future = executor.submit(GameScraper, url_prefix + all_games_links[row['game']], name=row['game'])
                 futures.append(future)
-                indecies.append(row['game'])
                 if max_games and len(self.all_games) > 4:
                     break
-            for idx, future in tqdm(zip(indecies, concurrent.futures.as_completed(futures))):
+            for future in tqdm(concurrent.futures.as_completed(futures)):
                 game = future.result()
-                self.all_games[idx] = game
+                self.all_games[game.name] = game
         self.per_game_player_stats = self.creat_per_game_player_stats()
     
     def creat_per_game_player_stats(self):
@@ -132,9 +132,21 @@ class TeamScraper:
         return pd.concat(player_stats_list)
     
 
-def plot_violin(df, x, y):
-    plt.figure()
-    sns.violinplot(x=x, y=y, data=df)
+def plot_property(df, x, y,  hue='loc'):
+    f, ax = plt.subplots()
+    sns.despine(bottom=True, left=True)
+
+    # Show each observation with a scatterplot
+    sns.stripplot(
+        data=df, x=x, y=y, hue=hue, dodge=True, alpha=.5, zorder=1, legend=False)
+
+    # Show the conditional means in the center of the strips
+    sns.pointplot(
+        data=df, x=x, y=y, hue=hue, dodge=.8 - .8 / 3, palette="dark", markers="d", markersize=6, linestyle="none", alpha=0.6)
+    sns.pointplot(
+        data=df, x=x, y=y, color='g', markers="+", markersize=6, linestyle="none",)
+    plt.xticks(rotation=90)  # Rotate x ticks 45 degrees
+    plt.tight_layout()  # Adjust the layout to prevent overlapping labels
     plt.grid()
     plt.show()
 
@@ -152,14 +164,18 @@ if __name__ == "__main__":
     players_filter =  (df.groupby('player name')['min'].sum() > 100) & (df.groupby('player name')['min'].count() > 3)
     players = df.groupby('player name').mean()[players_filter]
 
+    filtered_df = df[df['player name'].isin(players_filter[players_filter].index) & (df.game_idx > 4)]
+    plot_property(filtered_df[filtered_df['player name'] != "Total"], 'player name', 'pts')
+    a = 3 
+
+
+
     # create a plot of the players pts per game with color as loc
     # sns.set(rc={'figure.figsize':(15,10)})
-    yz = df[df['player name'] == "Yovel Zoosman"]
-    speedy = df[df['player name'] == "Speedy Smith"]
-    blayzer = df[df['player name'] == "Oz Blayzer"]
-    filtered_df = df[df['player name'].isin(["Yovel Zoosman", "Speedy Smith", "Oz Blayzer"])]
-    sns.scatterplot(data=filtered_df, y='pts', x='game_idx', hue='player name')
-    sns.lineplot(data=filtered_df, y='pts', x='game_idx', hue='player name')
-    plt.show()
-    plot_violin(df[df['player name'] != "Total"], 'player name', 'pts')
-    a = 3 
+    # yz = df[df['player name'] == "Yovel Zoosman"]
+    # speedy = df[df['player name'] == "Speedy Smith"]
+    # blayzer = df[df['player name'] == "Oz Blayzer"]
+    # filtered_df = df[df['player name'].isin(["Yovel Zoosman", "Speedy Smith", "Oz Blayzer"])]
+    # sns.scatterplot(data=filtered_df, y='pts', x='game_idx', hue='player name')
+    # sns.lineplot(data=filtered_df, y='pts', x='game_idx', hue='player name')
+    # plt.show()
