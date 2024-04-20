@@ -74,9 +74,11 @@ def read_html_with_links(url):
     return dataframes, link_maps
 
 class GameScraper:
-    def __init__(self, url, name=None):
+    def __init__(self, url, name=None, round=None, game_idx=None):
         self.url = url
         self.name = name
+        self.round = int(round)
+        self.game_idx = int(game_idx)
         tables = read_html(self.url)
         self.quaters = parse_table(tables[3],0)
         self.metadata = {i: tables[i].iloc[0,0] for i in range(3, len(tables)) }
@@ -109,8 +111,8 @@ class TeamScraper:
         self.all_games = {}
         with concurrent.futures.ThreadPoolExecutor() as executor:
             futures= []
-            for _, row in tqdm(self.stats_per_game.iterrows()):
-                future = executor.submit(GameScraper, url_prefix + all_games_links[row['game']], name=row['game'])
+            for i, (round, row) in tqdm(enumerate(self.stats_per_game.iterrows())):
+                future = executor.submit(GameScraper, url_prefix + all_games_links[row['game']], name=row['game'], round=round, game_idx=i+1)
                 futures.append(future)
                 if max_games and len(self.all_games) > 4:
                     break
@@ -121,13 +123,14 @@ class TeamScraper:
     
     def creat_per_game_player_stats(self):
         player_stats_list = []
-        for i, key in enumerate(self.all_games):
+        for key in self.all_games:
             team, loc = key.split("\xa0")
             loc = loc.strip('(').strip(')')
             player_stats = self.all_games[key].team1 if loc == "H" else self.all_games[key].team2
             player_stats.loc[:, 'opponent'] = team
             player_stats.loc[:, 'loc'] = loc
-            player_stats.loc[:, 'game_idx'] = i
+            player_stats.loc[:, 'round'] = self.all_games[key].round
+            player_stats.loc[:, 'game_idx'] = self.all_games[key].game_idx
             player_stats_list.append(player_stats)
         return pd.concat(player_stats_list)
     
@@ -148,7 +151,6 @@ def plot_property(df, x, y,  hue='loc'):
     plt.xticks(rotation=90)  # Rotate x ticks 45 degrees
     plt.tight_layout()  # Adjust the layout to prevent overlapping labels
     plt.grid()
-    plt.show()
 
 if __name__ == "__main__":
     team_url = "https://basket.co.il/team.asp?TeamId=1054&lang=en"
@@ -164,8 +166,9 @@ if __name__ == "__main__":
     players_filter =  (df.groupby('player name')['min'].sum() > 100) & (df.groupby('player name')['min'].count() > 3)
     players = df.groupby('player name').mean()[players_filter]
 
-    filtered_df = df[df['player name'].isin(players_filter[players_filter].index) & (df.game_idx > 4)]
+    filtered_df = df[df['player name'].isin(players_filter[players_filter].index) & (df.game_idx > 2)]
     plot_property(filtered_df[filtered_df['player name'] != "Total"], 'player name', 'pts')
+    plot_property(filtered_df[filtered_df['player name'] != "Total"], 'player name', 'val')
     a = 3 
 
 
