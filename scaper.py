@@ -66,9 +66,9 @@ def read_html_with_links(url):
         dataframes.append(df)
 
         link_map = {}
-        for a in table.find_all('a', href=True):
+        for i, a in enumerate(table.find_all('a', href=True)):
             if a.text:
-                link_map[a.text] = a['href']
+                link_map[f"{a.text}_{i}"] = a['href']
         link_maps.append(link_map)
 
     return dataframes, link_maps
@@ -112,25 +112,31 @@ class TeamScraper:
         with concurrent.futures.ThreadPoolExecutor() as executor:
             futures= []
             for i, (round, row) in tqdm(enumerate(self.stats_per_game.iterrows())):
-                future = executor.submit(GameScraper, url_prefix + all_games_links[row['game']], name=row['game'], round=round, game_idx=i+1)
+                future = executor.submit(GameScraper, url_prefix + all_games_links[f"{row['game']}_{i}"], name=row['game'], round=round, game_idx=i+1)
                 futures.append(future)
                 if max_games and len(self.all_games) > 4:
                     break
             for future in tqdm(concurrent.futures.as_completed(futures)):
                 game = future.result()
-                self.all_games[game.name] = game
+                self.all_games[f"{game.name}_{game.round}"] = game
         self.per_game_player_stats = self.creat_per_game_player_stats()
     
     def creat_per_game_player_stats(self):
         player_stats_list = []
         for key in self.all_games:
             team, loc = key.split("\xa0")
-            loc = loc.strip('(').strip(')')
-            player_stats = self.all_games[key].team1 if loc == "H" else self.all_games[key].team2
+            loc = loc.strip('(').strip(')')[:1]
+            if loc == "H":
+                player_stats = self.all_games[key].team1  
+                team_coach = self.all_games[key].metadata[4].split('Coach: ')[-1][:-1]
+            else:
+                player_stats = self.all_games[key].team2
+                team_coach = self.all_games[key].metadata[5].split('Coach: ')[-1][:-1]
             player_stats.loc[:, 'opponent'] = team
             player_stats.loc[:, 'loc'] = loc
             player_stats.loc[:, 'round'] = self.all_games[key].round
             player_stats.loc[:, 'game_idx'] = self.all_games[key].game_idx
+            player_stats.loc[:, 'coach'] = team_coach
             player_stats_list.append(player_stats)
         return pd.concat(player_stats_list)
     
@@ -151,6 +157,7 @@ def plot_property(df, x, y,  hue='loc'):
     plt.xticks(rotation=90)  # Rotate x ticks 45 degrees
     plt.tight_layout()  # Adjust the layout to prevent overlapping labels
     plt.grid()
+    ax.set_title(f"{y} per {x}")
 
 if __name__ == "__main__":
     team_url = "https://basket.co.il/team.asp?TeamId=1054&lang=en"
@@ -163,10 +170,26 @@ if __name__ == "__main__":
         team.read_games()
         df = team.per_game_player_stats
         df.to_csv(team_csv_path)
-    players_filter =  (df.groupby('player name')['min'].sum() > 100) & (df.groupby('player name')['min'].count() > 3)
+    players_filter =  (df.groupby('player name')['min'].sum() > 50) & (df.groupby('player name')['min'].count() > 3)
     players = df.groupby('player name').mean()[players_filter]
 
     filtered_df = df[df['player name'].isin(players_filter[players_filter].index) & (df.game_idx > 2)]
+    for player in filtered_df['player name'].unique():
+        if 'zach' in player.lower() or 'brynton' in player.lower() or "Gabriel" in player.lower():
+            continue
+        print(player)
+
+    
+    players_to_skip = ['Zach Hankins', 'Brynton Lemar', 'Gabriel Chachashvili']
+    filtered_df = filtered_df[~filtered_df['player name'].isin(players_to_skip)]
+    mean_coach = filtered_df.groupby(['player name', 'coach']).mean()
+    sum_coach = filtered_df.groupby(['player name', 'coach']).sum()
+    mean_coach['games'] = filtered_df.groupby(['player name', 'coach']).size()
+    mean_coach['%3'] = sum_coach['m_3pt'] / sum_coach['a_3pt'] * 100
+    mean_coach['%2'] = sum_coach['m_2pt'] / sum_coach['a_2pt'] * 100
+    print(mean_coach[['games', 'min', 'pts', '%2', '%3', 'dr_rebounds', 'or_rebounds', 'tr_rebounds', 'st', 'to', 'as', 'val']].round(1))
+
+    plot_property(filtered_df[filtered_df['player name'] != "Total"], 'player name', 'pts', hue='coach')
     plot_property(filtered_df[filtered_df['player name'] != "Total"], 'player name', 'pts')
     plot_property(filtered_df[filtered_df['player name'] != "Total"], 'player name', 'val')
     a = 3 
