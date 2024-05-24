@@ -77,8 +77,8 @@ class GameScraper:
     def __init__(self, url, name=None, round=None, game_idx=None):
         self.url = url
         self.name = name
-        self.round = int(round)
-        self.game_idx = int(game_idx)
+        self.round = int(round)        # round is the official round by the league, it may be moved due to scheduling e.g. 1,5,2,3,8,... 
+        self.game_idx = int(game_idx)  # game idx is the order in which the games where player e.g. 1,2,3,4,5,...
         tables = read_html(self.url)
         self.quaters = parse_table(tables[3],0)
         self.metadata = {i: tables[i].iloc[0,0] for i in range(3, len(tables)) }
@@ -94,7 +94,7 @@ class GameScraper:
 class TeamScraper:
     def __init__(self, url):
         self.url = url
-        tables, self.links = read_html_with_links(team_url)
+        tables, self.links = read_html_with_links(url)
         self.metadata = {i: tables[i].iloc[0,0] for i in range(0, len(tables)) }
         self.name = self.metadata[0].split('-')[0].strip()
         self.games = parse_table(tables[0], 1)
@@ -159,8 +159,35 @@ def plot_property(df, x, y,  hue='loc'):
     plt.grid()
     ax.set_title(f"{y} per {x}")
 
-if __name__ == "__main__":
-    team_url = "https://basket.co.il/team.asp?TeamId=1054&lang=en"
+def df_for_print_groupby(filtered_df, by=['player name', 'coach'], sort_by=None):
+    mean_coach = filtered_df.groupby(by).mean()
+    std_coach = filtered_df.groupby(by).std()
+    sum_coach = filtered_df.groupby(by).sum()
+    mean_coach['games'] = filtered_df.groupby(by).size()
+    mean_coach['%3'] = sum_coach['m_3pt'] / sum_coach['a_3pt'] * 100
+    mean_coach['%2'] = sum_coach['m_2pt'] / sum_coach['a_2pt'] * 100
+    mean_coach['2m'] = (sum_coach['m_2pt']/mean_coach['games']).round(1)
+    mean_coach['3m'] = (sum_coach['m_3pt']/mean_coach['games']).round(1)
+    cols_pre = ['games', 'min', 'pts', '%2', '2m', '%3', '3m', 'dr_rebounds', 'or_rebounds', 'tr_rebounds', 'st', 'to', 'as', 'val']
+    cols_final = ['games', 'min', 'pts', '%2', '2m', '%3', '3m', 'def_r', 'off_r', 'tot_r', 'st', 'to', 'as', 'val']
+    df_to_print = mean_coach[cols_pre]
+    # rename columns. removing the suffix _rebounds
+    df_to_print.columns = cols_final
+
+    if sort_by:
+        df_to_print = df_to_print.sort_values(sort_by, ascending=False)
+    return df_to_print.round(1)
+
+def filter_df(df):
+    players_filter =  (df.groupby('player name')['min'].sum() > 50) & (df.groupby('player name')['min'].count() > 3)
+
+    filtered_df = df[df['player name'].isin(players_filter[players_filter].index) & (df.game_idx > 2)]
+
+    players_to_skip = ['Zach Hankins', 'Brynton Lemar', 'Gabriel Chachashvili']
+    filtered_df = filtered_df[~filtered_df['player name'].isin(players_to_skip)]
+    return filtered_df
+
+def get_team_data(team_url):
     team = TeamScraper(team_url)
     team_csv_path = "data/players/" + team.name + ".csv"
     if os.path.exists(team_csv_path):
@@ -170,29 +197,34 @@ if __name__ == "__main__":
         team.read_games()
         df = team.per_game_player_stats
         df.to_csv(team_csv_path)
-    players_filter =  (df.groupby('player name')['min'].sum() > 50) & (df.groupby('player name')['min'].count() > 3)
-    players = df.groupby('player name').mean()[players_filter]
+    return df
 
-    filtered_df = df[df['player name'].isin(players_filter[players_filter].index) & (df.game_idx > 2)]
-    for player in filtered_df['player name'].unique():
-        if 'zach' in player.lower() or 'brynton' in player.lower() or "Gabriel" in player.lower():
-            continue
-        print(player)
+if __name__ == "__main__":
+    team_url = "https://basket.co.il/team.asp?TeamId=1054&lang=en"
+    df = get_team_data(TeamScraper, team_url)
+    filtered_df = filter_df(df)
 
-    
-    players_to_skip = ['Zach Hankins', 'Brynton Lemar', 'Gabriel Chachashvili']
-    filtered_df = filtered_df[~filtered_df['player name'].isin(players_to_skip)]
-    mean_coach = filtered_df.groupby(['player name', 'coach']).mean()
-    sum_coach = filtered_df.groupby(['player name', 'coach']).sum()
-    mean_coach['games'] = filtered_df.groupby(['player name', 'coach']).size()
-    mean_coach['%3'] = sum_coach['m_3pt'] / sum_coach['a_3pt'] * 100
-    mean_coach['%2'] = sum_coach['m_2pt'] / sum_coach['a_2pt'] * 100
-    print(mean_coach[['games', 'min', 'pts', '%2', '%3', 'dr_rebounds', 'or_rebounds', 'tr_rebounds', 'st', 'to', 'as', 'val']].round(1))
+    print(df_for_print_groupby(filtered_df, sort_by=['player name', 'games']))
+    print("#"*15)
+    print("Upper house")
+    print("#"*15)
+    print(df_for_print_groupby(filtered_df[filtered_df["game_idx"] > 24], sort_by='min')) # we played 24 games but there are 26 rounds... odd number of teams...)
 
-    plot_property(filtered_df[filtered_df['player name'] != "Total"], 'player name', 'pts', hue='coach')
-    plot_property(filtered_df[filtered_df['player name'] != "Total"], 'player name', 'pts')
-    plot_property(filtered_df[filtered_df['player name'] != "Total"], 'player name', 'val')
+    print("#"*15)
+    print("2nd round jonathan alon")
+    print("#"*15)
+    # min_game_idx_number_when_jonathan_alon_is_coach
+    min_game_idx = filtered_df[filtered_df['coach'] == 'Jonathan Alon']['game_idx'].min()
+    print(df_for_print_groupby(filtered_df[(filtered_df["game_idx"] <= 24) & (filtered_df["game_idx"] >= min_game_idx)], sort_by='min')) # we played 24 games but there are 26 rounds... odd number of teams...)
+
     a = 3 
+
+
+
+    # print(std_coach[['min', 'pts', 'dr_rebounds', 'or_rebounds', 'tr_rebounds', 'st', 'to', 'as', 'val']].round(1))
+    # plot_property(filtered_df[filtered_df['player name'] != "Total"], 'player name', 'pts', hue='coach')
+    # plot_property(filtered_df[filtered_df['player name'] != "Total"], 'player name', 'pts')
+    # plot_property(filtered_df[filtered_df['player name'] != "Total"], 'player name', 'val')
 
 
 
