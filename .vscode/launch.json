@@ -17,6 +17,13 @@
             "request": "launch",
             "program": "/Users/andreygurevich/Documents/git/basket/scaper.py",
             "console": "integratedTerminal"
+        },
+        {
+            "name": "streamlit_page",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "/Users/andreygurevich/Documents/git/basket/streamlit_page.py",
+            "console": "integratedTerminal"
         }
     ]
 }
