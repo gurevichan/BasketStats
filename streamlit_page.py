@@ -15,8 +15,8 @@ if __name__ == "__main__":
     teams_dict = {}
     for i, url in enumerate(teams):
         team = TeamScraper(url)
-        teams_dict[team.name] = team
-    radio_select = st.radio("Teams:", list(teams_dict.keys()), index=len(teams_dict)-1)
+        teams_dict[team.name] = team # TODO: i'm probably accesing basket.co.il too many times, should be done once
+    radio_select = st.radio("Teams:", list(teams_dict.keys()), index=0, horizontal=True)
     df = None
     df = get_team_data(team_scraper=teams_dict[radio_select])
 
@@ -24,7 +24,7 @@ if __name__ == "__main__":
         st.subheader(team.name)
         filtered_df = filter_df(df)
         left_column, right_column = st.columns(2)
-        table_select = st.radio("Tables to show:", ['Player Stats by Coach', 'Player Stats by Round'], index=0)
+        table_select = st.radio("Tables to show:", ['Player Stats by Coach', 'Player Stats by Round'], index=0, horizontal=True)
         if table_select == 'Player Stats by Coach':
             st.write("Player stats by coach")
             coach_toggle = {}

@@ -194,7 +194,7 @@ def get_team_data(team_url=None, team_scraper=False):
         team = team_scraper
     else:
         team = TeamScraper(team_url)
-    team_csv_path = "data/players/" + team.name + ".csv"
+    team_csv_path = "data/players/" + team.name + f'{len(team.stats_per_game)}rounds' + ".csv"
     if os.path.exists(team_csv_path):
         team.per_game_player_stats = pd.read_csv(team_csv_path)
         df = team.per_game_player_stats
