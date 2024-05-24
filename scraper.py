@@ -187,8 +187,13 @@ def filter_df(df):
     filtered_df = filtered_df[~filtered_df['player name'].isin(players_to_skip)]
     return filtered_df
 
-def get_team_data(team_url):
-    team = TeamScraper(team_url)
+def get_team_data(team_url=None, team_scraper=False):
+    if team_url is None and not team_scraper:
+        raise ValueError("Either team_url or team_scraper must be provided")
+    if team_scraper:
+        team = team_scraper
+    else:
+        team = TeamScraper(team_url)
     team_csv_path = "data/players/" + team.name + ".csv"
     if os.path.exists(team_csv_path):
         team.per_game_player_stats = pd.read_csv(team_csv_path)
