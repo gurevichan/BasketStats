@@ -10,20 +10,24 @@ if __name__ == "__main__":
     df = get_team_data(team_url)
     filtered_df = filter_df(df)
     left_column, right_column = st.columns(2)
-    by_coach_btn = left_column.button('Player Stats by Coach')
-    by_round_btn = right_column.button('Player Stats by Round')
+    main_select = st.multiselect("Tables to show:", ['Player Stats by Coach', 'Player Stats by Round'], [])
+    by_coach_btn = 'Player Stats by Coach' in main_select
+    by_round_btn = 'Player Stats by Round' in main_select
     # by_coach_btn = st.button("Player Stats by Coach")
     # by_round_btn = st.button("Player Stats by Round")
     # get min round number for each coach
     if by_coach_btn:
         st.write("Player stats by coach")
-        coach_buttons = {}
+        coach_toggle = {}
         coaches_list = list(df.groupby("coach")["game_idx"].min().sort_values().index)
-        # coaches_checkbox = st.checkbox(coaches_list)
-
-        for coach in coaches_list:
-            st.write(coach)
-            st.dataframe(df_for_print_groupby(filtered_df[filtered_df["coach"] == coach], sort_by='min'), width=1200)
+        coach_row = st.columns(len(coaches_list))
+        for i, coach in enumerate(coaches_list):
+            coach_toggle[coach] = coach_row[i].toggle(coach, value=True)
+        # options = st.multiselect("Coaches:", coaches_list, coaches_list[-1:])
+        for coach, toggle in coach_toggle.items():
+            if toggle:
+                st.write(coach)
+                st.dataframe(df_for_print_groupby(filtered_df[filtered_df["coach"] == coach], sort_by='min'), width=1200)
     # st.dataframe(df_for_print_groupby(filtered_df), width=1200) # set width to 800 for wide page
     if by_round_btn:
         st.write("Player stats by round")
