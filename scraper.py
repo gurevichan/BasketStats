@@ -11,9 +11,14 @@ from time import sleep
 import matplotlib.pyplot as plt
 import urllib.error
 import concurrent.futures
-
+from data import data_consts as dc
 
 from io import StringIO
+
+from bs4 import MarkupResemblesLocatorWarning
+import warnings
+
+warnings.filterwarnings("ignore", category=MarkupResemblesLocatorWarning)
 
 @backoff.on_exception(backoff.expo, (urllib.error.URLError), max_tries=3)
 def read_html(url):
@@ -25,7 +30,27 @@ def print_tables(cls):
             print(key)
             print(tabulate(cls.__dict__[key], headers='keys', tablefmt='psql'))
 
+def _to_numeric(df):
+    for col in df.columns:
+        try:
+            df.loc[:, col] = pd.to_numeric(df[col])
+        except Exception:
+            pass  # Leave column as is if conversion fails
+    return df
+
+
 def parse_table(tbl, index_idx, start_idx=None, end_idx=None, ignore_prev_idx=False):
+    # add docstring with parameters and return value
+    """    Parses a table from a DataFrame, extracting columns and rows based on the provided indices.
+    Args:
+        tbl (pd.DataFrame): The DataFrame containing the table to parse.
+        index_idx (int): The index of the row to use as column headers.
+        start_idx (int, optional): The starting index for the data rows. Defaults to index_idx + 1.
+        end_idx (int, optional): The ending index for the data rows. Defaults to None, which means all rows after start_idx.
+        ignore_prev_idx (bool, optional): If True, ignores the previous row when creating column names. Defaults to False.
+    Returns:
+        pd.DataFrame: A DataFrame with the parsed data, where the first column is set as the index.
+    """
     tbl.fillna("", inplace=True)
     tbl = tbl.T.drop_duplicates().T # fixed columns that have double width in some tables
     columns = get_columns(tbl, index_idx, ignore_prev_idx)
@@ -43,7 +68,7 @@ def parse_table(tbl, index_idx, start_idx=None, end_idx=None, ignore_prev_idx=Fa
             df.loc[:, pref.split('/')[0] + "_" + suf] = df[c].str.split('/').str[0]
             df.loc[:, pref.split('/')[1] + "_" + suf] = df[c].str.split('/').str[1]
             del df[c]    
-    return df.apply(pd.to_numeric, errors='ignore')
+    return _to_numeric(df)
 
 def get_columns(tbl, index_idx, ignore_prev_idx):
     """
@@ -95,7 +120,8 @@ class GameScraper:
 
 
 class TeamScraper:
-    def __init__(self, url):
+    def __init__(self, url, year=None):
+        self.year = year
         self.url = url
         tables, self.links = read_html_with_links(url)
         self.metadata = {i: tables[i].iloc[0,0] for i in range(0, len(tables)) }
@@ -107,15 +133,13 @@ class TeamScraper:
         released_idx = np.where(tables[5].iloc[:,0] == 'Released Players')[0][0]
         self.stats_players = parse_table(tables[5], 2)
 
-
     def read_games(self, max_games=None, sleep_time=0.1):
         all_games_links = self.links[4]
-        url_prefix = "https://basket.co.il/"
         self.all_games = {}
         with concurrent.futures.ThreadPoolExecutor() as executor:
             futures= []
             for i, (round, row) in tqdm(enumerate(self.stats_per_game.iterrows())):
-                future = executor.submit(GameScraper, url_prefix + all_games_links[f"{row['game']}_{i}"], name=row['game'], round=round, game_idx=i+1)
+                future = executor.submit(GameScraper, dc.base_url + all_games_links[f"{row['game']}_{i}"], name=row['game'], round=round, game_idx=i+1)
                 futures.append(future)
                 if max_games and len(self.all_games) > 4:
                     break
@@ -143,7 +167,47 @@ class TeamScraper:
             player_stats_list.append(player_stats)
         return pd.concat(player_stats_list)
     
+    @property
+    def player_stats_path(self):
+        return os.path.join(dc.team_save_path.format(year=self.year), f"{self.name}_per_game.csv")
+    
+    def save_to_csv(self, verbose=True):
+        os.makedirs(os.path.dirname(self.player_stats_path), exist_ok=True)
+        self.per_game_player_stats.to_csv(self.player_stats_path, index=False)
+        if verbose:
+            print(f"Data for {self.name} saved to csv {self.player_stats_path}.")
 
+        
+class SeasonTableScraper:
+    def __init__(self, year):
+        self.year = year
+        self.url = dc.season_table.format(year=year)
+        self.season_table, self._teams_urls_dict = read_html_with_links(self.url)
+        self._teams_urls_dict = self._teams_urls_dict[0]  # the first table contains the teams urls
+        self.season_table = parse_table(self.season_table[0], 3, ignore_prev_idx=True)
+        self.season_table['team'] = self.season_table.index
+        self.season_table.reset_index(drop=True, inplace=True)
+        self.season_table['year'] = year
+        self.teams_dict = {}
+        self.team2pos = {}  
+        for k, suffix in self._teams_urls_dict.items():
+            name, position = k.split('_')
+            self.team2pos[name] = position
+            self.teams_dict[name] = TeamScraper(dc.base_url + suffix, year=self.year)
+    
+    def read_teams_data(self):
+        for team_name, team in self.teams_dict.items():
+            print(f"Reading data for {team_name}...")
+            if os.path.exists(team.player_stats_path):
+                print(f"Data for {team_name} already exists. Skipping...")
+                team.per_game_player_stats = pd.read_csv(team.player_stats_path)
+                continue
+            team.read_games()
+            team.save_to_csv()
+        
+
+    
+    
 def plot_property(df, x, y,  hue='loc'):
     f, ax = plt.subplots()
     sns.despine(bottom=True, left=True)
@@ -211,21 +275,25 @@ def get_team_data(team_url=None, team_scraper=False):
 
 if __name__ == "__main__":
     team_url = "https://basket.co.il/team.asp?TeamId=1054&lang=en"
-    df = get_team_data(TeamScraper, team_url)
-    filtered_df = filter_df(df)
+    
+    season = SeasonTableScraper(2025)
+    season.read_teams_data()
+    a = 3
+    # df = get_team_data(TeamScraper, team_url)
+    # filtered_df = filter_df(df)
 
-    print(df_for_print_groupby(filtered_df, sort_by=['player name', 'games']))
-    print("#"*15)
-    print("Upper house")
-    print("#"*15)
-    print(df_for_print_groupby(filtered_df[filtered_df["game_idx"] > 24], sort_by='min')) # we played 24 games but there are 26 rounds... odd number of teams...)
+    # print(df_for_print_groupby(filtered_df, sort_by=['player name', 'games']))
+    # print("#"*15)
+    # print("Upper house")
+    # print("#"*15)
+    # print(df_for_print_groupby(filtered_df[filtered_df["game_idx"] > 24], sort_by='min')) # we played 24 games but there are 26 rounds... odd number of teams...)
 
-    print("#"*15)
-    print("2nd round jonathan alon")
-    print("#"*15)
-    # min_game_idx_number_when_jonathan_alon_is_coach
-    min_game_idx = filtered_df[filtered_df['coach'] == 'Jonathan Alon']['game_idx'].min()
-    print(df_for_print_groupby(filtered_df[(filtered_df["game_idx"] <= 24) & (filtered_df["game_idx"] >= min_game_idx)], sort_by='min')) # we played 24 games but there are 26 rounds... odd number of teams...)
+    # print("#"*15)
+    # print("2nd round jonathan alon")
+    # print("#"*15)
+    # # min_game_idx_number_when_jonathan_alon_is_coach
+    # min_game_idx = filtered_df[filtered_df['coach'] == 'Jonathan Alon']['game_idx'].min()
+    # print(df_for_print_groupby(filtered_df[(filtered_df["game_idx"] <= 24) & (filtered_df["game_idx"] >= min_game_idx)], sort_by='min')) # we played 24 games but there are 26 rounds... odd number of teams...)
 
     a = 3 
 
