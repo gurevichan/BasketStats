@@ -12,17 +12,15 @@ import matplotlib.pyplot as plt
 import urllib.error
 import concurrent.futures
 from data import data_consts as dc
-
 from io import StringIO
 
 from bs4 import MarkupResemblesLocatorWarning
 import warnings
-
 warnings.filterwarnings("ignore", category=MarkupResemblesLocatorWarning)
 
 @backoff.on_exception(backoff.expo, (urllib.error.URLError), max_tries=3)
 def read_html(url):
-    return pd.read_html(StringIO(url))
+    return pd.read_html(url)
 
 def print_tables(cls):
     for key in cls.__dict__:
@@ -90,7 +88,7 @@ def read_html_with_links(url):
     link_maps = []
 
     for table in tables:
-        df = read_html(str(table))[0]
+        df = read_html(StringIO(str(table)))[0]
         dataframes.append(df)
 
         link_map = {}
@@ -133,20 +131,31 @@ class TeamScraper:
         released_idx = np.where(tables[5].iloc[:,0] == 'Released Players')[0][0]
         self.stats_players = parse_table(tables[5], 2)
 
-    def read_games(self, max_games=None, sleep_time=0.1):
+    def read_games(self, max_games=None, sleep_time=0.1, multithreaded=True):
         all_games_links = self.links[4]
         self.all_games = {}
+        if multithreaded:
+            self.read_games_multithreaded(max_games, all_games_links)
+        else:
+            for i, (round, row) in tqdm(enumerate(self.stats_per_game.iterrows())):
+                if max_games and i > max_games:
+                    break
+                game = GameScraper(dc.base_url + all_games_links[f"{row['game']}_{i}"], name=row['game'], round=round, game_idx=i+1)
+                self.all_games[f"{game.name}_{game.round}"] = game
+                sleep(sleep_time)
+        self.per_game_player_stats = self.creat_per_game_player_stats()
+
+    def read_games_multithreaded(self, max_games, all_games_links):
         with concurrent.futures.ThreadPoolExecutor() as executor:
             futures= []
             for i, (round, row) in tqdm(enumerate(self.stats_per_game.iterrows())):
+                if max_games and i > max_games:
+                    break
                 future = executor.submit(GameScraper, dc.base_url + all_games_links[f"{row['game']}_{i}"], name=row['game'], round=round, game_idx=i+1)
                 futures.append(future)
-                if max_games and len(self.all_games) > 4:
-                    break
             for future in tqdm(concurrent.futures.as_completed(futures)):
                 game = future.result()
                 self.all_games[f"{game.name}_{game.round}"] = game
-        self.per_game_player_stats = self.creat_per_game_player_stats()
     
     def creat_per_game_player_stats(self):
         player_stats_list = []
@@ -179,6 +188,8 @@ class TeamScraper:
 
         
 class SeasonTableScraper:
+    teams_dict: dict[str, TeamScraper]
+    
     def __init__(self, year):
         self.year = year
         self.url = dc.season_table.format(year=year)
@@ -275,12 +286,12 @@ def get_team_data(team_url=None, team_scraper=False):
 
 if __name__ == "__main__":
     team_url = "https://basket.co.il/team.asp?TeamId=1054&lang=en"
+    hapoel_scraper = TeamScraper(team_url, year=2024)
+    df = hapoel_scraper.read_games(max_games=5, multithreaded=False)    
     
     season = SeasonTableScraper(2025)
     season.read_teams_data()
     a = 3
-    # df = get_team_data(TeamScraper, team_url)
-    # filtered_df = filter_df(df)
 
     # print(df_for_print_groupby(filtered_df, sort_by=['player name', 'games']))
     # print("#"*15)
