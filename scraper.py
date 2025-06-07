@@ -11,7 +11,7 @@ from time import sleep
 import matplotlib.pyplot as plt
 import urllib.error
 import concurrent.futures
-from . import consts
+import consts
 from io import StringIO
 
 from bs4 import MarkupResemblesLocatorWarning
@@ -99,6 +99,15 @@ def read_html_with_links(url):
 
     return dataframes, link_maps
 
+def cleanup_team_name(name):
+    """
+    Cleans up the team name by removing unwanted characters and formatting.
+    """
+    name = name.replace('/', ' ')
+    name = name.replace('  ', ' ')
+    name = name.replace(' ', '_')
+    return name.strip()
+
 class GameScraper:
     def __init__(self, url, name=None, round=None, game_idx=None):
         self.url = url
@@ -123,7 +132,7 @@ class TeamScraper:
         self.url = url
         tables, self.links = read_html_with_links(url)
         self.metadata = {i: tables[i].iloc[0,0] for i in range(0, len(tables)) }
-        self.name = self.metadata[0].split('-')[0].strip()
+        self.name = cleanup_team_name(self.metadata[0].split('-')[0].strip())
         self.games = parse_table(tables[0], 1)
         self.stats_regular_season = parse_table(tables[2], 2)
         self.stats_advanced = parse_table(tables[3], 1)
@@ -168,7 +177,7 @@ class TeamScraper:
             else:
                 player_stats = self.all_games[key].team2
                 team_coach = self.all_games[key].metadata[5].split('Coach: ')[-1][:-1]
-            player_stats.loc[:, 'opponent'] = team
+            player_stats.loc[:, 'opponent'] = cleanup_team_name(team)
             player_stats.loc[:, 'loc'] = loc
             player_stats.loc[:, 'round'] = self.all_games[key].round
             player_stats.loc[:, 'game_idx'] = self.all_games[key].game_idx
@@ -203,22 +212,21 @@ class SeasonTableScraper:
         self.team2pos = {}  
         for k, suffix in self._teams_urls_dict.items():
             name, position = k.split('_')
+            name = cleanup_team_name(name)
             self.team2pos[name] = position
             self.teams_dict[name] = TeamScraper(consts.base_url + suffix, year=self.year)
     
-    def read_teams_data(self):
+    def read_teams_data(self, force_read=False):
         for team_name, team in self.teams_dict.items():
-            print(f"Reading data for {team_name}...")
-            if os.path.exists(team.player_stats_path):
+            print(f"Reading {self.year} data for {team_name}...")
+            if not force_read and os.path.exists(team.player_stats_path):
                 print(f"Data for {team_name} already exists. Skipping...")
                 team.per_game_player_stats = pd.read_csv(team.player_stats_path)
                 continue
             team.read_games()
             team.save_to_csv()
         
-
-    
-    
+ 
 def plot_property(df, x, y,  hue='loc'):
     f, ax = plt.subplots()
     sns.despine(bottom=True, left=True)
