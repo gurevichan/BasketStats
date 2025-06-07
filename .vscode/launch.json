@@ -15,7 +15,7 @@
             "name": "scraper",
             "type": "debugpy",
             "request": "launch",
-            "program": "scaper.py",
+            "program": "scraper.py",
             "console": "integratedTerminal"
         },
         {
