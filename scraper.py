@@ -295,11 +295,11 @@ def get_team_data(team_url=None, team_scraper=False):
 
 if __name__ == "__main__":
     team_url = "https://basket.co.il/team.asp?TeamId=1054&lang=en"
-    hapoel_scraper = TeamScraper(team_url, year=2024)
-    df = hapoel_scraper.read_games(max_games=5, multithreaded=False)    
-    
-    season = SeasonTableScraper(2025)
-    season.read_teams_data()
+    # hapoel_scraper = TeamScraper(team_url, year=2024)
+    # df = hapoel_scraper.read_games(max_games=5, multithreaded=False)    
+    for year in [2025]:
+        season = SeasonTableScraper(year)
+        season.read_teams_data()
     a = 3
 
     # print(df_for_print_groupby(filtered_df, sort_by=['player name', 'games']))

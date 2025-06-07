@@ -1,0 +1,309 @@
+player name,sf,min,pts,%_2pt,%_3pt,%_1pt,dr_rebounds,or_rebounds,tr_rebounds,pf_fouls,fa_fouls,st,to,as,bkf_blocks,bka_blocks,val,+/-,m_2pt,a_2pt,m_3pt,a_3pt,m_1pt,a_1pt,opponent,loc,round,game_idx,coach
+Team,,0,0,0,0,0,6,2,8,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,Hapoel_Holon,H,12,12,Sharon Avrahami
+Darius Perry,,20,6,25,25,50,2,0,2,3,1,2,1,2,0,0,2,3,1,4,1,4,1,2,Hapoel_Holon,H,12,12,Sharon Avrahami
+Gur Lavy,*,32,17,78,50,0,1,2,3,2,2,1,1,2,0,0,18,-6,7,9,1,2,0,1,Hapoel_Holon,H,12,12,Sharon Avrahami
+"Ishmael ""Ish"" El-Amin",*,30,14,57,14,100,0,1,1,5,4,0,4,5,0,1,5,-3,4,7,1,7,3,3,Hapoel_Holon,H,12,12,Sharon Avrahami
+Gil Beni,,12,0,0,0,0,2,0,2,2,3,1,2,0,0,0,0,3,0,1,0,1,0,0,Hapoel_Holon,H,12,12,Sharon Avrahami
+Lotan Amsalem,,12,4,40,0,0,1,2,3,2,2,0,2,0,0,0,0,-2,2,5,0,1,0,1,Hapoel_Holon,H,12,12,Sharon Avrahami
+Elijah Childs,*,29,8,20,40,0,1,0,1,2,1,1,0,1,0,2,1,-3,1,5,2,5,0,0,Hapoel_Holon,H,12,12,Sharon Avrahami
+Roey Netzia,,1,0,0,0,0,1,0,1,1,0,0,1,1,0,0,0,4,0,0,0,0,0,0,Hapoel_Holon,H,12,12,Sharon Avrahami
+Ben Moore,*,36,19,73,100,0,8,6,14,4,1,3,0,3,0,0,33,-5,8,11,1,1,0,0,Hapoel_Holon,H,12,12,Sharon Avrahami
+Niv Misgav,*,28,11,50,50,100,2,2,4,1,2,0,1,8,0,0,19,-11,3,6,1,2,2,2,Hapoel_Holon,H,12,12,Sharon Avrahami
+Total,,200,79,54,30,67,24,15,39,22,16,8,12,22,0,3,86,0,26,48,7,23,6,9,Hapoel_Holon,H,12,12,Sharon Avrahami
+Team,,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,Maccabi_Tel-Aviv,A,3,3,Sharon Avrahami
+Jon Davis,*,28,18,67,38,83,2,0,2,2,3,0,1,5,0,0,18,-15,2,3,3,8,5,6,Maccabi_Tel-Aviv,A,3,3,Sharon Avrahami
+Gur Lavy,*,35,13,50,67,100,5,2,7,4,2,2,2,4,0,0,18,-2,3,6,2,3,1,1,Maccabi_Tel-Aviv,A,3,3,Sharon Avrahami
+"Ishmael ""Ish"" El-Amin",*,25,15,25,43,100,0,0,0,5,3,0,1,3,0,1,7,-1,1,4,3,7,4,4,Maccabi_Tel-Aviv,A,3,3,Sharon Avrahami
+Gil Beni,,25,3,33,0,25,0,1,1,1,4,2,2,8,0,0,8,12,1,3,0,2,1,4,Maccabi_Tel-Aviv,A,3,3,Sharon Avrahami
+Lotan Amsalem,*,30,15,57,33,50,3,4,7,5,1,2,2,2,0,0,12,0,4,7,2,6,1,2,Maccabi_Tel-Aviv,A,3,3,Sharon Avrahami
+Tal Peled,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4,-3,0,1,0,3,0,0,Maccabi_Tel-Aviv,A,3,3,Sharon Avrahami
+Roey Netzia,,6,0,0,0,0,0,0,0,0,1,2,0,1,0,0,3,-13,0,0,0,1,0,0,Maccabi_Tel-Aviv,A,3,3,Sharon Avrahami
+Emmanuel Nzekwesi,,24,12,50,0,100,6,4,10,2,1,0,2,1,0,0,15,2,5,10,0,0,2,2,Maccabi_Tel-Aviv,A,3,3,Sharon Avrahami
+Ben Moore,*,21,7,50,0,100,3,1,4,5,0,0,1,0,0,0,2,-9,3,6,0,0,1,1,Maccabi_Tel-Aviv,A,3,3,Sharon Avrahami
+Josh Aldrich,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,Maccabi_Tel-Aviv,A,3,3,Sharon Avrahami
+Total,,200,83,48,33,75,22,12,34,24,15,8,11,24,0,1,82,0,19,40,10,30,15,20,Maccabi_Tel-Aviv,A,3,3,Sharon Avrahami
+Team,,0,0,0,0,0,2,1,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,Ness_Ziona,A,4,4,Sharon Avrahami
+Jon Davis,*,34,16,67,75,60,4,0,4,1,3,1,5,5,0,0,19,1,2,3,3,4,3,5,Ness_Ziona,A,4,4,Sharon Avrahami
+Gur Lavy,*,29,7,33,33,0,4,1,5,4,0,0,5,4,0,1,0,0,2,6,1,3,0,0,Ness_Ziona,A,4,4,Sharon Avrahami
+"Ishmael ""Ish"" El-Amin",*,26,16,50,38,100,2,0,2,2,2,2,5,3,1,0,12,-2,2,4,3,8,3,3,Ness_Ziona,A,4,4,Sharon Avrahami
+Gil Beni,,17,4,0,50,50,2,0,2,0,2,0,4,2,0,0,3,-28,0,1,1,2,1,2,Ness_Ziona,A,4,4,Sharon Avrahami
+Lotan Amsalem,*,27,12,100,67,100,5,1,6,4,3,0,3,1,1,0,15,-9,2,2,2,3,2,2,Ness_Ziona,A,4,4,Sharon Avrahami
+Tal Peled,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,0,Ness_Ziona,A,4,4,Sharon Avrahami
+Roey Netzia,,12,6,0,67,0,0,0,0,5,0,1,1,0,0,0,0,-3,0,0,2,3,0,0,Ness_Ziona,A,4,4,Sharon Avrahami
+Emmanuel Nzekwesi,,10,0,0,0,0,2,0,2,1,0,0,2,0,0,0,-3,-24,0,1,0,1,0,0,Ness_Ziona,A,4,4,Sharon Avrahami
+Nevo Sommerfeld,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,Ness_Ziona,A,4,4,Sharon Avrahami
+Ben Moore,*,32,13,62,0,75,6,2,8,4,3,2,4,1,0,1,14,-12,5,8,0,0,3,4,Ness_Ziona,A,4,4,Sharon Avrahami
+Josh Aldrich,,11,9,100,100,50,1,0,1,0,2,0,0,1,0,0,12,-7,1,1,2,2,1,2,Ness_Ziona,A,4,4,Sharon Avrahami
+Total,,200,83,54,54,72,28,5,33,21,15,6,29,17,2,2,75,0,14,26,14,26,13,18,Ness_Ziona,A,4,4,Sharon Avrahami
+Team,,0,0,0,0,0,3,4,7,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,Hapoel_Tel-Aviv,H,8,8,Sharon Avrahami
+Darius Perry,*,30,15,0,38,100,5,1,6,1,3,2,4,4,0,0,15,-17,0,5,3,8,6,6,Hapoel_Tel-Aviv,H,8,8,Sharon Avrahami
+Gur Lavy,*,19,8,14,0,75,2,3,5,2,4,1,2,0,0,1,4,-19,1,7,0,1,6,8,Hapoel_Tel-Aviv,H,8,8,Sharon Avrahami
+Gil Beni,*,27,0,0,0,0,2,2,4,4,4,0,3,2,0,0,-6,4,0,4,0,3,0,2,Hapoel_Tel-Aviv,H,8,8,Sharon Avrahami
+Lotan Amsalem,*,27,12,75,0,100,7,1,8,4,7,1,1,0,0,0,17,-6,3,4,0,5,6,6,Hapoel_Tel-Aviv,H,8,8,Sharon Avrahami
+Elijah Childs,,26,4,0,25,50,5,0,5,2,1,0,1,0,1,0,0,-6,0,4,1,4,1,2,Hapoel_Tel-Aviv,H,8,8,Sharon Avrahami
+Roey Netzia,,12,0,0,0,0,1,0,1,1,0,1,0,0,0,0,-2,-4,0,2,0,1,0,0,Hapoel_Tel-Aviv,H,8,8,Sharon Avrahami
+Ben Moore,*,30,13,75,0,50,0,3,3,4,2,3,2,2,0,0,14,-15,6,8,0,0,1,2,Hapoel_Tel-Aviv,H,8,8,Sharon Avrahami
+Josh Aldrich,,5,2,100,0,0,2,1,3,0,0,0,0,0,0,0,5,2,1,1,0,0,0,0,Hapoel_Tel-Aviv,H,8,8,Sharon Avrahami
+Niv Misgav,,24,2,0,0,100,1,0,1,3,2,0,5,5,0,0,0,-24,0,1,0,1,2,2,Hapoel_Tel-Aviv,H,8,8,Sharon Avrahami
+Total,,200,56,31,17,79,28,15,43,21,23,8,18,13,1,1,54,0,11,36,4,23,22,28,Hapoel_Tel-Aviv,H,8,8,Sharon Avrahami
+Team,,0,0,0,0,0,3,1,4,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,Hapoel_Jerusalem,H,5,5,Sharon Avrahami
+Jon Davis,*,17,0,0,0,0,1,0,1,1,0,0,0,2,0,0,-2,-15,0,1,0,3,0,0,Hapoel_Jerusalem,H,5,5,Sharon Avrahami
+Gur Lavy,*,36,13,60,50,100,5,3,8,4,3,3,2,5,1,0,24,2,3,5,1,2,4,4,Hapoel_Jerusalem,H,5,5,Sharon Avrahami
+"Ishmael ""Ish"" El-Amin",*,32,16,40,33,100,0,1,1,2,1,1,0,3,0,0,11,-1,2,5,3,9,3,3,Hapoel_Jerusalem,H,5,5,Sharon Avrahami
+Gil Beni,,29,8,33,33,75,2,0,2,5,5,1,2,4,0,0,8,7,1,3,1,3,3,4,Hapoel_Jerusalem,H,5,5,Sharon Avrahami
+Lotan Amsalem,*,22,6,75,0,0,6,0,6,4,1,0,3,3,0,0,5,-14,3,4,0,3,0,0,Hapoel_Jerusalem,H,5,5,Sharon Avrahami
+Roey Netzia,,9,0,0,0,0,1,0,1,4,0,0,0,0,0,0,-5,0,0,1,0,1,0,0,Hapoel_Jerusalem,H,5,5,Sharon Avrahami
+Emmanuel Nzekwesi,,26,21,69,100,0,3,3,6,2,3,0,5,2,1,2,17,1,9,13,1,1,0,3,Hapoel_Jerusalem,H,5,5,Sharon Avrahami
+Ben Moore,*,29,17,50,0,50,3,8,11,3,5,0,1,1,0,1,19,-11,7,14,0,0,3,6,Hapoel_Jerusalem,H,5,5,Sharon Avrahami
+Total,,200,81,54,27,65,24,16,40,26,18,5,13,20,2,3,80,0,25,46,6,22,13,20,Hapoel_Jerusalem,H,5,5,Sharon Avrahami
+Team,,0,0,0,0,0,3,5,8,1,0,0,0,0,0,0,7,0,0,0,0,0,0,0,Maccabi_Ramat_Gan,A,10,10,Sharon Avrahami
+Darius Perry,,25,13,20,100,100,3,1,4,1,3,0,3,1,0,0,13,17,1,5,3,3,2,2,Maccabi_Ramat_Gan,A,10,10,Sharon Avrahami
+Gur Lavy,*,30,15,67,50,50,6,1,7,4,3,0,1,1,2,0,18,7,4,6,2,4,1,2,Maccabi_Ramat_Gan,A,10,10,Sharon Avrahami
+"Ishmael ""Ish"" El-Amin",*,20,11,80,20,0,1,1,2,3,1,0,1,0,0,0,5,-9,4,5,1,5,0,0,Maccabi_Ramat_Gan,A,10,10,Sharon Avrahami
+Gil Beni,,19,5,17,50,0,1,0,1,3,1,0,0,3,1,0,2,0,1,6,1,2,0,0,Maccabi_Ramat_Gan,A,10,10,Sharon Avrahami
+Lotan Amsalem,,28,8,20,20,75,7,2,9,5,5,2,1,2,0,1,10,16,1,5,1,5,3,4,Maccabi_Ramat_Gan,A,10,10,Sharon Avrahami
+Elijah Childs,*,17,5,67,0,50,2,1,3,0,1,0,1,0,1,0,5,-6,2,3,0,2,1,2,Maccabi_Ramat_Gan,A,10,10,Sharon Avrahami
+Ben Moore,*,30,12,56,0,100,2,5,7,5,2,0,1,0,0,0,11,-9,5,9,0,0,2,2,Maccabi_Ramat_Gan,A,10,10,Sharon Avrahami
+Niv Misgav,*,31,14,50,25,100,2,0,2,1,5,0,4,12,0,0,23,4,2,4,1,4,7,7,Maccabi_Ramat_Gan,A,10,10,Sharon Avrahami
+Total,,199,83,47,36,84,27,16,43,23,21,2,12,19,4,1,94,0,20,43,9,25,16,19,Maccabi_Ramat_Gan,A,10,10,Sharon Avrahami
+Team,,0,0,0,0,0,5,3,8,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,Ness_Ziona,H,14,14,Sharon Avrahami
+Darius Perry,,14,2,20,0,0,0,1,1,1,1,1,0,2,0,0,1,-9,1,5,0,1,0,0,Ness_Ziona,H,14,14,Sharon Avrahami
+Gur Lavy,*,21,10,44,0,67,6,5,11,3,3,0,1,0,0,0,14,-2,4,9,0,0,2,3,Ness_Ziona,H,14,14,Sharon Avrahami
+"Ishmael ""Ish"" El-Amin",*,27,21,62,25,100,1,2,3,1,3,1,1,1,1,1,18,9,5,8,2,8,5,5,Ness_Ziona,H,14,14,Sharon Avrahami
+Gil Beni,,19,5,50,0,75,0,0,0,2,3,1,2,0,0,0,2,-10,1,2,0,1,3,4,Ness_Ziona,H,14,14,Sharon Avrahami
+Lotan Amsalem,,17,2,33,0,0,0,2,2,4,0,1,1,0,0,0,-2,7,1,3,0,0,0,0,Ness_Ziona,H,14,14,Sharon Avrahami
+Elijah Childs,*,33,24,60,38,75,3,4,7,3,3,2,2,2,0,1,22,11,6,10,3,8,3,4,Ness_Ziona,H,14,14,Sharon Avrahami
+Roey Netzia,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,-4,0,0,0,2,0,0,Ness_Ziona,H,14,14,Sharon Avrahami
+Ben Moore,*,33,9,33,0,75,3,5,8,1,2,2,1,2,0,0,14,8,3,9,0,0,3,4,Ness_Ziona,H,14,14,Sharon Avrahami
+Josh Aldrich,,4,0,0,0,0,0,0,0,2,0,0,0,0,1,0,-1,3,0,0,0,0,0,0,Ness_Ziona,H,14,14,Sharon Avrahami
+Niv Misgav,*,30,15,100,43,100,1,2,3,2,4,1,5,6,0,0,18,12,2,2,3,7,2,2,Ness_Ziona,H,14,14,Sharon Avrahami
+Total,,200,88,48,30,82,19,24,43,19,19,9,13,13,2,2,92,0,23,48,8,27,18,22,Ness_Ziona,H,14,14,Sharon Avrahami
+Team,,0,0,0,0,0,1,2,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,Bnei_Herzliya,A,13,13,Sharon Avrahami
+Darius Perry,,15,4,33,0,100,0,0,0,2,1,2,1,3,0,0,1,-8,1,3,0,4,2,2,Bnei_Herzliya,A,13,13,Sharon Avrahami
+Gur Lavy,*,35,28,71,50,71,4,4,8,3,5,2,3,3,0,1,32,0,10,14,1,2,5,7,Bnei_Herzliya,A,13,13,Sharon Avrahami
+"Ishmael ""Ish"" El-Amin",*,27,12,67,29,100,4,0,4,2,1,1,2,1,0,1,8,-4,2,3,2,7,2,2,Bnei_Herzliya,A,13,13,Sharon Avrahami
+Gil Beni,,24,6,33,25,50,2,0,2,4,1,2,2,2,0,0,1,0,1,3,1,4,1,2,Bnei_Herzliya,A,13,13,Sharon Avrahami
+Lotan Amsalem,,15,4,40,0,0,1,4,5,4,0,1,3,0,0,1,-2,-4,2,5,0,1,0,0,Bnei_Herzliya,A,13,13,Sharon Avrahami
+Elijah Childs,*,22,6,50,0,67,4,3,7,4,4,3,0,2,1,0,15,4,2,4,0,1,2,3,Bnei_Herzliya,A,13,13,Sharon Avrahami
+Roey Netzia,,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-1,7,0,0,0,0,0,0,Bnei_Herzliya,A,13,13,Sharon Avrahami
+Ben Moore,*,31,15,50,0,83,10,0,10,4,5,1,1,5,4,0,29,-7,5,10,0,0,5,6,Bnei_Herzliya,A,13,13,Sharon Avrahami
+Josh Aldrich,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Bnei_Herzliya,A,13,13,Sharon Avrahami
+Niv Misgav,*,27,8,50,29,0,3,0,3,4,1,0,2,3,0,0,1,-13,1,2,2,7,0,2,Bnei_Herzliya,A,13,13,Sharon Avrahami
+Total,,200,83,55,23,71,29,13,42,28,18,12,14,19,5,3,87,0,24,44,6,26,17,24,Bnei_Herzliya,A,13,13,Sharon Avrahami
+Team,,0,0,0,0,0,5,0,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,Hapoel_Jerusalem,A,17,17,Sharon Avrahami
+Paul Scruggs,,21,5,33,100,0,4,0,4,3,0,0,0,1,1,0,6,-5,1,3,1,1,0,0,Hapoel_Jerusalem,A,17,17,Sharon Avrahami
+Gur Lavy,*,28,12,57,100,50,6,1,7,1,2,2,1,2,0,2,17,-12,4,7,1,1,1,2,Hapoel_Jerusalem,A,17,17,Sharon Avrahami
+"Ishmael ""Ish"" El-Amin",*,29,16,40,25,50,1,1,2,2,2,1,2,3,0,0,6,-6,4,10,2,8,2,4,Hapoel_Jerusalem,A,17,17,Sharon Avrahami
+Gil Beni,,20,5,0,50,50,0,1,1,3,3,1,2,2,0,0,1,0,0,3,1,2,2,4,Hapoel_Jerusalem,A,17,17,Sharon Avrahami
+Lotan Amsalem,,4,0,0,0,0,0,0,0,1,0,0,2,0,0,0,-6,-4,0,0,0,3,0,0,Hapoel_Jerusalem,A,17,17,Sharon Avrahami
+Elijah Childs,*,26,16,54,0,67,4,2,6,4,6,1,1,0,0,0,15,-8,7,13,0,2,2,3,Hapoel_Jerusalem,A,17,17,Sharon Avrahami
+Roey Netzia,,11,0,0,0,0,2,0,2,3,0,0,0,0,0,0,-3,3,0,0,0,2,0,0,Hapoel_Jerusalem,A,17,17,Sharon Avrahami
+Ben Moore,*,32,14,67,0,40,6,8,14,4,3,3,2,1,0,1,21,0,6,9,0,1,2,5,Hapoel_Jerusalem,A,17,17,Sharon Avrahami
+Niv Avidan,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,Hapoel_Jerusalem,A,17,17,Sharon Avrahami
+Josh Aldrich,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8,0,0,0,0,0,0,Hapoel_Jerusalem,A,17,17,Sharon Avrahami
+Niv Misgav,*,25,7,50,100,100,1,0,1,2,2,0,2,8,0,0,13,-8,1,2,1,1,2,2,Hapoel_Jerusalem,A,17,17,Sharon Avrahami
+Total,,200,75,49,29,55,29,13,42,23,18,8,12,17,1,3,75,0,23,47,6,21,11,20,Hapoel_Jerusalem,A,17,17,Sharon Avrahami
+Team,,0,0,0,0,0,3,2,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,Bnei_Herzliya,H,19,19,Sharon Avrahami
+Paul Scruggs,,30,16,75,40,57,6,5,11,3,4,2,5,3,1,1,21,8,3,4,2,5,4,7,Bnei_Herzliya,H,19,19,Sharon Avrahami
+Gur Lavy,*,29,14,50,0,0,3,3,6,2,3,3,5,1,0,2,8,-3,7,14,0,2,0,1,Bnei_Herzliya,H,19,19,Sharon Avrahami
+"Ishmael ""Ish"" El-Amin",*,21,13,33,60,100,0,0,0,4,1,0,0,1,1,0,8,-15,1,3,3,5,2,2,Bnei_Herzliya,H,19,19,Sharon Avrahami
+Gil Beni,,12,0,0,0,0,0,0,0,1,0,0,1,2,0,0,-1,-8,0,0,0,1,0,0,Bnei_Herzliya,H,19,19,Sharon Avrahami
+Lotan Amsalem,,21,10,57,0,100,8,0,8,4,6,0,1,1,0,0,15,3,4,7,0,2,2,2,Bnei_Herzliya,H,19,19,Sharon Avrahami
+Elijah Childs,*,26,10,50,0,50,5,0,5,2,4,1,3,2,3,0,12,-14,3,6,0,1,4,8,Bnei_Herzliya,H,19,19,Sharon Avrahami
+Ben Moore,*,27,9,25,0,83,4,7,11,4,5,1,2,5,0,1,17,1,2,8,0,0,5,6,Bnei_Herzliya,H,19,19,Sharon Avrahami
+Josh Aldrich,,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-1,-5,0,0,0,0,0,0,Bnei_Herzliya,H,19,19,Sharon Avrahami
+Niv Misgav,*,29,14,50,50,100,1,0,1,3,4,0,2,6,0,1,15,-2,3,6,1,2,5,5,Bnei_Herzliya,H,19,19,Sharon Avrahami
+Total,,200,86,48,33,71,30,17,47,24,27,7,19,21,5,5,99,0,23,48,6,18,22,31,Bnei_Herzliya,H,19,19,Sharon Avrahami
+Team,,0,0,0,0,0,3,3,6,0,0,0,1,0,0,0,5,0,0,0,0,0,0,0,Hapoel_Holon,A,20,20,Sharon Avrahami
+Paul Scruggs,*,28,9,67,50,67,1,1,2,2,3,0,5,2,1,0,7,6,2,3,1,2,2,3,Hapoel_Holon,A,20,20,Sharon Avrahami
+Gur Lavy,*,33,9,50,0,83,7,1,8,2,5,4,2,2,1,0,20,7,2,4,0,2,5,6,Hapoel_Holon,A,20,20,Sharon Avrahami
+"Ishmael ""Ish"" El-Amin",*,14,16,50,57,0,0,0,0,4,1,0,0,3,0,0,10,-3,2,4,4,7,0,1,Hapoel_Holon,A,20,20,Sharon Avrahami
+Gil Beni,,17,0,0,0,0,2,0,2,1,2,0,2,2,0,0,0,12,0,2,0,1,0,0,Hapoel_Holon,A,20,20,Sharon Avrahami
+Lotan Amsalem,,13,3,100,0,50,3,0,3,4,2,0,3,1,0,0,0,6,1,1,0,1,1,2,Hapoel_Holon,A,20,20,Sharon Avrahami
+Elijah Childs,,29,19,100,57,50,5,1,6,1,1,0,1,2,1,1,22,15,3,3,4,7,1,2,Hapoel_Holon,A,20,20,Sharon Avrahami
+Roey Netzia,,8,2,100,0,0,0,0,0,1,0,0,1,0,0,0,-1,0,1,1,0,1,0,0,Hapoel_Holon,A,20,20,Sharon Avrahami
+Ben Moore,*,33,17,78,0,75,6,6,12,3,4,1,0,2,0,0,29,4,7,9,0,1,3,4,Hapoel_Holon,A,20,20,Sharon Avrahami
+Niv Misgav,*,25,14,33,60,75,1,0,1,5,3,2,3,9,0,0,16,-2,1,3,3,5,3,4,Hapoel_Holon,A,20,20,Sharon Avrahami
+Total,,200,89,63,44,68,28,12,40,23,21,7,18,23,3,1,108,0,19,30,12,27,15,22,Hapoel_Holon,A,20,20,Sharon Avrahami
+Team,,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Hapoel_Tel-Aviv,A,22,21,Sharon Avrahami
+Paul Scruggs,*,21,7,100,100,0,3,1,4,2,0,1,3,2,0,0,9,-7,2,2,1,1,0,0,Hapoel_Tel-Aviv,A,22,21,Sharon Avrahami
+Gur Lavy,*,27,8,60,0,100,4,0,4,3,3,0,2,2,1,0,10,-14,3,5,0,1,2,2,Hapoel_Tel-Aviv,A,22,21,Sharon Avrahami
+"Ishmael ""Ish"" El-Amin",*,25,16,22,60,75,0,0,0,2,5,1,2,1,0,2,7,-25,2,9,3,5,3,4,Hapoel_Tel-Aviv,A,22,21,Sharon Avrahami
+Gil Beni,,22,7,100,50,100,4,0,4,3,1,0,2,1,0,0,7,-6,1,1,1,2,2,2,Hapoel_Tel-Aviv,A,22,21,Sharon Avrahami
+Lotan Amsalem,,8,1,0,0,50,2,0,2,5,1,0,2,0,0,0,-5,-12,0,1,0,0,1,2,Hapoel_Tel-Aviv,A,22,21,Sharon Avrahami
+Elijah Childs,,22,10,25,40,67,2,1,3,1,3,2,2,0,1,0,9,-19,1,4,2,5,2,3,Hapoel_Tel-Aviv,A,22,21,Sharon Avrahami
+Roey Netzia,,13,3,0,33,0,0,0,0,4,0,2,1,0,0,0,-2,0,0,0,1,3,0,0,Hapoel_Tel-Aviv,A,22,21,Sharon Avrahami
+Nevo Sommerfeld,,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,3,0,0,0,0,0,0,Hapoel_Tel-Aviv,A,22,21,Sharon Avrahami
+Ben Moore,*,28,15,60,100,75,0,0,0,3,6,1,2,2,1,1,15,-16,3,5,1,1,6,8,Hapoel_Tel-Aviv,A,22,21,Sharon Avrahami
+Niv Avidan,,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,3,0,0,0,0,0,0,Hapoel_Tel-Aviv,A,22,21,Sharon Avrahami
+Josh Aldrich,,7,2,50,0,0,1,1,2,0,0,0,0,0,0,1,2,3,1,2,0,0,0,0,Hapoel_Tel-Aviv,A,22,21,Sharon Avrahami
+Niv Misgav,*,25,5,33,100,0,0,0,0,2,2,1,3,7,0,0,8,-10,1,3,1,1,0,0,Hapoel_Tel-Aviv,A,22,21,Sharon Avrahami
+Total,,200,74,44,53,76,16,4,20,25,21,10,19,15,3,4,63,0,14,32,10,19,16,21,Hapoel_Tel-Aviv,A,22,21,Sharon Avrahami
+Team,,0,0,0,0,0,3,2,5,1,0,0,0,0,0,0,4,0,0,0,0,0,0,0,Hapoel_Afula,A,6,6,Sharon Avrahami
+Jon Davis,,16,4,0,0,67,4,2,6,1,3,1,4,4,0,1,5,-7,0,3,0,2,4,6,Hapoel_Afula,A,6,6,Sharon Avrahami
+Gur Lavy,*,32,17,33,100,50,9,3,12,1,2,0,1,2,0,2,24,-28,2,6,4,4,1,2,Hapoel_Afula,A,6,6,Sharon Avrahami
+"Ishmael ""Ish"" El-Amin",*,34,17,17,50,75,1,0,1,2,5,5,0,2,1,0,19,-29,1,6,4,8,3,4,Hapoel_Afula,A,6,6,Sharon Avrahami
+Gil Beni,*,29,5,20,0,75,1,1,2,1,6,0,4,4,0,2,1,-32,1,5,0,4,3,4,Hapoel_Afula,A,6,6,Sharon Avrahami
+Lotan Amsalem,*,18,4,0,20,50,1,0,1,5,1,1,4,1,0,1,-9,-15,0,2,1,5,1,2,Hapoel_Afula,A,6,6,Sharon Avrahami
+Tal Peled,,6,2,33,0,0,1,0,1,0,0,0,0,2,0,1,1,6,1,3,0,1,0,0,Hapoel_Afula,A,6,6,Sharon Avrahami
+Roey Netzia,,12,3,0,50,0,0,1,1,5,0,0,0,0,0,0,-2,-16,0,0,1,2,0,0,Hapoel_Afula,A,6,6,Sharon Avrahami
+Emmanuel Nzekwesi,,15,3,0,0,75,3,2,5,0,2,1,3,0,0,1,2,-18,0,3,0,1,3,4,Hapoel_Afula,A,6,6,Sharon Avrahami
+Nevo Sommerfeld,,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,3,0,0,0,0,0,0,Hapoel_Afula,A,6,6,Sharon Avrahami
+Ben Moore,*,27,5,40,0,25,4,3,7,2,5,0,4,1,3,0,9,-25,2,5,0,0,1,4,Hapoel_Afula,A,6,6,Sharon Avrahami
+Niv Avidan,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Hapoel_Afula,A,6,6,Sharon Avrahami
+Josh Aldrich,,8,2,100,0,0,2,0,2,3,0,0,0,0,0,0,0,-10,1,1,0,1,0,0,Hapoel_Afula,A,6,6,Sharon Avrahami
+Total,,200,62,24,36,62,29,14,43,21,24,8,20,17,4,8,55,0,8,34,10,28,16,26,Hapoel_Afula,A,6,6,Sharon Avrahami
+Team,,0,0,0,0,0,3,2,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,Elitzur_Netanya,H,1,1,Sharon Avrahami
+Jon Davis,*,21,7,17,20,67,2,2,4,1,3,1,2,2,0,1,3,16,1,6,1,5,2,3,Elitzur_Netanya,H,1,1,Sharon Avrahami
+Gur Lavy,*,24,17,75,100,100,5,2,7,3,2,2,3,5,0,0,25,30,6,8,1,1,2,2,Elitzur_Netanya,H,1,1,Sharon Avrahami
+"Ishmael ""Ish"" El-Amin",*,24,22,62,38,60,2,0,2,3,3,2,1,3,1,2,17,20,5,8,3,8,3,5,Elitzur_Netanya,H,1,1,Sharon Avrahami
+Gil Beni,,24,10,20,0,80,3,1,4,1,9,2,0,3,0,2,18,19,1,5,0,1,8,10,Elitzur_Netanya,H,1,1,Sharon Avrahami
+Lotan Amsalem,*,19,10,75,50,100,3,1,4,3,2,0,0,1,0,1,11,17,3,4,1,2,1,1,Elitzur_Netanya,H,1,1,Sharon Avrahami
+Tal Peled,,15,8,100,67,0,1,0,1,0,0,0,1,0,1,0,8,18,1,1,2,3,0,0,Elitzur_Netanya,H,1,1,Sharon Avrahami
+Hans Vanwijn,,21,5,25,0,75,0,1,1,2,2,5,0,5,0,0,12,8,1,4,0,0,3,4,Elitzur_Netanya,H,1,1,Sharon Avrahami
+Roey Netzia,,12,2,100,0,0,2,0,2,0,1,0,3,0,0,0,-1,0,1,1,0,2,0,1,Elitzur_Netanya,H,1,1,Sharon Avrahami
+Nevo Sommerfeld,,3,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,Elitzur_Netanya,H,1,1,Sharon Avrahami
+Ben Moore,*,28,15,100,0,75,5,4,9,2,2,4,2,2,0,0,27,23,6,6,0,0,3,4,Elitzur_Netanya,H,1,1,Sharon Avrahami
+Niv Avidan,,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-1,4,0,0,0,0,0,0,Elitzur_Netanya,H,1,1,Sharon Avrahami
+Josh Aldrich,,7,4,50,0,100,0,1,1,0,1,1,1,0,1,1,5,5,1,2,0,0,2,2,Elitzur_Netanya,H,1,1,Sharon Avrahami
+Total,,200,100,58,36,75,27,14,41,16,25,17,13,21,3,7,130,0,26,45,8,22,24,32,Elitzur_Netanya,H,1,1,Sharon Avrahami
+Team,,0,0,0,0,0,5,2,7,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,Hapoel_Haifa,H,7,7,Sharon Avrahami
+Jon Davis,,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-1,-3,0,0,0,0,0,0,Hapoel_Haifa,H,7,7,Sharon Avrahami
+Gur Lavy,*,34,17,80,50,100,4,4,8,2,4,2,4,2,0,1,24,24,4,5,1,2,6,6,Hapoel_Haifa,H,7,7,Sharon Avrahami
+"Ishmael ""Ish"" El-Amin",*,39,34,56,54,100,1,0,1,4,2,1,2,2,0,1,23,17,5,9,7,13,3,3,Hapoel_Haifa,H,7,7,Sharon Avrahami
+Gil Beni,*,34,8,60,0,67,3,4,7,4,7,2,1,14,0,1,23,17,3,5,0,6,2,3,Hapoel_Haifa,H,7,7,Sharon Avrahami
+Lotan Amsalem,*,23,17,50,50,100,3,2,5,2,3,0,0,0,0,0,19,3,1,2,3,6,6,6,Hapoel_Haifa,H,7,7,Sharon Avrahami
+Tal Peled,,4,3,0,50,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,1,2,0,0,Hapoel_Haifa,H,7,7,Sharon Avrahami
+Hans Vanwijn,,13,2,50,0,0,1,5,6,3,0,0,1,2,2,0,5,-1,1,2,0,2,0,0,Hapoel_Haifa,H,7,7,Sharon Avrahami
+Roey Netzia,,14,3,0,100,0,1,0,1,3,0,0,0,0,0,0,1,16,0,0,1,1,0,0,Hapoel_Haifa,H,7,7,Sharon Avrahami
+Ben Moore,*,35,16,58,0,40,3,1,4,2,5,2,1,2,0,1,17,20,7,12,0,0,2,5,Hapoel_Haifa,H,7,7,Sharon Avrahami
+Total,,200,100,60,41,83,21,18,39,20,21,7,10,22,2,4,120,0,21,35,13,32,19,23,Hapoel_Haifa,H,7,7,Sharon Avrahami
+Team,,0,0,0,0,0,1,2,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,Maccabi_Tel-Aviv,H,24,24,Sharon Avrahami
+Paul Scruggs,*,28,15,44,25,100,5,2,7,3,4,4,1,0,0,1,17,-10,4,9,1,4,4,4,Maccabi_Tel-Aviv,H,24,24,Sharon Avrahami
+Gur Lavy,*,30,9,62,0,0,3,0,3,0,1,4,3,0,0,1,9,-4,5,8,0,2,0,0,Maccabi_Tel-Aviv,H,24,24,Sharon Avrahami
+"Ishmael ""Ish"" El-Amin",*,22,13,56,20,0,2,1,3,2,0,2,2,2,0,0,8,-5,5,9,1,5,0,0,Maccabi_Tel-Aviv,H,24,24,Sharon Avrahami
+Gil Beni,,20,4,0,0,100,1,3,4,3,4,0,2,3,1,0,9,0,0,0,0,2,4,4,Maccabi_Tel-Aviv,H,24,24,Sharon Avrahami
+Josh Price,,19,15,55,0,100,4,1,5,5,3,3,3,0,0,0,13,0,6,11,0,0,3,3,Maccabi_Tel-Aviv,H,24,24,Sharon Avrahami
+Elijah Childs,*,32,14,33,25,83,5,6,11,2,5,0,1,1,2,1,19,-15,3,9,1,4,5,6,Maccabi_Tel-Aviv,H,24,24,Sharon Avrahami
+Roey Netzia,,18,0,0,0,0,1,0,1,4,0,0,0,1,0,0,-4,3,0,1,0,1,0,0,Maccabi_Tel-Aviv,H,24,24,Sharon Avrahami
+Josh Aldrich,,4,2,0,0,100,0,1,1,1,1,0,0,1,0,0,2,7,0,1,0,1,2,2,Maccabi_Tel-Aviv,H,24,24,Sharon Avrahami
+Niv Misgav,*,28,0,0,0,0,2,2,4,3,2,2,0,7,0,0,8,-11,0,2,0,2,0,0,Maccabi_Tel-Aviv,H,24,24,Sharon Avrahami
+Total,,200,73,46,14,95,24,18,42,23,20,15,12,15,3,3,84,0,23,50,3,21,18,19,Maccabi_Tel-Aviv,H,24,24,Sharon Avrahami
+Team,,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,-1,0,0,0,0,0,0,0,Ironi_Kiryat_Ata,H,9,9,Sharon Avrahami
+Darius Perry,,24,13,60,25,100,1,1,2,2,1,1,1,1,0,0,7,21,3,5,2,8,1,1,Ironi_Kiryat_Ata,H,9,9,Sharon Avrahami
+Gur Lavy,*,22,14,33,67,100,6,2,8,3,3,2,3,2,1,1,20,23,1,3,2,3,6,6,Ironi_Kiryat_Ata,H,9,9,Sharon Avrahami
+"Ishmael ""Ish"" El-Amin",*,19,12,100,17,71,2,0,2,3,3,0,1,2,0,0,8,18,2,2,1,6,5,7,Ironi_Kiryat_Ata,H,9,9,Sharon Avrahami
+Gil Beni,,20,12,80,100,50,2,1,3,2,6,4,1,3,0,0,23,21,4,5,1,1,1,2,Ironi_Kiryat_Ata,H,9,9,Sharon Avrahami
+Lotan Amsalem,,26,10,67,0,40,5,6,11,4,8,1,3,1,0,1,16,8,4,6,0,2,2,5,Ironi_Kiryat_Ata,H,9,9,Sharon Avrahami
+Tal Peled,,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-2,-3,0,0,0,1,0,0,Ironi_Kiryat_Ata,H,9,9,Sharon Avrahami
+Elijah Childs,*,26,9,50,100,0,7,0,7,1,0,0,3,1,1,0,11,17,3,6,1,1,0,0,Ironi_Kiryat_Ata,H,9,9,Sharon Avrahami
+Roey Netzia,,11,0,0,0,0,3,0,3,1,0,0,0,1,0,0,1,6,0,0,0,2,0,0,Ironi_Kiryat_Ata,H,9,9,Sharon Avrahami
+Nevo Sommerfeld,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-1,-3,0,0,0,0,0,0,Ironi_Kiryat_Ata,H,9,9,Sharon Avrahami
+Ben Moore,*,22,10,83,0,0,4,2,6,4,0,1,1,3,2,0,16,11,5,6,0,0,0,0,Ironi_Kiryat_Ata,H,9,9,Sharon Avrahami
+Niv Avidan,,2,2,100,0,0,1,0,1,1,1,0,0,0,0,0,3,-1,1,1,0,0,0,0,Ironi_Kiryat_Ata,H,9,9,Sharon Avrahami
+Niv Misgav,*,22,3,0,25,0,3,1,4,0,1,1,3,6,0,0,6,7,0,3,1,4,0,0,Ironi_Kiryat_Ata,H,9,9,Sharon Avrahami
+Total,,200,85,62,29,71,34,14,48,23,23,10,18,20,4,2,107,0,23,37,8,28,15,21,Ironi_Kiryat_Ata,H,9,9,Sharon Avrahami
+Team,,0,0,0,0,0,1,1,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Hapoel_Galil_Elion,H,2,2,Sharon Avrahami
+Jon Davis,*,23,7,29,20,0,2,1,3,3,2,2,1,2,0,1,1,2,2,7,1,5,0,1,Hapoel_Galil_Elion,H,2,2,Sharon Avrahami
+Gur Lavy,*,34,23,88,60,0,4,3,7,4,5,2,2,2,0,0,30,-5,7,8,3,5,0,0,Hapoel_Galil_Elion,H,2,2,Sharon Avrahami
+"Ishmael ""Ish"" El-Amin",*,34,24,50,27,83,2,1,3,3,5,1,1,4,0,0,19,-19,5,10,3,11,5,6,Hapoel_Galil_Elion,H,2,2,Sharon Avrahami
+Gil Beni,,19,4,33,0,100,2,0,2,4,3,2,2,4,0,0,4,-25,1,3,0,3,2,2,Hapoel_Galil_Elion,H,2,2,Sharon Avrahami
+Lotan Amsalem,*,17,0,0,0,0,2,0,2,4,1,1,3,2,0,1,-4,-16,0,1,0,1,0,0,Hapoel_Galil_Elion,H,2,2,Sharon Avrahami
+Tal Peled,,10,0,0,0,0,1,0,1,0,0,0,0,0,0,0,-1,-3,0,1,0,1,0,0,Hapoel_Galil_Elion,H,2,2,Sharon Avrahami
+Hans Vanwijn,,12,0,0,0,0,1,0,1,0,0,0,1,0,0,0,-3,-16,0,1,0,2,0,0,Hapoel_Galil_Elion,H,2,2,Sharon Avrahami
+Roey Netzia,,13,3,0,33,0,1,0,1,1,0,2,0,0,0,0,3,7,0,0,1,3,0,0,Hapoel_Galil_Elion,H,2,2,Sharon Avrahami
+Ben Moore,*,32,11,100,0,88,4,4,8,3,5,2,3,2,0,0,21,-9,2,2,0,0,7,8,Hapoel_Galil_Elion,H,2,2,Sharon Avrahami
+Josh Aldrich,,6,5,50,50,0,0,2,2,1,0,0,0,0,0,0,4,4,1,2,1,2,0,0,Hapoel_Galil_Elion,H,2,2,Sharon Avrahami
+Total,,200,77,51,27,82,20,12,32,24,21,12,13,16,0,2,75,0,18,35,9,33,14,17,Hapoel_Galil_Elion,H,2,2,Sharon Avrahami
+Team,,0,0,0,0,0,1,2,3,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,Be'er_Sheva_Dimona,H,11,11,Sharon Avrahami
+Darius Perry,,9,2,25,0,0,0,1,1,1,0,0,3,0,0,0,-6,-10,1,4,0,2,0,0,Be'er_Sheva_Dimona,H,11,11,Sharon Avrahami
+Gur Lavy,*,35,17,71,100,67,11,1,12,4,3,1,4,4,0,0,25,-1,5,7,1,1,4,6,Be'er_Sheva_Dimona,H,11,11,Sharon Avrahami
+"Ishmael ""Ish"" El-Amin",*,32,23,45,29,88,0,0,0,1,5,1,2,1,1,0,16,8,5,11,2,7,7,8,Be'er_Sheva_Dimona,H,11,11,Sharon Avrahami
+Gil Beni,,24,9,100,0,25,4,0,4,3,7,2,2,1,0,0,15,-10,4,4,0,0,1,4,Be'er_Sheva_Dimona,H,11,11,Sharon Avrahami
+Lotan Amsalem,,15,4,100,0,0,5,0,5,3,1,0,4,0,0,0,1,-14,2,2,0,1,0,1,Be'er_Sheva_Dimona,H,11,11,Sharon Avrahami
+Elijah Childs,*,20,2,33,0,0,4,0,4,3,0,1,2,1,1,0,0,4,1,3,0,2,0,0,Be'er_Sheva_Dimona,H,11,11,Sharon Avrahami
+Roey Netzia,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Be'er_Sheva_Dimona,H,11,11,Sharon Avrahami
+Ben Moore,*,34,11,83,0,100,6,5,11,3,3,0,3,3,0,0,20,-4,5,6,0,1,1,1,Be'er_Sheva_Dimona,H,11,11,Sharon Avrahami
+Niv Misgav,*,30,10,75,50,33,1,1,2,4,3,0,5,11,0,0,13,2,3,4,1,2,1,3,Be'er_Sheva_Dimona,H,11,11,Sharon Avrahami
+Total,,200,78,63,25,61,32,10,42,23,22,5,25,21,2,0,86,0,26,41,4,16,14,23,Be'er_Sheva_Dimona,H,11,11,Sharon Avrahami
+Team,,0,0,0,0,0,4,2,6,0,0,0,1,0,0,0,5,0,0,0,0,0,0,0,Maccabi_Ramat_Gan,H,26,26,Sharon Avrahami
+Paul Scruggs,*,21,7,100,0,50,2,1,3,4,2,0,3,2,2,0,8,1,3,3,0,0,1,2,Maccabi_Ramat_Gan,H,26,26,Sharon Avrahami
+Gur Lavy,*,31,13,71,0,75,9,2,11,3,3,1,3,3,1,0,22,6,5,7,0,1,3,4,Maccabi_Ramat_Gan,H,26,26,Sharon Avrahami
+"Ishmael ""Ish"" El-Amin",*,25,7,67,20,0,0,0,0,0,3,1,2,2,1,1,6,-2,2,3,1,5,0,0,Maccabi_Ramat_Gan,H,26,26,Sharon Avrahami
+Gil Beni,,20,11,50,67,75,1,0,1,4,3,0,4,1,0,1,4,10,1,2,2,3,3,4,Maccabi_Ramat_Gan,H,26,26,Sharon Avrahami
+Lotan Amsalem,,3,0,0,0,0,1,0,1,0,1,0,0,0,0,1,-1,-3,0,1,0,1,0,0,Maccabi_Ramat_Gan,H,26,26,Sharon Avrahami
+Josh Price,,13,5,0,100,100,2,0,2,3,1,0,2,0,0,0,0,-2,0,3,1,1,2,2,Maccabi_Ramat_Gan,H,26,26,Sharon Avrahami
+Elijah Childs,*,32,15,67,0,100,6,0,6,2,3,2,1,2,2,0,21,9,6,9,0,3,3,3,Maccabi_Ramat_Gan,H,26,26,Sharon Avrahami
+Roey Netzia,,26,8,100,33,0,4,2,6,3,1,3,2,0,0,0,9,10,1,1,2,6,0,0,Maccabi_Ramat_Gan,H,26,26,Sharon Avrahami
+Josh Aldrich,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,0,Maccabi_Ramat_Gan,H,26,26,Sharon Avrahami
+Niv Misgav,*,28,12,0,75,60,4,0,4,4,4,1,2,6,0,1,15,-4,0,2,3,4,3,5,Maccabi_Ramat_Gan,H,26,26,Sharon Avrahami
+Total,,200,78,58,38,75,33,7,40,23,21,8,20,16,6,4,89,0,18,31,9,24,15,20,Maccabi_Ramat_Gan,H,26,26,Sharon Avrahami
+Team,,0,0,0,0,0,3,2,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,Hapoel_Haifa,A,15,15,Sharon Avrahami
+Paul Scruggs,,31,15,80,20,80,5,0,5,2,3,3,2,3,0,1,18,11,4,5,1,5,4,5,Hapoel_Haifa,A,15,15,Sharon Avrahami
+Gur Lavy,*,31,26,86,100,71,8,1,9,3,4,0,2,2,0,0,33,11,6,7,3,3,5,7,Hapoel_Haifa,A,15,15,Sharon Avrahami
+"Ishmael ""Ish"" El-Amin",*,24,8,33,0,86,1,0,1,2,4,1,2,2,0,0,5,15,1,3,0,4,6,7,Hapoel_Haifa,A,15,15,Sharon Avrahami
+Gil Beni,,20,10,50,67,100,1,0,1,3,3,2,1,0,0,0,10,4,1,2,2,3,2,2,Hapoel_Haifa,A,15,15,Sharon Avrahami
+Lotan Amsalem,,16,3,25,0,100,2,1,3,3,2,1,0,1,1,0,3,-2,1,4,0,2,1,1,Hapoel_Haifa,A,15,15,Sharon Avrahami
+Elijah Childs,*,20,10,50,0,100,3,2,5,1,2,1,2,3,0,0,14,0,3,6,0,1,4,4,Hapoel_Haifa,A,15,15,Sharon Avrahami
+Ben Moore,*,29,14,78,0,0,2,2,4,4,0,0,3,1,1,1,10,7,7,9,0,0,0,0,Hapoel_Haifa,A,15,15,Sharon Avrahami
+Niv Misgav,*,29,8,100,50,100,2,0,2,3,3,0,5,11,0,0,15,9,2,2,1,2,1,1,Hapoel_Haifa,A,15,15,Sharon Avrahami
+Total,,200,94,66,35,85,27,8,35,21,21,8,17,23,2,2,113,0,25,38,7,20,23,27,Hapoel_Haifa,A,15,15,Sharon Avrahami
+Team,,0,0,0,0,0,2,1,3,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,Hapoel_Afula,H,16,16,Sharon Avrahami
+Paul Scruggs,,27,7,50,20,100,7,0,7,3,3,0,1,2,1,1,10,14,1,2,1,5,2,2,Hapoel_Afula,H,16,16,Sharon Avrahami
+Gur Lavy,*,33,20,62,67,67,5,2,7,4,3,3,1,5,0,0,27,15,5,8,2,3,4,6,Hapoel_Afula,H,16,16,Sharon Avrahami
+"Ishmael ""Ish"" El-Amin",*,27,16,60,38,100,2,1,3,4,2,0,0,1,0,0,11,0,3,5,3,8,1,1,Hapoel_Afula,H,16,16,Sharon Avrahami
+Gil Beni,,15,8,0,100,50,2,0,2,1,2,1,0,1,0,1,7,-2,0,3,2,2,2,4,Hapoel_Afula,H,16,16,Sharon Avrahami
+Lotan Amsalem,,14,2,100,0,0,2,0,2,2,1,0,1,1,0,0,0,7,1,1,0,3,0,0,Hapoel_Afula,H,16,16,Sharon Avrahami
+Elijah Childs,*,28,17,62,67,50,5,1,6,2,1,2,0,0,0,1,18,9,5,8,2,3,1,2,Hapoel_Afula,H,16,16,Sharon Avrahami
+Ben Moore,*,23,10,43,0,80,2,1,3,5,4,1,2,2,0,1,7,-7,3,7,0,0,4,5,Hapoel_Afula,H,16,16,Sharon Avrahami
+Josh Aldrich,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,Hapoel_Afula,H,16,16,Sharon Avrahami
+Niv Misgav,*,30,4,40,0,0,1,0,1,0,3,1,2,11,0,0,10,5,2,5,0,3,0,2,Hapoel_Afula,H,16,16,Sharon Avrahami
+Total,,200,84,51,37,64,28,6,34,22,19,8,7,23,1,4,92,0,20,39,10,27,14,22,Hapoel_Afula,H,16,16,Sharon Avrahami
+Team,,0,0,0,0,0,1,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Hapoel_Galil_Elion,A,18,18,Sharon Avrahami
+Paul Scruggs,,29,12,75,0,0,1,0,1,4,0,4,3,1,0,0,8,1,6,8,0,1,0,0,Hapoel_Galil_Elion,A,18,18,Sharon Avrahami
+Gur Lavy,*,36,13,75,0,50,5,1,6,3,3,1,0,0,0,1,13,-9,6,8,0,3,1,2,Hapoel_Galil_Elion,A,18,18,Sharon Avrahami
+"Ishmael ""Ish"" El-Amin",*,27,10,50,29,0,1,0,1,4,2,2,2,1,0,0,3,-5,2,4,2,7,0,0,Hapoel_Galil_Elion,A,18,18,Sharon Avrahami
+Gil Beni,,9,0,0,0,0,0,0,0,0,0,1,1,0,0,0,-3,-7,0,2,0,1,0,0,Hapoel_Galil_Elion,A,18,18,Sharon Avrahami
+Lotan Amsalem,,10,0,0,0,0,3,0,3,3,0,0,1,0,1,1,-3,-1,0,1,0,1,0,0,Hapoel_Galil_Elion,A,18,18,Sharon Avrahami
+Elijah Childs,*,19,4,0,0,100,0,1,1,1,2,1,1,0,0,0,5,-14,0,0,0,1,4,4,Hapoel_Galil_Elion,A,18,18,Sharon Avrahami
+Ben Moore,*,36,17,88,0,75,6,3,9,1,3,0,2,2,0,0,26,2,7,8,0,0,3,4,Hapoel_Galil_Elion,A,18,18,Sharon Avrahami
+Niv Misgav,*,34,13,67,33,100,2,0,2,4,4,1,5,7,0,0,13,-2,2,3,2,6,3,3,Hapoel_Galil_Elion,A,18,18,Sharon Avrahami
+Total,,200,69,68,20,85,19,6,25,21,14,10,16,11,1,2,62,0,23,34,4,20,11,13,Hapoel_Galil_Elion,A,18,18,Sharon Avrahami
+Team,,0,0,0,0,0,2,6,8,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,Elitzur_Netanya,A,21,22,Sharon Avrahami
+Paul Scruggs,,17,6,0,40,0,0,2,2,3,1,3,1,2,0,0,4,4,0,3,2,5,0,0,Elitzur_Netanya,A,21,22,Sharon Avrahami
+Gur Lavy,*,33,28,71,50,83,5,4,9,4,7,1,4,1,0,1,31,18,10,14,1,2,5,6,Elitzur_Netanya,A,21,22,Sharon Avrahami
+"Ishmael ""Ish"" El-Amin",*,29,26,54,50,100,3,0,3,3,2,3,2,1,1,2,20,10,7,13,3,6,3,3,Elitzur_Netanya,A,21,22,Sharon Avrahami
+Lotan Amsalem,,5,0,0,0,0,2,0,2,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,Elitzur_Netanya,A,21,22,Sharon Avrahami
+Elijah Childs,*,35,11,50,25,0,6,1,7,1,2,2,0,2,3,2,16,30,4,8,1,4,0,1,Elitzur_Netanya,A,21,22,Sharon Avrahami
+Roey Netzia,,17,0,0,0,0,0,0,0,3,0,0,0,2,0,0,-5,-2,0,1,0,3,0,0,Elitzur_Netanya,A,21,22,Sharon Avrahami
+Nevo Sommerfeld,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,Elitzur_Netanya,A,21,22,Sharon Avrahami
+Ben Moore,*,31,12,83,0,67,6,1,7,5,3,1,0,4,1,0,21,13,5,6,0,0,2,3,Elitzur_Netanya,A,21,22,Sharon Avrahami
+Niv Misgav,*,32,0,0,0,0,4,0,4,1,3,0,1,13,0,1,11,14,0,2,0,4,0,0,Elitzur_Netanya,A,21,22,Sharon Avrahami
+Total,,200,83,54,28,77,28,14,42,21,18,10,8,26,5,6,106,0,26,48,7,25,10,13,Elitzur_Netanya,A,21,22,Sharon Avrahami
+Team,,0,0,0,0,0,0,6,6,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,Be'er_Sheva_Dimona,A,23,23,Sharon Avrahami
+Paul Scruggs,,17,9,75,100,0,2,1,3,2,1,1,3,2,0,1,7,7,3,4,1,1,0,2,Be'er_Sheva_Dimona,A,23,23,Sharon Avrahami
+Gur Lavy,*,29,14,33,100,75,6,2,8,1,5,1,1,1,0,1,17,18,4,12,1,1,3,4,Be'er_Sheva_Dimona,A,23,23,Sharon Avrahami
+"Ishmael ""Ish"" El-Amin",*,32,16,14,50,83,2,0,2,2,5,3,3,1,0,1,11,15,1,7,3,6,5,6,Be'er_Sheva_Dimona,A,23,23,Sharon Avrahami
+Gil Beni,,24,7,50,100,100,1,0,1,4,3,2,3,2,0,0,7,25,1,2,1,1,2,2,Be'er_Sheva_Dimona,A,23,23,Sharon Avrahami
+Lotan Amsalem,,5,0,0,0,0,2,1,3,2,0,0,0,0,0,0,1,-7,0,0,0,0,0,0,Be'er_Sheva_Dimona,A,23,23,Sharon Avrahami
+Elijah Childs,*,23,11,17,33,75,6,4,10,3,4,2,4,2,0,0,13,0,1,6,1,3,6,8,Be'er_Sheva_Dimona,A,23,23,Sharon Avrahami
+Roey Netzia,,13,3,0,33,0,0,0,0,3,0,1,0,2,0,0,0,8,0,1,1,3,0,0,Be'er_Sheva_Dimona,A,23,23,Sharon Avrahami
+Nevo Sommerfeld,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3,0,0,0,0,0,0,Be'er_Sheva_Dimona,A,23,23,Sharon Avrahami
+Ben Moore,*,29,20,73,0,100,2,3,5,4,2,1,0,2,0,1,21,13,8,11,0,1,4,4,Be'er_Sheva_Dimona,A,23,23,Sharon Avrahami
+Josh Aldrich,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3,0,0,0,0,0,0,Be'er_Sheva_Dimona,A,23,23,Sharon Avrahami
+Niv Misgav,*,26,8,50,50,100,2,1,3,3,6,1,3,8,0,0,18,7,1,2,1,2,3,3,Be'er_Sheva_Dimona,A,23,23,Sharon Avrahami
+Total,,200,88,42,50,79,23,18,41,24,26,12,22,20,0,4,96,0,19,45,9,18,23,29,Be'er_Sheva_Dimona,A,23,23,Sharon Avrahami
+Team,,0,0,0,0,0,2,4,6,0,0,0,2,0,0,0,4,0,0,0,0,0,0,0,Ironi_Kiryat_Ata,A,25,25,Sharon Avrahami
+Paul Scruggs,*,28,6,75,0,0,5,1,6,2,0,0,3,2,0,0,6,11,3,4,0,2,0,0,Ironi_Kiryat_Ata,A,25,25,Sharon Avrahami
+Gur Lavy,*,35,14,40,0,86,7,1,8,4,4,2,6,1,0,0,10,18,4,10,0,2,6,7,Ironi_Kiryat_Ata,A,25,25,Sharon Avrahami
+"Ishmael ""Ish"" El-Amin",*,33,21,62,27,67,1,2,3,4,3,1,1,3,0,0,14,17,5,8,3,11,2,3,Ironi_Kiryat_Ata,A,25,25,Sharon Avrahami
+Gil Beni,,17,1,0,0,50,1,0,1,1,3,0,0,3,0,0,2,-3,0,2,0,2,1,2,Ironi_Kiryat_Ata,A,25,25,Sharon Avrahami
+Lotan Amsalem,,6,5,50,0,75,1,0,1,2,2,1,0,0,0,0,4,-5,1,2,0,1,3,4,Ironi_Kiryat_Ata,A,25,25,Sharon Avrahami
+Josh Price,,22,16,75,0,80,5,2,7,3,4,2,3,3,0,0,23,-5,6,8,0,0,4,5,Ironi_Kiryat_Ata,A,25,25,Sharon Avrahami
+Elijah Childs,*,23,9,57,0,100,4,3,7,4,1,2,1,2,1,1,13,20,4,7,0,0,1,1,Ironi_Kiryat_Ata,A,25,25,Sharon Avrahami
+Roey Netzia,,5,0,0,0,0,0,0,0,2,1,0,0,0,0,0,-2,-8,0,0,0,1,0,0,Ironi_Kiryat_Ata,A,25,25,Sharon Avrahami
+Nevo Sommerfeld,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,Ironi_Kiryat_Ata,A,25,25,Sharon Avrahami
+Niv Avidan,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,Ironi_Kiryat_Ata,A,25,25,Sharon Avrahami
+Josh Aldrich,,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,4,0,0,0,0,0,0,Ironi_Kiryat_Ata,A,25,25,Sharon Avrahami
+Niv Misgav,*,28,11,50,33,100,1,0,1,4,7,2,0,4,0,0,17,12,2,4,1,3,4,4,Ironi_Kiryat_Ata,A,25,25,Sharon Avrahami
+Total,,200,83,56,18,81,27,13,40,26,25,11,17,18,1,1,91,0,25,45,4,22,21,26,Ironi_Kiryat_Ata,A,25,25,Sharon Avrahami

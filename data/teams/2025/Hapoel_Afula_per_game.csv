@@ -1,0 +1,378 @@
+player name,sf,min,pts,%_2pt,%_3pt,%_1pt,dr_rebounds,or_rebounds,tr_rebounds,pf_fouls,fa_fouls,st,to,as,bkf_blocks,bka_blocks,val,+/-,m_2pt,a_2pt,m_3pt,a_3pt,m_1pt,a_1pt,opponent,loc,round,game_idx,coach
+Team,,0,0,0,0,0,2,1,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,Hapoel_Jerusalem,A,7,7,Ariel Bet Halahmi
+Jalen Lecque,*,37,22,42,17,100,4,0,4,1,8,4,3,4,0,1,25,2,5,12,1,6,9,9,Hapoel_Jerusalem,A,7,7,Ariel Bet Halahmi
+Sandy Cohen,*,21,3,50,0,50,2,1,3,5,1,1,1,0,0,0,-4,0,1,2,0,4,1,2,Hapoel_Jerusalem,A,7,7,Ariel Bet Halahmi
+Justyn Mutts,*,31,7,38,0,50,7,7,14,3,1,1,4,5,1,0,15,-7,3,8,0,1,1,2,Hapoel_Jerusalem,A,7,7,Ariel Bet Halahmi
+JP Tokoto,*,28,8,67,0,0,3,1,4,5,2,1,0,0,0,0,6,2,4,6,0,0,0,2,Hapoel_Jerusalem,A,7,7,Ariel Bet Halahmi
+Armaan Franklin,,31,24,77,12,50,3,0,3,2,3,2,1,0,0,2,16,-6,10,13,1,8,1,2,Hapoel_Jerusalem,A,7,7,Ariel Bet Halahmi
+Eyal Harel,*,18,4,100,0,0,0,0,0,2,1,1,0,0,0,0,1,-6,2,2,0,3,0,0,Hapoel_Jerusalem,A,7,7,Ariel Bet Halahmi
+Muriel Lutati,,16,2,0,0,100,4,0,4,5,1,1,3,7,0,0,6,7,0,1,0,0,2,2,Hapoel_Jerusalem,A,7,7,Ariel Bet Halahmi
+Eidan Alber,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,-8,0,2,0,0,0,0,Hapoel_Jerusalem,A,7,7,Ariel Bet Halahmi
+Gilad Levy,,14,8,100,0,50,2,2,4,2,2,1,0,0,1,0,12,6,3,3,0,0,2,4,Hapoel_Jerusalem,A,7,7,Ariel Bet Halahmi
+Total,,200,78,57,9,70,27,12,39,25,19,12,12,16,2,3,78,0,28,49,2,22,16,23,Hapoel_Jerusalem,A,7,7,Ariel Bet Halahmi
+Team,,0,0,0,0,0,1,3,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,Hapoel_Holon,A,9,9,Ariel Bet Halahmi
+Jalen Lecque,*,31,15,62,0,71,4,1,5,3,5,1,0,1,0,1,17,-4,5,8,0,1,5,7,Hapoel_Holon,A,9,9,Ariel Bet Halahmi
+Sandy Cohen,*,36,13,44,14,100,4,0,4,4,3,2,0,2,0,1,8,-4,4,9,1,7,2,2,Hapoel_Holon,A,9,9,Ariel Bet Halahmi
+Justyn Mutts,*,20,4,50,0,0,5,4,9,0,1,1,3,0,1,0,9,-9,2,4,0,0,0,2,Hapoel_Holon,A,9,9,Ariel Bet Halahmi
+JP Tokoto,*,36,19,60,0,50,5,5,10,2,3,1,0,3,0,0,27,-9,9,15,0,0,1,2,Hapoel_Holon,A,9,9,Ariel Bet Halahmi
+Eyal Harel,,8,0,0,0,0,1,0,1,1,0,0,0,0,0,0,-4,-3,0,2,0,2,0,0,Hapoel_Holon,A,9,9,Ariel Bet Halahmi
+Muriel Lutati,,20,6,0,50,0,1,0,1,2,0,0,0,3,0,0,6,1,0,0,2,4,0,0,Hapoel_Holon,A,9,9,Ariel Bet Halahmi
+Noam Avivi,,12,2,0,0,100,0,0,0,0,1,0,0,0,0,0,2,-1,0,1,0,0,2,2,Hapoel_Holon,A,9,9,Ariel Bet Halahmi
+Gilad Levy,,3,0,0,0,0,1,0,1,0,1,0,0,0,0,0,2,-3,0,0,0,0,0,0,Hapoel_Holon,A,9,9,Ariel Bet Halahmi
+J'Covan Brown,*,34,15,45,14,100,1,0,1,1,4,3,1,2,0,1,10,-8,5,11,1,7,2,2,Hapoel_Holon,A,9,9,Ariel Bet Halahmi
+Total,,200,74,50,19,71,23,13,36,13,18,8,4,11,1,3,81,0,25,50,4,21,12,17,Hapoel_Holon,A,9,9,Ariel Bet Halahmi
+Team,,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,Ness_Ziona,H,8,8,Ariel Bet Halahmi
+Jalen Lecque,*,22,14,50,40,80,1,0,1,4,3,0,1,3,0,0,10,8,2,4,2,5,4,5,Ness_Ziona,H,8,8,Ariel Bet Halahmi
+Sandy Cohen,*,35,15,50,50,80,5,1,6,3,2,1,2,4,0,1,17,10,1,2,3,6,4,5,Ness_Ziona,H,8,8,Ariel Bet Halahmi
+Justyn Mutts,*,28,17,55,100,50,5,3,8,2,2,3,2,8,0,1,26,11,6,11,1,1,2,4,Ness_Ziona,H,8,8,Ariel Bet Halahmi
+JP Tokoto,*,31,17,50,0,62,5,4,9,2,5,1,3,3,0,0,21,3,6,12,0,0,5,8,Ness_Ziona,H,8,8,Ariel Bet Halahmi
+Omer Hamama,,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-2,-6,0,1,0,0,0,0,Ness_Ziona,H,8,8,Ariel Bet Halahmi
+Eyal Harel,,6,3,0,100,0,1,0,1,1,0,0,0,0,0,0,3,6,0,0,1,1,0,0,Ness_Ziona,H,8,8,Ariel Bet Halahmi
+Muriel Lutati,,22,5,50,100,0,4,1,5,2,0,2,2,2,0,1,8,5,1,2,1,1,0,0,Ness_Ziona,H,8,8,Ariel Bet Halahmi
+Noam Avivi,,22,8,25,67,0,1,2,3,0,0,0,1,0,0,0,6,10,1,4,2,3,0,0,Ness_Ziona,H,8,8,Ariel Bet Halahmi
+Gilad Levy,,3,2,100,0,0,0,0,0,0,0,0,0,0,0,0,2,-1,1,1,0,0,0,0,Ness_Ziona,H,8,8,Ariel Bet Halahmi
+J'Covan Brown,*,27,15,50,60,67,2,0,2,4,5,1,3,6,0,0,17,4,2,4,3,5,2,3,Ness_Ziona,H,8,8,Ariel Bet Halahmi
+Total,,200,96,49,59,68,27,11,38,19,17,8,14,26,0,3,111,0,20,41,13,22,17,25,Ness_Ziona,H,8,8,Ariel Bet Halahmi
+Team,,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Hapoel_Galil_Elion,A,4,4,Ariel Bet Halahmi
+Jalen Lecque,*,29,15,62,20,100,2,1,3,4,4,0,1,3,0,0,13,-14,5,8,1,5,2,2,Hapoel_Galil_Elion,A,4,4,Ariel Bet Halahmi
+Sandy Cohen,*,25,0,0,0,0,0,0,0,1,0,0,1,1,0,0,-6,-30,0,1,0,4,0,0,Hapoel_Galil_Elion,A,4,4,Ariel Bet Halahmi
+Justyn Mutts,*,30,19,80,0,50,7,2,9,3,3,3,1,4,2,0,30,-19,8,10,0,1,3,6,Hapoel_Galil_Elion,A,4,4,Ariel Bet Halahmi
+JP Tokoto,*,27,12,56,0,100,4,3,7,3,5,4,4,0,0,0,17,-22,5,9,0,0,2,2,Hapoel_Galil_Elion,A,4,4,Ariel Bet Halahmi
+Armaan Franklin,,13,6,50,0,0,1,0,1,1,1,0,0,1,0,2,-1,-4,3,6,0,3,0,1,Hapoel_Galil_Elion,A,4,4,Ariel Bet Halahmi
+Omer Hamama,,2,0,0,0,0,0,0,0,1,0,0,1,0,0,0,-4,1,0,1,0,1,0,0,Hapoel_Galil_Elion,A,4,4,Ariel Bet Halahmi
+Eyal Harel,*,17,1,0,0,50,1,0,1,2,1,1,0,1,0,1,-3,7,0,1,0,3,1,2,Hapoel_Galil_Elion,A,4,4,Ariel Bet Halahmi
+Ori Ovadia,,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2,5,0,0,0,0,0,0,Hapoel_Galil_Elion,A,4,4,Ariel Bet Halahmi
+Muriel Lutati,,12,4,50,0,0,3,0,3,3,1,0,1,3,0,1,3,-12,2,4,0,1,0,0,Hapoel_Galil_Elion,A,4,4,Ariel Bet Halahmi
+Eidan Alber,,21,8,50,100,100,4,1,5,3,1,1,3,6,0,0,13,19,2,4,1,1,1,1,Hapoel_Galil_Elion,A,4,4,Ariel Bet Halahmi
+Noam Avivi,,23,12,100,0,0,5,1,6,2,0,1,0,2,0,0,16,14,6,6,0,2,0,1,Hapoel_Galil_Elion,A,4,4,Ariel Bet Halahmi
+Total,,200,77,62,10,60,28,8,36,23,16,11,12,22,2,4,81,0,31,50,2,21,9,15,Hapoel_Galil_Elion,A,4,4,Ariel Bet Halahmi
+Team,,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Hapoel_Tel-Aviv,A,5,5,Ariel Bet Halahmi
+Jalen Lecque,*,30,13,56,0,100,4,0,4,3,3,0,4,1,1,1,6,-20,5,9,0,4,3,3,Hapoel_Tel-Aviv,A,5,5,Ariel Bet Halahmi
+Sandy Cohen,,22,6,50,0,100,0,0,0,1,4,1,1,1,0,0,7,-9,1,2,0,2,4,4,Hapoel_Tel-Aviv,A,5,5,Ariel Bet Halahmi
+Justyn Mutts,*,24,10,23,50,100,4,6,10,2,2,1,2,0,1,5,4,-23,3,13,1,2,1,1,Hapoel_Tel-Aviv,A,5,5,Ariel Bet Halahmi
+JP Tokoto,*,25,8,50,0,0,9,2,11,4,1,0,2,3,0,0,13,-5,4,8,0,0,0,0,Hapoel_Tel-Aviv,A,5,5,Ariel Bet Halahmi
+Armaan Franklin,*,23,4,33,0,100,3,0,3,4,2,1,3,1,0,0,0,-18,1,3,0,2,2,2,Hapoel_Tel-Aviv,A,5,5,Ariel Bet Halahmi
+Omer Hamama,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Hapoel_Tel-Aviv,A,5,5,Ariel Bet Halahmi
+Eyal Harel,*,19,2,100,0,0,1,1,2,2,0,0,1,4,0,1,1,-8,1,1,0,3,0,0,Hapoel_Tel-Aviv,A,5,5,Ariel Bet Halahmi
+Muriel Lutati,,14,6,60,0,0,3,0,3,3,1,0,1,0,0,0,1,-9,3,5,0,3,0,0,Hapoel_Tel-Aviv,A,5,5,Ariel Bet Halahmi
+Eidan Alber,,12,0,0,0,0,0,0,0,1,0,1,0,0,0,0,-2,1,0,2,0,0,0,0,Hapoel_Tel-Aviv,A,5,5,Ariel Bet Halahmi
+Noam Avivi,,25,9,75,33,0,4,2,6,2,0,1,0,0,0,1,10,-16,3,4,1,3,0,0,Hapoel_Tel-Aviv,A,5,5,Ariel Bet Halahmi
+Gilad Levy,,5,4,67,0,0,2,0,2,1,1,0,0,0,0,1,4,-8,2,3,0,0,0,0,Hapoel_Tel-Aviv,A,5,5,Ariel Bet Halahmi
+Total,,200,62,46,11,100,30,12,42,24,14,5,14,10,2,9,44,0,23,50,2,19,10,10,Hapoel_Tel-Aviv,A,5,5,Ariel Bet Halahmi
+Team,,0,0,0,0,0,2,1,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,Ironi_Kiryat_Ata,A,1,1,Ariel Bet Halahmi
+Jalen Lecque,*,23,13,25,50,0,0,0,0,4,2,0,2,5,0,0,3,11,2,8,3,6,0,2,Ironi_Kiryat_Ata,A,1,1,Ariel Bet Halahmi
+Sandy Cohen,*,34,14,50,50,67,4,0,4,3,4,0,1,1,0,0,13,18,3,6,2,4,2,3,Ironi_Kiryat_Ata,A,1,1,Ariel Bet Halahmi
+Justyn Mutts,*,27,8,75,0,67,6,4,10,5,6,1,3,5,4,0,23,16,3,4,0,1,2,3,Ironi_Kiryat_Ata,A,1,1,Ariel Bet Halahmi
+JP Tokoto,*,35,14,46,0,40,7,3,10,2,4,3,1,3,0,2,18,23,6,13,0,1,2,5,Ironi_Kiryat_Ata,A,1,1,Ariel Bet Halahmi
+Armaan Franklin,,30,14,29,38,50,2,2,4,3,4,1,0,1,0,0,10,4,2,7,3,8,1,2,Ironi_Kiryat_Ata,A,1,1,Ariel Bet Halahmi
+Omer Hamama,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3,0,0,0,0,0,0,Ironi_Kiryat_Ata,A,1,1,Ariel Bet Halahmi
+Muriel Lutati,,24,11,25,60,0,4,2,6,3,1,1,1,4,0,1,13,6,1,4,3,5,0,0,Ironi_Kiryat_Ata,A,1,1,Ariel Bet Halahmi
+Eidan Alber,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,-3,0,0,0,2,0,0,Ironi_Kiryat_Ata,A,1,1,Ariel Bet Halahmi
+Noam Avivi,*,16,10,83,0,0,4,1,5,2,0,0,0,0,0,0,12,11,5,6,0,0,0,0,Ironi_Kiryat_Ata,A,1,1,Ariel Bet Halahmi
+Gilad Levy,,6,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-1,2,0,0,0,0,0,0,Ironi_Kiryat_Ata,A,1,1,Ariel Bet Halahmi
+Total,,200,84,46,41,47,29,13,42,23,21,6,8,19,4,3,92,0,22,48,11,27,7,15,Ironi_Kiryat_Ata,A,1,1,Ariel Bet Halahmi
+Team,,0,0,0,0,0,1,2,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,Be'er_Sheva_Dimona,A,3,3,Ariel Bet Halahmi
+Jalen Lecque,*,30,16,60,29,80,3,0,3,3,8,0,1,2,0,0,17,-7,3,5,2,7,4,5,Be'er_Sheva_Dimona,A,3,3,Ariel Bet Halahmi
+Sandy Cohen,*,32,10,50,33,0,3,1,4,3,0,0,2,2,0,0,5,-10,2,4,2,6,0,0,Be'er_Sheva_Dimona,A,3,3,Ariel Bet Halahmi
+Justyn Mutts,*,36,20,73,0,50,4,0,4,2,6,4,1,5,1,1,28,-3,8,11,0,1,4,8,Be'er_Sheva_Dimona,A,3,3,Ariel Bet Halahmi
+JP Tokoto,*,28,5,25,0,50,4,2,6,3,1,1,3,2,0,2,0,-4,2,8,0,0,1,2,Be'er_Sheva_Dimona,A,3,3,Ariel Bet Halahmi
+Armaan Franklin,*,16,2,25,0,0,3,1,4,0,1,2,1,1,0,1,4,-6,1,4,0,1,0,0,Be'er_Sheva_Dimona,A,3,3,Ariel Bet Halahmi
+Omer Hamama,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Be'er_Sheva_Dimona,A,3,3,Ariel Bet Halahmi
+Eyal Harel,,17,9,0,40,100,3,1,4,3,2,1,0,1,1,0,11,10,0,1,2,5,3,3,Be'er_Sheva_Dimona,A,3,3,Ariel Bet Halahmi
+Muriel Lutati,,22,0,0,0,0,1,1,2,3,2,1,4,5,0,0,-2,1,0,1,0,4,0,0,Be'er_Sheva_Dimona,A,3,3,Ariel Bet Halahmi
+Noam Avivi,,16,11,67,100,50,3,3,6,4,2,1,1,0,0,0,13,-2,2,3,2,2,1,2,Be'er_Sheva_Dimona,A,3,3,Ariel Bet Halahmi
+Gilad Levy,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,0,Be'er_Sheva_Dimona,A,3,3,Ariel Bet Halahmi
+Total,,200,73,49,31,65,25,11,36,21,22,10,13,18,2,4,79,0,18,37,8,26,13,20,Be'er_Sheva_Dimona,A,3,3,Ariel Bet Halahmi
+Team,,0,0,0,0,0,3,0,3,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,Maccabi_Ramat_Gan,A,12,12,Ariel Bet Halahmi
+Jalen Lecque,*,27,16,60,40,80,5,3,8,4,2,2,3,1,1,0,17,-4,3,5,2,5,4,5,Maccabi_Ramat_Gan,A,12,12,Ariel Bet Halahmi
+Sandy Cohen,*,29,8,25,50,0,2,1,3,5,1,2,0,3,0,0,5,-1,1,4,2,4,0,2,Maccabi_Ramat_Gan,A,12,12,Ariel Bet Halahmi
+Justyn Mutts,*,35,15,50,0,100,10,3,13,3,4,1,1,3,1,2,26,-2,5,10,0,0,5,5,Maccabi_Ramat_Gan,A,12,12,Ariel Bet Halahmi
+JP Tokoto,*,34,14,50,0,67,5,0,5,2,4,2,5,2,0,0,12,-12,5,10,0,1,4,6,Maccabi_Ramat_Gan,A,12,12,Ariel Bet Halahmi
+Omer Hamama,,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,-1,3,0,1,0,0,0,0,Maccabi_Ramat_Gan,A,12,12,Ariel Bet Halahmi
+Muriel Lutati,,22,3,100,0,50,0,0,0,2,2,2,2,3,0,0,2,3,1,1,0,3,1,2,Maccabi_Ramat_Gan,A,12,12,Ariel Bet Halahmi
+Noam Avivi,,7,0,0,0,0,1,0,1,1,0,0,0,0,0,0,-1,-8,0,0,0,1,0,0,Maccabi_Ramat_Gan,A,12,12,Ariel Bet Halahmi
+Gilad Levy,,6,0,0,0,0,0,0,0,2,0,1,0,0,0,0,-2,9,0,1,0,0,0,0,Maccabi_Ramat_Gan,A,12,12,Ariel Bet Halahmi
+J'Covan Brown,*,39,26,75,50,92,4,0,4,3,5,0,2,4,0,0,29,-3,3,4,3,6,11,12,Maccabi_Ramat_Gan,A,12,12,Ariel Bet Halahmi
+Total,,200,82,50,35,78,30,7,37,23,19,10,13,16,2,3,89,0,18,36,7,20,25,32,Maccabi_Ramat_Gan,A,12,12,Ariel Bet Halahmi
+Team,,0,0,0,0,0,1,5,6,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,Gilboa_Galil,H,6,6,Ariel Bet Halahmi
+Jalen Lecque,*,26,20,71,67,100,0,1,1,2,3,2,2,4,3,0,26,33,5,7,2,3,4,4,Gilboa_Galil,H,6,6,Ariel Bet Halahmi
+Sandy Cohen,*,29,15,60,60,0,2,0,2,1,0,0,1,1,1,1,12,25,3,5,3,5,0,0,Gilboa_Galil,H,6,6,Ariel Bet Halahmi
+Justyn Mutts,*,32,12,46,0,0,8,3,11,3,1,1,2,5,2,3,17,22,6,13,0,0,0,0,Gilboa_Galil,H,6,6,Ariel Bet Halahmi
+JP Tokoto,*,27,11,57,0,100,4,0,4,4,2,2,1,6,0,0,17,30,4,7,0,0,3,3,Gilboa_Galil,H,6,6,Ariel Bet Halahmi
+Armaan Franklin,,22,19,67,60,50,6,1,7,1,3,2,2,3,0,0,25,33,4,6,3,5,2,4,Gilboa_Galil,H,6,6,Ariel Bet Halahmi
+Omer Hamama,,3,1,0,0,50,0,0,0,0,1,0,0,0,0,0,0,-4,0,0,0,1,1,2,Gilboa_Galil,H,6,6,Ariel Bet Halahmi
+Eyal Harel,,12,4,50,0,67,1,0,1,3,1,1,0,1,0,0,2,3,1,2,0,1,2,3,Gilboa_Galil,H,6,6,Ariel Bet Halahmi
+Ori Ovadia,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-3,0,0,0,1,0,0,Gilboa_Galil,H,6,6,Ariel Bet Halahmi
+Muriel Lutati,,18,5,40,0,50,3,0,3,4,3,2,1,3,0,0,6,8,2,5,0,1,1,2,Gilboa_Galil,H,6,6,Ariel Bet Halahmi
+Eidan Alber,,5,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,-4,0,0,0,1,0,0,Gilboa_Galil,H,6,6,Ariel Bet Halahmi
+Noam Avivi,*,12,6,40,0,100,4,0,4,1,4,2,1,1,0,0,11,13,2,5,0,1,2,2,Gilboa_Galil,H,6,6,Ariel Bet Halahmi
+Gilad Levy,,12,3,33,0,100,2,1,3,5,2,0,1,0,2,0,2,14,1,3,0,0,1,1,Gilboa_Galil,H,6,6,Ariel Bet Halahmi
+Total,,200,96,53,42,76,32,11,43,24,20,12,11,24,8,4,123,0,28,53,8,19,16,21,Gilboa_Galil,H,6,6,Ariel Bet Halahmi
+Team,,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,Bnei_Herzliya,H,11,11,Ariel Bet Halahmi
+Jalen Lecque,*,15,21,100,67,100,1,1,2,4,2,1,2,1,0,0,19,0,3,3,4,6,3,3,Bnei_Herzliya,H,11,11,Ariel Bet Halahmi
+Sandy Cohen,*,34,9,67,0,100,3,0,3,3,5,1,3,3,3,0,15,14,2,3,0,2,5,5,Bnei_Herzliya,H,11,11,Ariel Bet Halahmi
+Justyn Mutts,*,36,31,76,0,71,6,2,8,3,6,0,0,5,2,1,42,17,13,17,0,0,5,7,Bnei_Herzliya,H,11,11,Ariel Bet Halahmi
+JP Tokoto,*,37,26,56,0,67,6,2,8,1,6,1,5,8,0,2,29,14,10,18,0,1,6,9,Bnei_Herzliya,H,11,11,Ariel Bet Halahmi
+Ori Atia,,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,-2,0,0,0,0,0,0,Bnei_Herzliya,H,11,11,Ariel Bet Halahmi
+Omer Hamama,,7,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,13,0,1,0,1,0,0,Bnei_Herzliya,H,11,11,Ariel Bet Halahmi
+Eyal Harel,,3,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-5,0,0,2,0,1,0,0,Bnei_Herzliya,H,11,11,Ariel Bet Halahmi
+Ori Ovadia,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Bnei_Herzliya,H,11,11,Ariel Bet Halahmi
+Muriel Lutati,,21,11,100,100,0,2,0,2,3,1,3,2,1,0,0,13,-1,4,4,1,1,0,0,Bnei_Herzliya,H,11,11,Ariel Bet Halahmi
+Noam Avivi,,7,2,50,0,0,0,1,1,3,0,0,0,1,0,0,-1,-1,1,2,0,1,0,0,Bnei_Herzliya,H,11,11,Ariel Bet Halahmi
+J'Covan Brown,*,38,11,43,33,67,8,0,8,3,6,2,3,11,0,0,25,16,3,7,1,3,2,3,Bnei_Herzliya,H,11,11,Ariel Bet Halahmi
+Total,,200,111,63,38,78,29,7,36,21,26,8,15,31,6,4,141,0,36,57,6,16,21,27,Bnei_Herzliya,H,11,11,Ariel Bet Halahmi
+Team,,0,0,0,0,0,3,1,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,Ness_Ziona,A,18,18,Ariel Bet Halahmi
+Jalen Lecque,*,26,18,56,25,71,1,1,2,5,5,1,5,3,0,1,9,-4,5,9,1,4,5,7,Ness_Ziona,A,18,18,Ariel Bet Halahmi
+Sandy Cohen,*,29,6,75,0,0,3,2,5,4,2,2,1,2,1,0,11,-16,3,4,0,1,0,0,Ness_Ziona,A,18,18,Ariel Bet Halahmi
+Justyn Mutts,*,31,12,43,33,50,5,1,6,1,3,3,5,1,2,0,12,-24,3,7,1,3,3,6,Ness_Ziona,A,18,18,Ariel Bet Halahmi
+JP Tokoto,*,29,7,25,50,0,3,1,4,2,3,1,2,1,0,0,4,-14,2,8,1,2,0,1,Ness_Ziona,A,18,18,Ariel Bet Halahmi
+Shizz Alston,,11,3,0,33,0,0,0,0,1,0,0,0,1,1,0,2,-13,0,0,1,3,0,0,Ness_Ziona,A,18,18,Ariel Bet Halahmi
+Muriel Lutati,,15,0,0,0,0,2,0,2,2,0,0,0,1,0,0,-1,6,0,0,0,2,0,0,Ness_Ziona,A,18,18,Ariel Bet Halahmi
+Noam Avivi,,14,4,0,33,50,1,1,2,3,1,0,0,0,0,0,1,-10,0,0,1,3,1,2,Ness_Ziona,A,18,18,Ariel Bet Halahmi
+Gilad Levy,,7,2,100,0,0,4,0,4,1,0,0,0,0,1,0,6,17,1,1,0,0,0,0,Ness_Ziona,A,18,18,Ariel Bet Halahmi
+J'Covan Brown,*,38,22,50,44,100,5,0,5,2,6,2,3,7,0,0,30,-7,2,4,4,9,6,6,Ness_Ziona,A,18,18,Ariel Bet Halahmi
+Total,,200,74,48,33,68,27,7,34,21,20,9,16,16,5,1,78,0,16,33,9,27,15,22,Ness_Ziona,A,18,18,Ariel Bet Halahmi
+Team,,0,0,0,0,0,3,1,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,Hapoel_Haifa,H,10,10,Ariel Bet Halahmi
+Jalen Lecque,*,35,19,64,17,67,3,1,4,3,2,2,5,6,0,1,14,14,7,11,1,6,2,3,Hapoel_Haifa,H,10,10,Ariel Bet Halahmi
+Sandy Cohen,*,33,7,100,25,0,2,0,2,2,1,3,2,4,0,0,9,14,2,2,1,4,0,1,Hapoel_Haifa,H,10,10,Ariel Bet Halahmi
+Justyn Mutts,*,25,6,25,0,50,5,6,11,3,3,1,0,3,1,0,13,10,2,8,0,1,2,4,Hapoel_Haifa,H,10,10,Ariel Bet Halahmi
+JP Tokoto,*,32,16,45,0,75,3,3,6,3,5,0,4,1,0,2,10,13,5,11,0,1,6,8,Hapoel_Haifa,H,10,10,Ariel Bet Halahmi
+Eyal Harel,,4,0,0,0,0,0,2,2,1,0,0,1,1,0,0,-1,0,0,1,0,1,0,0,Hapoel_Haifa,H,10,10,Ariel Bet Halahmi
+Muriel Lutati,,14,4,100,0,0,1,0,1,3,1,2,0,2,0,0,7,-1,2,2,0,0,0,0,Hapoel_Haifa,H,10,10,Ariel Bet Halahmi
+Noam Avivi,,17,9,33,67,50,5,0,5,2,1,0,1,0,0,0,8,-3,1,3,2,3,1,2,Hapoel_Haifa,H,10,10,Ariel Bet Halahmi
+Gilad Levy,,10,2,100,0,0,6,1,7,2,0,0,1,0,2,0,8,-1,1,1,0,0,0,0,Hapoel_Haifa,H,10,10,Ariel Bet Halahmi
+J'Covan Brown,*,30,23,62,60,67,4,1,5,2,5,1,1,1,0,0,25,14,5,8,3,5,4,6,Hapoel_Haifa,H,10,10,Ariel Bet Halahmi
+Total,,200,86,53,33,63,32,15,47,21,18,9,15,18,3,3,97,0,25,47,7,21,15,24,Hapoel_Haifa,H,10,10,Ariel Bet Halahmi
+Team,,0,0,0,0,0,2,3,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,Maccabi_Tel-Aviv,H,13,13,Ariel Bet Halahmi
+Jalen Lecque,*,35,19,56,50,60,8,1,9,4,6,2,3,5,0,0,26,-2,5,9,2,4,3,5,Maccabi_Tel-Aviv,H,13,13,Ariel Bet Halahmi
+Sandy Cohen,*,33,12,43,40,0,0,1,1,3,0,4,1,1,0,0,7,-10,3,7,2,5,0,0,Maccabi_Tel-Aviv,H,13,13,Ariel Bet Halahmi
+Justyn Mutts,*,33,21,64,0,33,3,3,6,4,6,1,2,4,2,0,22,-6,9,14,0,1,3,9,Maccabi_Tel-Aviv,H,13,13,Ariel Bet Halahmi
+JP Tokoto,*,32,8,40,0,36,3,2,5,2,7,2,1,1,0,0,10,-19,2,5,0,0,4,11,Maccabi_Tel-Aviv,H,13,13,Ariel Bet Halahmi
+Ori Atia,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,0,1,0,0,0,0,Maccabi_Tel-Aviv,H,13,13,Ariel Bet Halahmi
+Omer Hamama,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3,0,0,0,0,0,0,Maccabi_Tel-Aviv,H,13,13,Ariel Bet Halahmi
+Eyal Harel,,11,2,50,0,0,0,0,0,3,0,0,0,0,0,0,-2,-3,1,2,0,0,0,0,Maccabi_Tel-Aviv,H,13,13,Ariel Bet Halahmi
+Muriel Lutati,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,0,Maccabi_Tel-Aviv,H,13,13,Ariel Bet Halahmi
+Noam Avivi,,15,2,50,0,0,0,1,1,2,0,1,0,1,0,0,1,-6,1,2,0,1,0,0,Maccabi_Tel-Aviv,H,13,13,Ariel Bet Halahmi
+J'Covan Brown,*,36,11,80,25,0,5,0,5,2,4,1,5,9,0,0,19,-6,4,5,1,4,0,0,Maccabi_Tel-Aviv,H,13,13,Ariel Bet Halahmi
+Total,,200,75,56,33,40,21,11,32,20,23,11,12,21,2,0,87,0,25,45,5,15,10,25,Maccabi_Tel-Aviv,H,13,13,Ariel Bet Halahmi
+Team,,0,0,0,0,0,2,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Ironi_Kiryat_Ata,H,14,14,Ariel Bet Halahmi
+Jalen Lecque,*,28,23,56,50,67,2,1,3,3,5,3,2,3,1,0,24,-18,5,9,3,6,4,6,Ironi_Kiryat_Ata,H,14,14,Ariel Bet Halahmi
+Sandy Cohen,*,27,4,67,0,0,1,0,1,4,0,0,0,1,0,1,-2,-4,2,3,0,2,0,0,Ironi_Kiryat_Ata,H,14,14,Ariel Bet Halahmi
+Justyn Mutts,*,35,6,33,0,67,6,6,12,2,3,3,3,1,2,0,16,-7,2,6,0,1,2,3,Ironi_Kiryat_Ata,H,14,14,Ariel Bet Halahmi
+JP Tokoto,*,31,14,56,0,67,4,0,4,3,3,1,1,1,1,1,12,-5,5,9,0,1,4,6,Ironi_Kiryat_Ata,H,14,14,Ariel Bet Halahmi
+Omer Hamama,,9,3,0,50,0,0,0,0,1,0,0,0,1,0,0,2,5,0,0,1,2,0,0,Ironi_Kiryat_Ata,H,14,14,Ariel Bet Halahmi
+Eyal Harel,,9,5,0,25,100,2,2,4,4,1,0,0,1,0,1,1,0,0,2,1,4,2,2,Ironi_Kiryat_Ata,H,14,14,Ariel Bet Halahmi
+Muriel Lutati,,9,2,0,0,100,1,0,1,1,2,0,1,1,0,0,1,-11,0,0,0,3,2,2,Ironi_Kiryat_Ata,H,14,14,Ariel Bet Halahmi
+Noam Avivi,,10,2,33,0,0,0,1,1,1,0,0,0,1,0,0,-1,-7,1,3,0,2,0,0,Ironi_Kiryat_Ata,H,14,14,Ariel Bet Halahmi
+Gilad Levy,,4,2,33,0,0,0,4,4,0,1,1,0,1,0,0,7,-4,1,3,0,0,0,0,Ironi_Kiryat_Ata,H,14,14,Ariel Bet Halahmi
+J'Covan Brown,*,38,15,25,25,71,3,1,4,2,6,5,2,6,0,0,18,-9,2,8,2,8,5,7,Ironi_Kiryat_Ata,H,14,14,Ariel Bet Halahmi
+Total,,200,76,42,24,73,21,15,36,21,21,13,10,17,4,3,79,0,18,43,7,29,19,26,Ironi_Kiryat_Ata,H,14,14,Ariel Bet Halahmi
+Team,,0,0,0,0,0,2,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Elitzur_Netanya,A,2,2,Ariel Bet Halahmi
+Jalen Lecque,*,28,9,33,33,50,2,0,2,2,2,1,6,3,2,0,4,-2,1,3,2,6,1,2,Elitzur_Netanya,A,2,2,Ariel Bet Halahmi
+Sandy Cohen,*,30,21,75,60,100,3,0,3,2,3,2,2,0,0,0,22,-6,3,4,3,5,6,6,Elitzur_Netanya,A,2,2,Ariel Bet Halahmi
+Justyn Mutts,*,31,17,67,0,42,4,4,8,2,6,2,1,4,4,0,25,-6,6,9,0,3,5,12,Elitzur_Netanya,A,2,2,Ariel Bet Halahmi
+JP Tokoto,*,30,9,50,0,75,3,2,5,4,3,0,4,3,0,0,8,-10,3,6,0,0,3,4,Elitzur_Netanya,A,2,2,Ariel Bet Halahmi
+Armaan Franklin,,29,17,25,75,67,3,1,4,2,3,1,2,0,0,1,11,-13,2,8,3,4,4,6,Elitzur_Netanya,A,2,2,Ariel Bet Halahmi
+Omer Hamama,,6,2,100,0,0,1,1,2,1,2,0,1,0,0,0,0,-4,1,1,0,1,0,3,Elitzur_Netanya,A,2,2,Ariel Bet Halahmi
+Eyal Harel,,6,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,-1,0,0,0,0,0,0,Elitzur_Netanya,A,2,2,Ariel Bet Halahmi
+Muriel Lutati,,21,9,60,50,0,4,1,5,4,2,4,0,4,0,1,15,-4,3,5,1,2,0,1,Elitzur_Netanya,A,2,2,Ariel Bet Halahmi
+Eidan Alber,,3,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,4,0,0,0,0,0,0,Elitzur_Netanya,A,2,2,Ariel Bet Halahmi
+Noam Avivi,*,13,0,0,0,0,4,1,5,1,0,1,0,1,0,0,5,2,0,0,0,1,0,0,Elitzur_Netanya,A,2,2,Ariel Bet Halahmi
+Gilad Levy,,3,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Elitzur_Netanya,A,2,2,Ariel Bet Halahmi
+Total,,200,84,53,41,56,28,10,38,20,21,11,17,16,6,2,92,0,19,36,9,22,19,34,Elitzur_Netanya,A,2,2,Ariel Bet Halahmi
+Team,,0,0,0,0,0,5,1,6,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,Gilboa_Galil,A,16,16,Ariel Bet Halahmi
+Jalen Lecque,*,35,17,50,60,50,4,0,4,3,5,0,4,7,1,0,20,-2,3,6,3,5,2,4,Gilboa_Galil,A,16,16,Ariel Bet Halahmi
+Sandy Cohen,,23,3,0,25,0,3,0,3,2,1,1,0,2,1,0,6,-19,0,0,1,4,0,0,Gilboa_Galil,A,16,16,Ariel Bet Halahmi
+Justyn Mutts,*,34,15,83,0,83,10,3,13,1,3,1,1,2,2,0,31,4,5,6,0,1,5,6,Gilboa_Galil,A,16,16,Ariel Bet Halahmi
+JP Tokoto,*,34,17,50,0,56,4,1,5,3,7,2,4,2,0,0,16,-3,6,12,0,0,5,9,Gilboa_Galil,A,16,16,Ariel Bet Halahmi
+Omer Hamama,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3,0,0,0,0,0,0,Gilboa_Galil,A,16,16,Ariel Bet Halahmi
+Eyal Harel,*,8,0,0,0,0,0,1,1,2,1,0,0,1,0,0,-3,-10,0,1,0,1,0,2,Gilboa_Galil,A,16,16,Ariel Bet Halahmi
+Muriel Lutati,,19,8,100,67,0,2,1,3,5,0,0,1,2,0,0,6,14,1,1,2,3,0,0,Gilboa_Galil,A,16,16,Ariel Bet Halahmi
+Eidan Alber,,3,2,100,0,0,1,0,1,1,1,0,0,0,0,0,1,-1,1,1,0,1,0,1,Gilboa_Galil,A,16,16,Ariel Bet Halahmi
+Noam Avivi,,10,0,0,0,0,1,1,2,0,0,0,0,2,0,1,0,-13,0,1,0,2,0,0,Gilboa_Galil,A,16,16,Ariel Bet Halahmi
+J'Covan Brown,*,33,14,57,17,100,3,0,3,3,3,1,2,2,0,0,10,-7,4,7,1,6,3,3,Gilboa_Galil,A,16,16,Ariel Bet Halahmi
+Total,,200,76,57,30,60,33,8,41,20,21,5,12,20,4,1,93,0,20,35,7,23,15,25,Gilboa_Galil,A,16,16,Ariel Bet Halahmi
+Team,,0,0,0,0,0,2,2,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,Maccabi_Tel-Aviv,A,19,19,Ariel Bet Halahmi
+Jalen Lecque,*,19,11,25,40,50,2,0,2,1,2,1,0,3,0,0,8,-4,2,8,2,5,1,2,Maccabi_Tel-Aviv,A,19,19,Ariel Bet Halahmi
+Sandy Cohen,*,34,13,100,43,100,5,0,5,2,2,2,2,5,0,0,19,2,1,1,3,7,2,2,Maccabi_Tel-Aviv,A,19,19,Ariel Bet Halahmi
+Justyn Mutts,*,28,14,60,0,50,10,1,11,3,4,0,2,5,1,1,21,10,6,10,0,2,2,4,Maccabi_Tel-Aviv,A,19,19,Ariel Bet Halahmi
+JP Tokoto,*,24,16,67,0,0,2,4,6,4,1,1,3,1,0,0,14,-3,8,12,0,0,0,0,Maccabi_Tel-Aviv,A,19,19,Ariel Bet Halahmi
+Muriel Lutati,,12,10,50,100,100,0,1,1,3,1,1,2,0,0,0,7,2,1,2,2,2,2,2,Maccabi_Tel-Aviv,A,19,19,Ariel Bet Halahmi
+Eidan Alber,,16,5,0,100,50,2,3,5,1,4,1,0,1,0,0,12,-9,0,1,1,1,2,4,Maccabi_Tel-Aviv,A,19,19,Ariel Bet Halahmi
+Noam Avivi,,23,6,75,0,0,4,2,6,4,0,0,0,2,0,0,5,-8,3,4,0,4,0,0,Maccabi_Tel-Aviv,A,19,19,Ariel Bet Halahmi
+Gilad Levy,,7,3,50,0,50,2,1,3,1,1,0,0,0,0,0,4,-6,1,2,0,0,1,2,Maccabi_Tel-Aviv,A,19,19,Ariel Bet Halahmi
+J'Covan Brown,*,37,11,0,50,100,0,0,0,4,1,0,2,8,0,1,6,1,0,4,3,6,2,2,Maccabi_Tel-Aviv,A,19,19,Ariel Bet Halahmi
+Total,,200,89,50,41,67,29,14,43,23,16,6,11,25,1,2,100,0,22,44,11,27,12,18,Maccabi_Tel-Aviv,A,19,19,Ariel Bet Halahmi
+Team,,0,0,0,0,0,2,4,6,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,Hapoel_Galil_Elion,H,15,15,Ariel Bet Halahmi
+Jalen Lecque,*,28,12,30,0,75,6,0,6,2,6,3,1,3,2,1,15,14,3,10,0,4,6,8,Hapoel_Galil_Elion,H,15,15,Ariel Bet Halahmi
+Sandy Cohen,,9,2,100,0,0,2,0,2,0,0,1,1,0,0,0,3,11,1,1,0,1,0,0,Hapoel_Galil_Elion,H,15,15,Ariel Bet Halahmi
+Justyn Mutts,*,30,15,62,0,62,7,5,12,1,4,1,1,2,0,2,24,19,5,8,0,0,5,8,Hapoel_Galil_Elion,H,15,15,Ariel Bet Halahmi
+JP Tokoto,*,29,18,55,0,75,3,1,4,3,5,2,4,3,0,1,17,9,6,11,0,0,6,8,Hapoel_Galil_Elion,H,15,15,Ariel Bet Halahmi
+Eyal Harel,*,21,5,50,0,100,2,1,3,1,1,0,2,1,1,0,5,17,2,4,0,1,1,1,Hapoel_Galil_Elion,H,15,15,Ariel Bet Halahmi
+Muriel Lutati,,22,10,67,67,0,2,1,3,4,0,1,2,4,0,0,10,6,2,3,2,3,0,0,Hapoel_Galil_Elion,H,15,15,Ariel Bet Halahmi
+Eidan Alber,,10,2,33,0,0,2,2,4,3,0,0,0,1,0,0,0,6,1,3,0,2,0,0,Hapoel_Galil_Elion,H,15,15,Ariel Bet Halahmi
+Noam Avivi,,18,4,67,0,0,2,2,4,1,0,0,2,0,0,0,3,4,2,3,0,1,0,0,Hapoel_Galil_Elion,H,15,15,Ariel Bet Halahmi
+Gilad Levy,,3,2,100,0,0,1,0,1,1,0,1,0,0,0,0,3,7,1,1,0,0,0,0,Hapoel_Galil_Elion,H,15,15,Ariel Bet Halahmi
+J'Covan Brown,*,30,17,50,25,89,4,3,7,3,5,2,3,6,0,1,23,17,3,6,1,4,8,9,Hapoel_Galil_Elion,H,15,15,Ariel Bet Halahmi
+Total,,200,87,52,19,76,33,19,52,19,21,11,16,20,3,5,109,0,26,50,3,16,26,34,Hapoel_Galil_Elion,H,15,15,Ariel Bet Halahmi
+Team,,0,0,0,0,0,3,1,4,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,Hapoel_Tel-Aviv,H,17,17,Ariel Bet Halahmi
+Jalen Lecque,*,34,15,31,50,50,5,1,6,4,5,2,3,4,0,1,12,-17,4,13,2,4,1,2,Hapoel_Tel-Aviv,H,17,17,Ariel Bet Halahmi
+Sandy Cohen,*,15,8,100,50,0,1,0,1,2,0,0,1,0,1,0,5,-4,1,1,2,4,0,0,Hapoel_Tel-Aviv,H,17,17,Ariel Bet Halahmi
+Justyn Mutts,*,32,12,36,50,25,4,1,5,2,4,3,2,1,1,2,9,-16,4,11,1,2,1,4,Hapoel_Tel-Aviv,H,17,17,Ariel Bet Halahmi
+JP Tokoto,*,27,7,100,0,75,4,3,7,3,2,1,3,3,0,0,12,-21,2,2,0,1,3,4,Hapoel_Tel-Aviv,H,17,17,Ariel Bet Halahmi
+Omer Hamama,,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-2,-10,0,1,0,0,0,0,Hapoel_Tel-Aviv,H,17,17,Ariel Bet Halahmi
+Eyal Harel,,7,2,100,0,0,0,0,0,3,0,0,0,0,0,0,-1,-2,1,1,0,0,0,0,Hapoel_Tel-Aviv,H,17,17,Ariel Bet Halahmi
+Ori Ovadia,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,Hapoel_Tel-Aviv,H,17,17,Ariel Bet Halahmi
+Muriel Lutati,,22,8,100,0,100,1,0,1,2,4,0,3,2,0,0,8,-18,2,2,0,2,4,4,Hapoel_Tel-Aviv,H,17,17,Ariel Bet Halahmi
+Eidan Alber,,2,0,0,0,0,1,0,1,0,0,0,0,1,0,1,0,2,0,1,0,0,0,0,Hapoel_Tel-Aviv,H,17,17,Ariel Bet Halahmi
+Noam Avivi,,21,7,50,0,50,5,2,7,2,2,0,0,2,0,2,10,-13,3,6,0,0,1,2,Hapoel_Tel-Aviv,H,17,17,Ariel Bet Halahmi
+J'Covan Brown,*,32,15,60,33,100,5,0,5,1,4,0,5,3,0,0,17,-25,3,5,1,3,6,6,Hapoel_Tel-Aviv,H,17,17,Ariel Bet Halahmi
+Total,,200,74,47,38,73,29,8,37,21,21,6,19,16,2,6,71,0,20,43,6,16,16,22,Hapoel_Tel-Aviv,H,17,17,Ariel Bet Halahmi
+Team,,0,0,0,0,0,1,1,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,Hapoel_Jerusalem,H,21,21,Ariel Bet Halahmi
+Sandy Cohen,*,34,18,57,50,80,6,1,7,3,4,0,1,1,1,0,21,1,4,7,2,4,4,5,Hapoel_Jerusalem,H,21,21,Ariel Bet Halahmi
+Justyn Mutts,*,33,15,58,0,100,7,4,11,4,2,1,3,1,2,1,18,18,7,12,0,1,1,1,Hapoel_Jerusalem,H,21,21,Ariel Bet Halahmi
+JP Tokoto,*,30,8,38,0,33,3,4,7,2,3,0,2,3,0,0,8,-1,3,8,0,0,2,6,Hapoel_Jerusalem,H,21,21,Ariel Bet Halahmi
+Eyal Harel,,18,2,33,0,0,6,2,8,3,0,1,0,0,0,1,4,7,1,3,0,1,0,0,Hapoel_Jerusalem,H,21,21,Ariel Bet Halahmi
+Muriel Lutati,*,31,8,60,0,100,1,1,2,4,3,3,2,5,0,1,7,-6,3,5,0,5,2,2,Hapoel_Jerusalem,H,21,21,Ariel Bet Halahmi
+Eidan Alber,,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,-4,0,1,0,0,0,0,Hapoel_Jerusalem,H,21,21,Ariel Bet Halahmi
+Noam Avivi,,16,8,50,100,0,0,1,1,2,0,0,0,0,0,0,6,-13,1,2,2,2,0,0,Hapoel_Jerusalem,H,21,21,Ariel Bet Halahmi
+J'Covan Brown,*,37,25,50,50,100,2,0,2,2,4,2,4,8,0,0,27,8,4,8,4,8,5,5,Hapoel_Jerusalem,H,21,21,Ariel Bet Halahmi
+Total,,200,84,50,38,74,26,15,41,20,16,7,14,18,3,3,91,0,23,46,8,21,14,19,Hapoel_Jerusalem,H,21,21,Ariel Bet Halahmi
+Team,,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Maccabi_Ramat_Gan,H,20,20,Ariel Bet Halahmi
+Sandy Cohen,*,28,5,50,25,0,5,0,5,3,1,1,4,2,2,0,5,-15,1,2,1,4,0,0,Maccabi_Ramat_Gan,H,20,20,Ariel Bet Halahmi
+Justyn Mutts,*,30,19,50,100,33,3,2,5,1,5,1,4,3,2,1,21,-15,4,8,3,3,2,6,Maccabi_Ramat_Gan,H,20,20,Ariel Bet Halahmi
+JP Tokoto,*,26,16,64,0,100,3,2,5,3,4,1,2,1,0,0,18,-13,7,11,0,0,2,2,Maccabi_Ramat_Gan,H,20,20,Ariel Bet Halahmi
+Omer Hamama,,6,0,0,0,0,0,1,1,1,0,0,0,2,0,0,2,-9,0,0,0,0,0,0,Maccabi_Ramat_Gan,H,20,20,Ariel Bet Halahmi
+Eyal Harel,,12,2,50,0,0,3,1,4,4,0,0,1,0,1,0,-1,0,1,2,0,2,0,0,Maccabi_Ramat_Gan,H,20,20,Ariel Bet Halahmi
+Muriel Lutati,,26,7,29,33,0,3,0,3,3,1,3,1,4,0,0,7,-3,2,7,1,3,0,0,Maccabi_Ramat_Gan,H,20,20,Ariel Bet Halahmi
+Eidan Alber,*,9,0,0,0,0,2,0,2,2,1,0,1,0,0,0,-2,-7,0,1,0,1,0,0,Maccabi_Ramat_Gan,H,20,20,Ariel Bet Halahmi
+Noam Avivi,,25,7,100,33,0,4,1,5,2,0,0,0,0,0,0,8,-3,2,2,1,3,0,0,Maccabi_Ramat_Gan,H,20,20,Ariel Bet Halahmi
+Gilad Levy,,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-1,-3,0,0,0,0,0,0,Maccabi_Ramat_Gan,H,20,20,Ariel Bet Halahmi
+J'Covan Brown,*,34,12,56,0,100,3,0,3,1,4,0,1,7,0,0,14,-12,5,9,0,6,2,2,Maccabi_Ramat_Gan,H,20,20,Ariel Bet Halahmi
+Total,,200,68,52,27,60,27,7,34,20,16,6,16,19,5,1,71,0,22,42,6,22,6,10,Maccabi_Ramat_Gan,H,20,20,Ariel Bet Halahmi
+Team,,0,0,0,0,0,1,0,1,1,0,0,2,0,0,0,-2,0,0,0,0,0,0,0,Be'er_Sheva_Dimona,H,25,25,Ariel Bet Halahmi
+Sandy Cohen,*,29,8,80,0,0,7,0,7,3,0,0,0,1,0,0,10,1,4,5,0,2,0,0,Be'er_Sheva_Dimona,H,25,25,Ariel Bet Halahmi
+Justyn Mutts,*,33,13,56,0,100,4,2,6,3,3,0,2,1,3,0,16,1,5,9,0,1,3,3,Be'er_Sheva_Dimona,H,25,25,Ariel Bet Halahmi
+El Ellis,,29,16,57,20,71,0,0,0,3,4,0,4,1,0,0,5,3,4,7,1,5,5,7,Be'er_Sheva_Dimona,H,25,25,Ariel Bet Halahmi
+JP Tokoto,*,28,14,56,0,67,4,4,8,5,3,2,1,3,0,1,17,2,5,9,0,0,4,6,Be'er_Sheva_Dimona,H,25,25,Ariel Bet Halahmi
+Eyal Harel,,9,0,0,0,0,0,0,0,1,0,1,0,0,0,0,-1,-4,0,0,0,1,0,0,Be'er_Sheva_Dimona,H,25,25,Ariel Bet Halahmi
+Muriel Lutati,*,13,12,100,100,100,3,0,3,1,2,1,2,1,0,0,16,-4,4,4,1,1,1,1,Be'er_Sheva_Dimona,H,25,25,Ariel Bet Halahmi
+Eidan Alber,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Be'er_Sheva_Dimona,H,25,25,Ariel Bet Halahmi
+Noam Avivi,,22,5,100,100,0,5,1,6,4,1,0,1,3,0,0,10,5,1,1,1,1,0,0,Be'er_Sheva_Dimona,H,25,25,Ariel Bet Halahmi
+Gilad Levy,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8,0,0,0,0,0,0,Be'er_Sheva_Dimona,H,25,25,Ariel Bet Halahmi
+J'Covan Brown,*,35,24,60,50,75,4,0,4,3,3,2,1,4,0,0,25,-1,6,10,3,6,3,4,Be'er_Sheva_Dimona,H,25,25,Ariel Bet Halahmi
+Total,,200,92,64,35,76,28,7,35,24,16,6,13,14,3,1,96,0,29,45,6,17,16,21,Be'er_Sheva_Dimona,H,25,25,Ariel Bet Halahmi
+Team,,0,0,0,0,0,5,2,7,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,Hapoel_Holon,H,24,24,Ariel Bet Halahmi
+Sandy Cohen,*,21,0,0,0,0,0,1,1,1,1,0,2,1,2,0,-4,-19,0,0,0,6,0,0,Hapoel_Holon,H,24,24,Ariel Bet Halahmi
+Justyn Mutts,*,38,12,56,0,40,8,0,8,1,7,6,2,3,3,0,29,8,5,9,0,0,2,5,Hapoel_Holon,H,24,24,Ariel Bet Halahmi
+El Ellis,*,35,17,67,17,67,2,1,3,3,4,1,2,3,0,0,14,24,6,9,1,6,2,3,Hapoel_Holon,H,24,24,Ariel Bet Halahmi
+JP Tokoto,*,32,19,54,0,62,4,7,11,3,5,2,4,3,0,3,21,1,7,13,0,0,5,8,Hapoel_Holon,H,24,24,Ariel Bet Halahmi
+Ori Atia,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Hapoel_Holon,H,24,24,Ariel Bet Halahmi
+Eyal Harel,,14,4,100,0,0,2,4,6,2,1,0,1,2,0,0,10,19,2,2,0,0,0,0,Hapoel_Holon,H,24,24,Ariel Bet Halahmi
+Ori Ovadia,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Hapoel_Holon,H,24,24,Ariel Bet Halahmi
+Muriel Lutati,*,14,2,33,0,0,0,0,0,3,1,0,3,0,0,0,-7,-16,1,3,0,2,0,0,Hapoel_Holon,H,24,24,Ariel Bet Halahmi
+Noam Avivi,,24,11,100,60,0,4,2,6,2,1,0,3,5,0,0,16,18,1,1,3,5,0,0,Hapoel_Holon,H,24,24,Ariel Bet Halahmi
+Gilad Levy,,5,2,50,0,0,1,2,3,0,0,0,1,0,0,0,3,1,1,2,0,0,0,0,Hapoel_Holon,H,24,24,Ariel Bet Halahmi
+J'Covan Brown,,41,19,57,33,100,5,0,5,1,2,3,0,5,0,1,23,12,4,7,3,9,2,2,Hapoel_Holon,H,24,24,Ariel Bet Halahmi
+Total,,225,86,59,25,61,31,19,50,16,22,12,18,22,5,4,112,0,27,46,7,28,11,18,Hapoel_Holon,H,24,24,Ariel Bet Halahmi
+Team,,0,0,0,0,0,1,2,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,Bnei_Herzliya,A,26,26,Ariel Bet Halahmi
+Sandy Cohen,*,26,8,60,0,100,1,1,2,2,1,0,0,2,1,0,7,-11,3,5,0,3,2,2,Bnei_Herzliya,A,26,26,Ariel Bet Halahmi
+Justyn Mutts,*,31,23,85,0,25,5,2,7,5,4,1,3,2,0,0,24,-11,11,13,0,0,1,4,Bnei_Herzliya,A,26,26,Ariel Bet Halahmi
+El Ellis,*,31,9,80,0,33,7,1,8,1,3,1,3,4,0,0,16,-13,4,5,0,2,1,3,Bnei_Herzliya,A,26,26,Ariel Bet Halahmi
+JP Tokoto,*,31,18,42,0,67,3,3,6,1,3,0,3,2,0,1,12,-14,8,19,0,0,2,3,Bnei_Herzliya,A,26,26,Ariel Bet Halahmi
+Ori Atia,,1,2,100,0,0,0,0,0,0,0,0,0,0,0,0,2,10,1,1,0,0,0,0,Bnei_Herzliya,A,26,26,Ariel Bet Halahmi
+Eyal Harel,,6,2,100,0,0,2,0,2,2,0,1,0,0,0,0,2,7,1,1,0,1,0,0,Bnei_Herzliya,A,26,26,Ariel Bet Halahmi
+Eidan Alber,,16,6,67,0,100,0,0,0,1,2,1,0,2,0,0,8,15,2,3,0,1,2,2,Bnei_Herzliya,A,26,26,Ariel Bet Halahmi
+Noam Avivi,,23,7,50,0,100,1,1,2,4,1,0,2,1,0,1,0,1,3,6,0,1,1,1,Bnei_Herzliya,A,26,26,Ariel Bet Halahmi
+J'Covan Brown,*,35,17,33,50,100,6,1,7,2,3,1,0,13,0,0,33,-19,1,3,4,8,3,3,Bnei_Herzliya,A,26,26,Ariel Bet Halahmi
+Total,,200,92,61,25,67,26,11,37,18,17,5,11,26,1,2,107,0,34,56,4,16,12,18,Bnei_Herzliya,A,26,26,Ariel Bet Halahmi
+Team,,0,0,0,0,0,2,1,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,Ironi_Kiryat_Ata,A,29,29,Ariel Bet Halahmi
+Sandy Cohen,,31,7,100,33,50,4,1,5,1,4,2,2,0,2,0,13,2,1,1,1,3,2,4,Ironi_Kiryat_Ata,A,29,29,Ariel Bet Halahmi
+Justyn Mutts,*,39,16,88,0,50,2,6,8,1,3,4,3,6,2,0,31,11,7,8,0,1,2,4,Ironi_Kiryat_Ata,A,29,29,Ariel Bet Halahmi
+El Ellis,*,36,21,50,33,100,2,1,3,1,3,1,2,3,0,1,16,12,5,10,3,9,2,2,Ironi_Kiryat_Ata,A,29,29,Ariel Bet Halahmi
+JP Tokoto,*,32,28,56,100,88,5,2,7,5,6,2,3,1,0,0,28,12,9,16,1,1,7,8,Ironi_Kiryat_Ata,A,29,29,Ariel Bet Halahmi
+Eyal Harel,,6,0,0,0,0,0,0,0,2,0,0,0,0,1,0,-2,4,0,0,0,1,0,0,Ironi_Kiryat_Ata,A,29,29,Ariel Bet Halahmi
+Muriel Lutati,,27,9,100,25,0,2,0,2,4,2,1,5,3,0,0,5,10,3,3,1,4,0,0,Ironi_Kiryat_Ata,A,29,29,Ariel Bet Halahmi
+Noam Avivi,*,13,1,0,0,50,1,2,3,4,1,0,0,0,0,1,-7,2,0,2,0,4,1,2,Ironi_Kiryat_Ata,A,29,29,Ariel Bet Halahmi
+Gilad Levy,,4,0,0,0,0,2,0,2,1,0,0,0,0,0,0,1,-6,0,0,0,0,0,0,Ironi_Kiryat_Ata,A,29,29,Ariel Bet Halahmi
+J'Covan Brown,*,12,4,0,0,100,3,1,4,0,2,2,0,4,0,0,14,-2,0,1,0,1,4,4,Ironi_Kiryat_Ata,A,29,29,Ariel Bet Halahmi
+Total,,200,86,61,25,75,23,14,37,19,21,12,15,17,5,2,102,0,25,41,6,24,18,24,Ironi_Kiryat_Ata,A,29,29,Ariel Bet Halahmi
+Team,,0,0,0,0,0,1,4,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,Hapoel_Haifa,A,22,22,Ariel Bet Halahmi
+Jalen Lecque,,8,4,100,0,0,1,0,1,0,0,0,0,1,0,0,5,-4,2,2,0,1,0,0,Hapoel_Haifa,A,22,22,Ariel Bet Halahmi
+Sandy Cohen,*,33,9,50,29,50,0,0,0,3,2,0,0,1,0,0,2,-18,1,2,2,7,1,2,Hapoel_Haifa,A,22,22,Ariel Bet Halahmi
+Justyn Mutts,*,31,23,60,50,100,4,2,6,4,6,4,1,3,2,0,32,-16,9,15,1,2,2,2,Hapoel_Haifa,A,22,22,Ariel Bet Halahmi
+JP Tokoto,*,28,15,50,0,56,3,4,7,1,8,2,5,3,0,0,20,-23,5,10,0,0,5,9,Hapoel_Haifa,A,22,22,Ariel Bet Halahmi
+Eyal Harel,,15,2,100,0,0,1,0,1,1,2,0,1,0,0,0,0,-3,1,1,0,2,0,1,Hapoel_Haifa,A,22,22,Ariel Bet Halahmi
+Ori Ovadia,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Hapoel_Haifa,A,22,22,Ariel Bet Halahmi
+Muriel Lutati,*,25,4,29,0,0,4,0,4,4,1,1,3,2,0,3,-7,-12,2,7,0,4,0,0,Hapoel_Haifa,A,22,22,Ariel Bet Halahmi
+Eidan Alber,,8,5,0,50,100,0,0,0,1,1,1,0,1,0,0,5,-4,0,1,1,2,2,2,Hapoel_Haifa,A,22,22,Ariel Bet Halahmi
+Noam Avivi,,19,13,80,33,100,3,1,4,2,1,1,0,2,0,1,15,2,4,5,1,3,2,2,Hapoel_Haifa,A,22,22,Ariel Bet Halahmi
+Gilad Levy,,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1,-4,0,0,0,0,0,2,Hapoel_Haifa,A,22,22,Ariel Bet Halahmi
+J'Covan Brown,*,28,2,50,0,0,3,0,3,1,2,0,2,10,0,0,8,-18,1,2,0,5,0,0,Hapoel_Haifa,A,22,22,Ariel Bet Halahmi
+Total,,200,77,56,19,60,20,11,31,17,24,9,12,23,2,4,84,0,25,45,5,26,12,20,Hapoel_Haifa,A,22,22,Ariel Bet Halahmi
+Team,,0,0,0,0,0,6,0,6,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,Ironi_Kiryat_Ata,H,30,30,Ariel Bet Halahmi
+Sandy Cohen,,30,9,100,40,100,1,2,3,3,1,1,3,1,0,0,6,-5,1,1,2,5,1,1,Ironi_Kiryat_Ata,H,30,30,Ariel Bet Halahmi
+Justyn Mutts,*,38,8,38,0,50,6,2,8,3,2,2,2,2,1,0,11,-7,3,8,0,0,2,4,Ironi_Kiryat_Ata,H,30,30,Ariel Bet Halahmi
+El Ellis,*,39,16,57,18,50,2,0,2,2,4,3,3,5,0,0,11,-1,4,7,2,11,2,4,Ironi_Kiryat_Ata,H,30,30,Ariel Bet Halahmi
+JP Tokoto,*,40,14,45,0,57,6,1,7,2,5,2,3,3,1,0,18,-7,5,11,0,0,4,7,Ironi_Kiryat_Ata,H,30,30,Ariel Bet Halahmi
+Ben Shungu,*,31,8,14,50,0,2,1,3,4,4,1,1,3,0,1,5,-1,1,7,2,4,0,0,Ironi_Kiryat_Ata,H,30,30,Ariel Bet Halahmi
+Eyal Harel,,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-1,2,0,0,0,0,0,0,Ironi_Kiryat_Ata,H,30,30,Ariel Bet Halahmi
+Muriel Lutati,,23,4,100,0,0,2,0,2,2,1,1,3,3,0,0,1,-3,2,2,0,5,0,0,Ironi_Kiryat_Ata,H,30,30,Ariel Bet Halahmi
+Noam Avivi,*,17,6,100,0,0,3,2,5,2,0,0,0,1,0,0,8,-1,3,3,0,2,0,0,Ironi_Kiryat_Ata,H,30,30,Ariel Bet Halahmi
+Gilad Levy,,5,4,100,0,0,3,0,3,1,0,1,0,0,0,0,7,8,2,2,0,0,0,0,Ironi_Kiryat_Ata,H,30,30,Ariel Bet Halahmi
+Total,,225,69,51,22,56,31,8,39,20,17,11,15,18,2,1,72,0,21,41,6,27,9,16,Ironi_Kiryat_Ata,H,30,30,Ariel Bet Halahmi
+Team,,0,0,0,0,0,2,1,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,Elitzur_Netanya,H,23,23,Ariel Bet Halahmi
+Sandy Cohen,*,37,15,67,33,100,4,1,5,3,2,1,1,3,2,0,17,16,2,3,3,9,2,2,Elitzur_Netanya,H,23,23,Ariel Bet Halahmi
+Justyn Mutts,*,23,12,43,0,67,5,2,7,5,6,1,4,2,1,1,12,19,3,7,0,0,6,9,Elitzur_Netanya,H,23,23,Ariel Bet Halahmi
+El Ellis,,21,13,67,40,75,1,0,1,2,3,0,1,0,0,0,9,-5,2,3,2,5,3,4,Elitzur_Netanya,H,23,23,Ariel Bet Halahmi
+JP Tokoto,*,29,12,50,0,0,6,3,9,2,2,3,1,5,0,0,21,8,6,12,0,1,0,0,Elitzur_Netanya,H,23,23,Ariel Bet Halahmi
+Muriel Lutati,*,32,13,67,0,50,5,0,5,3,2,6,3,3,0,1,16,3,6,9,0,2,1,2,Elitzur_Netanya,H,23,23,Ariel Bet Halahmi
+Noam Avivi,,24,13,50,75,0,3,1,4,0,0,0,1,2,0,1,14,-8,2,4,3,4,0,0,Elitzur_Netanya,H,23,23,Ariel Bet Halahmi
+J'Covan Brown,*,34,8,14,50,0,4,1,5,3,2,0,2,8,1,0,11,7,1,7,2,4,0,0,Elitzur_Netanya,H,23,23,Ariel Bet Halahmi
+Total,,199,86,49,40,71,30,9,39,18,17,11,13,23,4,3,103,0,22,45,10,25,12,17,Elitzur_Netanya,H,23,23,Ariel Bet Halahmi
+Team,,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Hapoel_Haifa,H,27,27,Ariel Bet Halahmi
+Sandy Cohen,*,32,15,80,40,50,5,1,6,4,4,1,1,2,3,0,21,-4,4,5,2,5,1,2,Hapoel_Haifa,H,27,27,Ariel Bet Halahmi
+Justyn Mutts,*,36,13,50,0,100,7,3,10,2,3,2,3,5,2,1,24,0,5,10,0,0,3,3,Hapoel_Haifa,H,27,27,Ariel Bet Halahmi
+El Ellis,*,38,23,67,30,67,1,0,1,0,7,0,2,4,0,0,21,-6,4,6,3,10,6,9,Hapoel_Haifa,H,27,27,Ariel Bet Halahmi
+JP Tokoto,*,35,12,55,0,0,5,5,10,3,1,1,3,5,0,0,18,0,6,11,0,0,0,0,Hapoel_Haifa,H,27,27,Ariel Bet Halahmi
+Ori Atia,,5,0,0,0,0,1,0,1,3,0,0,0,1,0,0,-2,-3,0,0,0,1,0,0,Hapoel_Haifa,H,27,27,Ariel Bet Halahmi
+Ben Shungu,,30,12,50,0,75,3,0,3,2,5,3,2,2,1,0,12,15,3,6,0,5,6,8,Hapoel_Haifa,H,27,27,Ariel Bet Halahmi
+Eyal Harel,*,10,5,50,50,0,0,2,2,2,0,0,2,0,0,0,1,-10,1,2,1,2,0,0,Hapoel_Haifa,H,27,27,Ariel Bet Halahmi
+Eidan Alber,,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,Hapoel_Haifa,H,27,27,Ariel Bet Halahmi
+Noam Avivi,,13,8,50,50,0,4,1,5,1,0,0,0,1,0,0,10,-2,1,2,2,4,0,0,Hapoel_Haifa,H,27,27,Ariel Bet Halahmi
+Total,,200,88,57,30,73,26,13,39,19,20,7,13,20,6,1,104,0,24,42,8,27,16,22,Hapoel_Haifa,H,27,27,Ariel Bet Halahmi
+Team,,0,0,0,0,0,2,3,5,0,0,0,3,0,0,0,2,0,0,0,0,0,0,0,Elitzur_Netanya,A,28,28,Ariel Bet Halahmi
+Sandy Cohen,*,14,3,0,33,0,3,0,3,1,0,2,1,0,0,0,3,-9,0,1,1,3,0,0,Elitzur_Netanya,A,28,28,Ariel Bet Halahmi
+Justyn Mutts,*,19,1,0,0,50,4,4,8,4,3,0,3,3,1,0,4,-14,0,3,0,1,1,2,Elitzur_Netanya,A,28,28,Ariel Bet Halahmi
+El Ellis,,24,7,40,33,0,0,0,0,5,1,0,0,3,0,0,1,1,2,5,1,3,0,0,Elitzur_Netanya,A,28,28,Ariel Bet Halahmi
+JP Tokoto,*,31,12,67,0,100,2,0,2,2,2,2,1,7,0,0,20,2,4,6,0,0,4,4,Elitzur_Netanya,A,28,28,Ariel Bet Halahmi
+Ori Atia,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,Elitzur_Netanya,A,28,28,Ariel Bet Halahmi
+Eyal Harel,,25,12,67,40,67,2,1,3,3,3,1,1,1,0,0,11,5,2,3,2,5,2,3,Elitzur_Netanya,A,28,28,Ariel Bet Halahmi
+Muriel Lutati,*,21,5,0,25,100,0,2,2,3,3,1,4,0,0,0,-1,-6,0,2,1,4,2,2,Elitzur_Netanya,A,28,28,Ariel Bet Halahmi
+Noam Avivi,,11,5,100,0,100,1,0,1,1,1,0,0,0,0,0,4,-14,2,2,0,2,1,1,Elitzur_Netanya,A,28,28,Ariel Bet Halahmi
+Gilad Levy,,19,8,100,0,50,6,1,7,1,3,0,0,0,1,0,16,15,3,3,0,0,2,4,Elitzur_Netanya,A,28,28,Ariel Bet Halahmi
+J'Covan Brown,*,35,23,86,33,67,5,0,5,3,2,0,4,5,0,0,20,-3,6,7,3,9,2,3,Elitzur_Netanya,A,28,28,Ariel Bet Halahmi
+Total,,200,76,59,30,74,25,11,36,23,18,6,17,19,2,0,80,0,19,32,8,27,14,19,Elitzur_Netanya,A,28,28,Ariel Bet Halahmi
+Team,,0,0,0,0,0,1,4,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,Hapoel_Haifa,A,32,32,Ariel Bet Halahmi
+Sandy Cohen,*,37,18,50,40,100,6,1,7,3,2,0,3,3,2,0,18,7,2,4,4,10,2,2,Hapoel_Haifa,A,32,32,Ariel Bet Halahmi
+Justyn Mutts,*,26,7,43,0,33,5,1,6,1,3,0,2,3,0,3,7,-8,3,7,0,0,1,3,Hapoel_Haifa,A,32,32,Ariel Bet Halahmi
+El Ellis,*,33,24,67,43,75,2,1,3,3,2,0,1,5,0,1,21,12,6,9,3,7,3,4,Hapoel_Haifa,A,32,32,Ariel Bet Halahmi
+JP Tokoto,*,33,16,67,0,67,6,4,10,1,4,3,3,3,0,0,27,29,6,9,0,0,4,6,Hapoel_Haifa,A,32,32,Ariel Bet Halahmi
+Ori Atia,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Hapoel_Haifa,A,32,32,Ariel Bet Halahmi
+Ben Shungu,,29,18,83,40,100,4,0,4,3,3,0,1,5,0,0,22,21,5,6,2,5,2,2,Hapoel_Haifa,A,32,32,Ariel Bet Halahmi
+Eyal Harel,,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,-2,0,0,0,0,0,0,Hapoel_Haifa,A,32,32,Ariel Bet Halahmi
+Ori Ovadia,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,1,0,0,0,0,Hapoel_Haifa,A,32,32,Ariel Bet Halahmi
+Muriel Lutati,*,25,12,100,43,50,1,0,1,5,3,2,3,2,0,0,7,-2,1,1,3,7,1,2,Hapoel_Haifa,A,32,32,Ariel Bet Halahmi
+Noam Avivi,,14,6,67,0,100,4,3,7,1,1,0,0,0,0,0,12,8,2,3,0,0,2,2,Hapoel_Haifa,A,32,32,Ariel Bet Halahmi
+Total,,200,101,63,41,71,29,14,43,17,19,5,13,21,2,4,119,0,25,40,12,29,15,21,Hapoel_Haifa,A,32,32,Ariel Bet Halahmi
+Team,,0,0,0,0,0,1,2,3,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,Elitzur_Netanya,H,31,31,Ariel Bet Halahmi
+Sandy Cohen,*,28,8,60,0,67,7,0,7,3,1,0,1,6,1,0,15,-6,3,5,0,1,2,3,Elitzur_Netanya,H,31,31,Ariel Bet Halahmi
+Justyn Mutts,*,39,11,45,0,14,7,9,16,1,4,0,2,7,1,0,23,6,5,11,0,1,1,7,Elitzur_Netanya,H,31,31,Ariel Bet Halahmi
+El Ellis,*,29,10,17,50,100,2,0,2,2,2,0,1,3,0,1,6,12,1,6,2,4,2,2,Elitzur_Netanya,H,31,31,Ariel Bet Halahmi
+JP Tokoto,*,25,25,47,0,88,1,1,2,3,4,1,1,2,0,1,18,-2,9,19,0,0,7,8,Elitzur_Netanya,H,31,31,Ariel Bet Halahmi
+Ben Shungu,,26,16,100,75,75,1,0,1,2,3,1,2,0,0,0,15,-9,2,2,3,4,3,4,Elitzur_Netanya,H,31,31,Ariel Bet Halahmi
+Eyal Harel,,8,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,9,0,0,0,2,0,0,Elitzur_Netanya,H,31,31,Ariel Bet Halahmi
+Muriel Lutati,*,27,10,50,67,0,2,0,2,3,2,4,3,3,0,0,12,1,2,4,2,3,0,0,Elitzur_Netanya,H,31,31,Ariel Bet Halahmi
+Noam Avivi,,14,6,100,100,50,5,1,6,3,1,1,0,0,0,0,10,14,1,1,1,1,1,2,Elitzur_Netanya,H,31,31,Ariel Bet Halahmi
+Gilad Levy,,4,0,0,0,0,1,0,1,1,0,0,0,0,0,0,-1,-10,0,1,0,0,0,0,Elitzur_Netanya,H,31,31,Ariel Bet Halahmi
+Total,,200,86,47,50,62,29,13,42,18,17,7,11,21,2,2,100,0,23,49,8,16,16,26,Elitzur_Netanya,H,31,31,Ariel Bet Halahmi

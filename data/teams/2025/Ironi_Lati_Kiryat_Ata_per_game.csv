@@ -1,0 +1,356 @@
+player name,sf,min,pts,%_2pt,%_3pt,%_1pt,dr_rebounds,or_rebounds,tr_rebounds,pf_fouls,fa_fouls,st,to,as,bkf_blocks,bka_blocks,val,+/-,m_2pt,a_2pt,m_3pt,a_3pt,m_1pt,a_1pt,opponent,loc,round,game_idx,coach
+Team,,0,0,0,0,0,2,3,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,Hapoel_Jerusalem,A,3,3,Eldad Bentov 
+Chris Smith,,23,4,29,0,0,6,3,9,1,3,0,2,0,1,0,4,-18,2,7,0,3,0,2,Hapoel_Jerusalem,A,3,3,Eldad Bentov 
+Akia Pruitt,*,36,7,43,0,50,4,1,5,2,1,1,1,4,2,1,9,-21,3,7,0,2,1,2,Hapoel_Jerusalem,A,3,3,Eldad Bentov 
+Yuval Levin,,3,2,100,0,0,1,0,1,0,0,0,0,0,0,0,3,-6,1,1,0,0,0,0,Hapoel_Jerusalem,A,3,3,Eldad Bentov 
+Raz Adam,*,29,12,17,60,33,3,0,3,3,6,1,4,2,0,0,8,-13,1,6,3,5,1,3,Hapoel_Jerusalem,A,3,3,Eldad Bentov 
+Silvio De Sousa,*,21,6,40,0,100,4,1,5,3,1,0,3,0,0,0,3,-7,2,5,0,0,2,2,Hapoel_Jerusalem,A,3,3,Eldad Bentov 
+Gal Baitner,,7,2,50,0,0,0,0,0,2,0,0,0,1,0,0,0,-4,1,2,0,0,0,0,Hapoel_Jerusalem,A,3,3,Eldad Bentov 
+JJ Kaplan,*,32,10,0,60,100,4,0,4,2,1,0,2,2,1,1,10,-18,0,1,3,5,1,1,Hapoel_Jerusalem,A,3,3,Eldad Bentov 
+Chavaughn Lewis,*,31,16,45,33,50,3,1,4,2,5,1,1,5,1,1,17,-14,5,11,1,3,3,6,Hapoel_Jerusalem,A,3,3,Eldad Bentov 
+Yuval Sznaiderman,,18,7,100,100,50,0,0,0,4,4,2,2,4,0,0,9,-14,1,1,1,1,2,4,Hapoel_Jerusalem,A,3,3,Eldad Bentov 
+Total,,200,66,39,42,50,27,9,36,19,21,5,15,18,5,3,68,0,16,41,8,19,10,20,Hapoel_Jerusalem,A,3,3,Eldad Bentov 
+Team,,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Hapoel_Tel-Aviv,A,6,6,Eldad Bentov 
+Chris Smith,*,34,19,70,50,100,3,5,8,4,2,0,4,5,0,0,22,4,7,10,1,2,2,2,Hapoel_Tel-Aviv,A,6,6,Eldad Bentov 
+Akia Pruitt,*,31,9,67,0,100,3,1,4,1,2,1,1,1,1,0,11,5,4,6,0,3,1,1,Hapoel_Tel-Aviv,A,6,6,Eldad Bentov 
+Yuval Levin,,3,1,0,0,50,0,0,0,1,1,1,0,1,0,0,2,9,0,0,0,0,1,2,Hapoel_Tel-Aviv,A,6,6,Eldad Bentov 
+Raz Adam,*,31,13,22,40,60,5,1,6,3,6,3,1,5,0,2,15,2,2,9,2,5,3,5,Hapoel_Tel-Aviv,A,6,6,Eldad Bentov 
+Silvio De Sousa,*,21,11,43,0,83,4,2,6,2,4,0,0,0,0,0,14,-22,3,7,0,0,5,6,Hapoel_Tel-Aviv,A,6,6,Eldad Bentov 
+Gal Baitner,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,Hapoel_Tel-Aviv,A,6,6,Eldad Bentov 
+JJ Kaplan,,22,18,83,67,67,4,3,7,4,2,1,0,2,0,0,23,4,5,6,2,3,2,3,Hapoel_Tel-Aviv,A,6,6,Eldad Bentov 
+Chavaughn Lewis,*,35,22,33,67,100,3,1,4,4,6,4,4,5,0,1,23,2,4,12,2,3,8,8,Hapoel_Tel-Aviv,A,6,6,Eldad Bentov 
+Yuval Sznaiderman,,22,2,0,0,100,2,2,4,5,3,1,2,3,1,0,0,-11,0,3,0,4,2,2,Hapoel_Tel-Aviv,A,6,6,Eldad Bentov 
+Total,,200,95,47,35,83,25,15,40,24,26,11,13,22,2,3,110,0,25,53,7,20,24,29,Hapoel_Tel-Aviv,A,6,6,Eldad Bentov 
+Team,,0,0,0,0,0,2,1,3,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,Gilboa_Galil,A,9,9,Eldad Bentov 
+Chris Smith,*,25,7,43,0,50,4,3,7,3,3,0,1,1,1,1,7,-27,3,7,0,2,1,2,Gilboa_Galil,A,9,9,Eldad Bentov 
+Liam O'Reilly,,27,7,40,17,0,2,0,2,5,3,1,3,2,0,1,-2,-18,2,5,1,6,0,0,Gilboa_Galil,A,9,9,Eldad Bentov 
+Akia Pruitt,*,34,13,71,14,0,5,4,9,3,2,0,2,2,1,1,11,-23,5,7,1,7,0,2,Gilboa_Galil,A,9,9,Eldad Bentov 
+Yuval Levin,,8,0,0,0,0,0,0,0,1,0,1,0,0,0,1,-4,-12,0,1,0,2,0,0,Gilboa_Galil,A,9,9,Eldad Bentov 
+Gal Baitner,,9,2,0,0,100,0,0,0,3,1,0,2,1,0,0,-1,-11,0,0,0,0,2,2,Gilboa_Galil,A,9,9,Eldad Bentov 
+JJ Kaplan,*,30,8,0,40,100,2,1,3,1,1,2,3,3,0,0,5,-16,0,5,2,5,2,2,Gilboa_Galil,A,9,9,Eldad Bentov 
+Yariv Amiram,,14,3,33,0,50,4,2,6,0,2,0,0,1,0,0,9,8,1,3,0,0,1,2,Gilboa_Galil,A,9,9,Eldad Bentov 
+Chavaughn Lewis,*,33,16,50,0,86,2,3,5,4,8,2,6,1,0,0,12,-17,5,10,0,4,6,7,Gilboa_Galil,A,9,9,Eldad Bentov 
+Yuval Sznaiderman,*,20,4,100,0,100,2,0,2,3,2,2,1,0,0,0,4,-9,1,1,0,2,2,2,Gilboa_Galil,A,9,9,Eldad Bentov 
+Total,,200,60,44,14,74,23,14,37,24,22,8,18,11,2,4,43,0,17,39,4,28,14,19,Gilboa_Galil,A,9,9,Eldad Bentov 
+Team,,0,0,0,0,0,3,1,4,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,Be'er_Sheva_Dimona,A,10,10,Eldad Bentov 
+Chris Smith,*,32,18,42,20,83,5,3,8,3,5,3,2,2,1,1,19,-3,5,12,1,5,5,6,Be'er_Sheva_Dimona,A,10,10,Eldad Bentov 
+Liam O'Reilly,*,36,15,0,62,0,5,0,5,2,1,0,3,8,0,2,15,-7,0,4,5,8,0,0,Be'er_Sheva_Dimona,A,10,10,Eldad Bentov 
+Akia Pruitt,,26,15,75,75,0,3,1,4,2,0,1,1,1,0,0,16,1,3,4,3,4,0,0,Be'er_Sheva_Dimona,A,10,10,Eldad Bentov 
+Yuval Levin,,6,4,100,0,0,0,1,1,0,0,0,0,0,0,0,5,-3,2,2,0,0,0,0,Be'er_Sheva_Dimona,A,10,10,Eldad Bentov 
+Silvio De Sousa,*,32,16,58,0,50,7,6,13,4,2,0,3,1,1,1,18,-10,7,12,0,0,2,4,Be'er_Sheva_Dimona,A,10,10,Eldad Bentov 
+Gal Baitner,*,17,0,0,0,0,1,0,1,2,1,1,4,0,0,0,-6,-8,0,1,0,2,0,0,Be'er_Sheva_Dimona,A,10,10,Eldad Bentov 
+JJ Kaplan,*,34,7,50,25,0,1,3,4,4,4,1,2,3,0,1,7,-7,2,4,1,4,0,0,Be'er_Sheva_Dimona,A,10,10,Eldad Bentov 
+Yariv Amiram,,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,-1,0,0,0,0,0,0,Be'er_Sheva_Dimona,A,10,10,Eldad Bentov 
+Yuval Sznaiderman,,14,2,100,0,0,0,0,0,1,3,2,4,1,0,0,-2,-7,1,1,0,3,0,2,Be'er_Sheva_Dimona,A,10,10,Eldad Bentov 
+Total,,200,77,50,38,58,25,15,40,19,16,9,20,16,2,5,75,0,20,40,10,26,7,12,Be'er_Sheva_Dimona,A,10,10,Eldad Bentov 
+Team,,0,0,0,0,0,3,0,3,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,Bnei_Herzliya,H,5,5,Eldad Bentov 
+Chris Smith,*,26,13,62,50,0,2,2,4,5,1,2,4,2,0,0,9,12,5,8,1,2,0,0,Bnei_Herzliya,H,5,5,Eldad Bentov 
+Akia Pruitt,*,34,8,100,33,50,7,5,12,3,3,0,3,5,1,0,20,11,2,2,1,3,1,2,Bnei_Herzliya,H,5,5,Eldad Bentov 
+Yuval Levin,,2,0,0,0,0,1,0,1,0,0,0,0,1,0,0,2,5,0,0,0,0,0,0,Bnei_Herzliya,H,5,5,Eldad Bentov 
+Roee Nanikashvili,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Bnei_Herzliya,H,5,5,Eldad Bentov 
+Ziv Bellaiche,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Bnei_Herzliya,H,5,5,Eldad Bentov 
+Raz Adam,*,25,11,67,0,70,3,0,3,3,7,1,2,4,0,0,12,9,2,3,0,5,7,10,Bnei_Herzliya,H,5,5,Eldad Bentov 
+Silvio De Sousa,*,26,19,50,0,50,5,8,13,2,3,0,1,0,0,2,20,11,9,18,0,0,1,2,Bnei_Herzliya,H,5,5,Eldad Bentov 
+Gal Baitner,,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,Bnei_Herzliya,H,5,5,Eldad Bentov 
+JJ Kaplan,,28,11,50,67,50,4,1,5,1,4,3,3,1,0,0,16,9,2,4,2,3,1,2,Bnei_Herzliya,H,5,5,Eldad Bentov 
+Yariv Amiram,,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-4,0,1,0,0,0,0,Bnei_Herzliya,H,5,5,Eldad Bentov 
+Chavaughn Lewis,*,28,17,67,20,50,2,1,3,2,2,2,0,3,0,1,15,9,6,9,1,5,2,4,Bnei_Herzliya,H,5,5,Eldad Bentov 
+Yuval Sznaiderman,,26,14,75,33,100,1,1,2,4,2,1,4,3,0,0,9,11,3,4,2,6,2,2,Bnei_Herzliya,H,5,5,Eldad Bentov 
+Total,,200,93,59,29,64,29,18,47,21,22,10,17,19,1,3,106,0,29,49,7,24,14,22,Bnei_Herzliya,H,5,5,Eldad Bentov 
+Team,,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,Maccabi_Tel-Aviv,H,12,12,Eldad Bentov 
+Chris Smith,*,36,31,62,50,75,9,4,13,5,9,1,3,7,0,0,43,-1,8,13,2,4,9,12,Maccabi_Tel-Aviv,H,12,12,Eldad Bentov 
+Liam O'Reilly,*,35,18,60,30,75,5,0,5,2,2,1,9,1,0,1,5,-21,3,5,3,10,3,4,Maccabi_Tel-Aviv,H,12,12,Eldad Bentov 
+Karam Mashour,,28,7,60,0,100,3,2,5,3,1,2,2,0,1,1,6,-7,3,5,0,2,1,1,Maccabi_Tel-Aviv,H,12,12,Eldad Bentov 
+Yuval Levin,*,24,9,60,50,0,2,0,2,2,1,0,2,3,0,1,7,-6,3,5,1,2,0,0,Maccabi_Tel-Aviv,H,12,12,Eldad Bentov 
+Silvio De Sousa,*,31,15,70,0,33,4,2,6,3,3,0,1,0,0,2,13,-10,7,10,0,0,1,3,Maccabi_Tel-Aviv,H,12,12,Eldad Bentov 
+Gal Baitner,,6,0,0,0,0,1,0,1,2,0,0,2,2,0,0,-2,2,0,0,0,1,0,0,Maccabi_Tel-Aviv,H,12,12,Eldad Bentov 
+Yariv Amiram,,9,2,50,0,0,0,0,0,1,1,0,0,1,0,0,2,-1,1,2,0,0,0,0,Maccabi_Tel-Aviv,H,12,12,Eldad Bentov 
+Yuval Sznaiderman,*,31,8,25,100,0,2,1,3,2,1,3,2,7,0,1,14,-16,1,4,2,2,0,0,Maccabi_Tel-Aviv,H,12,12,Eldad Bentov 
+Total,,200,90,59,38,70,29,9,38,20,18,7,21,21,1,6,91,0,26,44,8,21,14,20,Maccabi_Tel-Aviv,H,12,12,Eldad Bentov 
+Team,,0,0,0,0,0,2,4,6,1,0,0,0,0,0,0,5,0,0,0,0,0,0,0,Ness_Ziona,A,7,7,Eldad Bentov 
+Chris Smith,*,27,12,33,33,50,4,4,8,3,2,0,3,3,1,2,7,-12,4,12,1,3,1,2,Ness_Ziona,A,7,7,Eldad Bentov 
+Akia Pruitt,*,31,6,60,0,0,2,0,2,2,0,0,2,2,0,1,1,-12,3,5,0,2,0,0,Ness_Ziona,A,7,7,Eldad Bentov 
+Yuval Levin,,12,6,75,0,0,0,1,1,1,2,1,0,2,0,1,5,5,3,4,0,2,0,2,Ness_Ziona,A,7,7,Eldad Bentov 
+Raz Adam,*,20,8,20,25,60,1,2,3,5,6,1,2,2,0,1,3,-17,1,5,1,4,3,5,Ness_Ziona,A,7,7,Eldad Bentov 
+Silvio De Sousa,*,20,15,71,0,71,2,3,5,3,4,1,3,0,0,1,14,-4,5,7,0,0,5,7,Ness_Ziona,A,7,7,Eldad Bentov 
+Gal Baitner,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,Ness_Ziona,A,7,7,Eldad Bentov 
+JJ Kaplan,,24,5,33,20,0,5,3,8,1,1,2,3,2,0,0,8,-14,1,3,1,5,0,0,Ness_Ziona,A,7,7,Eldad Bentov 
+Yariv Amiram,,8,7,100,50,0,2,1,3,0,2,0,0,0,0,0,11,0,2,2,1,2,0,0,Ness_Ziona,A,7,7,Eldad Bentov 
+Chavaughn Lewis,*,31,15,29,60,50,1,0,1,3,3,1,3,4,0,0,9,-23,2,7,3,5,2,4,Ness_Ziona,A,7,7,Eldad Bentov 
+Yuval Sznaiderman,,25,8,50,67,0,1,3,4,4,3,0,0,1,0,0,10,3,1,2,2,3,0,0,Ness_Ziona,A,7,7,Eldad Bentov 
+Total,,200,82,47,35,55,20,21,41,23,23,6,16,16,1,6,73,0,22,47,9,26,11,20,Ness_Ziona,A,7,7,Eldad Bentov 
+Team,,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,Maccabi_Ramat_Gan,A,2,2,Eldad Bentov 
+Akia Pruitt,*,34,8,67,0,0,7,2,9,1,1,1,2,2,3,0,14,-18,4,6,0,4,0,1,Maccabi_Ramat_Gan,A,2,2,Eldad Bentov 
+Yuval Levin,,21,7,50,33,67,1,0,1,1,2,0,0,2,0,0,7,-10,1,2,1,3,2,3,Maccabi_Ramat_Gan,A,2,2,Eldad Bentov 
+Yahav Shitrit,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,Maccabi_Ramat_Gan,A,2,2,Eldad Bentov 
+Darryl Morsell,,11,7,100,0,100,1,0,1,1,1,0,3,0,0,0,3,2,3,3,0,2,1,1,Maccabi_Ramat_Gan,A,2,2,Eldad Bentov 
+Raz Adam,*,31,13,20,33,83,3,1,4,4,3,1,5,4,0,0,7,-19,1,5,2,6,5,6,Maccabi_Ramat_Gan,A,2,2,Eldad Bentov 
+Silvio De Sousa,*,23,10,29,0,100,6,10,16,3,2,1,1,3,0,2,16,-12,4,14,0,0,2,2,Maccabi_Ramat_Gan,A,2,2,Eldad Bentov 
+Gal Baitner,,11,4,100,0,0,0,1,1,2,1,1,1,1,0,0,3,-2,2,2,0,2,0,0,Maccabi_Ramat_Gan,A,2,2,Eldad Bentov 
+JJ Kaplan,*,31,10,33,50,50,5,2,7,2,3,2,0,4,0,0,18,-21,1,3,2,4,2,4,Maccabi_Ramat_Gan,A,2,2,Eldad Bentov 
+Yariv Amiram,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,0,1,0,0,0,0,Maccabi_Ramat_Gan,A,2,2,Eldad Bentov 
+Chavaughn Lewis,*,35,16,31,0,80,5,0,5,2,7,3,2,3,0,0,17,-11,4,13,0,2,8,10,Maccabi_Ramat_Gan,A,2,2,Eldad Bentov 
+Total,,200,75,41,22,74,31,16,47,16,20,9,14,19,3,2,87,0,20,49,5,23,20,27,Maccabi_Ramat_Gan,A,2,2,Eldad Bentov 
+Team,,0,0,0,0,0,2,2,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,Hapoel_Galil_Elion,H,11,11,Eldad Bentov 
+Chris Smith,*,36,23,70,100,100,10,2,12,1,5,0,6,4,2,0,36,23,7,10,2,2,3,3,Hapoel_Galil_Elion,H,11,11,Eldad Bentov 
+Liam O'Reilly,*,35,17,50,45,0,3,0,3,3,3,0,1,3,0,0,15,24,1,2,5,11,0,0,Hapoel_Galil_Elion,H,11,11,Eldad Bentov 
+Karam Mashour,,25,11,50,50,100,4,4,8,1,1,1,1,2,0,0,17,13,3,6,1,2,2,2,Hapoel_Galil_Elion,H,11,11,Eldad Bentov 
+Yuval Levin,*,24,4,14,0,100,3,5,8,3,1,1,1,1,0,0,3,9,1,7,0,2,2,2,Hapoel_Galil_Elion,H,11,11,Eldad Bentov 
+Silvio De Sousa,*,28,16,50,0,100,12,3,15,3,3,0,4,0,1,0,21,21,7,14,0,0,2,2,Hapoel_Galil_Elion,H,11,11,Eldad Bentov 
+Gal Baitner,,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-1,-10,0,0,0,0,0,0,Hapoel_Galil_Elion,H,11,11,Eldad Bentov 
+Yariv Amiram,,12,4,67,0,0,1,0,1,1,0,0,1,0,0,0,0,-3,2,3,0,2,0,0,Hapoel_Galil_Elion,H,11,11,Eldad Bentov 
+Yuval Sznaiderman,*,37,10,50,33,50,2,2,4,3,2,4,1,10,0,0,20,28,3,6,1,3,1,2,Hapoel_Galil_Elion,H,11,11,Eldad Bentov 
+Total,,200,85,50,41,91,37,18,55,15,15,6,16,20,3,0,115,0,24,48,9,22,10,11,Hapoel_Galil_Elion,H,11,11,Eldad Bentov 
+Team,,0,0,0,0,0,0,4,4,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,Hapoel_Holon,A,13,13,Eldad Bentov 
+Chris Smith,*,27,13,60,25,67,8,2,10,2,4,2,7,2,0,0,15,-4,3,5,1,4,4,6,Hapoel_Holon,A,13,13,Eldad Bentov 
+Liam O'Reilly,*,36,20,33,50,0,2,0,2,3,1,1,3,3,0,1,12,-16,1,3,6,12,0,0,Hapoel_Holon,A,13,13,Eldad Bentov 
+Karam Mashour,,32,7,40,25,0,3,0,3,3,0,2,3,1,0,1,0,-18,2,5,1,4,0,0,Hapoel_Holon,A,13,13,Eldad Bentov 
+Yuval Levin,*,20,4,0,20,50,4,1,5,3,2,1,2,2,0,0,4,-10,0,0,1,5,1,2,Hapoel_Holon,A,13,13,Eldad Bentov 
+Silvio De Sousa,*,34,20,82,0,50,3,3,6,3,3,2,2,2,0,0,24,-10,9,11,0,0,2,4,Hapoel_Holon,A,13,13,Eldad Bentov 
+Gal Baitner,,16,0,0,0,0,1,0,1,2,0,0,1,4,0,0,-2,-10,0,3,0,1,0,0,Hapoel_Holon,A,13,13,Eldad Bentov 
+Yariv Amiram,,5,0,0,0,0,0,0,0,1,1,0,1,0,0,1,-4,-1,0,2,0,0,0,0,Hapoel_Holon,A,13,13,Eldad Bentov 
+Yuval Sznaiderman,*,30,8,100,33,75,5,2,7,2,4,2,3,7,0,0,20,-6,1,1,1,3,3,4,Hapoel_Holon,A,13,13,Eldad Bentov 
+Total,,200,72,53,34,63,26,12,38,19,15,10,23,21,0,3,72,0,16,30,10,29,10,16,Hapoel_Holon,A,13,13,Eldad Bentov 
+Team,,0,0,0,0,0,2,1,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,Hapoel_Jerusalem,H,16,16,Eldad Bentov 
+Chris Smith,*,34,16,73,0,0,4,0,4,2,3,5,5,3,2,1,15,7,8,11,0,2,0,5,Hapoel_Jerusalem,H,16,16,Eldad Bentov 
+Liam O'Reilly,*,37,27,50,60,100,1,1,2,1,8,3,3,5,0,1,34,10,2,4,6,10,5,5,Hapoel_Jerusalem,H,16,16,Eldad Bentov 
+Karam Mashour,*,29,6,60,0,0,3,1,4,5,1,2,1,2,0,0,5,14,3,5,0,2,0,0,Hapoel_Jerusalem,H,16,16,Eldad Bentov 
+Yuval Levin,*,13,2,33,0,0,1,1,2,4,1,1,0,0,0,0,0,0,1,3,0,0,0,0,Hapoel_Jerusalem,H,16,16,Eldad Bentov 
+Marvin Smith,,25,9,50,33,0,0,1,1,2,1,0,0,1,0,2,2,-1,3,6,1,3,0,1,Hapoel_Jerusalem,H,16,16,Eldad Bentov 
+Silvio De Sousa,*,31,15,88,0,50,7,2,9,4,4,3,5,2,0,0,22,10,7,8,0,0,1,2,Hapoel_Jerusalem,H,16,16,Eldad Bentov 
+Gal Baitner,,14,4,100,0,50,0,1,1,4,3,0,1,5,0,0,6,0,1,1,0,0,2,4,Hapoel_Jerusalem,H,16,16,Eldad Bentov 
+Yariv Amiram,,17,9,75,100,0,2,1,3,2,0,1,0,1,0,0,11,1,3,4,1,1,0,0,Hapoel_Jerusalem,H,16,16,Eldad Bentov 
+Total,,200,88,67,44,47,20,9,29,24,21,15,15,19,2,4,98,0,28,42,8,18,8,17,Hapoel_Jerusalem,H,16,16,Eldad Bentov 
+Team,,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,Hapoel_Afula,H,1,1,Eldad Bentov 
+Akia Pruitt,*,33,12,40,40,67,4,0,4,2,2,0,0,2,1,1,11,-11,2,5,2,5,2,3,Hapoel_Afula,H,1,1,Eldad Bentov 
+Yuval Levin,,15,2,50,0,0,3,0,3,1,0,0,1,1,0,0,-2,-4,1,2,0,5,0,0,Hapoel_Afula,H,1,1,Eldad Bentov 
+Darryl Morsell,,15,7,50,50,0,2,1,3,3,1,0,3,1,0,0,2,-4,2,4,1,2,0,1,Hapoel_Afula,H,1,1,Eldad Bentov 
+Raz Adam,*,30,7,0,33,100,5,0,5,2,5,0,4,4,0,1,11,-19,0,1,1,3,4,4,Hapoel_Afula,H,1,1,Eldad Bentov 
+Silvio De Sousa,*,26,18,64,0,40,5,5,10,3,6,2,4,0,2,1,20,-16,7,11,0,0,4,10,Hapoel_Afula,H,1,1,Eldad Bentov 
+Gal Baitner,,18,2,100,0,0,1,2,3,1,1,1,1,1,0,0,4,-7,1,1,0,2,0,0,Hapoel_Afula,H,1,1,Eldad Bentov 
+JJ Kaplan,*,29,13,80,50,67,5,4,9,4,4,0,4,2,0,0,17,-11,4,5,1,2,2,3,Hapoel_Afula,H,1,1,Eldad Bentov 
+Yariv Amiram,,12,2,33,0,0,3,0,3,1,0,1,1,0,0,0,2,-2,1,3,0,0,0,0,Hapoel_Afula,H,1,1,Eldad Bentov 
+Chavaughn Lewis,*,22,4,25,0,0,5,0,5,4,4,0,0,3,0,1,-1,-11,2,8,0,2,0,4,Hapoel_Afula,H,1,1,Eldad Bentov 
+Total,,200,67,50,24,48,33,14,47,21,23,4,18,14,3,4,66,0,20,40,5,21,12,25,Hapoel_Afula,H,1,1,Eldad Bentov 
+Team,,0,0,0,0,0,5,2,7,2,1,0,2,0,0,0,3,0,0,0,0,0,0,1,Hapoel_Tel-Aviv,H,15,15,Eldad Bentov 
+Chris Smith,*,37,18,75,0,100,4,3,7,5,7,2,6,3,2,0,23,-12,6,8,0,3,6,6,Hapoel_Tel-Aviv,H,15,15,Eldad Bentov 
+Liam O'Reilly,*,34,13,43,40,100,3,1,4,4,3,2,3,5,0,0,13,-28,3,7,2,5,1,1,Hapoel_Tel-Aviv,H,15,15,Eldad Bentov 
+Karam Mashour,*,27,5,50,33,0,2,3,5,3,1,0,1,1,0,0,3,-9,1,2,1,3,0,2,Hapoel_Tel-Aviv,H,15,15,Eldad Bentov 
+Yuval Levin,*,27,8,40,33,50,3,3,6,2,3,0,3,1,0,0,7,-11,2,5,1,3,1,2,Hapoel_Tel-Aviv,H,15,15,Eldad Bentov 
+Roee Nanikashvili,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,0,Hapoel_Tel-Aviv,H,15,15,Eldad Bentov 
+Yahav Shitrit,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,0,Hapoel_Tel-Aviv,H,15,15,Eldad Bentov 
+Marvin Smith,,19,7,0,33,67,1,1,2,4,3,0,0,0,0,0,4,4,0,0,1,3,4,6,Hapoel_Tel-Aviv,H,15,15,Eldad Bentov 
+Ziv Bellaiche,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-1,-5,0,0,0,0,0,0,Hapoel_Tel-Aviv,H,15,15,Eldad Bentov 
+Silvio De Sousa,*,19,5,20,0,100,2,3,5,5,0,1,2,0,1,2,-5,-6,2,10,0,0,1,1,Hapoel_Tel-Aviv,H,15,15,Eldad Bentov 
+Gal Baitner,,20,12,60,67,0,2,0,2,2,1,1,2,2,0,0,11,-4,3,5,2,3,0,0,Hapoel_Tel-Aviv,H,15,15,Eldad Bentov 
+Yariv Amiram,,14,9,67,100,100,0,0,0,3,1,1,0,0,0,0,7,-4,2,3,1,1,2,2,Hapoel_Tel-Aviv,H,15,15,Eldad Bentov 
+Total,,200,77,48,38,71,22,16,38,30,20,7,20,12,3,2,65,0,19,40,8,21,15,21,Hapoel_Tel-Aviv,H,15,15,Eldad Bentov 
+Team,,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,Elitzur_Netanya,H,8,8,Eldad Bentov 
+Chris Smith,*,25,15,83,0,71,4,2,6,4,5,0,7,0,1,0,12,-15,5,6,0,1,5,7,Elitzur_Netanya,H,8,8,Eldad Bentov 
+Akia Pruitt,*,31,4,67,0,0,2,0,2,3,0,0,1,0,3,0,1,-18,2,3,0,3,0,0,Elitzur_Netanya,H,8,8,Eldad Bentov 
+Yuval Levin,,8,5,100,33,0,1,0,1,0,0,1,0,0,0,2,3,-4,1,1,1,3,0,0,Elitzur_Netanya,H,8,8,Eldad Bentov 
+Yahav Shitrit,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Elitzur_Netanya,H,8,8,Eldad Bentov 
+Silvio De Sousa,*,28,13,50,0,50,6,1,7,2,3,1,2,1,0,1,13,-5,6,12,0,0,1,2,Elitzur_Netanya,H,8,8,Eldad Bentov 
+Gal Baitner,,13,3,0,50,0,0,0,0,5,1,0,0,5,0,0,1,0,0,2,1,2,0,0,Elitzur_Netanya,H,8,8,Eldad Bentov 
+JJ Kaplan,,32,8,50,20,100,5,1,6,2,3,0,4,2,0,0,7,-21,2,4,1,5,1,1,Elitzur_Netanya,H,8,8,Eldad Bentov 
+Yariv Amiram,,4,0,0,0,0,0,0,0,1,0,0,2,0,0,0,-3,0,0,0,0,0,0,0,Elitzur_Netanya,H,8,8,Eldad Bentov 
+Chavaughn Lewis,*,30,11,60,50,100,2,0,2,2,3,0,3,6,0,0,14,-13,3,5,1,2,2,2,Elitzur_Netanya,H,8,8,Eldad Bentov 
+Yuval Sznaiderman,*,28,5,50,0,75,4,2,6,1,3,2,4,3,0,0,10,-24,1,2,0,2,3,4,Elitzur_Netanya,H,8,8,Eldad Bentov 
+Total,,200,64,57,22,75,25,7,32,20,18,4,23,17,4,3,60,0,20,35,4,18,12,16,Elitzur_Netanya,H,8,8,Eldad Bentov 
+Team,,0,0,0,0,0,4,2,6,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,Hapoel_Haifa,A,4,4,Eldad Bentov 
+Chris Smith,*,19,16,86,100,50,3,2,5,5,2,3,1,2,0,0,20,4,6,7,1,1,1,2,Hapoel_Haifa,A,4,4,Eldad Bentov 
+Akia Pruitt,,29,8,100,50,0,5,0,5,3,0,2,2,3,0,0,11,21,1,1,2,4,0,0,Hapoel_Haifa,A,4,4,Eldad Bentov 
+Yuval Levin,,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1,0,0,0,1,0,0,Hapoel_Haifa,A,4,4,Eldad Bentov 
+Raz Adam,*,36,12,57,0,67,1,0,1,4,7,1,3,7,0,1,9,22,4,7,0,6,4,6,Hapoel_Haifa,A,4,4,Eldad Bentov 
+Silvio De Sousa,*,27,21,60,0,100,4,2,6,2,3,2,1,1,0,1,23,9,9,15,0,0,3,3,Hapoel_Haifa,A,4,4,Eldad Bentov 
+Gal Baitner,,7,0,0,0,0,1,0,1,2,0,0,0,2,0,0,0,-3,0,0,0,1,0,0,Hapoel_Haifa,A,4,4,Eldad Bentov 
+Yariv Amiram,,6,2,50,0,0,0,1,1,0,1,0,0,0,0,0,3,-5,1,2,0,0,0,0,Hapoel_Haifa,A,4,4,Eldad Bentov 
+Chavaughn Lewis,*,38,31,62,67,75,2,2,4,1,4,3,4,8,0,1,36,17,8,13,4,6,3,4,Hapoel_Haifa,A,4,4,Eldad Bentov 
+Yuval Sznaiderman,*,35,10,80,0,100,2,0,2,4,2,1,2,3,0,0,9,15,4,5,0,2,2,2,Hapoel_Haifa,A,4,4,Eldad Bentov 
+Total,,200,100,66,33,76,22,9,31,21,19,13,13,26,0,3,117,0,33,50,7,21,13,17,Hapoel_Haifa,A,4,4,Eldad Bentov 
+Team,,0,0,0,0,0,3,1,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,Ness_Ziona,H,19,19,Eldad Bentov 
+Chris Smith,*,21,22,67,50,100,2,1,3,4,3,1,2,3,0,0,21,-7,6,9,2,4,4,4,Ness_Ziona,H,19,19,Eldad Bentov 
+Liam O'Reilly,*,32,14,67,20,100,2,1,3,1,5,0,3,2,0,0,11,-15,2,3,2,10,4,4,Ness_Ziona,H,19,19,Eldad Bentov 
+Karam Mashour,,14,1,0,0,50,0,0,0,3,1,0,0,1,0,0,-3,-17,0,1,0,1,1,2,Ness_Ziona,H,19,19,Eldad Bentov 
+Yuval Levin,,19,8,60,0,100,1,3,4,4,1,1,1,1,0,0,5,6,3,5,0,3,2,2,Ness_Ziona,H,19,19,Eldad Bentov 
+Tavon King,*,28,14,100,57,0,2,0,2,3,3,1,3,5,0,0,16,-10,1,1,4,7,0,0,Ness_Ziona,H,19,19,Eldad Bentov 
+Silvio De Sousa,*,27,18,58,0,67,4,4,8,3,4,2,1,3,1,1,24,-5,7,12,0,0,4,6,Ness_Ziona,H,19,19,Eldad Bentov 
+Gal Baitner,,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,0,0,1,0,0,Ness_Ziona,H,19,19,Eldad Bentov 
+JJ Kaplan,*,31,5,0,20,100,4,1,5,4,2,3,1,4,0,0,7,1,0,3,1,5,2,2,Ness_Ziona,H,19,19,Eldad Bentov 
+Yariv Amiram,,11,6,100,0,0,2,1,3,1,0,0,2,0,1,0,7,-16,3,3,0,0,0,0,Ness_Ziona,H,19,19,Eldad Bentov 
+Yuval Sznaiderman,,13,0,0,0,0,2,2,4,0,0,0,2,0,0,1,-3,-15,0,3,0,1,0,0,Ness_Ziona,H,19,19,Eldad Bentov 
+Total,,200,88,55,28,85,22,14,36,23,19,9,15,19,2,2,89,0,22,40,9,32,17,20,Ness_Ziona,H,19,19,Eldad Bentov 
+Team,,0,0,0,0,0,1,2,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,Be'er_Sheva_Dimona,H,21,21,Eldad Bentov 
+Chris Smith,*,29,19,50,0,62,7,6,13,2,7,1,7,1,1,0,21,11,7,14,0,2,5,8,Be'er_Sheva_Dimona,H,21,21,Eldad Bentov 
+Liam O'Reilly,*,26,13,33,60,67,2,0,2,2,1,1,3,3,0,1,9,-3,1,3,3,5,2,3,Be'er_Sheva_Dimona,H,21,21,Eldad Bentov 
+Yuval Levin,,21,7,50,33,0,0,0,0,2,1,4,0,0,0,0,4,-1,2,4,1,3,0,2,Be'er_Sheva_Dimona,H,21,21,Eldad Bentov 
+Tavon King,,9,9,100,100,100,1,0,1,1,1,1,0,1,0,0,12,1,2,2,1,1,2,2,Be'er_Sheva_Dimona,H,21,21,Eldad Bentov 
+Silvio De Sousa,*,31,20,80,0,67,9,0,9,3,6,1,2,0,1,0,28,10,8,10,0,0,4,6,Be'er_Sheva_Dimona,H,21,21,Eldad Bentov 
+Gal Baitner,,20,4,0,0,100,0,1,1,2,4,0,1,8,0,0,10,10,0,3,0,1,4,4,Be'er_Sheva_Dimona,H,21,21,Eldad Bentov 
+JJ Kaplan,*,30,4,0,25,50,3,4,7,2,1,2,0,4,0,0,11,4,0,1,1,4,1,2,Be'er_Sheva_Dimona,H,21,21,Eldad Bentov 
+Yariv Amiram,,9,0,0,0,0,2,0,2,0,0,0,0,0,1,0,2,-5,0,1,0,0,0,0,Be'er_Sheva_Dimona,H,21,21,Eldad Bentov 
+Yuval Sznaiderman,*,25,8,75,0,100,1,2,3,2,2,1,4,2,1,0,8,-2,3,4,0,2,2,2,Be'er_Sheva_Dimona,H,21,21,Eldad Bentov 
+Total,,200,84,55,33,69,26,15,41,16,23,11,17,19,4,1,108,0,23,42,6,18,20,29,Be'er_Sheva_Dimona,H,21,21,Eldad Bentov 
+Team,,0,0,0,0,0,1,4,5,1,0,0,0,0,0,0,4,0,0,0,0,0,0,0,Hapoel_Galil_Elion,A,20,20,Eldad Bentov 
+Chris Smith,*,31,14,67,0,75,3,1,4,2,5,2,4,2,0,0,12,-22,4,6,0,5,6,8,Hapoel_Galil_Elion,A,20,20,Eldad Bentov 
+Liam O'Reilly,*,37,21,17,46,100,1,1,2,5,0,1,3,9,0,0,13,-9,1,6,6,13,1,1,Hapoel_Galil_Elion,A,20,20,Eldad Bentov 
+Karam Mashour,*,13,0,0,0,0,3,1,4,1,0,0,2,0,0,0,-3,-12,0,1,0,3,0,0,Hapoel_Galil_Elion,A,20,20,Eldad Bentov 
+Yuval Levin,,22,11,33,38,0,1,4,5,1,2,1,0,3,0,2,12,-4,1,3,3,8,0,0,Hapoel_Galil_Elion,A,20,20,Eldad Bentov 
+Tavon King,,24,10,100,33,100,1,0,1,1,4,0,1,1,0,0,10,-7,1,1,2,6,2,2,Hapoel_Galil_Elion,A,20,20,Eldad Bentov 
+Silvio De Sousa,*,29,14,75,0,100,6,2,8,5,7,0,4,1,0,0,19,0,6,8,0,0,2,2,Hapoel_Galil_Elion,A,20,20,Eldad Bentov 
+Gal Baitner,,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-2,-13,0,0,0,1,0,0,Hapoel_Galil_Elion,A,20,20,Eldad Bentov 
+JJ Kaplan,*,33,12,0,57,0,4,2,6,3,0,0,3,3,0,0,10,1,0,2,4,7,0,0,Hapoel_Galil_Elion,A,20,20,Eldad Bentov 
+Yariv Amiram,,7,0,0,0,0,0,1,1,1,0,0,0,0,0,0,-1,-9,0,0,0,1,0,0,Hapoel_Galil_Elion,A,20,20,Eldad Bentov 
+Total,,200,82,48,34,85,20,16,36,21,18,4,17,19,0,2,74,0,13,27,15,44,11,13,Hapoel_Galil_Elion,A,20,20,Eldad Bentov 
+Team,,0,0,0,0,0,4,4,8,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,Bnei_Herzliya,A,22,22,Eldad Bentov 
+Chris Smith,*,28,30,60,67,67,3,3,6,3,8,2,6,2,0,2,27,0,9,15,2,3,6,9,Bnei_Herzliya,A,22,22,Eldad Bentov 
+Liam O'Reilly,*,30,15,36,14,80,3,1,4,1,3,1,1,3,0,0,10,-21,4,11,1,7,4,5,Bnei_Herzliya,A,22,22,Eldad Bentov 
+Yuval Levin,,26,3,33,0,50,2,1,3,2,1,0,1,1,0,1,-2,4,1,3,0,3,1,2,Bnei_Herzliya,A,22,22,Eldad Bentov 
+Tavon King,,17,3,0,50,0,0,1,1,1,0,0,1,2,0,0,-1,2,0,4,1,2,0,0,Bnei_Herzliya,A,22,22,Eldad Bentov 
+Silvio De Sousa,*,20,13,45,0,60,2,4,6,4,4,2,3,0,0,0,10,-18,5,11,0,0,3,5,Bnei_Herzliya,A,22,22,Eldad Bentov 
+Gal Baitner,,13,0,0,0,0,0,0,0,3,0,1,2,1,0,0,-5,-7,0,1,0,1,0,0,Bnei_Herzliya,A,22,22,Eldad Bentov 
+JJ Kaplan,*,30,6,25,20,50,7,8,15,1,4,1,2,7,0,0,22,-20,1,4,1,5,1,2,Bnei_Herzliya,A,22,22,Eldad Bentov 
+Yariv Amiram,,11,5,40,0,25,1,2,3,1,2,0,1,0,0,0,2,-5,2,5,0,0,1,4,Bnei_Herzliya,A,22,22,Eldad Bentov 
+Yuval Sznaiderman,*,25,2,0,0,100,3,1,4,3,1,0,3,5,0,1,1,0,0,2,0,2,2,2,Bnei_Herzliya,A,22,22,Eldad Bentov 
+Total,,200,77,39,22,62,25,25,50,19,23,7,20,21,0,4,72,0,22,56,5,23,18,29,Bnei_Herzliya,A,22,22,Eldad Bentov 
+Team,,0,0,0,0,0,0,2,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Hapoel_Holon,H,23,23,Eldad Bentov 
+Chris Smith,,31,13,14,75,100,5,1,6,4,1,1,3,5,1,1,12,9,1,7,3,4,2,2,Hapoel_Holon,H,23,23,Eldad Bentov 
+Keandre Cook,,26,19,67,33,71,6,2,8,3,4,3,5,2,0,0,20,-22,4,6,2,6,5,7,Hapoel_Holon,H,23,23,Eldad Bentov 
+Liam O'Reilly,*,29,3,50,0,100,0,0,0,4,3,0,5,4,0,1,-5,-1,1,2,0,4,1,1,Hapoel_Holon,H,23,23,Eldad Bentov 
+Yuval Levin,*,23,14,75,100,100,3,2,5,5,4,1,0,1,0,0,19,5,3,4,2,2,2,2,Hapoel_Holon,H,23,23,Eldad Bentov 
+Silvio De Sousa,*,26,9,40,0,50,2,3,5,2,4,1,5,1,1,0,7,4,4,10,0,0,1,2,Hapoel_Holon,H,23,23,Eldad Bentov 
+Gal Baitner,,15,6,100,0,50,0,0,0,4,2,0,2,5,0,0,5,-10,2,2,0,0,2,4,Hapoel_Holon,H,23,23,Eldad Bentov 
+JJ Kaplan,*,29,26,67,86,0,3,0,3,3,2,1,2,2,1,0,26,-11,4,6,6,7,0,1,Hapoel_Holon,H,23,23,Eldad Bentov 
+Yariv Amiram,,2,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,-6,0,0,0,0,0,0,Hapoel_Holon,H,23,23,Eldad Bentov 
+Yuval Sznaiderman,*,19,2,33,0,0,2,1,3,2,0,0,2,2,0,0,0,2,1,3,0,1,0,0,Hapoel_Holon,H,23,23,Eldad Bentov 
+Total,,200,92,50,54,68,21,12,33,28,20,8,25,22,3,2,86,0,20,40,13,24,13,19,Hapoel_Holon,H,23,23,Eldad Bentov 
+Team,,0,0,0,0,0,0,3,3,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Hapoel_Afula,A,14,14,Eldad Bentov 
+Chris Smith,*,37,19,22,40,100,11,3,14,3,6,2,5,2,2,0,27,11,2,9,2,5,9,9,Hapoel_Afula,A,14,14,Eldad Bentov 
+Liam O'Reilly,*,39,24,67,50,67,3,1,4,3,10,1,2,4,0,0,30,12,2,3,6,12,2,3,Hapoel_Afula,A,14,14,Eldad Bentov 
+Karam Mashour,*,31,10,50,0,100,8,2,10,4,2,1,2,0,1,2,8,10,4,8,0,4,2,2,Hapoel_Afula,A,14,14,Eldad Bentov 
+Yuval Levin,*,35,10,40,50,0,5,2,7,3,0,1,2,2,0,2,8,19,2,5,2,4,0,0,Hapoel_Afula,A,14,14,Eldad Bentov 
+Silvio De Sousa,*,27,19,69,0,100,3,5,8,5,2,0,2,3,0,0,21,-13,9,13,0,0,1,1,Hapoel_Afula,A,14,14,Eldad Bentov 
+Gal Baitner,,15,0,0,0,0,1,1,2,2,1,1,3,2,0,0,-3,-3,0,3,0,1,0,0,Hapoel_Afula,A,14,14,Eldad Bentov 
+Yariv Amiram,,16,6,100,0,0,3,2,5,1,0,1,2,0,0,0,8,24,3,3,0,1,0,0,Hapoel_Afula,A,14,14,Eldad Bentov 
+Total,,200,88,50,37,93,34,19,53,22,21,7,19,13,3,4,100,0,22,44,10,27,14,15,Hapoel_Afula,A,14,14,Eldad Bentov 
+Team,,0,0,0,0,0,0,4,4,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,Maccabi_Ramat_Gan,H,24,24,Eldad Bentov 
+Chris Smith,,28,20,75,33,62,5,5,10,2,6,1,4,0,0,0,24,12,6,8,1,3,5,8,Maccabi_Ramat_Gan,H,24,24,Eldad Bentov 
+Keandre Cook,*,34,17,71,20,100,2,1,3,2,5,4,3,2,1,1,20,0,5,7,1,5,4,4,Maccabi_Ramat_Gan,H,24,24,Eldad Bentov 
+Liam O'Reilly,*,26,16,100,44,0,1,0,1,3,1,1,2,5,0,0,14,3,2,2,4,9,0,0,Maccabi_Ramat_Gan,H,24,24,Eldad Bentov 
+Yuval Levin,,23,4,0,50,50,0,0,0,4,2,3,0,1,0,0,4,18,0,0,1,2,1,2,Maccabi_Ramat_Gan,H,24,24,Eldad Bentov 
+Yahav Shitrit,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,Maccabi_Ramat_Gan,H,24,24,Eldad Bentov 
+Ziv Bellaiche,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,Maccabi_Ramat_Gan,H,24,24,Eldad Bentov 
+Silvio De Sousa,*,18,10,50,0,100,3,0,3,2,4,0,3,0,0,0,9,-11,3,6,0,0,4,4,Maccabi_Ramat_Gan,H,24,24,Eldad Bentov 
+Gal Baitner,*,26,11,25,60,0,1,0,1,4,2,1,2,5,0,1,8,-1,1,4,3,5,0,0,Maccabi_Ramat_Gan,H,24,24,Eldad Bentov 
+JJ Kaplan,*,34,15,100,43,100,7,1,8,2,2,1,0,4,1,0,25,16,2,2,3,7,2,2,Maccabi_Ramat_Gan,H,24,24,Eldad Bentov 
+Yuval Sznaiderman,,9,0,0,0,0,1,0,1,1,0,0,0,1,0,0,-1,9,0,1,0,1,0,0,Maccabi_Ramat_Gan,H,24,24,Eldad Bentov 
+Total,,200,93,63,41,80,20,11,31,20,22,11,15,18,2,2,106,0,19,30,13,32,16,20,Maccabi_Ramat_Gan,H,24,24,Eldad Bentov 
+Team,,0,0,0,0,0,5,1,6,0,0,0,1,0,0,0,5,0,0,0,0,0,0,0,Hapoel_Haifa,H,17,17,Eldad Bentov 
+Chris Smith,*,40,21,45,0,79,5,2,7,3,8,3,6,8,0,0,24,10,5,11,0,5,11,14,Hapoel_Haifa,H,17,17,Eldad Bentov 
+Liam O'Reilly,*,42,8,67,25,100,3,2,5,1,3,0,6,6,0,2,9,11,2,3,1,4,1,1,Hapoel_Haifa,H,17,17,Eldad Bentov 
+Karam Mashour,*,28,5,50,0,50,3,1,4,4,1,1,2,2,0,0,3,5,2,4,0,1,1,2,Hapoel_Haifa,H,17,17,Eldad Bentov 
+Yuval Levin,*,15,2,0,0,100,1,0,1,0,1,1,3,2,0,0,1,7,0,1,0,2,2,2,Hapoel_Haifa,H,17,17,Eldad Bentov 
+Marvin Smith,,24,11,100,100,0,3,1,4,3,2,1,0,0,0,0,15,-7,1,1,3,3,0,0,Hapoel_Haifa,H,17,17,Eldad Bentov 
+Silvio De Sousa,*,34,31,79,0,90,4,6,10,2,8,4,1,0,2,0,48,-5,11,14,0,0,9,10,Hapoel_Haifa,H,17,17,Eldad Bentov 
+Gal Baitner,,27,10,25,40,50,2,0,2,4,3,0,2,2,0,0,3,-1,1,4,2,5,2,4,Hapoel_Haifa,H,17,17,Eldad Bentov 
+Yariv Amiram,,15,1,0,0,50,2,0,2,4,1,0,3,1,0,0,-6,5,0,1,0,2,1,2,Hapoel_Haifa,H,17,17,Eldad Bentov 
+Total,,225,89,56,27,77,28,13,41,21,27,10,24,21,2,2,102,0,22,39,6,22,27,35,Hapoel_Haifa,H,17,17,Eldad Bentov 
+Team,,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,Elitzur_Netanya,A,18,18,Eldad Bentov 
+Chris Smith,*,22,4,40,0,0,6,1,7,3,0,0,4,0,1,1,-2,-18,2,5,0,3,0,0,Elitzur_Netanya,A,18,18,Eldad Bentov 
+Liam O'Reilly,*,31,9,50,17,67,0,0,0,1,3,0,3,5,0,0,5,-16,2,4,1,6,2,3,Elitzur_Netanya,A,18,18,Eldad Bentov 
+Karam Mashour,*,24,3,17,0,50,4,2,6,3,1,0,3,0,0,0,-4,-8,1,6,0,2,1,2,Elitzur_Netanya,A,18,18,Eldad Bentov 
+Yuval Levin,,16,9,100,25,0,0,1,1,2,3,2,3,1,0,0,7,-12,3,3,1,4,0,1,Elitzur_Netanya,A,18,18,Eldad Bentov 
+Tavon King,,15,9,100,40,50,2,0,2,1,1,0,0,1,0,0,8,-5,1,1,2,5,1,2,Elitzur_Netanya,A,18,18,Eldad Bentov 
+Silvio De Sousa,*,25,16,80,0,0,2,5,7,4,0,1,2,1,1,0,18,-14,8,10,0,0,0,0,Elitzur_Netanya,A,18,18,Eldad Bentov 
+Gal Baitner,*,15,3,0,33,0,2,2,4,1,2,0,2,1,0,0,4,-7,0,1,1,3,0,0,Elitzur_Netanya,A,18,18,Eldad Bentov 
+JJ Kaplan,,23,11,50,67,33,2,1,3,3,4,3,1,5,0,0,17,4,2,4,2,3,1,3,Elitzur_Netanya,A,18,18,Eldad Bentov 
+Yariv Amiram,,16,6,50,0,0,2,0,2,2,1,0,1,1,2,0,5,-3,3,6,0,0,0,1,Elitzur_Netanya,A,18,18,Eldad Bentov 
+Yuval Sznaiderman,,13,4,0,33,50,2,1,3,1,1,1,1,2,0,0,5,4,0,1,1,3,1,2,Elitzur_Netanya,A,18,18,Eldad Bentov 
+Total,,200,74,54,28,43,25,13,38,21,16,7,20,17,4,1,66,0,22,41,8,29,6,14,Elitzur_Netanya,A,18,18,Eldad Bentov 
+Team,,0,0,0,0,0,2,5,7,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,Maccabi_Tel-Aviv,A,26,26,Eldad Bentov 
+Chris Smith,*,23,4,50,0,0,2,2,4,5,3,0,5,1,0,1,-4,-4,2,4,0,2,0,1,Maccabi_Tel-Aviv,A,26,26,Eldad Bentov 
+Keandre Cook,*,37,26,71,38,64,3,0,3,2,6,3,5,3,0,0,23,-11,5,7,3,8,7,11,Maccabi_Tel-Aviv,A,26,26,Eldad Bentov 
+Liam O'Reilly,,18,6,100,0,0,0,0,0,1,0,0,1,3,0,1,0,-1,3,3,0,6,0,0,Maccabi_Tel-Aviv,A,26,26,Eldad Bentov 
+Yuval Levin,,19,9,0,60,0,3,1,4,3,1,1,2,1,0,0,8,0,0,1,3,5,0,0,Maccabi_Tel-Aviv,A,26,26,Eldad Bentov 
+Silvio De Sousa,*,25,14,67,0,100,2,4,6,3,3,0,1,0,1,0,17,-15,6,9,0,0,2,2,Maccabi_Tel-Aviv,A,26,26,Eldad Bentov 
+Gal Baitner,*,24,4,0,50,50,1,0,1,4,1,0,3,5,0,0,-1,-19,0,3,1,2,1,2,Maccabi_Tel-Aviv,A,26,26,Eldad Bentov 
+JJ Kaplan,*,37,12,50,50,50,4,1,5,3,4,0,1,3,0,1,13,-18,2,4,2,4,2,4,Maccabi_Tel-Aviv,A,26,26,Eldad Bentov 
+Yariv Amiram,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3,0,0,0,0,0,0,Maccabi_Tel-Aviv,A,26,26,Eldad Bentov 
+Yuval Sznaiderman,,13,5,33,100,0,1,0,1,1,1,1,2,2,0,0,5,6,1,3,1,1,0,0,Maccabi_Tel-Aviv,A,26,26,Eldad Bentov 
+Total,,200,80,56,36,60,18,13,31,22,19,5,20,18,1,3,68,0,19,34,10,28,12,20,Maccabi_Tel-Aviv,A,26,26,Eldad Bentov 
+Team,,0,0,0,0,0,2,3,5,1,0,0,0,0,0,0,4,0,0,0,0,0,0,0,Gilboa_Galil,H,25,25,Eldad Bentov 
+Chris Smith,,25,8,60,0,100,3,2,5,3,2,1,5,4,1,0,10,-1,3,5,0,1,2,2,Gilboa_Galil,H,25,25,Eldad Bentov 
+Keandre Cook,*,29,16,75,29,100,4,3,7,4,6,1,4,1,0,1,16,-21,3,4,2,7,4,4,Gilboa_Galil,H,25,25,Eldad Bentov 
+Liam O'Reilly,*,28,12,0,38,100,0,0,0,2,2,0,1,1,0,0,5,-18,0,2,3,8,3,3,Gilboa_Galil,H,25,25,Eldad Bentov 
+Yuval Levin,,19,9,67,33,67,1,0,1,5,3,2,2,0,0,0,4,2,2,3,1,3,2,3,Gilboa_Galil,H,25,25,Eldad Bentov 
+Silvio De Sousa,*,26,6,29,0,40,6,3,9,3,4,1,3,0,0,0,6,-18,2,7,0,0,2,5,Gilboa_Galil,H,25,25,Eldad Bentov 
+Gal Baitner,*,23,8,43,0,100,1,0,1,5,3,0,3,2,0,0,0,-10,3,7,0,2,2,2,Gilboa_Galil,H,25,25,Eldad Bentov 
+JJ Kaplan,*,34,8,100,14,50,5,1,6,4,2,1,2,4,0,0,8,-6,2,2,1,7,1,2,Gilboa_Galil,H,25,25,Eldad Bentov 
+Yariv Amiram,,5,3,0,100,0,0,1,1,0,0,0,0,0,0,0,4,3,0,0,1,1,0,0,Gilboa_Galil,H,25,25,Eldad Bentov 
+Yuval Sznaiderman,,11,0,0,0,0,2,0,2,0,2,0,3,1,0,0,1,4,0,0,0,1,0,0,Gilboa_Galil,H,25,25,Eldad Bentov 
+Total,,200,70,50,27,76,24,13,37,27,24,6,23,13,1,1,58,0,15,30,8,30,16,21,Gilboa_Galil,H,25,25,Eldad Bentov 
+Team,,0,0,0,0,0,3,2,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,Elitzur_Netanya,H,27,27,Eldad Bentov 
+Chris Smith,,25,15,58,0,50,3,3,6,1,3,0,1,0,1,0,15,12,7,12,0,2,1,2,Elitzur_Netanya,H,27,27,Eldad Bentov 
+Keandre Cook,*,36,20,50,40,57,9,2,11,1,9,1,2,1,0,1,27,0,2,4,4,10,4,7,Elitzur_Netanya,H,27,27,Eldad Bentov 
+Liam O'Reilly,*,34,10,100,25,0,2,0,2,2,0,1,4,4,0,0,5,-4,2,2,2,8,0,0,Elitzur_Netanya,H,27,27,Eldad Bentov 
+Yuval Levin,*,6,0,0,0,0,1,1,2,1,0,1,1,0,0,0,-1,-8,0,0,0,2,0,0,Elitzur_Netanya,H,27,27,Eldad Bentov 
+Silvio De Sousa,*,29,12,60,0,0,3,6,9,3,0,1,1,1,1,0,16,-5,6,10,0,0,0,0,Elitzur_Netanya,H,27,27,Eldad Bentov 
+Gal Baitner,,21,8,25,67,0,2,2,4,4,2,0,4,6,0,1,7,6,1,4,2,3,0,0,Elitzur_Netanya,H,27,27,Eldad Bentov 
+JJ Kaplan,*,33,8,50,33,100,1,2,3,2,2,0,3,1,3,0,8,5,2,4,1,3,1,1,Elitzur_Netanya,H,27,27,Eldad Bentov 
+Yuval Sznaiderman,,16,2,50,0,0,2,1,3,2,3,1,2,3,0,0,5,7,1,2,0,2,0,0,Elitzur_Netanya,H,27,27,Eldad Bentov 
+Total,,200,75,55,30,60,26,19,45,16,19,5,18,16,5,2,87,0,21,38,9,30,6,10,Elitzur_Netanya,H,27,27,Eldad Bentov 
+Team,,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Hapoel_Haifa,A,28,28,Eldad Bentov 
+Chris Smith,,26,13,60,33,100,4,3,7,1,4,1,1,2,0,0,21,1,3,5,1,3,4,4,Hapoel_Haifa,A,28,28,Eldad Bentov 
+Keandre Cook,*,33,23,71,22,88,5,2,7,4,7,2,5,2,0,0,22,-13,5,7,2,9,7,8,Hapoel_Haifa,A,28,28,Eldad Bentov 
+Liam O'Reilly,*,32,11,100,33,0,5,1,6,1,0,1,2,5,0,0,14,7,1,1,3,9,0,0,Hapoel_Haifa,A,28,28,Eldad Bentov 
+Yuval Levin,,16,9,67,20,100,1,1,2,2,1,1,1,1,0,0,6,6,2,3,1,5,2,2,Hapoel_Haifa,A,28,28,Eldad Bentov 
+Silvio De Sousa,*,21,10,62,0,0,3,3,6,1,1,0,2,1,0,0,12,-14,5,8,0,0,0,0,Hapoel_Haifa,A,28,28,Eldad Bentov 
+Gal Baitner,*,18,0,0,0,0,2,1,3,4,1,1,6,7,0,0,-1,5,0,1,0,2,0,0,Hapoel_Haifa,A,28,28,Eldad Bentov 
+JJ Kaplan,*,31,28,70,43,71,9,4,13,3,5,0,1,1,0,0,34,0,7,10,3,7,5,7,Hapoel_Haifa,A,28,28,Eldad Bentov 
+Yariv Amiram,,4,0,0,0,0,0,0,0,2,0,0,1,0,0,0,-3,5,0,0,0,0,0,0,Hapoel_Haifa,A,28,28,Eldad Bentov 
+Yuval Sznaiderman,,19,2,100,0,0,1,2,3,2,2,1,4,4,0,0,4,8,1,1,0,1,0,1,Hapoel_Haifa,A,28,28,Eldad Bentov 
+Total,,200,96,67,28,82,30,18,48,20,21,7,23,23,0,0,110,0,24,36,10,36,18,22,Hapoel_Haifa,A,28,28,Eldad Bentov 
+Team,,0,0,0,0,0,8,2,10,1,0,0,0,0,0,0,9,0,0,0,0,0,0,0,Hapoel_Afula,A,30,30,Eldad Bentov 
+Chris Smith,*,39,21,55,33,86,7,5,12,3,6,3,7,0,0,0,24,3,6,11,1,3,6,7,Hapoel_Afula,A,30,30,Eldad Bentov 
+Keandre Cook,*,39,13,50,17,0,2,1,3,1,4,1,2,1,1,0,8,2,5,10,1,6,0,2,Hapoel_Afula,A,30,30,Eldad Bentov 
+Liam O'Reilly,,33,11,0,33,100,1,0,1,1,2,2,1,2,0,0,8,4,0,2,3,9,2,2,Hapoel_Afula,A,30,30,Eldad Bentov 
+Yuval Levin,,26,1,0,0,50,1,5,6,2,3,2,1,1,0,0,2,7,0,5,0,2,1,2,Hapoel_Afula,A,30,30,Eldad Bentov 
+Silvio De Sousa,*,41,11,56,0,25,10,6,16,4,2,0,3,0,0,0,15,6,5,9,0,0,1,4,Hapoel_Afula,A,30,30,Eldad Bentov 
+Gal Baitner,*,22,12,30,67,0,3,0,3,5,0,0,2,2,0,1,1,-5,3,10,2,3,0,0,Hapoel_Afula,A,30,30,Eldad Bentov 
+JJ Kaplan,*,14,2,33,0,0,1,3,4,1,0,1,1,0,0,1,0,0,1,3,0,2,0,0,Hapoel_Afula,A,30,30,Eldad Bentov 
+Yariv Amiram,,3,1,0,0,50,1,0,1,0,3,0,0,0,0,0,3,-2,0,0,0,1,1,2,Hapoel_Afula,A,30,30,Eldad Bentov 
+Yuval Sznaiderman,,8,0,0,0,0,1,0,1,1,0,0,1,2,0,0,0,0,0,1,0,0,0,0,Hapoel_Afula,A,30,30,Eldad Bentov 
+Total,,225,72,39,27,58,35,22,57,19,20,9,18,8,1,2,70,0,20,51,7,26,11,19,Hapoel_Afula,A,30,30,Eldad Bentov 
+Team,,0,0,0,0,0,3,6,9,0,0,0,1,0,0,0,8,0,0,0,0,0,0,0,Hapoel_Afula,H,29,29,Eldad Bentov 
+Chris Smith,*,36,19,60,75,67,9,1,10,2,4,3,4,3,1,0,29,-12,3,5,3,4,4,6,Hapoel_Afula,H,29,29,Eldad Bentov 
+Keandre Cook,*,30,19,73,0,100,3,4,7,1,5,1,4,1,0,1,16,-15,8,11,0,8,3,3,Hapoel_Afula,H,29,29,Eldad Bentov 
+Liam O'Reilly,*,32,11,40,25,100,0,0,0,3,2,2,3,1,0,2,-1,-6,2,5,2,8,1,1,Hapoel_Afula,H,29,29,Eldad Bentov 
+Yuval Levin,,17,7,33,25,100,1,3,4,4,3,1,1,0,0,0,5,1,1,3,1,4,2,2,Hapoel_Afula,H,29,29,Eldad Bentov 
+Silvio De Sousa,*,25,9,67,0,100,4,2,6,4,2,2,0,2,0,1,14,9,4,6,0,0,1,1,Hapoel_Afula,H,29,29,Eldad Bentov 
+Gal Baitner,,8,1,0,0,50,0,3,3,1,1,0,0,0,0,1,-2,-7,0,4,0,0,1,2,Hapoel_Afula,H,29,29,Eldad Bentov 
+JJ Kaplan,*,25,3,20,0,50,1,1,2,3,1,0,1,1,0,0,-3,-12,1,5,0,1,1,2,Hapoel_Afula,H,29,29,Eldad Bentov 
+Yariv Amiram,,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,-1,-4,0,1,0,0,0,0,Hapoel_Afula,H,29,29,Eldad Bentov 
+Yuval Sznaiderman,,26,8,40,0,0,0,4,4,3,2,2,1,5,1,0,9,1,4,10,0,3,0,0,Hapoel_Afula,H,29,29,Eldad Bentov 
+Total,,200,77,46,21,76,21,25,46,22,20,11,15,13,2,5,74,0,23,50,6,28,13,17,Hapoel_Afula,H,29,29,Eldad Bentov 
+Team,,0,0,0,0,0,4,1,5,0,0,0,1,0,0,0,4,0,0,0,0,0,0,0,Hapoel_Haifa,H,31,31,Eldad Bentov 
+Chris Smith,*,31,22,50,67,60,6,3,9,4,7,2,3,2,0,0,25,1,5,10,2,3,6,10,Hapoel_Haifa,H,31,31,Eldad Bentov 
+Keandre Cook,*,34,19,67,40,83,1,3,4,1,4,2,3,8,0,0,27,8,4,6,2,5,5,6,Hapoel_Haifa,H,31,31,Eldad Bentov 
+Liam O'Reilly,*,35,12,75,33,0,3,0,3,2,2,4,4,5,0,0,15,1,3,4,2,6,0,0,Hapoel_Haifa,H,31,31,Eldad Bentov 
+Yuval Levin,,15,2,0,0,40,1,0,1,3,2,5,0,1,0,0,4,-4,0,0,0,1,2,5,Hapoel_Haifa,H,31,31,Eldad Bentov 
+Silvio De Sousa,*,32,16,78,0,33,10,1,11,1,3,1,2,1,2,0,25,17,7,9,0,0,2,6,Hapoel_Haifa,H,31,31,Eldad Bentov 
+Gal Baitner,,6,3,0,50,0,0,0,0,1,0,0,2,0,0,0,-1,3,0,0,1,2,0,0,Hapoel_Haifa,H,31,31,Eldad Bentov 
+Yariv Amiram,,13,4,100,0,0,0,2,2,2,0,1,1,3,0,0,6,-10,2,2,0,1,0,0,Hapoel_Haifa,H,31,31,Eldad Bentov 
+Yuval Sznaiderman,*,34,12,75,40,0,7,0,7,5,3,3,9,5,0,0,12,9,3,4,2,5,0,0,Hapoel_Haifa,H,31,31,Eldad Bentov 
+Total,,200,90,69,39,56,32,10,42,19,21,18,25,25,2,0,117,0,24,35,9,23,15,27,Hapoel_Haifa,H,31,31,Eldad Bentov 
+Team,,0,0,0,0,0,3,2,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,Elitzur_Netanya,A,32,32,Eldad Bentov 
+Chris Smith,*,34,20,78,20,50,7,4,11,4,5,3,5,4,0,1,24,6,7,9,1,5,3,6,Elitzur_Netanya,A,32,32,Eldad Bentov 
+Keandre Cook,*,36,16,43,33,100,3,1,4,4,4,0,1,1,0,1,11,10,3,7,2,6,4,4,Elitzur_Netanya,A,32,32,Eldad Bentov 
+Liam O'Reilly,*,33,11,20,30,0,5,0,5,1,2,2,3,2,0,0,7,7,1,5,3,10,0,0,Elitzur_Netanya,A,32,32,Eldad Bentov 
+Yuval Levin,,22,13,100,67,83,3,1,4,3,3,2,2,1,0,0,16,1,1,1,2,3,5,6,Elitzur_Netanya,A,32,32,Eldad Bentov 
+Yahav Shitrit,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Elitzur_Netanya,A,32,32,Eldad Bentov 
+Ziv Bellaiche,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Elitzur_Netanya,A,32,32,Eldad Bentov 
+Silvio De Sousa,*,31,12,67,100,83,6,4,10,2,3,1,2,2,0,0,22,20,2,3,1,1,5,6,Elitzur_Netanya,A,32,32,Eldad Bentov 
+Gal Baitner,,18,2,50,0,0,0,3,3,3,0,0,4,3,0,1,-3,7,1,2,0,2,0,0,Elitzur_Netanya,A,32,32,Eldad Bentov 
+Yariv Amiram,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Elitzur_Netanya,A,32,32,Eldad Bentov 
+Yuval Sznaiderman,*,23,8,33,25,50,2,2,4,5,3,2,3,3,0,0,4,12,2,6,1,4,1,2,Elitzur_Netanya,A,32,32,Eldad Bentov 
+Total,,200,82,52,32,75,29,17,46,22,20,10,20,16,0,3,86,0,17,33,10,31,18,24,Elitzur_Netanya,A,32,32,Eldad Bentov 

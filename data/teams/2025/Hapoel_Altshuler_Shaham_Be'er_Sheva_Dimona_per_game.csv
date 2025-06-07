@@ -1,0 +1,309 @@
+player name,sf,min,pts,%_2pt,%_3pt,%_1pt,dr_rebounds,or_rebounds,tr_rebounds,pf_fouls,fa_fouls,st,to,as,bkf_blocks,bka_blocks,val,+/-,m_2pt,a_2pt,m_3pt,a_3pt,m_1pt,a_1pt,opponent,loc,round,game_idx,coach
+Team,,0,0,0,0,0,1,2,3,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Ness_Ziona,A,9,7,Rami Hadar
+Paul Scruggs,*,27,7,0,33,50,2,0,2,5,1,2,0,5,0,0,4,7,0,3,2,6,1,2,Ness_Ziona,A,9,7,Rami Hadar
+Kareem Reid,*,20,9,67,0,33,0,1,1,4,3,0,0,4,0,0,9,-2,4,6,0,0,1,3,Ness_Ziona,A,9,7,Rami Hadar
+Iverson Molinar,*,17,14,100,100,80,2,0,2,2,5,1,6,4,0,0,17,-4,2,2,2,2,4,5,Ness_Ziona,A,9,7,Rami Hadar
+Ido Flaisher,,18,8,80,0,0,1,3,4,2,1,1,0,0,0,0,9,3,4,5,0,0,0,2,Ness_Ziona,A,9,7,Rami Hadar
+Spencer Weisz,*,37,17,64,25,0,3,0,3,3,0,3,0,5,0,0,18,-15,7,11,1,4,0,0,Ness_Ziona,A,9,7,Rami Hadar
+Neta Segal,,24,2,50,0,0,0,0,0,2,2,3,0,3,0,0,5,-3,1,2,0,2,0,0,Ness_Ziona,A,9,7,Rami Hadar
+Ron Zipper,,27,23,78,40,75,2,0,2,5,2,4,1,2,0,1,20,-9,7,9,2,5,3,4,Ness_Ziona,A,9,7,Rami Hadar
+Yoav Vitlem,,8,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-13,0,1,0,0,0,0,Ness_Ziona,A,9,7,Rami Hadar
+Ray Spalding,*,22,17,60,0,62,4,3,7,3,7,1,3,1,0,1,19,-14,6,10,0,0,5,8,Ness_Ziona,A,9,7,Rami Hadar
+Total,,200,97,63,37,58,15,9,24,27,21,16,11,24,0,2,102,0,31,49,7,19,14,24,Ness_Ziona,A,9,7,Rami Hadar
+Team,,0,0,0,0,0,3,4,7,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,Maccabi_Tel-Aviv,A,5,4,Oren Aharoni
+Paul Scruggs,*,29,18,67,38,50,5,0,5,2,1,2,0,1,1,0,18,-8,4,6,3,8,1,2,Maccabi_Tel-Aviv,A,5,4,Oren Aharoni
+Iverson Molinar,*,28,11,57,33,0,4,0,4,1,4,0,2,3,0,0,14,-13,4,7,1,3,0,0,Maccabi_Tel-Aviv,A,5,4,Oren Aharoni
+Ido Flaisher,*,17,4,25,0,100,0,2,2,4,1,0,1,1,0,0,-1,-5,1,4,0,1,2,2,Maccabi_Tel-Aviv,A,5,4,Oren Aharoni
+Spencer Weisz,*,27,4,50,0,0,1,0,1,2,2,1,1,0,0,0,-2,-14,2,4,0,4,0,1,Maccabi_Tel-Aviv,A,5,4,Oren Aharoni
+Neta Segal,,20,5,0,50,100,0,0,0,4,2,2,1,4,0,0,6,-6,0,1,1,2,2,2,Maccabi_Tel-Aviv,A,5,4,Oren Aharoni
+Ron Zipper,,19,2,33,0,0,4,1,5,1,1,2,2,0,0,0,1,-4,1,3,0,4,0,0,Maccabi_Tel-Aviv,A,5,4,Oren Aharoni
+Eric Griffin,*,31,14,70,0,0,4,1,5,2,3,1,2,0,1,1,13,-11,7,10,0,3,0,0,Maccabi_Tel-Aviv,A,5,4,Oren Aharoni
+Sam Iorio,,5,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,-4,0,0,0,0,0,0,Maccabi_Tel-Aviv,A,5,4,Oren Aharoni
+Yoav Vitlem,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Maccabi_Tel-Aviv,A,5,4,Oren Aharoni
+Ray Spalding,,23,4,17,0,50,4,2,6,1,5,1,3,0,0,1,3,-10,1,6,0,1,2,4,Maccabi_Tel-Aviv,A,5,4,Oren Aharoni
+Total,,200,62,49,19,64,26,10,36,17,19,9,12,9,2,2,60,0,20,41,5,26,7,11,Maccabi_Tel-Aviv,A,5,4,Oren Aharoni
+Team,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Hapoel_Jerusalem,H,8,6,Rami Hadar
+Paul Scruggs,*,24,12,71,0,67,2,0,2,4,2,3,2,3,0,0,9,-21,5,7,0,4,2,3,Hapoel_Jerusalem,H,8,6,Rami Hadar
+Iverson Molinar,*,34,13,50,25,80,3,0,3,4,4,0,4,4,0,0,9,-23,3,6,1,4,4,5,Hapoel_Jerusalem,H,8,6,Rami Hadar
+Ido Flaisher,,13,5,50,0,50,2,3,5,2,1,0,0,0,0,0,6,-17,2,4,0,0,1,2,Hapoel_Jerusalem,H,8,6,Rami Hadar
+Spencer Weisz,*,34,5,50,0,100,3,6,9,4,2,2,2,1,0,0,5,-22,2,4,0,6,1,1,Hapoel_Jerusalem,H,8,6,Rami Hadar
+Neta Segal,,18,4,33,0,100,0,1,1,3,1,1,5,2,0,0,-4,-34,1,3,0,3,2,2,Hapoel_Jerusalem,H,8,6,Rami Hadar
+Ron Zipper,,27,16,40,50,100,0,1,1,2,2,1,0,0,0,0,12,-21,2,5,3,6,3,3,Hapoel_Jerusalem,H,8,6,Rami Hadar
+Eric Griffin,*,18,4,33,0,33,2,3,5,4,7,0,4,0,0,0,2,-26,1,3,0,0,2,6,Hapoel_Jerusalem,H,8,6,Rami Hadar
+Yoav Vitlem,,10,2,50,0,0,0,0,0,1,1,1,2,1,0,1,-2,3,1,2,0,0,0,2,Hapoel_Jerusalem,H,8,6,Rami Hadar
+Ray Spalding,*,22,7,40,0,100,11,0,11,4,2,4,5,2,0,0,14,-19,2,5,0,0,3,3,Hapoel_Jerusalem,H,8,6,Rami Hadar
+Total,,200,68,49,17,67,23,14,37,28,22,12,24,13,0,1,51,0,19,39,4,23,18,27,Hapoel_Jerusalem,H,8,6,Rami Hadar
+Team,,0,0,0,0,0,2,5,7,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,Hapoel_Tel-Aviv,H,4,3,Oren Aharoni
+Paul Scruggs,*,26,5,50,17,0,2,0,2,3,0,1,4,4,0,0,-1,-5,1,2,1,6,0,0,Hapoel_Tel-Aviv,H,4,3,Oren Aharoni
+Iverson Molinar,*,34,21,33,67,83,2,0,2,2,6,0,3,8,0,1,19,-4,5,15,2,3,5,6,Hapoel_Tel-Aviv,H,4,3,Oren Aharoni
+Ido Flaisher,*,17,4,67,0,0,3,2,5,4,2,0,0,1,0,0,7,-5,2,3,0,0,0,0,Hapoel_Tel-Aviv,H,4,3,Oren Aharoni
+Spencer Weisz,*,29,8,57,0,0,7,5,12,2,0,1,1,4,1,0,18,-8,4,7,0,2,0,0,Hapoel_Tel-Aviv,H,4,3,Oren Aharoni
+Neta Segal,,13,0,0,0,0,0,0,0,4,0,0,2,4,0,0,-4,-9,0,1,0,1,0,0,Hapoel_Tel-Aviv,H,4,3,Oren Aharoni
+Ron Zipper,,27,21,57,50,100,2,0,2,2,4,2,0,0,0,3,19,-9,4,7,2,4,7,7,Hapoel_Tel-Aviv,H,4,3,Oren Aharoni
+Eric Griffin,*,27,8,100,0,0,2,1,3,2,2,0,1,0,1,0,9,-1,4,4,0,2,0,0,Hapoel_Tel-Aviv,H,4,3,Oren Aharoni
+Sam Iorio,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-6,0,0,0,1,0,0,Hapoel_Tel-Aviv,H,4,3,Oren Aharoni
+Yoav Vitlem,,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,Hapoel_Tel-Aviv,H,4,3,Oren Aharoni
+Ray Spalding,,21,21,83,0,33,3,1,4,4,5,1,1,1,0,0,23,-3,10,12,0,0,1,3,Hapoel_Tel-Aviv,H,4,3,Oren Aharoni
+Total,,200,88,59,26,81,23,14,37,24,19,5,12,22,2,4,95,0,30,51,5,19,13,16,Hapoel_Tel-Aviv,H,4,3,Oren Aharoni
+Team,,0,0,0,0,0,1,5,6,0,0,0,1,0,0,0,5,0,0,0,0,0,0,0,Bnei_Herzliya,A,2,1,Oren Aharoni
+Paul Scruggs,*,21,8,100,33,100,1,1,2,4,2,2,2,1,1,0,8,-5,2,2,1,3,1,1,Bnei_Herzliya,A,2,1,Oren Aharoni
+Iverson Molinar,*,33,18,50,0,80,3,0,3,2,5,1,4,4,0,2,14,-10,5,10,0,2,8,10,Bnei_Herzliya,A,2,1,Oren Aharoni
+Ido Flaisher,,5,2,33,0,0,1,0,1,0,0,0,0,1,0,1,1,2,1,3,0,0,0,0,Bnei_Herzliya,A,2,1,Oren Aharoni
+Spencer Weisz,*,29,5,33,25,0,6,2,8,3,2,1,5,3,0,1,5,-19,1,3,1,4,0,0,Bnei_Herzliya,A,2,1,Oren Aharoni
+Neta Segal,,28,15,33,80,50,0,1,1,2,3,3,3,1,0,1,13,0,1,3,4,5,1,2,Bnei_Herzliya,A,2,1,Oren Aharoni
+Ron Zipper,,22,10,25,50,100,2,0,2,1,2,2,3,1,0,2,6,1,1,4,2,4,2,2,Bnei_Herzliya,A,2,1,Oren Aharoni
+Eric Griffin,*,23,10,100,0,55,6,0,6,2,8,0,1,1,1,0,17,-6,2,2,0,1,6,11,Bnei_Herzliya,A,2,1,Oren Aharoni
+Sam Iorio,,6,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-2,6,0,0,0,1,0,0,Bnei_Herzliya,A,2,1,Oren Aharoni
+Yoav Vitlem,,1,2,100,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1,1,0,1,0,0,Bnei_Herzliya,A,2,1,Oren Aharoni
+Ray Spalding,*,32,11,50,0,75,5,3,8,4,2,1,3,3,0,0,11,-3,4,8,0,2,3,4,Bnei_Herzliya,A,2,1,Oren Aharoni
+Total,,200,81,50,35,70,25,12,37,19,24,10,22,15,2,7,79,0,18,36,8,23,21,30,Bnei_Herzliya,A,2,1,Oren Aharoni
+Team,,0,0,0,0,0,1,2,3,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Gilboa_Galil,A,11,10,Rami Hadar
+Paul Scruggs,*,24,9,60,20,0,0,0,0,4,3,2,0,4,0,0,8,-3,3,5,1,5,0,0,Gilboa_Galil,A,11,10,Rami Hadar
+Iverson Molinar,*,25,27,56,33,86,1,1,2,4,5,2,1,1,0,1,21,-4,9,16,1,3,6,7,Gilboa_Galil,A,11,10,Rami Hadar
+Ido Flaisher,,8,2,50,0,0,1,0,1,0,0,1,0,1,0,0,4,7,1,2,0,0,0,0,Gilboa_Galil,A,11,10,Rami Hadar
+Spencer Weisz,,34,13,60,29,50,4,3,7,1,1,5,1,5,0,1,20,10,3,5,2,7,1,2,Gilboa_Galil,A,11,10,Rami Hadar
+Ron Zipper,,25,9,0,0,100,2,1,3,3,6,1,1,0,0,0,11,22,0,2,0,2,9,9,Gilboa_Galil,A,11,10,Rami Hadar
+Sam Iorio,*,21,6,0,50,0,4,0,4,3,0,1,0,2,0,0,7,-5,0,1,2,4,0,0,Gilboa_Galil,A,11,10,Rami Hadar
+Yoav Vitlem,,15,4,100,0,0,1,0,1,3,0,2,1,1,0,0,3,7,2,2,0,1,0,0,Gilboa_Galil,A,11,10,Rami Hadar
+Ray Spalding,*,32,9,29,0,71,7,1,8,2,3,2,5,1,0,0,8,-2,2,7,0,1,5,7,Gilboa_Galil,A,11,10,Rami Hadar
+Cody Demps,*,16,4,50,0,50,0,0,0,2,3,1,1,0,0,0,1,-7,1,2,0,1,2,4,Gilboa_Galil,A,11,10,Rami Hadar
+Total,,200,83,50,25,79,21,8,29,23,21,17,11,15,0,2,84,0,21,42,6,24,23,29,Gilboa_Galil,A,11,10,Rami Hadar
+Team,,0,0,0,0,0,0,2,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Maccabi_Ramat_Gan,A,7,12,Rami Hadar
+Paul Scruggs,*,24,13,0,67,50,0,0,0,3,1,1,2,1,0,0,5,-13,0,3,4,6,1,2,Maccabi_Ramat_Gan,A,7,12,Rami Hadar
+Kareem Reid,,18,0,0,0,0,4,1,5,2,1,0,1,0,1,0,3,8,0,1,0,0,0,0,Maccabi_Ramat_Gan,A,7,12,Rami Hadar
+Ofri Shitrit,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,Maccabi_Ramat_Gan,A,7,12,Rami Hadar
+Iverson Molinar,*,32,22,55,60,50,3,0,3,2,2,0,4,5,1,0,19,-1,6,11,3,5,1,2,Maccabi_Ramat_Gan,A,7,12,Rami Hadar
+Ido Flaisher,,15,0,0,0,0,3,2,5,3,0,0,0,4,0,0,6,5,0,0,0,0,0,0,Maccabi_Ramat_Gan,A,7,12,Rami Hadar
+Spencer Weisz,*,35,12,0,50,0,4,0,4,3,1,1,1,2,0,2,7,-15,0,3,4,8,0,0,Maccabi_Ramat_Gan,A,7,12,Rami Hadar
+Ron Zipper,,23,14,50,20,100,5,0,5,1,4,2,0,1,0,1,17,-1,3,6,1,5,5,5,Maccabi_Ramat_Gan,A,7,12,Rami Hadar
+Sam Iorio,*,16,3,0,100,0,0,1,1,2,0,1,2,1,0,0,2,-13,0,0,1,1,0,0,Maccabi_Ramat_Gan,A,7,12,Rami Hadar
+Yoav Vitlem,,11,3,0,100,0,0,0,0,2,1,1,3,1,0,0,-1,2,0,2,1,1,0,0,Maccabi_Ramat_Gan,A,7,12,Rami Hadar
+Ray Spalding,*,25,11,57,0,38,9,1,10,3,4,0,5,1,1,0,11,-12,4,7,0,0,3,8,Maccabi_Ramat_Gan,A,7,12,Rami Hadar
+Total,,200,78,39,54,59,28,7,35,22,14,6,18,16,3,3,70,0,13,33,14,26,10,17,Maccabi_Ramat_Gan,A,7,12,Rami Hadar
+Team,,0,0,0,0,0,3,1,4,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,Hapoel_Holon,H,1,8,Rami Hadar
+Paul Scruggs,*,31,13,43,50,80,3,3,6,1,3,1,2,4,2,0,20,-24,3,7,1,2,4,5,Hapoel_Holon,H,1,8,Rami Hadar
+Ido Flaisher,,6,2,50,0,0,1,1,2,0,0,0,1,0,0,0,2,-1,1,2,0,0,0,0,Hapoel_Holon,H,1,8,Rami Hadar
+Yanir Binyamin,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,Hapoel_Holon,H,1,8,Rami Hadar
+Spencer Weisz,*,35,13,100,12,0,7,2,9,1,1,3,1,6,0,0,22,-20,5,5,1,8,0,1,Hapoel_Holon,H,1,8,Rami Hadar
+Neta Segal,,16,4,100,0,100,3,0,3,3,2,0,2,2,0,0,4,1,1,1,0,2,2,2,Hapoel_Holon,H,1,8,Rami Hadar
+Ron Zipper,,19,15,100,40,100,1,1,2,5,3,0,2,0,0,0,10,-6,1,1,2,5,7,7,Hapoel_Holon,H,1,8,Rami Hadar
+Eric Griffin,,18,12,33,0,75,2,4,6,3,5,1,2,0,1,0,10,-9,3,9,0,2,6,8,Hapoel_Holon,H,1,8,Rami Hadar
+Sam Iorio,*,18,0,0,0,0,2,2,4,0,0,0,1,5,0,1,0,-11,0,4,0,3,0,0,Hapoel_Holon,H,1,8,Rami Hadar
+Yoav Vitlem,,5,3,0,100,0,0,0,0,1,0,0,0,1,0,0,3,5,0,0,1,1,0,0,Hapoel_Holon,H,1,8,Rami Hadar
+Ray Spalding,*,20,7,33,0,50,3,2,5,2,4,0,0,2,1,1,9,-18,2,6,0,0,3,6,Hapoel_Holon,H,1,8,Rami Hadar
+Cody Demps,*,31,12,50,0,0,2,3,5,3,1,1,4,2,0,0,5,-19,6,12,0,2,0,1,Hapoel_Holon,H,1,8,Rami Hadar
+Total,,200,81,47,20,73,27,19,46,19,19,6,17,22,4,2,87,0,22,47,5,25,22,30,Hapoel_Holon,H,1,8,Rami Hadar
+Team,,0,0,0,0,0,2,2,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,Maccabi_Tel-Aviv,H,15,15,Rami Hadar
+Justin McKoy,*,33,16,45,20,60,3,5,8,3,4,0,1,3,0,0,15,-8,5,11,1,5,3,5,Maccabi_Tel-Aviv,H,15,15,Rami Hadar
+Ofri Shitrit,,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,-1,0,0,0,0,0,0,Maccabi_Tel-Aviv,H,15,15,Rami Hadar
+Iverson Molinar,*,26,8,43,0,100,2,0,2,2,3,2,5,5,0,0,6,-12,3,7,0,3,2,2,Maccabi_Tel-Aviv,H,15,15,Rami Hadar
+Ido Flaisher,,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,-7,0,0,0,0,0,0,Maccabi_Tel-Aviv,H,15,15,Rami Hadar
+Spencer Weisz,*,31,6,0,25,0,6,3,9,4,1,3,6,2,0,0,4,-4,0,1,2,8,0,0,Maccabi_Tel-Aviv,H,15,15,Rami Hadar
+Neta Segal,,12,2,50,0,0,1,0,1,1,0,1,0,2,0,0,4,-6,1,2,0,0,0,0,Maccabi_Tel-Aviv,H,15,15,Rami Hadar
+Ron Zipper,,20,13,67,29,60,1,2,3,3,5,3,2,1,0,0,12,-6,2,3,2,7,3,5,Maccabi_Tel-Aviv,H,15,15,Rami Hadar
+Sam Iorio,,29,13,100,20,100,2,1,3,2,3,1,1,2,0,0,15,-3,4,4,1,5,2,2,Maccabi_Tel-Aviv,H,15,15,Rami Hadar
+Yoav Vitlem,,1,2,0,0,100,0,0,0,0,1,0,0,0,0,0,3,-6,0,0,0,0,2,2,Maccabi_Tel-Aviv,H,15,15,Rami Hadar
+Ray Spalding,*,14,6,60,0,0,2,3,5,2,0,0,2,1,0,0,6,-12,3,5,0,0,0,0,Maccabi_Tel-Aviv,H,15,15,Rami Hadar
+Cody Demps,*,32,9,38,25,0,2,3,5,2,2,4,4,2,0,0,8,-25,3,8,1,4,0,0,Maccabi_Tel-Aviv,H,15,15,Rami Hadar
+Total,,200,75,51,22,75,21,21,42,19,19,14,21,18,0,0,79,0,21,41,7,32,12,16,Maccabi_Tel-Aviv,H,15,15,Rami Hadar
+Team,,0,0,0,0,0,1,3,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,Hapoel_Tel-Aviv,A,16,16,Rami Hadar
+Justin McKoy,*,25,5,17,50,0,4,0,4,4,1,1,1,1,0,0,1,-1,1,6,1,2,0,0,Hapoel_Tel-Aviv,A,16,16,Rami Hadar
+Kareem Reid,*,7,2,50,0,0,1,1,2,4,0,0,3,0,0,0,-4,4,1,2,0,0,0,0,Hapoel_Tel-Aviv,A,16,16,Rami Hadar
+Iverson Molinar,*,33,32,67,17,71,2,0,2,3,7,2,0,5,0,2,30,10,12,18,1,6,5,7,Hapoel_Tel-Aviv,A,16,16,Rami Hadar
+Ido Flaisher,,20,6,50,0,50,5,4,9,1,4,0,1,1,0,0,14,1,2,4,0,0,2,4,Hapoel_Tel-Aviv,A,16,16,Rami Hadar
+Spencer Weisz,*,35,20,100,44,100,4,2,6,4,1,0,0,5,0,0,23,-5,3,3,4,9,2,2,Hapoel_Tel-Aviv,A,16,16,Rami Hadar
+Nir Sheffer,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Hapoel_Tel-Aviv,A,16,16,Rami Hadar
+Neta Segal,,11,0,0,0,0,0,0,0,2,1,0,0,4,0,0,1,-1,0,1,0,1,0,0,Hapoel_Tel-Aviv,A,16,16,Rami Hadar
+Ron Zipper,,29,18,50,50,60,2,0,2,3,4,1,2,2,0,0,14,7,3,6,3,6,3,5,Hapoel_Tel-Aviv,A,16,16,Rami Hadar
+Sam Iorio,,25,0,0,0,0,2,1,3,5,0,1,0,3,0,0,-3,-3,0,2,0,3,0,0,Hapoel_Tel-Aviv,A,16,16,Rami Hadar
+Cody Demps,*,14,0,0,0,0,3,0,3,5,0,0,2,3,0,0,-2,-7,0,1,0,0,0,0,Hapoel_Tel-Aviv,A,16,16,Rami Hadar
+Total,,200,83,51,33,67,24,11,35,31,18,5,9,24,0,2,78,0,22,43,9,27,12,18,Hapoel_Tel-Aviv,A,16,16,Rami Hadar
+Team,,0,0,0,0,0,3,2,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,Hapoel_Holon,A,18,18,Rami Hadar
+Justin McKoy,*,35,27,64,44,50,4,0,4,1,4,1,2,1,0,2,22,-3,7,11,4,9,1,2,Hapoel_Holon,A,18,18,Rami Hadar
+Iverson Molinar,*,29,7,33,17,0,1,0,1,1,0,0,4,4,0,0,-2,-1,2,6,1,6,0,0,Hapoel_Holon,A,18,18,Rami Hadar
+Ido Flaisher,,13,2,25,0,0,2,3,5,3,0,0,0,1,0,1,1,2,1,4,0,0,0,0,Hapoel_Holon,A,18,18,Rami Hadar
+Spencer Weisz,*,35,5,25,25,0,3,2,5,3,3,3,3,8,0,0,8,0,1,4,1,4,0,4,Hapoel_Holon,A,18,18,Rami Hadar
+Marcus Santos-Silva,*,17,7,50,0,50,3,5,8,2,2,1,0,0,0,1,11,-5,3,6,0,0,1,2,Hapoel_Holon,A,18,18,Rami Hadar
+Neta Segal,,10,3,0,100,0,2,0,2,2,1,0,0,0,0,0,4,3,0,0,1,1,0,0,Hapoel_Holon,A,18,18,Rami Hadar
+Ron Zipper,,19,9,33,33,67,1,1,2,2,4,3,1,2,0,0,11,-16,1,3,1,3,4,6,Hapoel_Holon,A,18,18,Rami Hadar
+Sam Iorio,,14,5,100,0,100,2,1,3,1,1,0,1,1,0,0,7,-3,2,2,0,1,1,1,Hapoel_Holon,A,18,18,Rami Hadar
+Yoav Vitlem,,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-2,-1,0,1,0,0,0,0,Hapoel_Holon,A,18,18,Rami Hadar
+Cody Demps,*,27,17,25,60,86,1,1,2,3,3,2,3,2,0,1,13,-6,1,4,3,5,6,7,Hapoel_Holon,A,18,18,Rami Hadar
+Total,,200,82,44,38,59,22,15,37,19,18,10,14,19,0,5,78,0,18,41,11,29,13,22,Hapoel_Holon,A,18,18,Rami Hadar
+Team,,0,0,0,0,0,3,3,6,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,Maccabi_Ramat_Gan,H,17,17,Rami Hadar
+Justin McKoy,*,30,17,50,60,100,5,0,5,4,2,0,3,5,0,0,17,14,3,6,3,5,2,2,Maccabi_Ramat_Gan,H,17,17,Rami Hadar
+Iverson Molinar,*,29,19,71,40,75,6,0,6,2,5,2,4,9,0,0,29,17,5,7,2,5,3,4,Maccabi_Ramat_Gan,H,17,17,Rami Hadar
+Ido Flaisher,*,20,4,100,0,33,4,0,4,2,3,1,0,2,1,0,9,20,1,1,0,0,2,6,Maccabi_Ramat_Gan,H,17,17,Rami Hadar
+Spencer Weisz,*,31,6,0,50,0,2,0,2,4,0,4,3,3,0,0,5,13,0,1,2,4,0,0,Maccabi_Ramat_Gan,H,17,17,Rami Hadar
+Marcus Santos-Silva,,14,7,50,0,100,4,1,5,3,1,0,1,2,0,0,8,0,3,6,0,0,1,1,Maccabi_Ramat_Gan,H,17,17,Rami Hadar
+Nir Sheffer,,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,Maccabi_Ramat_Gan,H,17,17,Rami Hadar
+Neta Segal,,5,0,0,0,0,0,0,0,2,0,0,1,1,0,0,-2,3,0,0,0,0,0,0,Maccabi_Ramat_Gan,H,17,17,Rami Hadar
+Ron Zipper,,19,23,67,100,100,3,0,3,1,4,1,2,0,0,0,27,1,2,3,5,5,4,4,Maccabi_Ramat_Gan,H,17,17,Rami Hadar
+Sam Iorio,,15,7,0,0,88,2,1,3,1,4,0,1,2,0,0,11,6,0,0,0,2,7,8,Maccabi_Ramat_Gan,H,17,17,Rami Hadar
+Yoav Vitlem,,2,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,8,0,0,0,0,0,0,Maccabi_Ramat_Gan,H,17,17,Rami Hadar
+Cody Demps,*,34,21,58,40,50,3,2,5,3,1,3,1,4,0,0,21,16,7,12,2,5,1,2,Maccabi_Ramat_Gan,H,17,17,Rami Hadar
+Total,,200,104,58,54,74,34,7,41,22,20,11,16,28,1,0,133,0,21,36,14,26,20,27,Maccabi_Ramat_Gan,H,17,17,Rami Hadar
+Team,,0,0,0,0,0,1,2,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,Bnei_Herzliya,H,20,20,Rami Hadar
+Justin McKoy,*,34,19,33,43,100,9,2,11,5,7,3,0,4,1,0,32,7,2,6,3,7,6,6,Bnei_Herzliya,H,20,20,Rami Hadar
+Elias King,,14,0,0,0,0,2,0,2,2,0,1,0,1,0,0,1,-9,0,0,0,1,0,0,Bnei_Herzliya,H,20,20,Rami Hadar
+Iverson Molinar,*,32,15,21,0,88,4,2,6,2,7,0,5,2,0,3,1,-4,4,19,0,3,7,8,Bnei_Herzliya,H,20,20,Rami Hadar
+Ido Flaisher,*,6,4,100,0,0,1,0,1,2,0,0,1,1,0,0,3,1,2,2,0,0,0,0,Bnei_Herzliya,H,20,20,Rami Hadar
+Marcus Santos-Silva,,14,11,62,0,100,1,5,6,5,1,0,0,3,1,0,14,0,5,8,0,0,1,1,Bnei_Herzliya,H,20,20,Rami Hadar
+Neta Segal,,16,7,0,67,50,2,0,2,2,1,0,0,1,0,0,7,-7,0,0,2,3,1,2,Bnei_Herzliya,H,20,20,Rami Hadar
+Ron Zipper,*,14,11,33,67,100,1,1,2,0,4,1,2,0,0,1,12,-9,1,3,2,3,3,3,Bnei_Herzliya,H,20,20,Rami Hadar
+Sam Iorio,,25,5,50,100,0,2,2,4,4,0,3,1,2,0,0,8,-2,1,2,1,1,0,0,Bnei_Herzliya,H,20,20,Rami Hadar
+Yoav Vitlem,,9,6,0,100,0,2,0,2,1,1,1,1,0,0,0,5,19,0,1,2,2,0,2,Bnei_Herzliya,H,20,20,Rami Hadar
+Cody Demps,*,36,19,100,75,0,2,0,2,4,0,0,4,5,0,0,17,-1,5,5,3,4,0,0,Bnei_Herzliya,H,20,20,Rami Hadar
+Total,,200,97,43,54,82,27,14,41,27,21,9,17,19,2,4,100,0,20,46,13,24,18,22,Bnei_Herzliya,H,20,20,Rami Hadar
+Team,,0,0,0,0,0,5,2,7,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,Ness_Ziona,H,22,22,Rami Hadar
+Justin McKoy,*,33,33,78,56,80,3,2,5,2,5,0,3,2,0,0,33,3,7,9,5,9,4,5,Ness_Ziona,H,22,22,Rami Hadar
+Iverson Molinar,*,28,26,64,33,86,2,0,2,3,5,1,2,3,0,0,23,-8,7,11,2,6,6,7,Ness_Ziona,H,22,22,Rami Hadar
+Ido Flaisher,*,5,2,33,0,0,1,0,1,2,0,0,0,0,0,2,-3,-8,1,3,0,0,0,0,Ness_Ziona,H,22,22,Rami Hadar
+Spencer Weisz,*,35,10,100,25,0,5,1,6,4,2,7,2,3,0,0,16,-1,2,2,2,8,0,0,Ness_Ziona,H,22,22,Rami Hadar
+Marcus Santos-Silva,,25,8,67,0,0,3,2,5,3,2,0,4,1,4,0,11,4,4,6,0,0,0,0,Ness_Ziona,H,22,22,Rami Hadar
+Neta Segal,,10,3,50,0,50,0,0,0,0,2,1,1,2,0,0,4,7,1,2,0,1,1,2,Ness_Ziona,H,22,22,Rami Hadar
+Ron Zipper,,12,3,0,50,0,0,0,0,1,2,0,1,0,0,0,0,11,0,0,1,2,0,2,Ness_Ziona,H,22,22,Rami Hadar
+Sam Iorio,,17,3,0,100,0,3,1,4,2,0,1,1,2,0,0,7,11,0,0,1,1,0,0,Ness_Ziona,H,22,22,Rami Hadar
+Yoav Vitlem,,3,0,0,0,0,0,0,0,1,0,0,0,1,0,0,-1,5,0,0,0,1,0,0,Ness_Ziona,H,22,22,Rami Hadar
+Cody Demps,*,32,2,33,0,0,2,1,3,4,1,3,1,4,0,0,2,1,1,3,0,4,0,0,Ness_Ziona,H,22,22,Rami Hadar
+Total,,200,90,64,34,69,24,9,33,22,19,13,15,18,4,2,99,0,23,36,11,32,11,16,Ness_Ziona,H,22,22,Rami Hadar
+Team,,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Ironi_Kiryat_Ata,H,10,9,Rami Hadar
+Kareem Reid,,17,2,20,0,0,1,0,1,1,2,2,1,0,0,0,1,-15,1,5,0,0,0,0,Ironi_Kiryat_Ata,H,10,9,Rami Hadar
+Iverson Molinar,*,35,15,50,0,100,0,0,0,1,2,1,3,2,0,0,6,10,6,12,0,4,3,3,Ironi_Kiryat_Ata,H,10,9,Rami Hadar
+Ido Flaisher,,6,0,0,0,0,2,4,6,0,1,0,1,0,0,0,6,-4,0,0,0,0,0,0,Ironi_Kiryat_Ata,H,10,9,Rami Hadar
+Spencer Weisz,*,35,10,50,40,0,4,4,8,3,1,2,1,4,2,0,18,11,2,4,2,5,0,0,Ironi_Kiryat_Ata,H,10,9,Rami Hadar
+Neta Segal,,16,7,33,33,50,0,1,1,3,4,1,1,4,0,0,7,13,1,3,1,3,2,4,Ironi_Kiryat_Ata,H,10,9,Rami Hadar
+Ron Zipper,,10,9,67,50,67,2,0,2,1,1,0,3,1,1,1,6,1,2,3,1,2,2,3,Ironi_Kiryat_Ata,H,10,9,Rami Hadar
+Sam Iorio,*,20,9,100,50,0,3,1,4,1,0,0,0,3,0,0,14,5,3,3,1,2,0,0,Ironi_Kiryat_Ata,H,10,9,Rami Hadar
+Yoav Vitlem,,2,4,100,0,100,0,0,0,1,1,1,1,0,0,0,4,0,1,1,0,0,2,2,Ironi_Kiryat_Ata,H,10,9,Rami Hadar
+Ray Spalding,*,27,19,78,100,33,4,1,5,3,3,3,2,2,2,0,23,17,7,9,1,1,2,6,Ironi_Kiryat_Ata,H,10,9,Rami Hadar
+Cody Demps,*,32,11,25,50,0,6,1,7,2,3,1,0,5,0,1,18,7,1,4,3,6,0,0,Ironi_Kiryat_Ata,H,10,9,Rami Hadar
+Total,,200,86,55,39,61,23,12,35,16,18,11,13,21,5,2,104,0,24,44,9,23,11,18,Ironi_Kiryat_Ata,H,10,9,Rami Hadar
+Team,,0,0,0,0,0,1,1,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Gilboa_Galil,H,23,23,Rami Hadar
+Justin McKoy,*,27,19,33,56,100,3,0,3,5,4,1,6,2,1,0,13,-9,1,3,5,9,2,2,Gilboa_Galil,H,23,23,Rami Hadar
+Iverson Molinar,*,33,10,43,0,80,4,1,5,3,9,0,2,3,1,0,16,-19,3,7,0,2,4,5,Gilboa_Galil,H,23,23,Rami Hadar
+Ido Flaisher,,12,4,40,0,0,1,2,3,1,0,0,2,0,1,0,2,-8,2,5,0,0,0,0,Gilboa_Galil,H,23,23,Rami Hadar
+Spencer Weisz,*,33,3,0,14,0,3,2,5,1,0,5,6,5,0,0,4,-8,0,1,1,7,0,0,Gilboa_Galil,H,23,23,Rami Hadar
+Marcus Santos-Silva,*,15,2,25,0,0,5,1,6,4,1,1,3,0,1,0,1,0,1,4,0,0,0,0,Gilboa_Galil,H,23,23,Rami Hadar
+Nir Sheffer,,1,3,0,0,100,0,0,0,0,1,0,0,0,0,0,4,3,0,0,0,0,3,3,Gilboa_Galil,H,23,23,Rami Hadar
+Neta Segal,,3,1,0,0,50,0,0,0,0,1,0,2,0,0,0,-1,-2,0,0,0,0,1,2,Gilboa_Galil,H,23,23,Rami Hadar
+Ron Zipper,,17,7,100,0,83,0,1,1,4,3,4,2,0,0,0,5,-21,1,1,0,3,5,6,Gilboa_Galil,H,23,23,Rami Hadar
+Sam Iorio,,22,11,0,100,100,2,1,3,4,1,0,0,1,0,0,12,-15,0,0,3,3,2,2,Gilboa_Galil,H,23,23,Rami Hadar
+Yoav Vitlem,,8,0,0,0,0,0,0,0,0,1,1,0,3,0,0,4,0,0,1,0,0,0,0,Gilboa_Galil,H,23,23,Rami Hadar
+Cody Demps,*,29,12,57,25,25,0,3,3,4,3,1,2,4,0,0,8,-1,4,7,1,4,1,4,Gilboa_Galil,H,23,23,Rami Hadar
+Total,,200,72,41,36,75,19,12,31,26,24,13,26,18,4,0,69,0,12,29,10,28,18,24,Gilboa_Galil,H,23,23,Rami Hadar
+Team,,0,0,0,0,0,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Hapoel_Jerusalem,A,24,24,Rami Hadar
+Justin McKoy,*,39,14,67,0,100,3,1,4,2,5,0,3,3,0,1,12,0,4,6,0,6,6,6,Hapoel_Jerusalem,A,24,24,Rami Hadar
+Elias King,,10,3,0,33,0,1,0,1,1,0,0,1,0,0,0,0,-11,0,0,1,3,0,0,Hapoel_Jerusalem,A,24,24,Rami Hadar
+Ido Flaisher,*,15,2,50,0,0,0,1,1,3,0,0,1,1,0,0,-1,-15,1,2,0,0,0,0,Hapoel_Jerusalem,A,24,24,Rami Hadar
+Spencer Weisz,*,33,15,50,30,100,9,1,10,3,2,2,3,4,0,0,18,6,2,4,3,10,2,2,Hapoel_Jerusalem,A,24,24,Rami Hadar
+Marcus Santos-Silva,,22,12,50,0,100,6,2,8,4,1,2,0,0,1,0,15,14,5,10,0,0,2,2,Hapoel_Jerusalem,A,24,24,Rami Hadar
+Neta Segal,*,35,11,0,60,100,2,3,5,3,3,2,4,9,0,0,20,8,0,1,3,5,2,2,Hapoel_Jerusalem,A,24,24,Rami Hadar
+Yoav Vitlem,,9,0,0,0,0,0,0,0,0,0,0,0,1,0,1,-1,-7,0,1,0,0,0,0,Hapoel_Jerusalem,A,24,24,Rami Hadar
+Cody Demps,*,37,24,64,20,50,4,6,10,3,7,1,3,0,0,2,22,-5,9,14,1,5,3,6,Hapoel_Jerusalem,A,24,24,Rami Hadar
+Total,,200,81,55,28,83,25,16,41,20,18,7,16,18,1,4,85,0,21,38,8,29,15,18,Hapoel_Jerusalem,A,24,24,Rami Hadar
+Team,,0,0,0,0,0,2,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,Hapoel_Afula,H,3,2,Oren Aharoni
+Paul Scruggs,*,27,15,80,17,100,2,2,4,1,4,2,3,2,0,0,17,-6,4,5,1,6,4,4,Hapoel_Afula,H,3,2,Oren Aharoni
+Iverson Molinar,*,32,21,36,40,88,4,0,4,1,8,1,2,1,0,2,19,14,4,11,2,5,7,8,Hapoel_Afula,H,3,2,Oren Aharoni
+Ido Flaisher,,13,5,50,0,50,3,4,7,3,2,0,0,3,1,0,12,-1,2,4,0,0,1,2,Hapoel_Afula,H,3,2,Oren Aharoni
+Spencer Weisz,*,30,7,0,33,50,4,3,7,3,1,1,3,4,0,0,9,16,0,0,2,6,1,2,Hapoel_Afula,H,3,2,Oren Aharoni
+Neta Segal,,23,0,0,0,0,2,1,3,4,2,1,0,6,0,0,7,-7,0,1,0,0,0,0,Hapoel_Afula,H,3,2,Oren Aharoni
+Ron Zipper,,14,9,0,50,0,1,0,1,1,0,0,1,0,0,0,3,-1,0,2,3,6,0,0,Hapoel_Afula,H,3,2,Oren Aharoni
+Eric Griffin,*,22,11,80,33,0,3,1,4,5,2,0,3,0,1,0,5,2,4,5,1,3,0,2,Hapoel_Afula,H,3,2,Oren Aharoni
+Sam Iorio,,16,5,100,33,0,5,1,6,2,0,0,2,0,0,0,5,4,1,1,1,3,0,0,Hapoel_Afula,H,3,2,Oren Aharoni
+Ray Spalding,*,23,5,50,0,25,4,2,6,2,2,2,2,0,2,0,8,4,2,4,0,0,1,4,Hapoel_Afula,H,3,2,Oren Aharoni
+Total,,200,78,52,34,64,30,14,44,22,21,7,18,16,4,2,85,0,17,33,10,29,14,22,Hapoel_Afula,H,3,2,Oren Aharoni
+Team,,0,0,0,0,0,3,2,5,0,0,0,1,0,0,0,4,0,0,0,0,0,0,0,Hapoel_Haifa,H,12,11,Rami Hadar
+Paul Scruggs,*,33,19,50,38,0,3,0,3,4,2,4,1,3,0,0,15,2,5,10,3,8,0,1,Hapoel_Haifa,H,12,11,Rami Hadar
+Iverson Molinar,*,23,14,71,0,100,2,0,2,5,2,0,4,4,0,0,9,3,5,7,0,2,4,4,Hapoel_Haifa,H,12,11,Rami Hadar
+Ido Flaisher,,11,3,100,0,50,3,0,3,1,1,0,0,0,0,0,5,2,1,1,0,0,1,2,Hapoel_Haifa,H,12,11,Rami Hadar
+Spencer Weisz,*,33,13,100,33,50,4,0,4,2,4,4,2,5,0,0,21,-5,3,3,2,6,1,2,Hapoel_Haifa,H,12,11,Rami Hadar
+Ron Zipper,,23,9,0,60,0,0,0,0,2,3,1,0,0,0,0,5,1,0,4,3,5,0,0,Hapoel_Haifa,H,12,11,Rami Hadar
+Sam Iorio,*,15,2,0,0,100,4,1,5,2,2,1,2,2,0,0,6,12,0,0,0,2,2,2,Hapoel_Haifa,H,12,11,Rami Hadar
+Yoav Vitlem,,9,1,0,0,50,0,1,1,2,1,0,1,0,0,0,-3,-9,0,1,0,1,1,2,Hapoel_Haifa,H,12,11,Rami Hadar
+Ray Spalding,*,27,12,57,0,67,5,1,6,3,4,1,3,1,0,0,13,-11,4,7,0,0,4,6,Hapoel_Haifa,H,12,11,Rami Hadar
+Cody Demps,,26,8,50,33,50,4,2,6,4,3,1,0,1,0,0,10,-25,2,4,1,3,1,2,Hapoel_Haifa,H,12,11,Rami Hadar
+Total,,200,81,54,33,67,28,7,35,25,22,12,14,16,0,0,85,0,20,37,9,27,14,21,Hapoel_Haifa,H,12,11,Rami Hadar
+Team,,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,Elitzur_Netanya,H,6,5,Oren Aharoni
+Paul Scruggs,*,24,14,0,80,100,1,0,1,2,1,3,2,2,0,0,12,7,0,4,4,5,2,2,Elitzur_Netanya,H,6,5,Oren Aharoni
+Iverson Molinar,*,32,25,55,25,78,2,0,2,3,6,2,3,5,0,1,20,15,6,11,2,8,7,9,Elitzur_Netanya,H,6,5,Oren Aharoni
+Ido Flaisher,,12,4,50,0,0,0,0,0,1,1,2,0,1,1,0,4,5,2,4,0,0,0,2,Elitzur_Netanya,H,6,5,Oren Aharoni
+Yanir Binyamin,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Elitzur_Netanya,H,6,5,Oren Aharoni
+Spencer Weisz,*,27,8,50,40,0,12,1,13,2,1,0,1,3,0,0,18,21,1,2,2,5,0,0,Elitzur_Netanya,H,6,5,Oren Aharoni
+Neta Segal,,20,8,50,33,50,2,0,2,3,4,0,1,2,0,0,6,8,1,2,1,3,3,6,Elitzur_Netanya,H,6,5,Oren Aharoni
+Ron Zipper,,21,5,0,33,100,0,0,0,3,2,1,0,2,0,0,3,12,0,2,1,3,2,2,Elitzur_Netanya,H,6,5,Oren Aharoni
+Eric Griffin,*,26,8,100,0,80,4,3,7,2,6,1,4,2,3,0,20,10,2,2,0,0,4,5,Elitzur_Netanya,H,6,5,Oren Aharoni
+Sam Iorio,,8,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,3,0,0,0,2,0,0,Elitzur_Netanya,H,6,5,Oren Aharoni
+Yoav Vitlem,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Elitzur_Netanya,H,6,5,Oren Aharoni
+Ray Spalding,*,28,16,70,0,67,4,3,7,4,3,2,1,0,1,0,19,14,7,10,0,1,2,3,Elitzur_Netanya,H,6,5,Oren Aharoni
+Total,,200,88,51,37,69,29,7,36,20,24,11,12,17,5,1,104,0,19,37,10,27,20,29,Elitzur_Netanya,H,6,5,Oren Aharoni
+Team,,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,Elitzur_Netanya,A,14,14,Rami Hadar
+Paul Scruggs,*,22,3,0,33,0,5,1,6,3,0,0,2,1,0,0,1,0,0,2,1,3,0,0,Elitzur_Netanya,A,14,14,Rami Hadar
+Iverson Molinar,*,34,24,78,67,100,0,1,1,3,5,1,2,8,1,0,32,22,7,9,2,3,4,4,Elitzur_Netanya,A,14,14,Rami Hadar
+Ido Flaisher,*,17,1,0,0,25,3,1,4,1,2,1,2,2,1,0,4,7,0,1,0,0,1,4,Elitzur_Netanya,A,14,14,Rami Hadar
+Spencer Weisz,,34,18,50,50,0,7,1,8,3,0,1,1,3,0,0,19,9,3,6,4,8,0,0,Elitzur_Netanya,A,14,14,Rami Hadar
+Ron Zipper,,19,8,67,0,80,2,0,2,1,3,1,0,3,0,0,11,11,2,3,0,3,4,5,Elitzur_Netanya,A,14,14,Rami Hadar
+Sam Iorio,*,20,13,100,67,100,2,0,2,1,1,0,0,0,1,0,15,7,3,3,2,3,1,1,Elitzur_Netanya,A,14,14,Rami Hadar
+Yoav Vitlem,,10,0,0,0,0,1,1,2,0,0,1,1,1,0,0,2,-7,0,0,0,1,0,0,Elitzur_Netanya,A,14,14,Rami Hadar
+Ray Spalding,,23,17,53,0,50,5,5,10,2,1,2,3,2,0,0,18,10,8,15,0,1,1,2,Elitzur_Netanya,A,14,14,Rami Hadar
+Cody Demps,*,21,12,50,50,100,1,2,3,4,1,4,1,3,0,0,14,21,2,4,2,4,2,2,Elitzur_Netanya,A,14,14,Rami Hadar
+Total,,200,96,58,42,72,28,12,40,18,13,11,12,23,3,0,118,0,25,43,11,26,13,18,Elitzur_Netanya,A,14,14,Rami Hadar
+Team,,0,0,0,0,0,2,1,3,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0,Hapoel_Galil_Elion,A,13,13,Rami Hadar
+Paul Scruggs,*,29,11,67,33,50,6,1,7,3,3,0,2,4,0,0,14,10,2,3,2,6,1,2,Hapoel_Galil_Elion,A,13,13,Rami Hadar
+Iverson Molinar,*,27,10,36,0,50,3,0,3,4,2,0,1,5,1,2,4,6,4,11,0,1,2,4,Hapoel_Galil_Elion,A,13,13,Rami Hadar
+Ido Flaisher,,14,2,50,0,0,2,2,4,3,1,1,2,2,1,0,5,5,1,2,0,0,0,0,Hapoel_Galil_Elion,A,13,13,Rami Hadar
+Spencer Weisz,,33,16,60,67,100,8,0,8,1,3,1,1,2,0,0,25,10,3,5,2,3,4,4,Hapoel_Galil_Elion,A,13,13,Rami Hadar
+Ron Zipper,,19,13,40,29,100,1,0,1,1,5,1,1,0,0,1,9,11,2,5,2,7,3,3,Hapoel_Galil_Elion,A,13,13,Rami Hadar
+Sam Iorio,*,22,5,50,100,0,3,3,6,0,1,0,0,0,1,1,11,14,1,2,1,1,0,0,Hapoel_Galil_Elion,A,13,13,Rami Hadar
+Yoav Vitlem,,7,0,0,0,0,0,0,0,0,1,0,1,0,0,0,-2,-2,0,2,0,0,0,0,Hapoel_Galil_Elion,A,13,13,Rami Hadar
+Ray Spalding,*,18,3,14,0,50,4,2,6,3,1,1,3,3,0,1,0,-2,1,7,0,0,1,2,Hapoel_Galil_Elion,A,13,13,Rami Hadar
+Cody Demps,*,31,14,57,50,0,6,1,7,2,2,5,2,3,0,0,22,18,4,7,2,4,0,0,Hapoel_Galil_Elion,A,13,13,Rami Hadar
+Total,,200,74,41,41,73,35,10,45,17,20,9,13,19,3,5,92,0,18,44,9,22,11,15,Hapoel_Galil_Elion,A,13,13,Rami Hadar
+Team,,0,0,0,0,0,0,5,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,Hapoel_Haifa,A,19,19,Rami Hadar
+Justin McKoy,*,31,20,38,50,80,2,2,4,2,4,5,1,2,2,2,21,36,5,13,2,4,4,5,Hapoel_Haifa,A,19,19,Rami Hadar
+Ofri Shitrit,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,Hapoel_Haifa,A,19,19,Rami Hadar
+Iverson Molinar,*,29,13,43,0,88,3,2,5,2,5,0,1,8,0,0,21,22,3,7,0,2,7,8,Hapoel_Haifa,A,19,19,Rami Hadar
+Ido Flaisher,*,15,2,20,0,0,2,4,6,2,1,0,0,0,0,0,3,8,1,5,0,0,0,0,Hapoel_Haifa,A,19,19,Rami Hadar
+Spencer Weisz,*,24,19,50,56,100,10,1,11,0,2,2,2,5,0,0,32,21,1,2,5,9,2,2,Hapoel_Haifa,A,19,19,Rami Hadar
+Marcus Santos-Silva,,16,4,40,0,0,0,0,0,2,1,0,1,1,0,0,0,16,2,5,0,0,0,0,Hapoel_Haifa,A,19,19,Rami Hadar
+Nir Sheffer,,2,3,0,100,0,0,0,0,0,0,0,0,0,0,0,3,-2,0,0,1,1,0,0,Hapoel_Haifa,A,19,19,Rami Hadar
+Neta Segal,,22,16,100,100,100,0,0,0,3,1,2,1,4,0,0,19,16,1,1,4,4,2,2,Hapoel_Haifa,A,19,19,Rami Hadar
+Ron Zipper,,7,0,0,0,0,0,0,0,1,1,1,0,0,0,1,-4,5,0,2,0,2,0,0,Hapoel_Haifa,A,19,19,Rami Hadar
+Sam Iorio,,15,0,0,0,0,1,1,2,3,1,1,2,2,0,0,1,2,0,0,0,0,0,0,Hapoel_Haifa,A,19,19,Rami Hadar
+Yoav Vitlem,,4,0,0,0,0,0,0,0,2,0,0,0,0,0,0,-4,-4,0,1,0,1,0,0,Hapoel_Haifa,A,19,19,Rami Hadar
+Cody Demps,*,32,30,75,40,86,6,4,10,3,5,2,3,4,0,0,38,32,9,12,2,5,6,7,Hapoel_Haifa,A,19,19,Rami Hadar
+Total,,200,107,46,50,88,24,19,43,20,21,13,11,26,2,3,135,0,22,48,14,28,21,24,Hapoel_Haifa,A,19,19,Rami Hadar
+Team,,0,0,0,0,0,4,3,7,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,Ironi_Kiryat_Ata,A,21,21,Rami Hadar
+Justin McKoy,*,38,16,33,33,0,2,0,2,0,0,1,3,6,0,1,9,-2,2,6,4,12,0,0,Ironi_Kiryat_Ata,A,21,21,Rami Hadar
+Elias King,*,6,0,0,0,0,0,1,1,1,0,0,1,0,0,0,-4,-8,0,1,0,2,0,0,Ironi_Kiryat_Ata,A,21,21,Rami Hadar
+Iverson Molinar,*,38,31,64,40,100,3,1,4,2,7,1,4,7,0,1,33,-2,7,11,4,10,5,5,Ironi_Kiryat_Ata,A,21,21,Rami Hadar
+Ido Flaisher,*,11,3,100,0,50,2,2,4,5,1,1,1,1,0,0,3,-2,1,1,0,0,1,2,Ironi_Kiryat_Ata,A,21,21,Rami Hadar
+Marcus Santos-Silva,,17,4,33,0,0,1,2,3,2,1,2,0,0,1,0,5,-1,2,6,0,0,0,0,Ironi_Kiryat_Ata,A,21,21,Rami Hadar
+Nir Sheffer,*,12,0,0,0,0,1,2,3,4,0,0,0,1,0,0,0,-4,0,0,0,0,0,0,Ironi_Kiryat_Ata,A,21,21,Rami Hadar
+Neta Segal,,13,3,0,100,0,2,1,3,3,1,0,3,0,0,1,-1,-4,0,1,1,1,0,0,Ironi_Kiryat_Ata,A,21,21,Rami Hadar
+Ron Zipper,,18,12,40,33,67,3,2,5,4,4,0,0,0,0,1,8,0,2,5,2,6,2,3,Ironi_Kiryat_Ata,A,21,21,Rami Hadar
+Sam Iorio,,26,10,67,50,0,1,1,2,0,2,2,2,3,0,0,14,2,2,3,2,4,0,0,Ironi_Kiryat_Ata,A,21,21,Rami Hadar
+Yoav Vitlem,,21,0,0,0,0,0,1,1,2,0,2,0,0,0,0,-2,-4,0,1,0,2,0,0,Ironi_Kiryat_Ata,A,21,21,Rami Hadar
+Total,,200,79,46,35,80,19,16,35,23,16,9,14,18,1,4,72,0,16,35,13,37,8,10,Ironi_Kiryat_Ata,A,21,21,Rami Hadar
+Team,,0,0,0,0,0,1,1,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Hapoel_Afula,A,25,25,Rami Hadar
+Justin McKoy,*,37,26,67,44,50,6,3,9,1,3,0,1,1,0,0,27,0,6,9,4,9,2,4,Hapoel_Afula,A,25,25,Rami Hadar
+Elias King,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Hapoel_Afula,A,25,25,Rami Hadar
+Iverson Molinar,*,36,24,60,0,50,1,4,5,3,11,0,0,7,0,2,25,5,9,15,0,5,6,12,Hapoel_Afula,A,25,25,Rami Hadar
+Ido Flaisher,*,15,2,50,0,0,2,4,6,2,1,0,0,2,0,0,6,3,1,2,0,0,0,2,Hapoel_Afula,A,25,25,Rami Hadar
+Spencer Weisz,*,33,3,0,17,0,5,0,5,2,0,2,2,3,0,0,0,-2,0,4,1,6,0,0,Hapoel_Afula,A,25,25,Rami Hadar
+Marcus Santos-Silva,,25,10,71,0,0,2,4,6,4,1,2,2,4,1,0,15,-2,5,7,0,0,0,1,Hapoel_Afula,A,25,25,Rami Hadar
+Neta Segal,,16,7,100,33,100,0,0,0,1,1,0,1,1,0,0,5,4,1,1,1,3,2,2,Hapoel_Afula,A,25,25,Rami Hadar
+Yoav Vitlem,,5,0,0,0,0,1,0,1,0,1,1,1,1,0,0,3,3,0,0,0,0,0,0,Hapoel_Afula,A,25,25,Rami Hadar
+Cody Demps,*,30,21,55,50,75,3,4,7,3,5,2,2,1,0,1,22,-7,6,11,2,4,3,4,Hapoel_Afula,A,25,25,Rami Hadar
+Total,,200,93,57,30,52,21,20,41,16,23,7,10,20,1,3,104,0,28,49,8,27,13,25,Hapoel_Afula,A,25,25,Rami Hadar
+Team,,0,0,0,0,0,2,1,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,Hapoel_Galil_Elion,H,26,26,Rami Hadar
+Justin McKoy,*,40,21,50,33,88,3,1,4,3,5,0,0,0,1,0,19,5,4,8,2,6,7,8,Hapoel_Galil_Elion,H,26,26,Rami Hadar
+Elias King,,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3,0,0,0,0,3,0,0,Hapoel_Galil_Elion,H,26,26,Rami Hadar
+Iverson Molinar,*,33,29,53,67,88,2,2,4,3,7,2,4,4,0,0,30,-2,8,15,2,3,7,8,Hapoel_Galil_Elion,H,26,26,Rami Hadar
+Ido Flaisher,*,5,4,100,0,0,0,1,1,0,0,0,0,0,0,0,5,1,2,2,0,0,0,0,Hapoel_Galil_Elion,H,26,26,Rami Hadar
+Spencer Weisz,*,37,14,50,50,100,5,0,5,3,1,2,0,2,0,0,16,6,2,4,3,6,1,1,Hapoel_Galil_Elion,H,26,26,Rami Hadar
+Marcus Santos-Silva,,33,8,27,0,100,6,4,10,4,1,1,1,4,1,0,12,7,3,11,0,0,2,2,Hapoel_Galil_Elion,H,26,26,Rami Hadar
+Neta Segal,*,7,2,50,0,0,0,0,0,1,0,1,1,0,0,0,-1,5,1,2,0,1,0,0,Hapoel_Galil_Elion,H,26,26,Rami Hadar
+Ron Zipper,,23,7,100,25,0,2,1,3,0,0,2,0,3,0,0,12,2,2,2,1,4,0,0,Hapoel_Galil_Elion,H,26,26,Rami Hadar
+Yoav Vitlem,,13,4,50,0,100,3,0,3,4,2,1,0,1,0,0,4,1,1,2,0,2,2,2,Hapoel_Galil_Elion,H,26,26,Rami Hadar
+Total,,200,89,50,32,90,23,10,33,18,16,9,6,14,2,0,97,0,23,46,8,25,19,21,Hapoel_Galil_Elion,H,26,26,Rami Hadar

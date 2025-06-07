@@ -1,0 +1,285 @@
+player name,sf,min,pts,%_2pt,%_3pt,%_1pt,dr_rebounds,or_rebounds,tr_rebounds,pf_fouls,fa_fouls,st,to,as,bkf_blocks,bka_blocks,val,+/-,m_2pt,a_2pt,m_3pt,a_3pt,m_1pt,a_1pt,opponent,loc,round,game_idx,coach
+Team,,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,Maccabi_Tel-Aviv,A,2,2,Amit Schaerf
+Ricky Lindo,*,30,15,75,0,50,6,3,9,4,4,1,1,1,2,0,19,-1,6,8,0,3,3,6,Maccabi_Tel-Aviv,A,2,2,Amit Schaerf
+Darnell Edge,*,26,13,33,43,100,1,1,2,1,2,3,3,1,0,0,11,-19,1,3,3,7,2,2,Maccabi_Tel-Aviv,A,2,2,Amit Schaerf
+Bryce Brown,*,34,9,33,11,50,6,1,7,4,3,2,2,10,0,0,11,-7,1,3,1,9,4,8,Maccabi_Tel-Aviv,A,2,2,Amit Schaerf
+Jake Van Tubbergen,,30,12,57,0,80,4,0,4,4,4,3,3,2,1,0,14,1,4,7,0,1,4,5,Maccabi_Tel-Aviv,A,2,2,Amit Schaerf
+Tomer Levinson,,7,2,100,0,0,1,0,1,2,0,0,0,0,0,0,1,-4,1,1,0,0,0,0,Maccabi_Tel-Aviv,A,2,2,Amit Schaerf
+Tzuf Ben Moshe,*,26,8,0,50,100,2,4,6,4,2,2,0,1,0,0,9,0,0,4,2,4,2,2,Maccabi_Tel-Aviv,A,2,2,Amit Schaerf
+Itay Segev,*,26,12,62,0,67,3,2,5,2,4,0,2,0,0,0,13,-1,5,8,0,0,2,3,Maccabi_Tel-Aviv,A,2,2,Amit Schaerf
+Yair Kravitz,,21,10,40,25,60,1,3,4,5,3,0,1,4,0,1,6,11,2,5,1,4,3,5,Maccabi_Tel-Aviv,A,2,2,Amit Schaerf
+Total,,200,81,51,25,65,26,14,40,26,22,11,12,19,3,1,86,0,20,39,7,28,20,31,Maccabi_Tel-Aviv,A,2,2,Amit Schaerf
+Team,,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Hapoel_Holon,A,6,6,Amit Schaerf
+Ricky Lindo,*,38,19,75,44,25,9,0,9,2,4,2,2,3,2,0,26,-1,3,4,4,9,1,4,Hapoel_Holon,A,6,6,Amit Schaerf
+Darnell Edge,,23,11,67,33,0,2,2,4,3,1,0,3,0,0,1,5,-9,4,6,1,3,0,0,Hapoel_Holon,A,6,6,Amit Schaerf
+Bryce Brown,*,32,22,50,44,100,6,0,6,2,3,1,2,4,0,2,22,3,3,6,4,9,4,4,Hapoel_Holon,A,6,6,Amit Schaerf
+Jake Van Tubbergen,*,30,19,58,50,100,4,1,5,2,1,2,1,0,0,0,18,0,7,12,1,2,2,2,Hapoel_Holon,A,6,6,Amit Schaerf
+Tomer Levinson,,10,0,0,0,0,0,3,3,1,0,0,1,3,0,0,4,-9,0,0,0,0,0,0,Hapoel_Holon,A,6,6,Amit Schaerf
+Alon Druker,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3,0,0,0,0,0,0,Hapoel_Holon,A,6,6,Amit Schaerf
+Tzuf Ben Moshe,*,27,4,0,25,50,5,2,7,2,1,1,1,4,0,0,10,-1,0,0,1,4,1,2,Hapoel_Holon,A,6,6,Amit Schaerf
+Ryan Turell,,12,6,100,33,25,1,1,2,1,3,0,0,0,0,0,5,-7,1,1,1,3,1,4,Hapoel_Holon,A,6,6,Amit Schaerf
+Yair Kravitz,*,27,4,40,0,0,0,0,0,5,1,1,0,5,0,1,-1,-3,2,5,0,3,0,0,Hapoel_Holon,A,6,6,Amit Schaerf
+Total,,200,85,59,36,56,27,10,37,18,14,7,11,19,2,4,89,0,20,34,12,33,9,16,Hapoel_Holon,A,6,6,Amit Schaerf
+Team,,0,0,0,0,0,2,3,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,Bnei_Herzliya,A,12,12,Amit Schaerf
+Ricky Lindo,*,32,11,67,0,100,5,2,7,4,2,1,0,5,2,0,22,4,4,6,0,0,3,3,Bnei_Herzliya,A,12,12,Amit Schaerf
+Darnell Edge,*,34,13,33,43,0,3,0,3,2,1,1,3,4,0,0,9,2,2,6,3,7,0,0,Bnei_Herzliya,A,12,12,Amit Schaerf
+Bryce Brown,*,33,21,33,30,89,0,0,0,2,8,1,3,1,0,0,14,-5,2,6,3,10,8,9,Bnei_Herzliya,A,12,12,Amit Schaerf
+Tzuf Ben Moshe,*,17,4,100,0,0,0,1,1,2,0,0,3,1,0,0,-2,-5,2,2,0,3,0,0,Bnei_Herzliya,A,12,12,Amit Schaerf
+Itay Segev,,28,10,50,0,33,8,7,15,3,5,0,0,1,0,1,19,-5,4,8,0,0,2,6,Bnei_Herzliya,A,12,12,Amit Schaerf
+Ryan Turell,,24,11,67,50,50,4,1,5,2,3,3,2,1,0,0,15,-1,2,3,2,4,1,2,Bnei_Herzliya,A,12,12,Amit Schaerf
+Yair Kravitz,,19,6,25,33,50,3,0,3,5,1,1,3,1,0,1,-3,10,1,4,1,3,1,2,Bnei_Herzliya,A,12,12,Amit Schaerf
+Jerome Meyinsse,*,13,10,67,0,67,2,0,2,5,6,0,0,3,1,0,13,10,4,6,0,1,2,3,Bnei_Herzliya,A,12,12,Amit Schaerf
+Total,,200,86,51,32,68,27,14,41,25,26,7,14,17,3,2,92,0,21,41,9,28,17,25,Bnei_Herzliya,A,12,12,Amit Schaerf
+Team,,0,0,0,0,0,4,3,7,2,0,0,0,0,0,0,5,0,0,0,0,0,0,0,Maccabi_Ramat_Gan,A,3,3,Amit Schaerf
+Darnell Edge,*,28,11,67,50,0,4,1,5,3,1,0,1,7,0,0,17,-28,4,6,1,2,0,0,Maccabi_Ramat_Gan,A,3,3,Amit Schaerf
+Bryce Brown,*,30,20,40,29,83,2,0,2,2,7,1,3,4,0,0,19,-12,2,5,2,7,10,12,Maccabi_Ramat_Gan,A,3,3,Amit Schaerf
+Jake Van Tubbergen,*,32,12,40,50,83,1,2,3,4,4,0,1,1,0,0,10,-25,2,5,1,2,5,6,Maccabi_Ramat_Gan,A,3,3,Amit Schaerf
+Tomer Levinson,,20,5,50,20,0,0,0,0,3,1,1,0,0,0,0,-1,-3,1,2,1,5,0,0,Maccabi_Ramat_Gan,A,3,3,Amit Schaerf
+Alon Druker,,9,3,0,100,0,0,0,0,1,0,0,0,0,0,0,2,-4,0,0,1,1,0,0,Maccabi_Ramat_Gan,A,3,3,Amit Schaerf
+Tzuf Ben Moshe,*,26,6,0,33,0,1,2,3,2,1,0,1,0,0,0,1,-14,0,2,2,6,0,0,Maccabi_Ramat_Gan,A,3,3,Amit Schaerf
+Itay Segev,*,28,15,56,0,71,7,2,9,3,4,0,3,1,1,0,18,-22,5,9,0,0,5,7,Maccabi_Ramat_Gan,A,3,3,Amit Schaerf
+Yair Kravitz,,27,12,50,33,50,2,0,2,4,4,0,2,6,0,0,10,-12,2,4,2,6,2,4,Maccabi_Ramat_Gan,A,3,3,Amit Schaerf
+Total,,200,84,48,34,76,21,10,31,24,22,2,11,19,1,0,81,0,16,33,10,29,22,29,Maccabi_Ramat_Gan,A,3,3,Amit Schaerf
+Team,,0,0,0,0,0,3,2,5,1,0,0,0,0,0,0,4,0,0,0,0,0,0,0,Hapoel_Jerusalem,H,1,1,Amit Schaerf
+Ricky Lindo,*,33,17,38,100,100,3,3,6,3,5,2,1,4,0,1,21,-7,5,13,1,1,4,4,Hapoel_Jerusalem,H,1,1,Amit Schaerf
+Darnell Edge,*,31,16,62,25,100,1,0,1,2,3,1,3,7,0,0,17,8,5,8,1,4,3,3,Hapoel_Jerusalem,H,1,1,Amit Schaerf
+Bryce Brown,*,33,17,57,25,75,1,0,1,0,5,0,3,1,0,0,11,-8,4,7,2,8,3,4,Hapoel_Jerusalem,H,1,1,Amit Schaerf
+Jake Van Tubbergen,,21,0,0,0,0,4,1,5,5,1,0,1,2,0,1,-3,-7,0,4,0,0,0,0,Hapoel_Jerusalem,H,1,1,Amit Schaerf
+Tomer Levinson,,10,3,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0,0,Hapoel_Jerusalem,H,1,1,Amit Schaerf
+Tzuf Ben Moshe,*,28,9,100,20,0,2,2,4,4,2,0,0,0,0,0,7,-6,3,3,1,5,0,0,Hapoel_Jerusalem,H,1,1,Amit Schaerf
+Itay Segev,*,22,2,0,0,100,5,1,6,4,2,2,0,1,1,0,9,0,0,1,0,0,2,2,Hapoel_Jerusalem,H,1,1,Amit Schaerf
+Yair Kravitz,,22,10,50,50,83,3,0,3,0,3,0,3,4,0,1,13,-15,1,2,1,2,5,6,Hapoel_Jerusalem,H,1,1,Amit Schaerf
+Total,,200,74,45,32,89,22,9,31,19,21,5,11,19,1,3,79,0,18,40,7,22,17,19,Hapoel_Jerusalem,H,1,1,Amit Schaerf
+Team,,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,Hapoel_Tel-Aviv,H,10,10,Amit Schaerf
+Ricky Lindo,*,31,12,71,0,100,7,1,8,2,2,0,2,0,0,0,10,-26,5,7,0,6,2,2,Hapoel_Tel-Aviv,H,10,10,Amit Schaerf
+Darnell Edge,,26,4,33,0,0,0,1,1,0,1,1,1,1,0,0,0,-16,2,6,0,2,0,1,Hapoel_Tel-Aviv,H,10,10,Amit Schaerf
+Bryce Brown,*,25,14,33,60,25,0,1,1,1,5,1,4,0,0,1,6,-24,2,6,3,5,1,4,Hapoel_Tel-Aviv,H,10,10,Amit Schaerf
+Jake Van Tubbergen,,22,2,0,0,100,4,0,4,2,4,0,3,0,0,0,2,-20,0,3,0,0,2,2,Hapoel_Tel-Aviv,H,10,10,Amit Schaerf
+Tomer Levinson,,11,0,0,0,0,2,1,3,1,1,0,0,1,0,0,1,-11,0,1,0,2,0,0,Hapoel_Tel-Aviv,H,10,10,Amit Schaerf
+Alon Druker,,5,0,0,0,0,0,0,0,2,0,0,1,0,0,0,-7,-4,0,1,0,3,0,0,Hapoel_Tel-Aviv,H,10,10,Amit Schaerf
+Tzuf Ben Moshe,*,16,2,50,0,0,0,0,0,2,0,0,0,0,0,0,-4,-23,1,2,0,3,0,0,Hapoel_Tel-Aviv,H,10,10,Amit Schaerf
+Itay Segev,*,22,7,43,0,50,4,4,8,2,1,0,0,0,0,0,9,-19,3,7,0,0,1,2,Hapoel_Tel-Aviv,H,10,10,Amit Schaerf
+Ryan Turell,,20,6,40,0,100,1,5,6,1,3,4,0,1,0,0,13,-12,2,5,0,3,2,2,Hapoel_Tel-Aviv,H,10,10,Amit Schaerf
+Yair Kravitz,*,22,7,0,25,100,1,1,2,2,2,1,1,1,0,1,4,-25,0,2,1,4,4,4,Hapoel_Tel-Aviv,H,10,10,Amit Schaerf
+Total,,200,54,38,14,71,20,15,35,15,19,7,12,4,0,2,36,0,15,40,4,28,12,17,Hapoel_Tel-Aviv,H,10,10,Amit Schaerf
+Team,,0,0,0,0,0,1,6,7,1,0,0,0,0,0,0,6,0,0,0,0,0,0,0,Maccabi_Ramat_Gan,H,15,15,Amit Schaerf
+Ricky Lindo,*,14,8,75,0,100,0,0,0,0,1,3,2,2,1,0,10,10,3,4,0,2,2,2,Maccabi_Ramat_Gan,H,15,15,Amit Schaerf
+Darnell Edge,*,31,9,38,33,0,3,2,5,2,1,0,5,4,0,0,5,-17,3,8,1,3,0,0,Maccabi_Ramat_Gan,H,15,15,Amit Schaerf
+Bryce Brown,*,35,11,50,8,100,1,0,1,3,2,0,1,2,0,1,-4,-3,3,6,1,13,2,2,Maccabi_Ramat_Gan,H,15,15,Amit Schaerf
+Alon Druker,,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-3,-5,0,1,0,1,0,0,Maccabi_Ramat_Gan,H,15,15,Amit Schaerf
+Tzuf Ben Moshe,*,31,6,0,40,0,2,2,4,3,0,1,0,1,0,0,4,-19,0,2,2,5,0,0,Maccabi_Ramat_Gan,H,15,15,Amit Schaerf
+Itay Segev,*,26,5,67,0,50,7,2,9,3,4,1,1,0,0,0,13,-9,2,3,0,0,1,2,Maccabi_Ramat_Gan,H,15,15,Amit Schaerf
+Ryan Turell,,21,7,0,50,50,2,0,2,2,2,1,0,0,0,0,5,-6,0,2,2,4,1,2,Maccabi_Ramat_Gan,H,15,15,Amit Schaerf
+Yair Kravitz,,17,4,33,0,100,1,0,1,1,3,0,3,1,0,0,-1,-9,1,3,0,4,2,2,Maccabi_Ramat_Gan,H,15,15,Amit Schaerf
+Jerome Meyinsse,,22,11,67,0,100,7,2,9,2,5,2,2,2,0,0,22,-17,4,6,0,1,3,3,Maccabi_Ramat_Gan,H,15,15,Amit Schaerf
+Total,,200,61,46,18,85,24,14,38,18,18,8,14,12,1,1,57,0,16,35,6,33,11,13,Maccabi_Ramat_Gan,H,15,15,Amit Schaerf
+Team,,0,0,0,0,0,3,1,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,Hapoel_Holon,H,17,17,Amit Schaerf
+Ricky Lindo,*,39,15,62,25,40,4,4,8,3,3,1,0,1,1,0,17,11,5,8,1,4,2,5,Hapoel_Holon,H,17,17,Amit Schaerf
+Darnell Edge,*,26,8,50,40,0,1,0,1,3,1,3,5,3,0,0,4,6,1,2,2,5,0,0,Hapoel_Holon,H,17,17,Amit Schaerf
+Bryce Brown,*,34,17,50,38,67,2,2,4,0,6,0,6,2,0,0,14,10,1,2,3,8,6,9,Hapoel_Holon,H,17,17,Amit Schaerf
+Jake Van Tubbergen,*,32,13,45,50,0,7,3,10,2,3,0,0,2,0,0,19,11,5,11,1,2,0,0,Hapoel_Holon,H,17,17,Amit Schaerf
+Tzuf Ben Moshe,,14,0,0,0,0,1,0,1,2,1,3,0,1,0,0,3,6,0,0,0,1,0,0,Hapoel_Holon,H,17,17,Amit Schaerf
+Itay Segev,*,31,7,60,0,25,3,5,8,0,5,0,1,2,1,0,17,14,3,5,0,0,1,4,Hapoel_Holon,H,17,17,Amit Schaerf
+Ryan Turell,,3,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,-6,0,0,0,0,0,0,Hapoel_Holon,H,17,17,Amit Schaerf
+Yair Kravitz,,21,12,43,40,0,1,1,2,4,0,0,3,4,0,1,3,8,3,7,2,5,0,0,Hapoel_Holon,H,17,17,Amit Schaerf
+Total,,200,72,51,36,50,23,16,39,14,19,7,16,15,2,1,81,0,18,35,9,25,9,18,Hapoel_Holon,H,17,17,Amit Schaerf
+Team,,0,0,0,0,0,2,2,4,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,Maccabi_Tel-Aviv,H,20,20,Amit Schaerf
+Ricky Lindo,*,37,8,67,0,0,5,1,6,4,0,1,4,4,1,1,6,1,4,6,0,3,0,0,Maccabi_Tel-Aviv,H,20,20,Amit Schaerf
+Darnell Edge,*,30,15,62,20,100,2,4,6,3,3,0,2,2,0,0,14,-10,5,8,1,5,2,2,Maccabi_Tel-Aviv,H,20,20,Amit Schaerf
+Bryce Brown,*,41,17,33,23,100,1,2,3,2,2,0,4,5,0,1,4,-5,3,9,3,13,2,2,Maccabi_Tel-Aviv,H,20,20,Amit Schaerf
+Jake Van Tubbergen,*,27,12,50,60,100,4,1,5,2,2,1,0,1,0,0,16,3,1,2,3,5,1,1,Maccabi_Tel-Aviv,H,20,20,Amit Schaerf
+Tzuf Ben Moshe,,31,22,50,57,100,2,4,6,4,4,0,0,2,0,0,24,-10,3,6,4,7,4,4,Maccabi_Tel-Aviv,H,20,20,Amit Schaerf
+Itay Segev,*,34,12,40,0,44,3,10,13,2,6,3,0,6,0,1,26,-18,4,10,0,0,4,9,Maccabi_Tel-Aviv,H,20,20,Amit Schaerf
+Ryan Turell,,6,2,100,0,0,0,0,0,3,0,0,0,1,0,0,-1,9,1,1,0,1,0,0,Maccabi_Tel-Aviv,H,20,20,Amit Schaerf
+Yair Kravitz,,19,10,50,40,0,2,1,3,0,1,0,2,5,0,0,12,5,2,4,2,5,0,0,Maccabi_Tel-Aviv,H,20,20,Amit Schaerf
+Total,,225,98,50,33,72,21,25,46,21,18,5,12,26,1,3,104,0,23,46,13,39,13,18,Maccabi_Tel-Aviv,H,20,20,Amit Schaerf
+Team,,0,0,0,0,0,2,2,4,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,Hapoel_Haifa,H,11,11,Amit Schaerf
+Ricky Lindo,*,23,19,25,100,71,5,2,7,3,5,2,0,1,1,0,27,18,1,4,4,4,5,7,Hapoel_Haifa,H,11,11,Amit Schaerf
+Darnell Edge,*,32,12,43,50,0,4,2,6,2,2,0,2,4,0,1,13,18,3,7,2,4,0,0,Hapoel_Haifa,H,11,11,Amit Schaerf
+Bryce Brown,*,33,24,33,55,57,2,2,4,1,5,1,3,3,0,1,22,19,1,3,6,11,4,7,Hapoel_Haifa,H,11,11,Amit Schaerf
+Tomer Levinson,,12,4,67,0,0,1,2,3,2,0,1,1,1,0,0,2,7,2,3,0,3,0,0,Hapoel_Haifa,H,11,11,Amit Schaerf
+Alon Danieli,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Hapoel_Haifa,H,11,11,Amit Schaerf
+Tzuf Ben Moshe,*,22,5,100,20,0,0,1,1,3,0,1,1,3,0,0,2,14,1,1,1,5,0,0,Hapoel_Haifa,H,11,11,Amit Schaerf
+Itay Segev,,15,1,0,0,50,6,1,7,1,1,0,2,1,0,0,4,7,0,2,0,0,1,2,Hapoel_Haifa,H,11,11,Amit Schaerf
+Ryan Turell,,22,5,20,25,0,1,0,1,1,1,1,0,1,0,0,1,-1,1,5,1,4,0,0,Hapoel_Haifa,H,11,11,Amit Schaerf
+Atir Talmor,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Hapoel_Haifa,H,11,11,Amit Schaerf
+Yair Kravitz,,15,7,100,25,100,0,1,1,0,3,2,3,3,0,0,10,0,1,1,1,4,2,2,Hapoel_Haifa,H,11,11,Amit Schaerf
+Jerome Meyinsse,*,24,9,50,100,100,6,3,9,2,3,0,0,3,0,0,20,8,2,4,1,1,2,2,Hapoel_Haifa,H,11,11,Amit Schaerf
+Total,,200,86,40,44,70,27,16,43,15,20,8,13,20,1,2,104,0,12,30,16,36,14,20,Hapoel_Haifa,H,11,11,Amit Schaerf
+Team,,0,0,0,0,0,2,3,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,Be'er_Sheva_Dimona,H,9,9,Amit Schaerf
+Ricky Lindo,*,34,15,62,0,71,7,3,10,3,6,1,1,3,2,0,26,13,5,8,0,2,5,7,Be'er_Sheva_Dimona,H,9,9,Amit Schaerf
+Darnell Edge,,33,29,100,67,100,2,0,2,2,3,0,3,6,0,0,33,19,6,6,4,6,5,5,Be'er_Sheva_Dimona,H,9,9,Amit Schaerf
+Bryce Brown,*,34,29,33,57,88,4,2,6,1,11,0,6,5,0,0,37,11,1,3,4,7,15,17,Be'er_Sheva_Dimona,H,9,9,Amit Schaerf
+Jake Van Tubbergen,,12,8,100,0,0,0,1,1,5,0,0,2,1,0,0,2,9,4,4,0,1,0,0,Be'er_Sheva_Dimona,H,9,9,Amit Schaerf
+Tomer Levinson,,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,1,0,0,Be'er_Sheva_Dimona,H,9,9,Amit Schaerf
+Alon Druker,,4,2,100,0,0,0,1,1,1,0,0,0,1,0,0,3,0,1,1,0,0,0,0,Be'er_Sheva_Dimona,H,9,9,Amit Schaerf
+Alon Danieli,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,Be'er_Sheva_Dimona,H,9,9,Amit Schaerf
+Tzuf Ben Moshe,*,31,13,100,43,100,2,0,2,4,2,2,3,1,0,0,9,13,1,1,3,7,2,2,Be'er_Sheva_Dimona,H,9,9,Amit Schaerf
+Itay Segev,*,23,4,100,0,0,6,1,7,4,1,0,1,1,0,0,7,-1,2,2,0,1,0,0,Be'er_Sheva_Dimona,H,9,9,Amit Schaerf
+Ryan Turell,,13,5,100,0,60,0,0,0,2,3,0,0,0,0,0,3,-1,1,1,0,1,3,5,Be'er_Sheva_Dimona,H,9,9,Amit Schaerf
+Afek Amsalem,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,Be'er_Sheva_Dimona,H,9,9,Amit Schaerf
+Yair Kravitz,*,10,2,50,0,0,2,0,2,0,0,1,4,3,0,0,1,-11,1,2,0,2,0,0,Be'er_Sheva_Dimona,H,9,9,Amit Schaerf
+Total,,200,107,79,39,83,25,11,36,22,26,4,20,22,2,0,126,0,22,28,11,28,30,36,Be'er_Sheva_Dimona,H,9,9,Amit Schaerf
+Team,,0,0,0,0,0,2,3,5,0,0,0,1,0,0,0,4,0,0,0,0,0,0,0,Gilboa_Galil,H,4,4,Amit Schaerf
+Ricky Lindo,*,32,16,86,0,100,4,0,4,2,2,1,1,1,2,0,20,11,6,7,0,2,4,4,Gilboa_Galil,H,4,4,Amit Schaerf
+Darnell Edge,,29,4,50,0,0,3,2,5,1,3,3,1,5,0,0,7,27,2,4,0,9,0,0,Gilboa_Galil,H,4,4,Amit Schaerf
+Bryce Brown,*,32,33,44,75,100,2,0,2,0,3,2,1,5,0,0,37,1,4,9,6,8,7,7,Gilboa_Galil,H,4,4,Amit Schaerf
+Jake Van Tubbergen,*,28,15,56,0,83,1,3,4,4,3,3,4,2,0,0,12,-2,5,9,0,2,5,6,Gilboa_Galil,H,4,4,Amit Schaerf
+Alon Danieli,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,Gilboa_Galil,H,4,4,Amit Schaerf
+Tzuf Ben Moshe,,21,7,0,50,50,1,0,1,2,2,5,1,2,0,1,9,14,0,1,2,4,1,2,Gilboa_Galil,H,4,4,Amit Schaerf
+Itay Segev,*,26,11,80,0,75,4,2,6,4,2,3,1,2,0,0,17,18,4,5,0,0,3,4,Gilboa_Galil,H,4,4,Amit Schaerf
+Itay Yarom,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Gilboa_Galil,H,4,4,Amit Schaerf
+Atir Talmor,,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-1,1,0,0,0,0,0,0,Gilboa_Galil,H,4,4,Amit Schaerf
+Yair Kravitz,*,29,15,67,60,50,2,0,2,2,6,3,2,6,0,1,22,17,2,3,3,5,2,4,Gilboa_Galil,H,4,4,Amit Schaerf
+Total,,200,101,61,37,81,19,10,29,16,21,20,12,23,2,2,127,0,23,38,11,30,22,27,Gilboa_Galil,H,4,4,Amit Schaerf
+Team,,0,0,0,0,0,3,3,6,0,0,0,1,0,0,0,5,0,0,0,0,0,0,0,Hapoel_Galil_Elion,H,5,5,Amit Schaerf
+Ricky Lindo,*,38,14,75,50,100,4,5,9,3,1,0,5,3,2,0,18,-2,3,4,2,4,2,2,Hapoel_Galil_Elion,H,5,5,Amit Schaerf
+Darnell Edge,,19,6,38,0,0,1,0,1,2,0,0,1,1,0,0,0,-12,3,8,0,0,0,0,Hapoel_Galil_Elion,H,5,5,Amit Schaerf
+Bryce Brown,*,31,14,17,33,0,2,0,2,5,3,1,2,4,1,0,5,5,1,6,4,12,0,0,Hapoel_Galil_Elion,H,5,5,Amit Schaerf
+Jake Van Tubbergen,*,32,19,67,67,83,5,3,8,2,3,0,1,2,0,0,25,0,4,6,2,3,5,6,Hapoel_Galil_Elion,H,5,5,Amit Schaerf
+Alon Druker,,4,0,0,0,0,0,0,0,1,0,0,1,0,0,0,-3,1,0,0,0,1,0,0,Hapoel_Galil_Elion,H,5,5,Amit Schaerf
+Tzuf Ben Moshe,,26,11,0,60,100,2,1,3,4,1,0,1,0,0,0,8,-6,0,0,3,5,2,2,Hapoel_Galil_Elion,H,5,5,Amit Schaerf
+Itay Segev,*,21,4,20,0,100,6,6,12,0,4,1,0,1,0,0,18,3,1,5,0,0,2,2,Hapoel_Galil_Elion,H,5,5,Amit Schaerf
+Yair Kravitz,*,29,6,20,0,50,2,2,4,1,3,0,1,5,0,2,2,1,2,10,0,2,2,4,Hapoel_Galil_Elion,H,5,5,Amit Schaerf
+Total,,200,74,36,41,81,25,20,45,18,15,2,13,16,3,2,78,0,14,39,11,27,13,16,Hapoel_Galil_Elion,H,5,5,Amit Schaerf
+Team,,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,Bnei_Herzliya,H,23,23,Amit Schaerf
+Ricky Lindo,*,36,8,50,0,100,10,3,13,1,1,0,0,1,1,0,20,2,3,6,0,0,2,2,Bnei_Herzliya,H,23,23,Amit Schaerf
+Darnell Edge,*,26,24,80,71,100,1,0,1,2,1,2,2,2,0,0,23,-7,4,5,5,7,1,1,Bnei_Herzliya,H,23,23,Amit Schaerf
+Bryce Brown,*,35,23,75,33,83,4,1,5,2,3,1,2,6,1,0,28,15,6,8,2,6,5,6,Bnei_Herzliya,H,23,23,Amit Schaerf
+Jake Van Tubbergen,*,29,12,57,0,67,4,2,6,1,6,0,2,1,0,1,10,10,4,7,0,6,4,6,Bnei_Herzliya,H,23,23,Amit Schaerf
+Alon Druker,,3,0,0,0,0,1,1,2,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,Bnei_Herzliya,H,23,23,Amit Schaerf
+Tzuf Ben Moshe,,17,6,0,40,0,6,0,6,2,0,0,1,2,0,1,7,15,0,0,2,5,0,0,Bnei_Herzliya,H,23,23,Amit Schaerf
+Itay Segev,*,33,11,38,0,50,9,2,11,4,2,2,1,1,2,1,14,6,5,13,0,0,1,2,Bnei_Herzliya,H,23,23,Amit Schaerf
+Yair Kravitz,,21,9,33,40,50,0,0,0,3,1,0,1,8,0,0,8,9,1,3,2,5,1,2,Bnei_Herzliya,H,23,23,Amit Schaerf
+Total,,200,93,53,38,74,36,10,46,16,14,5,9,22,4,3,113,0,23,43,11,29,14,19,Bnei_Herzliya,H,23,23,Amit Schaerf
+Team,,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,Hapoel_Afula,A,8,8,Amit Schaerf
+Ricky Lindo,*,33,6,25,50,50,7,2,9,4,1,0,2,4,1,0,10,-16,1,4,1,2,1,2,Hapoel_Afula,A,8,8,Amit Schaerf
+Darnell Edge,*,31,10,67,33,0,3,0,3,2,2,0,4,3,0,0,6,-3,2,3,2,6,0,1,Hapoel_Afula,A,8,8,Amit Schaerf
+Bryce Brown,*,32,16,25,36,100,1,1,2,1,5,2,3,5,1,0,17,-15,1,4,4,11,2,2,Hapoel_Afula,A,8,8,Amit Schaerf
+Jake Van Tubbergen,,25,18,55,0,67,4,2,6,4,6,0,0,0,1,0,19,-2,6,11,0,0,6,9,Hapoel_Afula,A,8,8,Amit Schaerf
+Alon Druker,,3,3,0,100,0,0,0,0,0,0,0,0,1,0,0,4,9,0,0,1,1,0,0,Hapoel_Afula,A,8,8,Amit Schaerf
+Tzuf Ben Moshe,*,16,8,50,29,0,1,0,1,2,0,0,0,2,0,0,3,-2,1,2,2,7,0,0,Hapoel_Afula,A,8,8,Amit Schaerf
+Itay Segev,*,28,15,70,0,100,3,5,8,1,2,1,1,0,0,0,21,5,7,10,0,0,1,1,Hapoel_Afula,A,8,8,Amit Schaerf
+Ryan Turell,,14,3,0,50,0,0,0,0,1,0,0,1,0,0,0,0,-9,0,0,1,2,0,0,Hapoel_Afula,A,8,8,Amit Schaerf
+Yair Kravitz,,18,7,100,33,67,1,1,2,2,2,1,4,4,0,0,7,-17,1,1,1,3,2,3,Hapoel_Afula,A,8,8,Amit Schaerf
+Total,,200,86,54,38,67,22,11,33,17,18,4,15,19,3,0,89,0,19,35,12,32,12,18,Hapoel_Afula,A,8,8,Amit Schaerf
+Team,,0,0,0,0,0,2,0,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Ironi_Kiryat_Ata,H,7,7,Amit Schaerf
+Ricky Lindo,*,7,4,67,0,0,0,1,1,5,0,0,1,0,3,0,0,-5,2,3,0,1,0,0,Ironi_Kiryat_Ata,H,7,7,Amit Schaerf
+Darnell Edge,,28,17,67,67,75,2,1,3,2,3,0,1,2,0,0,18,16,4,6,2,3,3,4,Ironi_Kiryat_Ata,H,7,7,Amit Schaerf
+Bryce Brown,*,33,23,80,33,100,0,0,0,0,6,2,0,5,0,0,31,23,4,5,2,6,9,9,Ironi_Kiryat_Ata,H,7,7,Amit Schaerf
+Jake Van Tubbergen,*,30,14,62,0,80,5,2,7,1,5,1,4,0,2,1,19,2,5,8,0,0,4,5,Ironi_Kiryat_Ata,H,7,7,Amit Schaerf
+Tomer Levinson,,4,0,0,0,0,0,0,0,1,0,1,0,0,0,0,-2,5,0,1,0,1,0,0,Ironi_Kiryat_Ata,H,7,7,Amit Schaerf
+Alon Druker,,3,1,0,0,50,0,0,0,1,1,0,2,0,0,0,-3,-5,0,0,0,1,1,2,Ironi_Kiryat_Ata,H,7,7,Amit Schaerf
+Alon Danieli,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,-2,0,0,0,0,0,0,Ironi_Kiryat_Ata,H,7,7,Amit Schaerf
+Tzuf Ben Moshe,*,25,3,0,33,0,1,0,1,1,0,0,0,3,0,0,3,11,0,1,1,3,0,0,Ironi_Kiryat_Ata,H,7,7,Amit Schaerf
+Itay Segev,,25,6,25,0,50,7,2,9,4,4,2,1,5,0,0,14,15,1,4,0,0,4,8,Ironi_Kiryat_Ata,H,7,7,Amit Schaerf
+Ryan Turell,,23,16,100,100,0,1,0,1,4,0,1,0,2,1,0,17,12,2,2,4,4,0,0,Ironi_Kiryat_Ata,H,7,7,Amit Schaerf
+Yair Kravitz,*,21,13,75,67,50,5,0,5,4,2,0,3,6,0,0,16,3,3,4,2,3,1,2,Ironi_Kiryat_Ata,H,7,7,Amit Schaerf
+Total,,200,97,62,50,73,23,6,29,24,21,7,12,24,6,1,115,0,21,34,11,22,22,30,Ironi_Kiryat_Ata,H,7,7,Amit Schaerf
+Team,,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Hapoel_Tel-Aviv,A,25,25,Amit Schaerf
+Ricky Lindo,*,20,11,50,0,75,3,0,3,5,2,2,2,1,0,0,6,-5,4,8,0,1,3,4,Hapoel_Tel-Aviv,A,25,25,Amit Schaerf
+Darnell Edge,*,19,3,0,33,0,0,0,0,2,3,1,3,3,0,2,-4,-15,0,5,1,3,0,0,Hapoel_Tel-Aviv,A,25,25,Amit Schaerf
+Bryce Brown,*,27,13,0,57,33,1,1,2,2,2,1,8,0,0,1,-1,-17,0,3,4,7,1,3,Hapoel_Tel-Aviv,A,25,25,Amit Schaerf
+Jake Van Tubbergen,*,35,22,56,100,75,3,3,6,4,3,0,1,3,1,0,25,-19,5,9,3,3,3,4,Hapoel_Tel-Aviv,A,25,25,Amit Schaerf
+Alon Druker,,13,3,0,25,0,0,0,0,3,1,0,0,1,0,0,-2,0,0,1,1,4,0,0,Hapoel_Tel-Aviv,A,25,25,Amit Schaerf
+Alon Danieli,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,Hapoel_Tel-Aviv,A,25,25,Amit Schaerf
+Tzuf Ben Moshe,,26,4,0,25,50,2,0,2,2,2,1,0,0,1,0,4,-19,0,0,1,4,1,2,Hapoel_Tel-Aviv,A,25,25,Amit Schaerf
+Itay Segev,*,28,9,80,0,50,8,5,13,3,2,3,1,5,0,0,26,-18,4,5,0,0,1,2,Hapoel_Tel-Aviv,A,25,25,Amit Schaerf
+Itay Yarom,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,Hapoel_Tel-Aviv,A,25,25,Amit Schaerf
+Yair Kravitz,,24,10,50,25,33,2,0,2,2,4,1,2,5,0,1,9,-17,3,6,1,4,1,3,Hapoel_Tel-Aviv,A,25,25,Amit Schaerf
+Dor Anavi,,6,2,100,0,0,0,0,0,0,0,0,0,0,0,0,1,-3,1,1,0,1,0,0,Hapoel_Tel-Aviv,A,25,25,Amit Schaerf
+Total,,200,77,45,41,56,19,10,29,23,19,9,17,18,2,4,65,0,17,38,11,27,10,18,Hapoel_Tel-Aviv,A,25,25,Amit Schaerf
+Team,,0,0,0,0,0,0,3,3,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,Hapoel_Jerusalem,A,26,26,Amit Schaerf
+Ricky Lindo,*,33,14,100,33,50,9,2,11,5,5,1,2,2,1,0,22,3,4,4,1,3,3,6,Hapoel_Jerusalem,A,26,26,Amit Schaerf
+Bryce Brown,*,36,21,43,50,0,4,2,6,2,4,0,5,5,0,0,18,0,3,7,5,10,0,2,Hapoel_Jerusalem,A,26,26,Amit Schaerf
+Jake Van Tubbergen,*,33,16,57,67,40,3,1,4,4,5,1,3,4,0,0,16,-3,4,7,2,3,2,5,Hapoel_Jerusalem,A,26,26,Amit Schaerf
+Alon Druker,,11,4,50,0,100,1,0,1,2,1,1,0,3,0,1,3,-6,1,2,0,3,2,2,Hapoel_Jerusalem,A,26,26,Amit Schaerf
+Tzuf Ben Moshe,,26,9,0,50,0,3,0,3,3,1,0,2,2,1,0,8,-8,0,0,3,6,0,0,Hapoel_Jerusalem,A,26,26,Amit Schaerf
+Yair Kravitz,*,31,10,25,40,100,3,2,5,3,1,0,4,3,1,3,4,-7,1,4,2,5,2,2,Hapoel_Jerusalem,A,26,26,Amit Schaerf
+Dor Anavi,,5,3,0,100,0,1,1,2,1,1,0,0,0,0,0,5,-1,0,0,1,1,0,0,Hapoel_Jerusalem,A,26,26,Amit Schaerf
+Jerome Meyinsse,*,25,12,100,0,80,1,0,1,2,4,1,0,1,0,0,16,-3,4,4,0,0,4,5,Hapoel_Jerusalem,A,26,26,Amit Schaerf
+Total,,200,89,61,45,59,25,11,36,22,22,4,17,20,3,4,94,0,17,28,14,31,13,22,Hapoel_Jerusalem,A,26,26,Amit Schaerf
+Team,,0,0,0,0,0,4,0,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,Elitzur_Netanya,H,13,13,Amit Schaerf
+Ricky Lindo,*,32,8,67,0,0,8,1,9,2,2,2,2,4,2,0,17,30,4,6,0,3,0,1,Elitzur_Netanya,H,13,13,Amit Schaerf
+Darnell Edge,*,24,17,50,67,100,4,0,4,3,1,0,3,5,0,0,16,16,4,8,2,3,3,3,Elitzur_Netanya,H,13,13,Amit Schaerf
+Bryce Brown,*,33,30,50,55,80,2,0,2,1,5,1,3,1,0,0,25,33,4,8,6,11,4,5,Elitzur_Netanya,H,13,13,Amit Schaerf
+Tomer Levinson,,6,1,0,0,50,1,2,3,0,1,0,0,2,0,0,5,-5,0,1,0,0,1,2,Elitzur_Netanya,H,13,13,Amit Schaerf
+Alon Druker,,4,0,0,0,0,1,0,1,1,0,0,0,0,0,0,-1,-6,0,0,0,1,0,0,Elitzur_Netanya,H,13,13,Amit Schaerf
+Tzuf Ben Moshe,*,22,13,100,75,100,2,0,2,1,1,0,1,3,0,0,16,24,1,1,3,4,2,2,Elitzur_Netanya,H,13,13,Amit Schaerf
+Itay Segev,,16,9,80,0,100,6,0,6,3,1,0,3,1,0,0,10,11,4,5,0,0,1,1,Elitzur_Netanya,H,13,13,Amit Schaerf
+Itay Yarom,,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,-4,0,0,0,0,0,0,Elitzur_Netanya,H,13,13,Amit Schaerf
+Ryan Turell,,20,9,60,100,0,1,1,2,2,1,2,3,2,0,0,9,-11,3,5,1,1,0,0,Elitzur_Netanya,H,13,13,Amit Schaerf
+Yair Kravitz,,22,2,50,0,0,4,1,5,3,0,0,4,6,0,0,3,-7,1,2,0,2,0,0,Elitzur_Netanya,H,13,13,Amit Schaerf
+Jerome Meyinsse,*,20,2,25,0,0,5,3,8,2,3,0,2,0,0,0,6,14,1,4,0,0,0,0,Elitzur_Netanya,H,13,13,Amit Schaerf
+Total,,200,91,55,48,79,39,8,47,18,15,5,21,24,2,0,111,0,22,40,12,25,11,14,Elitzur_Netanya,H,13,13,Amit Schaerf
+Team,,0,0,0,0,0,2,3,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,Gilboa_Galil,A,14,14,Amit Schaerf
+Ricky Lindo,*,39,11,60,20,67,5,1,6,2,2,0,1,5,1,1,14,0,3,5,1,5,2,3,Gilboa_Galil,A,14,14,Amit Schaerf
+Darnell Edge,*,31,20,78,40,0,2,3,5,4,0,1,3,8,0,1,21,4,7,9,2,5,0,0,Gilboa_Galil,A,14,14,Amit Schaerf
+Bryce Brown,*,28,18,67,40,67,2,1,3,3,1,1,2,1,0,0,11,-12,2,3,4,10,2,3,Gilboa_Galil,A,14,14,Amit Schaerf
+Tzuf Ben Moshe,*,20,8,33,100,0,5,1,6,2,3,1,2,1,0,0,13,-6,1,3,2,2,0,0,Gilboa_Galil,A,14,14,Amit Schaerf
+Itay Segev,,16,4,0,0,100,3,0,3,2,2,0,2,2,0,0,7,0,0,0,0,0,4,4,Gilboa_Galil,A,14,14,Amit Schaerf
+Ryan Turell,,24,8,0,67,100,2,0,2,2,2,1,1,1,0,0,8,-2,0,2,2,3,2,2,Gilboa_Galil,A,14,14,Amit Schaerf
+Yair Kravitz,,17,8,100,0,100,1,1,2,1,2,0,3,2,0,0,6,1,2,2,0,4,4,4,Gilboa_Galil,A,14,14,Amit Schaerf
+Jerome Meyinsse,*,25,6,25,0,67,1,1,2,3,7,0,4,0,1,0,4,-10,1,4,0,0,4,6,Gilboa_Galil,A,14,14,Amit Schaerf
+Total,,200,83,57,38,82,23,11,34,19,19,4,18,20,2,2,89,0,16,28,11,29,18,22,Gilboa_Galil,A,14,14,Amit Schaerf
+Team,,0,0,0,0,0,3,4,7,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,Hapoel_Galil_Elion,A,16,16,Amit Schaerf
+Darnell Edge,*,29,13,50,25,0,2,0,2,2,4,2,1,5,0,1,14,-8,5,10,1,4,0,0,Hapoel_Galil_Elion,A,16,16,Amit Schaerf
+Bryce Brown,*,33,11,14,25,75,2,2,4,2,4,0,3,2,0,1,2,-9,1,7,2,8,3,4,Hapoel_Galil_Elion,A,16,16,Amit Schaerf
+Jake Van Tubbergen,*,33,12,57,33,100,7,3,10,2,2,1,3,1,0,0,16,-5,4,7,1,3,1,1,Hapoel_Galil_Elion,A,16,16,Amit Schaerf
+Alon Druker,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Hapoel_Galil_Elion,A,16,16,Amit Schaerf
+Tzuf Ben Moshe,*,31,9,100,17,0,2,1,3,1,0,2,1,2,0,0,9,2,3,3,1,6,0,0,Hapoel_Galil_Elion,A,16,16,Amit Schaerf
+Itay Segev,*,27,8,75,0,40,5,2,7,2,5,0,1,1,1,0,15,7,3,4,0,0,2,5,Hapoel_Galil_Elion,A,16,16,Amit Schaerf
+Ryan Turell,,15,5,40,0,100,0,1,1,1,1,0,1,0,0,0,0,-17,2,5,0,2,1,1,Hapoel_Galil_Elion,A,16,16,Amit Schaerf
+Yair Kravitz,,16,0,0,0,0,3,0,3,1,0,0,3,2,0,0,-1,-14,0,1,0,1,0,0,Hapoel_Galil_Elion,A,16,16,Amit Schaerf
+Jerome Meyinsse,,15,7,67,0,60,1,0,1,0,3,1,0,1,1,0,11,-16,2,3,0,0,3,5,Hapoel_Galil_Elion,A,16,16,Amit Schaerf
+Total,,200,65,50,21,63,25,13,38,11,19,6,13,14,2,2,73,0,20,40,5,24,10,16,Hapoel_Galil_Elion,A,16,16,Amit Schaerf
+Team,,0,0,0,0,0,5,3,8,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,Hapoel_Afula,H,18,18,Amit Schaerf
+Ricky Lindo,*,38,5,33,0,25,4,4,8,3,4,5,4,3,0,2,6,19,2,6,0,3,1,4,Hapoel_Afula,H,18,18,Amit Schaerf
+Darnell Edge,*,33,14,56,20,50,4,0,4,2,2,3,2,8,0,0,18,11,5,9,1,5,1,2,Hapoel_Afula,H,18,18,Amit Schaerf
+Bryce Brown,*,29,26,60,75,67,2,1,3,3,4,0,2,3,0,0,26,7,3,5,6,8,2,3,Hapoel_Afula,H,18,18,Amit Schaerf
+Jake Van Tubbergen,*,27,17,71,33,100,7,2,9,3,1,1,3,1,0,1,16,16,5,7,2,6,1,1,Hapoel_Afula,H,18,18,Amit Schaerf
+Tzuf Ben Moshe,,16,2,50,0,0,1,0,1,2,1,0,0,0,0,0,-2,-10,1,2,0,3,0,0,Hapoel_Afula,H,18,18,Amit Schaerf
+Itay Segev,*,22,9,38,0,75,5,3,8,3,2,0,1,1,1,2,8,7,3,8,0,1,3,4,Hapoel_Afula,H,18,18,Amit Schaerf
+Yair Kravitz,,18,8,50,33,0,3,0,3,3,3,1,2,5,0,0,10,8,1,2,2,6,0,0,Hapoel_Afula,H,18,18,Amit Schaerf
+Jerome Meyinsse,,17,6,75,0,0,2,1,3,2,3,1,0,0,0,0,10,7,3,4,0,0,0,0,Hapoel_Afula,H,18,18,Amit Schaerf
+Total,,200,87,53,34,57,33,14,47,21,20,11,14,21,1,5,100,0,23,43,11,32,8,14,Hapoel_Afula,H,18,18,Amit Schaerf
+Team,,0,0,0,0,0,0,5,5,1,0,0,1,0,0,0,3,0,0,0,0,0,0,0,Hapoel_Haifa,A,21,21,Amit Schaerf
+Ricky Lindo,*,30,17,62,25,100,4,3,7,3,4,1,0,2,0,0,22,14,5,8,1,4,4,4,Hapoel_Haifa,A,21,21,Amit Schaerf
+Darnell Edge,*,28,11,100,43,0,0,2,2,3,0,0,4,6,0,0,8,8,1,1,3,7,0,0,Hapoel_Haifa,A,21,21,Amit Schaerf
+Bryce Brown,*,29,16,17,27,71,7,1,8,2,6,1,1,5,1,0,19,15,1,6,3,11,5,7,Hapoel_Haifa,A,21,21,Amit Schaerf
+Jake Van Tubbergen,*,30,35,90,33,92,10,6,16,3,10,0,1,1,1,0,53,11,9,10,2,6,11,12,Hapoel_Haifa,A,21,21,Amit Schaerf
+Tzuf Ben Moshe,,22,5,0,25,33,1,1,2,0,3,1,0,0,0,1,2,-1,0,1,1,4,2,6,Hapoel_Haifa,A,21,21,Amit Schaerf
+Itay Segev,*,27,10,50,0,100,3,4,7,6,1,2,2,5,0,2,11,11,4,8,0,0,2,2,Hapoel_Haifa,A,21,21,Amit Schaerf
+Ryan Turell,,12,0,0,0,0,5,0,5,1,2,0,0,0,0,1,2,-4,0,2,0,1,0,0,Hapoel_Haifa,A,21,21,Amit Schaerf
+Yair Kravitz,,22,5,0,33,50,5,1,6,3,2,0,4,6,0,0,6,-4,0,2,1,3,2,4,Hapoel_Haifa,A,21,21,Amit Schaerf
+Total,,200,99,53,31,74,35,23,58,22,28,5,13,25,2,4,126,0,20,38,11,36,26,35,Hapoel_Haifa,A,21,21,Amit Schaerf
+Team,,0,0,0,0,0,4,2,6,0,0,0,1,0,0,0,5,0,0,0,0,0,0,0,Ironi_Kiryat_Ata,A,19,19,Amit Schaerf
+Ricky Lindo,*,34,21,80,0,71,4,2,6,3,5,2,2,2,0,0,23,17,8,10,0,4,5,7,Ironi_Kiryat_Ata,A,19,19,Amit Schaerf
+Darnell Edge,*,24,10,0,50,100,4,3,7,3,1,1,2,6,0,1,14,10,0,2,3,6,1,1,Ironi_Kiryat_Ata,A,19,19,Amit Schaerf
+Bryce Brown,*,37,19,50,50,60,3,1,4,3,5,2,3,8,0,0,24,12,2,4,4,8,3,5,Ironi_Kiryat_Ata,A,19,19,Amit Schaerf
+Jake Van Tubbergen,*,25,19,60,75,100,3,2,5,1,2,2,2,2,1,0,25,-3,3,5,3,4,4,4,Ironi_Kiryat_Ata,A,19,19,Amit Schaerf
+Tzuf Ben Moshe,,22,11,60,0,71,2,2,4,2,4,1,0,3,0,0,15,4,3,5,0,2,5,7,Ironi_Kiryat_Ata,A,19,19,Amit Schaerf
+Itay Segev,*,23,8,67,0,0,2,1,3,3,0,0,0,0,0,1,5,7,4,6,0,0,0,0,Ironi_Kiryat_Ata,A,19,19,Amit Schaerf
+Yair Kravitz,,23,8,67,0,0,4,0,4,0,2,1,4,9,0,0,16,20,4,6,0,2,0,0,Ironi_Kiryat_Ata,A,19,19,Amit Schaerf
+Jerome Meyinsse,,12,7,75,0,33,2,1,3,4,3,0,2,0,1,0,5,8,3,4,0,0,1,3,Ironi_Kiryat_Ata,A,19,19,Amit Schaerf
+Total,,200,103,64,38,70,28,14,42,19,22,9,16,30,2,2,132,0,27,42,10,26,19,27,Ironi_Kiryat_Ata,A,19,19,Amit Schaerf
+Team,,0,0,0,0,0,3,2,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,Be'er_Sheva_Dimona,A,22,22,Amit Schaerf
+Ricky Lindo,*,36,13,56,17,0,6,1,7,3,1,3,4,0,0,2,6,-1,5,9,1,6,0,0,Be'er_Sheva_Dimona,A,22,22,Amit Schaerf
+Darnell Edge,*,29,9,33,50,80,3,0,3,4,3,0,5,8,0,0,10,3,1,3,1,2,4,5,Be'er_Sheva_Dimona,A,22,22,Amit Schaerf
+Bryce Brown,*,32,34,67,70,100,2,0,2,3,6,2,2,0,0,1,33,-8,4,6,7,10,5,5,Be'er_Sheva_Dimona,A,22,22,Amit Schaerf
+Jake Van Tubbergen,*,32,13,83,0,100,2,2,4,3,2,0,1,2,1,0,16,4,5,6,0,1,3,3,Be'er_Sheva_Dimona,A,22,22,Amit Schaerf
+Tzuf Ben Moshe,,19,3,0,50,0,0,1,1,2,1,1,2,1,0,0,-2,-3,0,2,1,2,0,2,Be'er_Sheva_Dimona,A,22,22,Amit Schaerf
+Itay Segev,*,27,5,40,0,50,9,2,11,2,3,0,1,2,1,1,14,-3,2,5,0,0,1,2,Be'er_Sheva_Dimona,A,22,22,Amit Schaerf
+Ryan Turell,,8,0,0,0,0,1,0,1,1,0,0,0,0,0,0,-1,-14,0,0,0,1,0,0,Be'er_Sheva_Dimona,A,22,22,Amit Schaerf
+Yair Kravitz,,17,8,20,33,50,1,0,1,1,5,0,3,2,0,0,3,-3,1,5,1,3,3,6,Be'er_Sheva_Dimona,A,22,22,Amit Schaerf
+Total,,200,85,50,44,70,27,8,35,19,21,6,18,15,2,4,84,0,18,36,11,25,16,23,Be'er_Sheva_Dimona,A,22,22,Amit Schaerf
+Team,,0,0,0,0,0,3,1,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,Elitzur_Netanya,A,24,24,Amit Schaerf
+Ricky Lindo,*,38,13,86,0,50,8,1,9,2,2,0,6,3,3,0,17,8,6,7,0,3,1,2,Elitzur_Netanya,A,24,24,Amit Schaerf
+Darnell Edge,*,33,14,40,29,100,1,1,2,0,3,1,3,3,0,0,12,6,2,5,2,7,4,4,Elitzur_Netanya,A,24,24,Amit Schaerf
+Bryce Brown,*,34,9,50,50,67,1,0,1,2,4,1,4,4,0,0,9,6,2,4,1,2,2,3,Elitzur_Netanya,A,24,24,Amit Schaerf
+Jake Van Tubbergen,*,26,25,78,50,83,1,2,3,4,8,1,0,0,1,0,29,2,7,9,2,4,5,6,Elitzur_Netanya,A,24,24,Amit Schaerf
+Alon Druker,,4,0,0,0,0,1,0,1,0,1,0,0,1,0,0,3,-1,0,0,0,0,0,0,Elitzur_Netanya,A,24,24,Amit Schaerf
+Tzuf Ben Moshe,,19,7,25,33,100,2,3,5,2,2,0,1,1,0,0,7,10,1,4,1,3,2,2,Elitzur_Netanya,A,24,24,Amit Schaerf
+Itay Segev,*,32,6,100,0,0,9,2,11,3,1,1,1,4,1,0,20,3,3,3,0,0,0,0,Elitzur_Netanya,A,24,24,Amit Schaerf
+Yair Kravitz,,14,6,100,33,50,3,0,3,3,1,0,3,2,0,0,3,-9,1,1,1,3,1,2,Elitzur_Netanya,A,24,24,Amit Schaerf
+Total,,200,80,67,32,79,29,10,39,16,22,4,18,18,5,0,104,0,22,33,7,22,15,19,Elitzur_Netanya,A,24,24,Amit Schaerf

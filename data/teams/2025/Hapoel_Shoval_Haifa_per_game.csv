@@ -1,0 +1,388 @@
+player name,sf,min,pts,%_2pt,%_3pt,%_1pt,dr_rebounds,or_rebounds,tr_rebounds,pf_fouls,fa_fouls,st,to,as,bkf_blocks,bka_blocks,val,+/-,m_2pt,a_2pt,m_3pt,a_3pt,m_1pt,a_1pt,opponent,loc,round,game_idx,coach
+Team,,0,0,0,0,0,4,2,6,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,Ironi_Kiryat_Ata,H,4,3,Elad Hasin
+Tyler Bey,*,36,29,70,50,50,5,1,6,3,4,4,6,1,0,0,25,-12,7,10,4,8,3,6,Ironi_Kiryat_Ata,H,4,3,Elad Hasin
+Willy Workman,,9,2,100,0,0,0,0,0,0,1,1,1,1,0,0,3,-13,1,1,0,1,0,0,Ironi_Kiryat_Ata,H,4,3,Elad Hasin
+Ben Amar,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ironi_Kiryat_Ata,H,4,3,Elad Hasin
+Deandre Pinckney,*,20,9,60,0,100,3,2,5,3,2,0,1,0,1,0,11,-2,3,5,0,0,3,3,Ironi_Kiryat_Ata,H,4,3,Elad Hasin
+Rotem Ovadia,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ironi_Kiryat_Ata,H,4,3,Elad Hasin
+Kenny Boynton,*,28,7,0,33,50,0,0,0,1,2,1,3,2,0,0,3,-16,0,0,2,6,1,2,Ironi_Kiryat_Ata,H,4,3,Elad Hasin
+Daniel Rosenbaum,*,33,6,0,50,0,4,0,4,2,1,2,1,1,0,0,7,-20,0,2,2,4,0,0,Ironi_Kiryat_Ata,H,4,3,Elad Hasin
+Cameron Young,*,33,12,33,40,80,2,0,2,2,5,1,5,5,1,0,13,2,1,3,2,5,4,5,Ironi_Kiryat_Ata,H,4,3,Elad Hasin
+Itay Shneider,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,Ironi_Kiryat_Ata,H,4,3,Elad Hasin
+Amit Gershon,,30,16,75,50,100,0,0,0,4,4,1,3,4,0,0,15,-10,3,4,2,4,4,4,Ironi_Kiryat_Ata,H,4,3,Elad Hasin
+Alex Sobel,,8,5,100,0,100,3,0,3,4,1,0,2,0,1,0,4,-6,2,2,0,0,1,1,Ironi_Kiryat_Ata,H,4,3,Elad Hasin
+Total,,200,86,63,43,76,21,5,26,19,20,10,22,15,3,0,88,0,17,27,12,28,16,21,Ironi_Kiryat_Ata,H,4,3,Elad Hasin
+Team,,0,0,0,0,0,2,1,3,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,Hapoel_Jerusalem,H,6,5,Elad Hasin
+Tyler Bey,*,20,3,0,33,0,5,0,5,1,1,2,3,1,0,0,4,-11,0,2,1,3,0,0,Hapoel_Jerusalem,H,6,5,Elad Hasin
+Willy Workman,*,29,2,25,0,0,4,2,6,3,1,3,2,0,0,0,4,-20,1,4,0,0,0,0,Hapoel_Jerusalem,H,6,5,Elad Hasin
+Tal Zvi Bar Hama,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,Hapoel_Jerusalem,H,6,5,Elad Hasin
+Deandre Pinckney,*,29,16,67,0,100,3,4,7,3,5,1,4,0,1,1,14,-19,6,9,0,5,4,4,Hapoel_Jerusalem,H,6,5,Elad Hasin
+Rotem Ovadia,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-1,2,0,0,0,0,0,0,Hapoel_Jerusalem,H,6,5,Elad Hasin
+Kenny Boynton,*,34,16,50,30,100,2,0,2,1,4,0,1,1,0,0,11,-21,3,6,3,10,1,1,Hapoel_Jerusalem,H,6,5,Elad Hasin
+Daniel Rosenbaum,,23,5,50,50,0,4,0,4,4,0,2,3,0,0,0,2,0,1,2,1,2,0,0,Hapoel_Jerusalem,H,6,5,Elad Hasin
+Cameron Young,,15,8,14,0,100,4,0,4,2,6,1,0,0,0,0,11,-7,1,7,0,0,6,6,Hapoel_Jerusalem,H,6,5,Elad Hasin
+Itay Shneider,,2,2,0,0,100,0,0,0,0,1,0,0,0,0,0,2,2,0,1,0,0,2,2,Hapoel_Jerusalem,H,6,5,Elad Hasin
+Amit Gershon,*,24,0,0,0,0,1,0,1,2,1,0,1,3,0,0,-6,-22,0,2,0,6,0,0,Hapoel_Jerusalem,H,6,5,Elad Hasin
+Gil Noyovitch,,10,2,0,0,100,1,0,1,2,2,2,1,3,0,0,7,-5,0,0,0,0,2,2,Hapoel_Jerusalem,H,6,5,Elad Hasin
+Alex Sobel,,12,7,67,0,43,3,1,4,4,3,0,0,1,1,1,6,-6,2,3,0,0,3,7,Hapoel_Jerusalem,H,6,5,Elad Hasin
+Total,,200,61,39,19,82,29,8,37,23,24,11,16,9,2,2,56,0,14,36,5,26,18,22,Hapoel_Jerusalem,H,6,5,Elad Hasin
+Team,,0,0,0,0,0,2,2,4,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,Hapoel_Afula,A,10,10,Roee Perl
+Tyler Bey,*,32,22,47,0,86,5,4,9,1,10,4,4,2,0,1,29,-18,8,17,0,2,6,7,Hapoel_Afula,A,10,10,Roee Perl
+Willy Workman,*,28,12,57,50,100,6,4,10,1,1,2,0,1,1,1,21,-4,4,7,1,2,1,1,Hapoel_Afula,A,10,10,Roee Perl
+Deandre Pinckney,,13,3,0,20,0,5,2,7,2,1,0,0,1,0,0,5,3,0,1,1,5,0,0,Hapoel_Afula,A,10,10,Roee Perl
+Daniel Rosenbaum,*,24,0,0,0,0,2,1,3,4,5,0,1,0,0,0,-2,-24,0,1,0,4,0,0,Hapoel_Afula,A,10,10,Roee Perl
+Jon Davis,*,23,7,50,20,0,0,0,0,3,0,0,3,5,1,0,1,-14,2,4,1,5,0,0,Hapoel_Afula,A,10,10,Roee Perl
+Amit Gershon,,35,13,0,33,100,3,1,4,3,2,4,4,3,0,0,10,1,0,3,3,9,4,4,Hapoel_Afula,A,10,10,Roee Perl
+JaKeenan Gant,*,32,12,57,14,50,2,3,5,1,1,0,1,2,1,1,8,-9,4,7,1,7,1,2,Hapoel_Afula,A,10,10,Roee Perl
+Gil Noyovitch,,12,5,100,25,0,0,3,3,4,1,0,0,1,0,0,3,9,1,1,1,4,0,0,Hapoel_Afula,A,10,10,Roee Perl
+Alex Sobel,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,0,Hapoel_Afula,A,10,10,Roee Perl
+Total,,200,74,46,21,86,25,20,45,19,21,10,15,15,3,3,77,0,19,41,8,38,12,14,Hapoel_Afula,A,10,10,Roee Perl
+Team,,0,0,0,0,0,0,2,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Be'er_Sheva_Dimona,A,12,12,Roee Perl
+Tyler Bey,*,35,16,75,50,100,7,1,8,1,4,2,3,4,0,0,26,1,3,4,3,6,1,1,Be'er_Sheva_Dimona,A,12,12,Roee Perl
+Willy Workman,*,28,10,50,0,100,8,0,8,3,2,1,1,1,0,0,14,9,3,6,0,1,4,4,Be'er_Sheva_Dimona,A,12,12,Roee Perl
+Matt Coleman III,*,12,0,0,0,0,1,0,1,3,3,1,1,3,0,0,2,-7,0,0,0,2,0,0,Be'er_Sheva_Dimona,A,12,12,Roee Perl
+Daniel Rosenbaum,,17,8,50,14,60,2,1,3,1,3,0,2,1,0,0,3,0,1,2,1,7,3,5,Be'er_Sheva_Dimona,A,12,12,Roee Perl
+Jon Davis,*,10,0,0,0,0,2,0,2,3,1,0,4,0,0,0,-7,-6,0,2,0,1,0,0,Be'er_Sheva_Dimona,A,12,12,Roee Perl
+Amit Gershon,,30,21,50,38,86,2,0,2,1,5,1,2,2,0,0,19,12,3,6,3,8,6,7,Be'er_Sheva_Dimona,A,12,12,Roee Perl
+JaKeenan Gant,*,32,24,50,100,100,7,2,9,4,4,2,1,2,0,0,32,8,4,8,3,3,7,7,Be'er_Sheva_Dimona,A,12,12,Roee Perl
+Gil Noyovitch,,28,8,50,100,75,1,2,3,3,3,2,2,5,0,0,14,13,1,2,1,1,3,4,Be'er_Sheva_Dimona,A,12,12,Roee Perl
+Alex Sobel,,8,0,0,0,0,0,1,1,3,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Be'er_Sheva_Dimona,A,12,12,Roee Perl
+Total,,200,87,50,38,86,30,9,39,22,25,10,17,19,0,0,104,0,15,30,11,29,24,28,Be'er_Sheva_Dimona,A,12,12,Roee Perl
+Team,,0,0,0,0,0,2,2,4,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,Maccabi_Ramat_Gan,A,5,4,Elad Hasin
+Tyler Bey,*,32,7,22,25,0,4,1,5,1,0,2,7,2,2,0,0,-10,2,9,1,4,0,0,Maccabi_Ramat_Gan,A,5,4,Elad Hasin
+Willy Workman,*,32,10,50,50,100,7,3,10,2,5,1,0,2,0,0,23,-9,2,4,1,2,3,3,Maccabi_Ramat_Gan,A,5,4,Elad Hasin
+Ben Amar,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,Maccabi_Ramat_Gan,A,5,4,Elad Hasin
+Tal Zvi Bar Hama,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,Maccabi_Ramat_Gan,A,5,4,Elad Hasin
+Deandre Pinckney,*,30,16,80,67,33,7,2,9,1,7,0,1,0,1,0,25,-15,4,5,2,3,2,6,Maccabi_Ramat_Gan,A,5,4,Elad Hasin
+Kenny Boynton,*,30,9,0,30,0,3,0,3,1,0,0,4,4,0,0,2,-10,0,2,3,10,0,0,Maccabi_Ramat_Gan,A,5,4,Elad Hasin
+Daniel Rosenbaum,,21,7,50,17,0,6,2,8,2,0,3,1,1,0,0,9,-6,2,4,1,6,0,0,Maccabi_Ramat_Gan,A,5,4,Elad Hasin
+Cameron Young,*,17,9,67,25,100,1,0,1,5,2,1,1,0,0,0,3,-8,2,3,1,4,2,2,Maccabi_Ramat_Gan,A,5,4,Elad Hasin
+Itay Shneider,,3,3,0,100,0,1,0,1,0,0,0,0,1,0,0,4,12,0,1,1,1,0,0,Maccabi_Ramat_Gan,A,5,4,Elad Hasin
+Amit Gershon,,27,10,67,33,75,0,1,1,4,5,0,3,6,0,0,11,-23,2,3,1,3,3,4,Maccabi_Ramat_Gan,A,5,4,Elad Hasin
+Alex Sobel,,6,8,75,0,100,0,1,1,1,1,0,0,0,2,1,9,5,3,4,0,0,2,2,Maccabi_Ramat_Gan,A,5,4,Elad Hasin
+Total,,200,79,49,33,71,31,12,43,18,20,7,17,16,5,1,89,0,17,35,11,33,12,17,Maccabi_Ramat_Gan,A,5,4,Elad Hasin
+Team,,0,0,0,0,0,1,3,4,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,Ness_Ziona,A,11,11,Roee Perl
+Tyler Bey,*,28,10,36,0,67,5,2,7,4,6,0,4,2,0,0,5,-13,4,11,0,4,2,3,Ness_Ziona,A,11,11,Roee Perl
+Willy Workman,*,24,8,80,0,0,3,1,4,1,2,1,0,3,1,0,15,-5,4,5,0,1,0,1,Ness_Ziona,A,11,11,Roee Perl
+Deandre Pinckney,,10,6,100,0,100,1,0,1,2,1,1,1,0,0,0,5,-10,2,2,0,1,2,2,Ness_Ziona,A,11,11,Roee Perl
+Daniel Rosenbaum,*,21,5,100,50,0,3,0,3,2,1,0,1,1,0,0,6,-9,1,1,1,2,0,0,Ness_Ziona,A,11,11,Roee Perl
+Jon Davis,*,32,15,83,20,100,1,0,1,4,3,2,4,5,0,0,13,-3,5,6,1,5,2,2,Ness_Ziona,A,11,11,Roee Perl
+Amit Gershon,*,32,6,0,33,0,4,0,4,3,0,2,2,2,0,0,4,-17,0,1,2,6,0,0,Ness_Ziona,A,11,11,Roee Perl
+JaKeenan Gant,,35,11,43,20,100,6,2,8,2,2,1,1,1,1,0,13,-10,3,7,1,5,2,2,Ness_Ziona,A,11,11,Roee Perl
+Gil Noyovitch,,14,5,50,50,0,1,0,1,2,0,1,0,2,0,1,4,-18,1,2,1,2,0,0,Ness_Ziona,A,11,11,Roee Perl
+Alex Sobel,,4,2,50,0,0,0,1,1,0,0,0,0,0,0,0,2,-5,1,2,0,0,0,0,Ness_Ziona,A,11,11,Roee Perl
+Total,,200,68,57,23,80,25,9,34,20,15,8,14,16,2,1,70,0,21,37,6,26,8,10,Ness_Ziona,A,11,11,Roee Perl
+Team,,0,0,0,0,0,2,1,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,Bnei_Herzliya,H,9,8,Elad Hasin
+Tyler Bey,*,30,30,74,0,33,3,1,4,2,5,4,4,2,1,0,31,-13,14,19,0,0,2,6,Bnei_Herzliya,H,9,8,Elad Hasin
+Willy Workman,*,28,14,80,33,50,5,4,9,3,4,1,3,3,1,0,20,0,4,5,1,3,3,6,Bnei_Herzliya,H,9,8,Elad Hasin
+Tal Zvi Bar Hama,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,3,0,0,0,1,0,0,Bnei_Herzliya,H,9,8,Elad Hasin
+Rotem Ovadia,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,Bnei_Herzliya,H,9,8,Elad Hasin
+Kenny Boynton,,6,0,0,0,0,1,1,2,0,0,0,1,0,0,0,1,-9,0,0,0,0,0,0,Bnei_Herzliya,H,9,8,Elad Hasin
+Daniel Rosenbaum,,26,5,100,25,0,1,0,1,1,2,2,2,0,0,0,4,-13,1,1,1,4,0,0,Bnei_Herzliya,H,9,8,Elad Hasin
+Jon Davis,*,34,21,40,44,100,2,1,3,3,1,1,7,9,0,2,12,-10,4,10,4,9,1,1,Bnei_Herzliya,H,9,8,Elad Hasin
+Itay Shneider,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,Bnei_Herzliya,H,9,8,Elad Hasin
+Amit Gershon,,27,17,100,50,100,1,1,2,3,0,1,2,4,0,0,15,1,2,2,4,8,1,1,Bnei_Herzliya,H,9,8,Elad Hasin
+JaKeenan Gant,*,15,10,67,100,0,2,0,2,5,2,1,1,1,0,0,9,1,2,3,2,2,0,0,Bnei_Herzliya,H,9,8,Elad Hasin
+Gil Noyovitch,*,21,4,0,100,50,1,0,1,2,3,1,1,5,0,0,10,7,0,0,1,1,1,2,Bnei_Herzliya,H,9,8,Elad Hasin
+Alex Sobel,,10,0,0,0,0,1,0,1,5,0,0,1,1,0,0,-4,-13,0,0,0,0,0,0,Bnei_Herzliya,H,9,8,Elad Hasin
+Total,,200,101,68,46,50,19,9,28,24,17,11,22,25,2,2,100,0,27,40,13,28,8,16,Bnei_Herzliya,H,9,8,Elad Hasin
+Team,,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,Elitzur_Netanya,H,3,2,Elad Hasin
+Tyler Bey,*,36,22,57,0,86,6,2,8,2,8,2,2,4,1,0,29,7,8,14,0,5,6,7,Elitzur_Netanya,H,3,2,Elad Hasin
+Willy Workman,,27,9,60,50,0,5,2,7,1,1,1,0,1,0,0,14,13,3,5,1,2,0,1,Elitzur_Netanya,H,3,2,Elad Hasin
+Jaylen Johnson,*,34,7,60,0,100,6,2,8,4,3,0,5,2,1,0,10,6,3,5,0,0,1,1,Elitzur_Netanya,H,3,2,Elad Hasin
+Daniel Rosenbaum,*,26,9,50,33,50,2,1,3,2,1,0,2,1,0,0,4,6,1,2,2,6,1,2,Elitzur_Netanya,H,3,2,Elad Hasin
+Cameron Young,*,33,20,57,43,60,1,0,1,4,8,1,3,2,0,0,16,-10,4,7,3,7,3,5,Elitzur_Netanya,H,3,2,Elad Hasin
+Itay Shneider,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,Elitzur_Netanya,H,3,2,Elad Hasin
+Amit Gershon,,33,19,67,80,75,3,0,3,0,4,1,2,2,0,0,24,0,2,3,4,5,3,4,Elitzur_Netanya,H,3,2,Elad Hasin
+Gil Noyovitch,*,32,8,0,67,100,3,0,3,4,2,2,2,6,0,1,11,18,0,2,2,3,2,2,Elitzur_Netanya,H,3,2,Elad Hasin
+Alex Sobel,,3,0,0,0,0,0,0,0,2,0,0,1,0,0,0,-3,0,0,0,0,0,0,0,Elitzur_Netanya,H,3,2,Elad Hasin
+Total,,225,94,55,43,73,27,8,35,19,27,7,17,18,2,1,107,0,21,38,12,28,16,22,Elitzur_Netanya,H,3,2,Elad Hasin
+Team,,0,0,0,0,0,1,1,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Hapoel_Holon,A,2,1,Elad Hasin
+Tyler Bey,*,26,6,40,0,100,2,0,2,1,3,0,3,2,0,1,2,-14,2,5,0,3,2,2,Hapoel_Holon,A,2,1,Elad Hasin
+Willy Workman,,23,8,67,0,0,6,3,9,1,2,0,4,3,0,0,14,-19,4,6,0,1,0,0,Hapoel_Holon,A,2,1,Elad Hasin
+Matt Coleman III,*,19,17,75,100,67,1,0,1,2,5,1,1,1,0,1,18,-13,6,8,1,1,2,3,Hapoel_Holon,A,2,1,Elad Hasin
+Jaylen Johnson,*,32,10,71,0,0,10,3,13,5,2,1,0,3,0,0,19,-1,5,7,0,3,0,0,Hapoel_Holon,A,2,1,Elad Hasin
+Rotem Ovadia,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,Hapoel_Holon,A,2,1,Elad Hasin
+Daniel Rosenbaum,*,24,5,100,33,0,1,0,1,1,1,1,0,0,0,0,5,-19,1,1,1,3,0,0,Hapoel_Holon,A,2,1,Elad Hasin
+Cameron Young,,25,15,50,33,67,1,0,1,3,4,1,0,1,0,0,11,-12,4,8,1,3,4,6,Hapoel_Holon,A,2,1,Elad Hasin
+Itay Shneider,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,Hapoel_Holon,A,2,1,Elad Hasin
+Amit Gershon,*,31,3,0,20,0,1,0,1,2,0,1,2,2,0,0,-2,-2,0,1,1,5,0,0,Hapoel_Holon,A,2,1,Elad Hasin
+Gil Noyovitch,,17,7,67,100,0,1,0,1,0,0,2,3,0,0,0,6,-4,2,3,1,1,0,0,Hapoel_Holon,A,2,1,Elad Hasin
+Alex Sobel,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,Hapoel_Holon,A,2,1,Elad Hasin
+Total,,200,71,62,25,73,24,7,31,15,17,7,14,12,0,2,74,0,24,39,5,20,8,11,Hapoel_Holon,A,2,1,Elad Hasin
+Team,,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Maccabi_Tel-Aviv,A,1,9,Elad Hasin
+Tyler Bey,*,28,22,67,50,50,1,1,2,3,7,0,2,2,1,1,20,-15,8,12,1,2,3,6,Maccabi_Tel-Aviv,A,1,9,Elad Hasin
+Willy Workman,*,32,2,20,0,0,6,1,7,2,3,4,2,8,0,1,14,0,1,5,0,1,0,0,Maccabi_Tel-Aviv,A,1,9,Elad Hasin
+Tal Zvi Bar Hama,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,Maccabi_Tel-Aviv,A,1,9,Elad Hasin
+Deandre Pinckney,,17,17,67,33,100,3,0,3,1,2,1,1,1,0,0,16,-12,4,6,2,6,3,3,Maccabi_Tel-Aviv,A,1,9,Elad Hasin
+Rotem Ovadia,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,Maccabi_Tel-Aviv,A,1,9,Elad Hasin
+Daniel Rosenbaum,,20,9,0,60,0,0,1,1,3,1,1,0,1,0,0,8,-2,0,0,3,5,0,0,Maccabi_Tel-Aviv,A,1,9,Elad Hasin
+Jon Davis,*,33,8,67,17,50,3,0,3,3,4,1,4,8,0,0,10,-11,2,3,1,6,1,2,Maccabi_Tel-Aviv,A,1,9,Elad Hasin
+Itay Shneider,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-2,0,0,0,1,0,0,Maccabi_Tel-Aviv,A,1,9,Elad Hasin
+Amit Gershon,*,26,18,60,44,0,3,0,3,3,0,0,2,1,0,1,9,-16,3,5,4,9,0,0,Maccabi_Tel-Aviv,A,1,9,Elad Hasin
+JaKeenan Gant,*,31,11,20,50,0,2,2,4,2,0,1,0,2,1,0,10,-15,1,5,3,6,0,0,Maccabi_Tel-Aviv,A,1,9,Elad Hasin
+Gil Noyovitch,,10,0,0,0,0,1,2,3,4,1,2,1,2,0,0,0,2,0,0,0,3,0,0,Maccabi_Tel-Aviv,A,1,9,Elad Hasin
+Total,,200,87,53,36,64,20,7,27,21,18,10,12,25,2,3,87,0,19,36,14,39,7,11,Maccabi_Tel-Aviv,A,1,9,Elad Hasin
+Team,,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Gilboa_Galil,A,7,6,Elad Hasin
+Willy Workman,*,29,9,33,0,83,1,1,2,1,5,3,0,0,1,0,12,-14,2,6,0,2,5,6,Gilboa_Galil,A,7,6,Elad Hasin
+Tal Zvi Bar Hama,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,Gilboa_Galil,A,7,6,Elad Hasin
+Deandre Pinckney,*,13,2,50,0,0,3,1,4,4,0,0,1,1,0,0,0,-20,1,2,0,1,0,0,Gilboa_Galil,A,7,6,Elad Hasin
+Rotem Ovadia,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,Gilboa_Galil,A,7,6,Elad Hasin
+Kenny Boynton,*,24,11,100,60,0,2,0,2,2,2,0,3,3,0,0,11,-21,1,1,3,5,0,0,Gilboa_Galil,A,7,6,Elad Hasin
+Daniel Rosenbaum,,15,11,100,75,0,0,0,0,2,0,0,0,0,0,0,8,-5,1,1,3,4,0,0,Gilboa_Galil,A,7,6,Elad Hasin
+Cameron Young,*,29,17,75,50,100,1,0,1,2,6,2,2,2,0,0,21,-18,3,4,2,4,5,5,Gilboa_Galil,A,7,6,Elad Hasin
+Itay Shneider,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,Gilboa_Galil,A,7,6,Elad Hasin
+Amit Gershon,,23,10,25,67,100,2,0,2,2,2,1,1,2,0,1,9,1,1,4,2,3,2,2,Gilboa_Galil,A,7,6,Elad Hasin
+JaKeenan Gant,*,27,10,50,40,0,2,1,3,3,0,1,2,0,0,0,4,-18,2,4,2,5,0,0,Gilboa_Galil,A,7,6,Elad Hasin
+Gil Noyovitch,,21,6,50,0,100,3,1,4,4,3,1,4,4,0,0,8,4,2,4,0,0,2,2,Gilboa_Galil,A,7,6,Elad Hasin
+Alex Sobel,,16,5,67,0,100,3,1,4,1,2,0,0,0,3,1,11,2,2,3,0,0,1,1,Gilboa_Galil,A,7,6,Elad Hasin
+Total,,200,81,52,50,94,18,5,23,21,20,8,13,12,4,2,85,0,15,29,12,24,15,16,Gilboa_Galil,A,7,6,Elad Hasin
+Team,,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Hapoel_Galil_Elion,A,8,7,Elad Hasin
+Willy Workman,*,23,9,50,0,100,5,4,9,2,2,3,3,3,1,0,17,-7,4,8,0,1,1,1,Hapoel_Galil_Elion,A,8,7,Elad Hasin
+Tal Zvi Bar Hama,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-1,3,0,0,0,0,0,0,Hapoel_Galil_Elion,A,8,7,Elad Hasin
+Deandre Pinckney,*,15,6,50,33,100,6,0,6,4,2,0,5,1,0,0,3,-6,1,2,1,3,1,1,Hapoel_Galil_Elion,A,8,7,Elad Hasin
+Kenny Boynton,*,20,9,33,33,50,1,0,1,0,3,0,0,1,0,1,6,-22,1,3,2,6,1,2,Hapoel_Galil_Elion,A,8,7,Elad Hasin
+Daniel Rosenbaum,,28,9,0,50,0,4,0,4,3,0,2,0,0,0,0,8,-6,0,1,3,6,0,0,Hapoel_Galil_Elion,A,8,7,Elad Hasin
+Jon Davis,*,32,17,40,50,50,2,1,3,2,2,1,4,1,1,1,10,-24,2,5,4,8,1,2,Hapoel_Galil_Elion,A,8,7,Elad Hasin
+Itay Shneider,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,3,0,0,0,1,0,0,Hapoel_Galil_Elion,A,8,7,Elad Hasin
+Amit Gershon,,20,3,0,0,75,4,0,4,2,4,0,1,1,0,1,4,-10,0,2,0,1,3,4,Hapoel_Galil_Elion,A,8,7,Elad Hasin
+JaKeenan Gant,*,27,5,20,0,50,2,3,5,2,1,0,1,2,0,0,-3,-20,2,10,0,4,1,2,Hapoel_Galil_Elion,A,8,7,Elad Hasin
+Gil Noyovitch,,15,7,0,100,100,0,3,3,2,2,1,1,1,0,0,11,2,0,0,1,1,4,4,Hapoel_Galil_Elion,A,8,7,Elad Hasin
+Alex Sobel,,18,4,33,0,0,4,2,6,3,3,1,1,3,1,0,10,-3,2,6,0,0,0,0,Hapoel_Galil_Elion,A,8,7,Elad Hasin
+Total,,200,69,32,35,75,28,14,42,20,19,8,17,13,3,3,65,0,12,37,11,31,12,16,Hapoel_Galil_Elion,A,8,7,Elad Hasin
+Team,,0,0,0,0,0,3,2,5,0,0,0,1,0,0,0,4,0,0,0,0,0,0,0,Elitzur_Netanya,A,16,16,Roee Perl
+Tyler Bey,*,24,10,75,50,33,9,0,9,3,3,1,2,1,3,0,18,4,3,4,1,2,1,3,Elitzur_Netanya,A,16,16,Roee Perl
+Willy Workman,,15,2,33,0,0,2,1,3,1,1,1,0,1,0,0,4,-9,1,3,0,1,0,0,Elitzur_Netanya,A,16,16,Roee Perl
+Matt Coleman III,*,31,13,56,0,75,1,1,2,2,7,4,3,6,0,1,17,-6,5,9,0,4,3,4,Elitzur_Netanya,A,16,16,Roee Perl
+Deandre Pinckney,*,13,4,100,0,0,2,1,3,4,1,1,0,1,0,0,6,15,2,2,0,0,0,0,Elitzur_Netanya,A,16,16,Roee Perl
+Daniel Rosenbaum,*,30,12,100,43,50,5,3,8,3,2,0,1,1,0,0,14,2,1,1,3,7,1,2,Elitzur_Netanya,A,16,16,Roee Perl
+Amit Gershon,,19,4,100,0,0,2,0,2,1,0,0,3,3,0,0,1,-8,2,2,0,4,0,0,Elitzur_Netanya,A,16,16,Roee Perl
+JaKeenan Gant,,26,16,67,33,67,4,0,4,3,2,0,1,2,0,0,13,-9,4,6,2,6,2,3,Elitzur_Netanya,A,16,16,Roee Perl
+Gil Noyovitch,,8,2,50,0,0,0,0,0,3,1,0,0,2,0,1,0,3,1,2,0,0,0,0,Elitzur_Netanya,A,16,16,Roee Perl
+Alex Sobel,,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-1,-3,0,0,0,0,0,0,Elitzur_Netanya,A,16,16,Roee Perl
+Bryon Allen,*,33,12,38,40,0,2,0,2,2,1,1,3,2,0,0,5,-4,3,8,2,5,0,0,Elitzur_Netanya,A,16,16,Roee Perl
+Total,,200,75,59,28,58,30,8,38,23,18,8,14,19,3,2,81,0,22,37,8,29,7,12,Elitzur_Netanya,A,16,16,Roee Perl
+Team,,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,Ironi_Kiryat_Ata,A,17,17,Roee Perl
+Tyler Bey,*,14,1,0,0,50,3,1,4,0,2,0,2,0,0,1,-3,-10,0,3,0,3,1,2,Ironi_Kiryat_Ata,A,17,17,Roee Perl
+Willy Workman,,14,5,33,0,75,1,2,3,1,4,0,1,3,0,0,10,1,1,3,0,0,3,4,Ironi_Kiryat_Ata,A,17,17,Roee Perl
+Matt Coleman III,*,37,21,50,75,67,4,1,5,2,7,4,6,6,1,0,29,-5,5,10,3,4,2,3,Ironi_Kiryat_Ata,A,17,17,Roee Perl
+Deandre Pinckney,*,31,8,40,0,100,4,3,7,5,2,1,3,0,0,0,7,2,2,5,0,0,4,4,Ironi_Kiryat_Ata,A,17,17,Roee Perl
+Daniel Rosenbaum,*,33,13,83,33,0,5,3,8,4,0,2,1,1,0,0,16,-6,5,6,1,3,0,0,Ironi_Kiryat_Ata,A,17,17,Roee Perl
+Amit Gershon,,29,7,0,33,50,5,2,7,3,1,1,2,1,0,0,6,-3,0,1,2,6,1,2,Ironi_Kiryat_Ata,A,17,17,Roee Perl
+JaKeenan Gant,,17,7,50,0,75,0,1,1,4,2,0,1,0,1,0,-2,8,2,4,0,5,3,4,Ironi_Kiryat_Ata,A,17,17,Roee Perl
+Gil Noyovitch,,7,5,100,100,0,1,0,1,2,0,2,0,0,0,0,6,6,1,1,1,1,0,0,Ironi_Kiryat_Ata,A,17,17,Roee Perl
+Alex Sobel,,7,0,0,0,0,0,0,0,2,0,0,0,0,0,0,-2,-10,0,0,0,0,0,0,Ironi_Kiryat_Ata,A,17,17,Roee Perl
+Bryon Allen,*,36,17,64,12,0,0,1,1,4,3,0,2,6,0,1,9,-8,7,11,1,8,0,0,Ironi_Kiryat_Ata,A,17,17,Roee Perl
+Total,,225,84,52,27,74,24,15,39,27,21,10,18,17,2,2,78,0,23,44,8,30,14,19,Ironi_Kiryat_Ata,A,17,17,Roee Perl
+Team,,0,0,0,0,0,0,3,3,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,Maccabi_Tel-Aviv,H,14,14,Roee Perl
+Tyler Bey,*,29,17,75,0,100,8,2,10,1,3,0,3,2,1,2,23,-31,6,8,0,2,5,5,Maccabi_Tel-Aviv,H,14,14,Roee Perl
+Willy Workman,*,22,10,71,0,0,2,2,4,1,0,0,0,1,0,0,12,-17,5,7,0,0,0,0,Maccabi_Tel-Aviv,H,14,14,Roee Perl
+Matt Coleman III,*,16,6,60,0,0,2,0,2,5,0,1,1,6,0,0,6,-4,3,5,0,1,0,0,Maccabi_Tel-Aviv,H,14,14,Roee Perl
+Omer Poleg,,11,0,0,0,0,0,1,1,1,1,1,0,1,0,0,1,-11,0,2,0,0,0,0,Maccabi_Tel-Aviv,H,14,14,Roee Perl
+Daniel Rosenbaum,,17,3,0,33,0,1,0,1,3,0,2,1,0,0,0,0,-11,0,0,1,3,0,0,Maccabi_Tel-Aviv,H,14,14,Roee Perl
+Jon Davis,*,24,14,33,60,100,0,0,0,2,2,0,2,3,0,0,11,-33,1,3,3,5,3,3,Maccabi_Tel-Aviv,H,14,14,Roee Perl
+Itay Shneider,,3,0,0,0,0,1,0,1,0,0,1,1,0,0,0,-1,-3,0,1,0,1,0,0,Maccabi_Tel-Aviv,H,14,14,Roee Perl
+Amit Gershon,,22,3,0,17,0,2,0,2,3,1,1,3,2,0,1,-5,-21,0,2,1,6,0,0,Maccabi_Tel-Aviv,H,14,14,Roee Perl
+JaKeenan Gant,*,30,8,20,33,50,4,0,4,2,2,1,0,1,1,2,2,-30,2,10,1,3,1,2,Maccabi_Tel-Aviv,H,14,14,Roee Perl
+Gil Noyovitch,,16,3,0,50,0,2,1,3,4,2,2,1,2,0,0,5,-26,0,1,1,2,0,0,Maccabi_Tel-Aviv,H,14,14,Roee Perl
+Alex Sobel,,10,3,20,0,50,1,1,2,4,1,0,0,0,0,2,-5,-8,1,5,0,0,1,2,Maccabi_Tel-Aviv,H,14,14,Roee Perl
+Total,,200,67,41,30,83,23,10,33,26,12,9,13,18,2,7,51,0,18,44,7,23,10,12,Maccabi_Tel-Aviv,H,14,14,Roee Perl
+Team,,0,0,0,0,0,3,1,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,Gilboa_Galil,H,15,15,Roee Perl
+Tyler Bey,*,29,16,30,50,78,9,2,11,1,6,2,6,4,0,1,21,-14,3,10,1,2,7,9,Gilboa_Galil,H,15,15,Roee Perl
+Willy Workman,,25,12,83,0,50,4,3,7,3,3,4,1,1,0,0,20,2,5,6,0,0,2,4,Gilboa_Galil,H,15,15,Roee Perl
+Matt Coleman III,*,28,14,45,33,100,0,2,2,3,2,1,4,6,0,0,10,-14,5,11,1,3,1,1,Gilboa_Galil,H,15,15,Roee Perl
+Daniel Rosenbaum,*,32,18,100,62,50,1,1,2,4,2,0,1,0,1,0,14,-16,1,1,5,8,1,2,Gilboa_Galil,H,15,15,Roee Perl
+Jon Davis,*,19,4,29,0,0,1,0,1,1,2,0,1,3,1,0,3,-14,2,7,0,0,0,1,Gilboa_Galil,H,15,15,Roee Perl
+Amit Gershon,,23,8,33,0,80,0,0,0,1,3,0,1,2,0,1,1,-1,2,6,0,4,4,5,Gilboa_Galil,H,15,15,Roee Perl
+JaKeenan Gant,*,23,6,50,50,100,0,0,0,3,2,1,0,2,0,0,6,-3,1,2,1,2,1,1,Gilboa_Galil,H,15,15,Roee Perl
+Gil Noyovitch,,13,5,0,50,100,1,2,3,3,1,0,2,0,0,0,2,7,0,1,1,2,2,2,Gilboa_Galil,H,15,15,Roee Perl
+Alex Sobel,,8,0,0,0,0,1,2,3,2,0,0,0,0,0,0,1,-2,0,0,0,0,0,0,Gilboa_Galil,H,15,15,Roee Perl
+Total,,200,83,43,43,72,20,13,33,21,21,8,16,18,2,2,82,0,19,44,9,21,18,25,Gilboa_Galil,H,15,15,Roee Perl
+Team,,0,0,0,0,0,1,4,5,0,0,0,1,0,0,0,4,0,0,0,0,0,0,0,Hapoel_Tel-Aviv,H,13,13,Roee Perl
+Tyler Bey,*,28,13,50,50,50,6,3,9,2,2,1,5,5,0,1,16,-16,3,6,2,4,1,2,Hapoel_Tel-Aviv,H,13,13,Roee Perl
+Willy Workman,*,21,7,100,0,100,4,1,5,1,3,0,0,1,0,0,13,-21,3,3,0,2,1,1,Hapoel_Tel-Aviv,H,13,13,Roee Perl
+Matt Coleman III,*,16,4,67,0,0,2,1,3,4,1,1,3,4,0,0,0,-6,2,3,0,4,0,1,Hapoel_Tel-Aviv,H,13,13,Roee Perl
+Omer Poleg,,7,0,0,0,0,1,0,1,0,0,0,0,0,0,0,-2,-10,0,3,0,0,0,0,Hapoel_Tel-Aviv,H,13,13,Roee Perl
+Rotem Ovadia,,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,-2,0,0,0,0,0,0,Hapoel_Tel-Aviv,H,13,13,Roee Perl
+Daniel Rosenbaum,,19,11,0,100,100,2,0,2,3,2,0,0,0,0,1,9,-1,0,2,3,3,2,2,Hapoel_Tel-Aviv,H,13,13,Roee Perl
+Jon Davis,*,23,10,29,50,0,2,0,2,4,1,0,2,2,0,0,2,-7,2,7,2,4,0,0,Hapoel_Tel-Aviv,H,13,13,Roee Perl
+Itay Shneider,,2,1,0,0,50,0,0,0,0,1,0,0,0,0,0,0,-1,0,1,0,0,1,2,Hapoel_Tel-Aviv,H,13,13,Roee Perl
+Amit Gershon,,17,8,25,33,100,0,1,1,4,1,0,1,2,0,0,2,-22,1,4,1,3,3,3,Hapoel_Tel-Aviv,H,13,13,Roee Perl
+JaKeenan Gant,*,28,9,67,0,33,2,1,3,4,2,2,0,0,2,0,6,-22,4,6,0,4,1,3,Hapoel_Tel-Aviv,H,13,13,Roee Perl
+Gil Noyovitch,,20,6,40,0,100,1,1,2,3,2,3,0,6,0,0,13,-16,2,5,0,0,2,2,Hapoel_Tel-Aviv,H,13,13,Roee Perl
+Alex Sobel,,16,10,67,0,50,1,1,2,2,3,0,0,0,0,0,9,-21,4,6,0,0,2,4,Hapoel_Tel-Aviv,H,13,13,Roee Perl
+Total,,200,79,46,33,65,22,13,35,27,18,7,12,21,2,2,73,0,21,46,8,24,13,20,Hapoel_Tel-Aviv,H,13,13,Roee Perl
+Team,,0,0,0,0,0,1,3,4,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,Ness_Ziona,H,21,21,Ilan Amar
+Matt Coleman III,*,28,15,50,40,100,4,0,4,5,7,0,2,6,0,0,18,-12,4,8,2,5,1,1,Ness_Ziona,H,21,21,Ilan Amar
+Deandre Pinckney,,35,29,60,0,73,4,7,11,4,8,1,1,3,1,0,35,-2,9,15,0,3,11,15,Ness_Ziona,H,21,21,Ilan Amar
+Omer Poleg,,17,2,33,0,0,1,1,2,1,1,2,1,3,0,0,5,6,1,3,0,1,0,0,Ness_Ziona,H,21,21,Ilan Amar
+Daniel Rosenbaum,*,29,12,50,50,100,2,0,2,5,1,1,0,3,0,0,10,-5,1,2,3,6,1,1,Ness_Ziona,H,21,21,Ilan Amar
+Itay Shneider,,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Ness_Ziona,H,21,21,Ilan Amar
+Amit Gershon,,25,8,33,50,50,3,0,3,5,2,2,1,2,0,0,5,-8,2,6,1,2,1,2,Ness_Ziona,H,21,21,Ilan Amar
+JaKeenan Gant,*,31,14,62,14,50,2,0,2,3,1,0,0,2,2,0,8,-5,5,8,1,7,1,2,Ness_Ziona,H,21,21,Ilan Amar
+Gil Noyovitch,*,21,6,0,67,0,2,2,4,4,0,0,2,1,0,2,-1,-11,0,3,2,3,0,0,Ness_Ziona,H,21,21,Ilan Amar
+Alex Sobel,*,13,3,33,0,50,2,1,3,1,1,0,0,2,1,0,6,-13,1,3,0,0,1,2,Ness_Ziona,H,21,21,Ilan Amar
+Total,,200,89,48,32,70,22,14,36,29,21,6,7,22,4,2,89,0,23,48,9,28,16,23,Ness_Ziona,H,21,21,Ilan Amar
+Team,,0,0,0,0,0,1,2,3,1,1,0,0,0,0,0,3,0,0,0,0,0,0,0,Maccabi_Ramat_Gan,H,18,18,Roee Perl
+Willy Workman,,14,1,0,0,25,4,1,5,2,3,1,1,2,0,0,3,-11,0,3,0,0,1,4,Maccabi_Ramat_Gan,H,18,18,Roee Perl
+Matt Coleman III,*,19,14,40,50,50,0,1,1,4,3,0,3,1,0,0,5,-10,2,5,3,6,1,2,Maccabi_Ramat_Gan,H,18,18,Roee Perl
+Tal Zvi Bar Hama,,4,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Maccabi_Ramat_Gan,H,18,18,Roee Perl
+Deandre Pinckney,*,25,11,57,0,100,4,2,6,3,3,2,3,2,0,0,14,-18,4,7,0,1,3,3,Maccabi_Ramat_Gan,H,18,18,Roee Perl
+Omer Poleg,,7,0,0,0,0,0,0,0,0,0,0,2,1,0,0,-3,4,0,1,0,1,0,0,Maccabi_Ramat_Gan,H,18,18,Roee Perl
+Daniel Rosenbaum,*,22,5,50,0,50,2,3,5,3,1,1,1,3,0,0,6,-20,2,4,0,2,1,2,Maccabi_Ramat_Gan,H,18,18,Roee Perl
+Itay Shneider,,4,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,2,0,0,Maccabi_Ramat_Gan,H,18,18,Roee Perl
+Amit Gershon,,19,10,67,33,0,1,0,1,4,0,0,0,0,0,0,2,-22,2,3,2,6,0,0,Maccabi_Ramat_Gan,H,18,18,Roee Perl
+JaKeenan Gant,*,28,17,83,50,50,0,2,2,3,2,0,1,0,2,1,14,-24,5,6,2,4,1,2,Maccabi_Ramat_Gan,H,18,18,Roee Perl
+Gil Noyovitch,,20,5,100,0,50,2,1,3,2,6,1,2,2,0,0,12,-11,2,2,0,0,1,2,Maccabi_Ramat_Gan,H,18,18,Roee Perl
+Alex Sobel,,8,6,100,0,0,2,0,2,3,0,0,0,1,1,0,7,-2,3,3,0,0,0,0,Maccabi_Ramat_Gan,H,18,18,Roee Perl
+Bryon Allen,*,30,10,18,25,75,2,0,2,2,2,2,2,7,0,1,5,-23,2,11,1,4,3,4,Maccabi_Ramat_Gan,H,18,18,Roee Perl
+Total,,200,79,49,31,58,19,12,31,28,22,7,15,20,3,2,68,0,22,45,8,26,11,19,Maccabi_Ramat_Gan,H,18,18,Roee Perl
+Team,,0,0,0,0,0,3,2,5,0,0,0,1,0,0,0,4,0,0,0,0,0,0,0,Hapoel_Afula,H,22,22,Ilan Amar
+Matt Coleman III,*,32,27,62,67,100,3,0,3,1,6,2,3,6,1,1,35,27,5,8,4,6,5,5,Hapoel_Afula,H,22,22,Ilan Amar
+Tal Zvi Bar Hama,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-4,0,0,0,1,0,0,Hapoel_Afula,H,22,22,Ilan Amar
+Deandre Pinckney,*,33,21,100,50,0,11,3,14,5,3,1,3,0,0,0,30,23,9,9,1,2,0,0,Hapoel_Afula,H,22,22,Ilan Amar
+Omer Poleg,,18,14,86,0,100,2,0,2,2,1,0,0,3,0,0,15,12,6,7,0,2,2,2,Hapoel_Afula,H,22,22,Ilan Amar
+Rotem Ovadia,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-1,-4,0,0,0,0,0,0,Hapoel_Afula,H,22,22,Ilan Amar
+Daniel Rosenbaum,*,27,7,100,100,0,1,0,1,3,2,0,2,3,0,0,6,15,2,2,1,1,0,2,Hapoel_Afula,H,22,22,Ilan Amar
+Elijah Pemberton,,18,9,75,25,0,2,0,2,1,2,0,2,0,0,0,6,-10,3,4,1,4,0,0,Hapoel_Afula,H,22,22,Ilan Amar
+Amit Gershon,*,37,12,0,43,75,7,0,7,0,2,0,2,1,0,0,13,17,0,2,3,7,3,4,Hapoel_Afula,H,22,22,Ilan Amar
+JaKeenan Gant,*,18,4,50,0,0,0,1,1,5,0,1,1,4,3,1,2,19,2,4,0,2,0,0,Hapoel_Afula,H,22,22,Ilan Amar
+Gil Noyovitch,,5,3,0,50,0,1,0,1,2,0,0,1,1,0,0,1,1,0,0,1,2,0,0,Hapoel_Afula,H,22,22,Ilan Amar
+Alex Sobel,,10,0,0,0,0,4,1,5,5,1,0,0,1,0,0,1,4,0,1,0,0,0,0,Hapoel_Afula,H,22,22,Ilan Amar
+Total,,200,97,73,41,77,34,7,41,24,17,4,16,19,4,2,111,0,27,37,11,27,10,13,Hapoel_Afula,H,22,22,Ilan Amar
+Team,,0,0,0,0,0,3,2,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,Be'er_Sheva_Dimona,H,19,19,Roee Perl
+Willy Workman,,20,4,0,0,100,4,2,6,0,4,0,0,2,1,0,13,-23,0,3,0,1,4,4,Be'er_Sheva_Dimona,H,19,19,Roee Perl
+Matt Coleman III,*,25,13,56,50,0,1,1,2,3,3,3,3,2,0,0,12,-16,5,9,1,2,0,0,Be'er_Sheva_Dimona,H,19,19,Roee Perl
+Tal Zvi Bar Hama,,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-2,2,0,0,0,1,0,0,Be'er_Sheva_Dimona,H,19,19,Roee Perl
+Deandre Pinckney,*,18,11,50,50,50,2,1,3,3,2,1,2,2,0,1,7,-11,3,6,1,2,2,4,Be'er_Sheva_Dimona,H,19,19,Roee Perl
+Omer Poleg,,8,4,67,0,0,0,0,0,1,1,0,1,1,0,0,2,-3,2,3,0,1,0,0,Be'er_Sheva_Dimona,H,19,19,Roee Perl
+Rotem Ovadia,,4,2,100,0,0,1,0,1,0,1,0,1,0,0,0,3,4,1,1,0,0,0,0,Be'er_Sheva_Dimona,H,19,19,Roee Perl
+Daniel Rosenbaum,*,22,12,75,50,0,1,4,5,3,1,1,1,0,1,0,12,-14,3,4,2,4,0,1,Be'er_Sheva_Dimona,H,19,19,Roee Perl
+Amit Gershon,,12,6,0,50,0,2,1,3,1,1,0,2,1,0,0,5,-17,0,1,2,4,0,0,Be'er_Sheva_Dimona,H,19,19,Roee Perl
+JaKeenan Gant,*,26,12,25,67,80,2,0,2,4,3,0,2,1,1,0,8,-27,1,4,2,3,4,5,Be'er_Sheva_Dimona,H,19,19,Roee Perl
+Gil Noyovitch,,14,1,0,0,50,0,2,2,2,1,0,2,2,0,1,-5,-14,0,4,0,1,1,2,Be'er_Sheva_Dimona,H,19,19,Roee Perl
+Alex Sobel,,14,6,75,0,0,2,2,4,3,2,0,0,1,0,0,9,-7,3,4,0,0,0,0,Be'er_Sheva_Dimona,H,19,19,Roee Perl
+Bryon Allen,*,33,6,40,0,100,1,1,2,1,1,1,3,5,0,0,4,-24,2,5,0,4,2,2,Be'er_Sheva_Dimona,H,19,19,Roee Perl
+Total,,200,77,45,35,72,19,16,35,21,20,6,18,17,3,2,73,0,20,44,8,23,13,18,Be'er_Sheva_Dimona,H,19,19,Roee Perl
+Team,,0,0,0,0,0,3,0,3,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,Hapoel_Jerusalem,A,20,20,Roee Perl
+Matt Coleman III,*,27,10,17,50,83,2,1,3,4,4,1,2,1,0,1,5,-27,1,6,1,2,5,6,Hapoel_Jerusalem,A,20,20,Roee Perl
+Tal Zvi Bar Hama,,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1,8,0,1,0,1,0,0,Hapoel_Jerusalem,A,20,20,Roee Perl
+Deandre Pinckney,*,24,23,70,25,86,4,2,6,2,4,0,1,1,0,0,24,-20,7,10,1,4,6,7,Hapoel_Jerusalem,A,20,20,Roee Perl
+Omer Poleg,,15,0,0,0,0,3,0,3,1,0,2,1,1,0,0,2,8,0,2,0,0,0,0,Hapoel_Jerusalem,A,20,20,Roee Perl
+Daniel Rosenbaum,*,18,4,100,0,100,0,0,0,2,1,1,0,0,0,0,4,-19,1,1,0,0,2,2,Hapoel_Jerusalem,A,20,20,Roee Perl
+Amit Gershon,,21,11,40,33,100,1,1,2,1,1,1,1,3,0,0,9,-22,2,5,2,6,1,1,Hapoel_Jerusalem,A,20,20,Roee Perl
+JaKeenan Gant,*,26,11,75,33,100,3,0,3,1,2,0,0,2,0,0,14,-23,3,4,1,3,2,2,Hapoel_Jerusalem,A,20,20,Roee Perl
+Gil Noyovitch,,20,4,50,0,100,3,0,3,4,5,0,2,3,0,0,7,1,1,2,0,1,2,2,Hapoel_Jerusalem,A,20,20,Roee Perl
+Alex Sobel,,22,2,50,0,0,2,2,4,1,0,1,0,1,1,1,6,7,1,2,0,0,0,0,Hapoel_Jerusalem,A,20,20,Roee Perl
+Bryon Allen,*,24,18,78,14,100,1,1,2,1,1,0,2,3,0,1,12,-28,7,9,1,7,1,1,Hapoel_Jerusalem,A,20,20,Roee Perl
+Total,,200,83,55,25,90,22,7,29,18,18,7,9,15,1,3,84,0,23,42,6,24,19,21,Hapoel_Jerusalem,A,20,20,Roee Perl
+Team,,0,0,0,0,0,1,2,3,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,Hapoel_Galil_Elion,H,23,23,Ilan Amar
+Matt Coleman III,*,33,29,50,67,100,1,0,1,4,3,1,1,12,0,1,32,2,5,10,6,9,1,1,Hapoel_Galil_Elion,H,23,23,Ilan Amar
+Deandre Pinckney,*,36,22,60,50,44,7,3,10,3,6,1,1,3,0,0,27,-12,6,10,2,4,4,9,Hapoel_Galil_Elion,H,23,23,Ilan Amar
+Omer Poleg,,3,0,0,0,0,0,0,0,1,0,0,1,2,0,0,-2,-2,0,1,0,1,0,0,Hapoel_Galil_Elion,H,23,23,Ilan Amar
+Daniel Rosenbaum,*,38,11,0,75,100,3,0,3,2,2,4,0,1,0,0,18,-6,0,0,3,4,2,2,Hapoel_Galil_Elion,H,23,23,Ilan Amar
+Elijah Pemberton,,27,10,50,0,100,5,1,6,3,2,0,1,3,0,0,10,0,4,8,0,3,2,2,Hapoel_Galil_Elion,H,23,23,Ilan Amar
+Amit Gershon,*,36,16,0,44,100,3,1,4,4,1,2,1,4,0,0,13,-6,0,4,4,9,4,4,Hapoel_Galil_Elion,H,23,23,Ilan Amar
+JaKeenan Gant,*,37,22,60,50,100,2,2,4,4,3,2,0,2,2,1,24,-10,6,10,2,4,4,4,Hapoel_Galil_Elion,H,23,23,Ilan Amar
+Gil Noyovitch,,14,2,33,0,0,2,1,3,2,1,2,1,2,0,0,4,12,1,3,0,1,0,0,Hapoel_Galil_Elion,H,23,23,Ilan Amar
+Alex Sobel,,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2,0,0,0,0,0,0,Hapoel_Galil_Elion,H,23,23,Ilan Amar
+Total,,225,112,48,49,77,24,10,34,24,19,12,7,29,2,2,128,0,22,46,17,35,17,22,Hapoel_Galil_Elion,H,23,23,Ilan Amar
+Team,,0,0,0,0,0,0,2,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Bnei_Herzliya,A,24,24,Ilan Amar
+Matt Coleman III,*,36,18,55,0,100,3,2,5,3,5,3,4,7,0,1,23,-11,6,11,0,2,6,6,Bnei_Herzliya,A,24,24,Ilan Amar
+Deandre Pinckney,*,24,19,67,0,73,1,2,3,4,9,1,3,4,0,0,20,-10,4,6,0,3,11,15,Bnei_Herzliya,A,24,24,Ilan Amar
+Omer Poleg,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,2,-4,-1,0,2,0,0,0,0,Bnei_Herzliya,A,24,24,Ilan Amar
+Daniel Rosenbaum,*,31,11,57,33,0,2,3,5,4,2,0,0,1,0,1,9,-10,4,7,1,3,0,0,Bnei_Herzliya,A,24,24,Ilan Amar
+Elijah Pemberton,,18,8,25,0,100,3,0,3,3,3,2,2,5,0,0,10,-1,1,4,0,3,6,6,Bnei_Herzliya,A,24,24,Ilan Amar
+Itay Shneider,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,Bnei_Herzliya,A,24,24,Ilan Amar
+Amit Gershon,*,33,7,50,17,100,6,0,6,2,1,2,0,0,1,0,9,-5,1,2,1,6,2,2,Bnei_Herzliya,A,24,24,Ilan Amar
+JaKeenan Gant,*,36,25,53,33,75,6,6,12,4,3,2,1,2,2,1,28,-1,8,15,2,6,3,4,Bnei_Herzliya,A,24,24,Ilan Amar
+Gil Noyovitch,,12,4,100,0,0,1,2,3,0,0,0,1,3,0,0,8,0,2,2,0,1,0,0,Bnei_Herzliya,A,24,24,Ilan Amar
+Alex Sobel,,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,Bnei_Herzliya,A,24,24,Ilan Amar
+Total,,200,92,53,17,85,22,17,39,21,23,10,12,22,3,5,103,0,26,49,4,24,28,33,Bnei_Herzliya,A,24,24,Ilan Amar
+Team,,0,0,0,0,0,4,1,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,Hapoel_Holon,H,25,25,Ilan Amar
+Matt Coleman III,*,35,18,30,29,100,4,1,5,2,7,2,3,6,0,2,19,4,3,10,2,7,6,6,Hapoel_Holon,H,25,25,Ilan Amar
+Deandre Pinckney,*,35,11,67,0,75,8,0,8,4,3,0,1,1,1,1,13,3,4,6,0,2,3,4,Hapoel_Holon,H,25,25,Ilan Amar
+Omer Poleg,,7,2,25,0,0,0,0,0,0,0,0,0,3,0,2,0,9,1,4,0,0,0,0,Hapoel_Holon,H,25,25,Ilan Amar
+Daniel Rosenbaum,*,28,9,75,33,0,1,0,1,2,1,4,3,2,0,0,9,-6,3,4,1,3,0,0,Hapoel_Holon,H,25,25,Ilan Amar
+Elijah Pemberton,,17,10,100,0,100,2,2,4,1,2,1,4,0,0,0,11,0,3,3,0,1,4,4,Hapoel_Holon,H,25,25,Ilan Amar
+Amit Gershon,*,33,4,20,0,100,4,0,4,4,1,1,2,2,0,1,-3,-11,1,5,0,4,2,2,Hapoel_Holon,H,25,25,Ilan Amar
+JaKeenan Gant,*,23,14,38,100,100,2,5,7,4,2,1,3,0,3,1,14,-9,3,8,2,2,2,2,Hapoel_Holon,H,25,25,Ilan Amar
+Gil Noyovitch,,21,12,80,33,100,1,0,1,4,3,1,1,1,0,0,10,5,4,5,1,3,1,1,Hapoel_Holon,H,25,25,Ilan Amar
+Alex Sobel,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Hapoel_Holon,H,25,25,Ilan Amar
+Total,,200,80,49,27,95,26,9,35,21,19,10,17,15,4,7,78,0,22,45,6,22,18,19,Hapoel_Holon,H,25,25,Ilan Amar
+Team,,0,0,0,0,0,2,4,6,0,0,0,1,0,0,0,5,0,0,0,0,0,0,0,Hapoel_Afula,A,27,27,Ilan Amar
+Matt Coleman III,*,34,12,50,0,50,1,1,2,4,7,1,5,8,0,1,13,6,5,10,0,0,2,4,Hapoel_Afula,A,27,27,Ilan Amar
+Deandre Pinckney,*,22,15,60,100,100,4,2,6,4,4,0,2,1,1,1,18,6,3,5,2,2,3,3,Hapoel_Afula,A,27,27,Ilan Amar
+Omer Poleg,,12,0,0,0,0,0,1,1,3,0,0,0,1,0,1,-7,-3,0,5,0,0,0,0,Hapoel_Afula,A,27,27,Ilan Amar
+Daniel Rosenbaum,*,39,19,62,33,100,10,1,11,2,2,3,3,1,0,1,23,2,5,8,2,6,3,3,Hapoel_Afula,A,27,27,Ilan Amar
+Amit Gershon,*,39,20,25,50,86,8,1,9,1,4,1,0,5,0,1,29,2,1,4,4,8,6,7,Hapoel_Afula,A,27,27,Ilan Amar
+JaKeenan Gant,*,20,12,57,20,100,0,1,1,2,1,0,2,0,0,1,2,0,4,7,1,5,1,1,Hapoel_Afula,A,27,27,Ilan Amar
+Gil Noyovitch,,26,10,33,100,0,1,0,1,3,0,3,0,5,0,0,12,-6,2,6,2,2,0,0,Hapoel_Afula,A,27,27,Ilan Amar
+Alex Sobel,,8,2,100,0,0,1,0,1,1,0,0,0,0,0,0,2,3,1,1,0,0,0,0,Hapoel_Afula,A,27,27,Ilan Amar
+Total,,200,90,46,48,83,27,11,38,20,18,8,13,21,1,6,97,0,21,46,11,23,15,18,Hapoel_Afula,A,27,27,Ilan Amar
+Team,,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Ironi_Kiryat_Ata,H,28,28,Ilan Amar
+Matt Coleman III,*,34,21,33,75,100,1,2,3,3,1,4,2,11,0,0,24,-7,5,15,3,4,2,2,Ironi_Kiryat_Ata,H,28,28,Ilan Amar
+Deandre Pinckney,*,35,17,50,67,100,5,1,6,2,5,5,0,2,0,0,27,-7,5,10,2,3,1,1,Ironi_Kiryat_Ata,H,28,28,Ilan Amar
+Omer Poleg,,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-2,0,0,1,0,0,0,0,Ironi_Kiryat_Ata,H,28,28,Ilan Amar
+Daniel Rosenbaum,*,32,11,100,17,50,8,0,8,4,4,3,2,3,0,0,16,15,3,3,1,6,2,4,Ironi_Kiryat_Ata,H,28,28,Ilan Amar
+Elijah Pemberton,,28,17,75,50,67,2,2,4,4,3,1,3,1,0,0,14,-18,3,4,3,6,2,3,Ironi_Kiryat_Ata,H,28,28,Ilan Amar
+Amit Gershon,*,36,12,60,33,0,5,0,5,2,3,2,2,4,0,0,16,5,3,5,2,6,0,0,Ironi_Kiryat_Ata,H,28,28,Ilan Amar
+JaKeenan Gant,*,16,10,100,50,0,1,1,2,1,1,0,2,2,0,0,10,8,2,2,2,4,0,0,Ironi_Kiryat_Ata,H,28,28,Ilan Amar
+Gil Noyovitch,,15,5,100,0,50,1,0,1,4,3,1,1,0,0,0,2,3,2,2,0,2,1,2,Ironi_Kiryat_Ata,H,28,28,Ilan Amar
+Alex Sobel,,3,2,100,0,0,1,0,1,0,0,0,0,0,0,0,3,-4,1,1,0,0,0,0,Ironi_Kiryat_Ata,H,28,28,Ilan Amar
+Total,,200,95,56,42,67,24,7,31,21,20,16,13,23,0,0,110,0,24,43,13,31,8,12,Ironi_Kiryat_Ata,H,28,28,Ilan Amar
+Team,,0,0,0,0,0,4,2,6,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,Ironi_Kiryat_Ata,A,31,31,Ilan Amar
+Matt Coleman III,*,33,11,20,43,0,1,0,1,5,2,1,6,5,0,0,-1,-1,1,5,3,7,0,2,Ironi_Kiryat_Ata,A,31,31,Ilan Amar
+Deandre Pinckney,*,14,7,67,0,100,2,0,2,2,2,0,2,0,0,0,6,-16,2,3,0,0,3,3,Ironi_Kiryat_Ata,A,31,31,Ilan Amar
+Omer Poleg,,21,6,43,0,0,2,1,3,2,1,0,3,4,0,0,1,9,3,7,0,4,0,0,Ironi_Kiryat_Ata,A,31,31,Ilan Amar
+Daniel Rosenbaum,*,19,2,17,0,0,2,1,3,5,2,3,1,0,0,1,-7,-11,1,6,0,3,0,2,Ironi_Kiryat_Ata,A,31,31,Ilan Amar
+Elijah Pemberton,*,28,10,0,100,50,1,2,3,1,3,1,1,1,0,0,14,-6,0,1,3,3,1,2,Ironi_Kiryat_Ata,A,31,31,Ilan Amar
+Amit Gershon,*,37,32,75,58,100,2,0,2,2,3,5,7,3,0,1,29,-7,3,4,7,12,5,5,Ironi_Kiryat_Ata,A,31,31,Ilan Amar
+Gil Noyovitch,,25,13,33,75,50,5,1,6,1,3,4,2,4,0,0,22,-6,1,3,3,4,2,4,Ironi_Kiryat_Ata,A,31,31,Ilan Amar
+Alex Sobel,,23,4,67,0,0,1,0,1,3,2,3,0,0,0,0,6,13,2,3,0,0,0,0,Ironi_Kiryat_Ata,A,31,31,Ilan Amar
+Total,,200,85,41,48,61,20,7,27,21,18,17,22,17,0,2,76,0,13,32,16,33,11,18,Ironi_Kiryat_Ata,A,31,31,Ilan Amar
+Team,,0,0,0,0,0,1,3,4,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,Elitzur_Netanya,A,30,30,Ilan Amar
+Matt Coleman III,*,29,14,44,40,0,4,2,6,4,5,0,2,10,0,1,20,-12,4,9,2,5,0,0,Elitzur_Netanya,A,30,30,Ilan Amar
+Deandre Pinckney,*,25,17,64,0,60,3,2,5,3,5,0,2,1,0,0,14,-7,7,11,0,3,3,5,Elitzur_Netanya,A,30,30,Ilan Amar
+Omer Poleg,,19,3,0,33,0,1,1,2,4,0,2,3,2,0,0,-1,6,0,1,1,3,0,0,Elitzur_Netanya,A,30,30,Ilan Amar
+Daniel Rosenbaum,*,38,14,100,29,0,3,1,4,4,0,3,3,0,0,0,9,-3,4,4,2,7,0,0,Elitzur_Netanya,A,30,30,Ilan Amar
+Elijah Pemberton,*,22,9,40,33,100,1,0,1,1,1,1,0,3,0,0,9,-3,2,5,1,3,2,2,Elitzur_Netanya,A,30,30,Ilan Amar
+Amit Gershon,*,37,14,50,33,100,6,2,8,1,3,2,4,1,0,0,15,-6,2,4,3,9,1,1,Elitzur_Netanya,A,30,30,Ilan Amar
+Gil Noyovitch,,24,14,100,40,100,0,1,1,3,3,1,1,3,0,0,15,-6,2,2,2,5,4,4,Elitzur_Netanya,A,30,30,Ilan Amar
+Alex Sobel,,6,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,-4,0,0,0,0,0,0,Elitzur_Netanya,A,30,30,Ilan Amar
+Total,,200,85,58,31,83,20,12,32,20,17,9,16,20,0,1,85,0,21,36,11,35,10,12,Elitzur_Netanya,A,30,30,Ilan Amar
+Team,,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,Hapoel_Tel-Aviv,A,26,26,Ilan Amar
+Matt Coleman III,*,31,21,58,50,100,2,0,2,2,3,2,5,9,0,0,23,0,7,12,2,4,1,1,Hapoel_Tel-Aviv,A,26,26,Ilan Amar
+Ben Amar,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-4,0,0,0,1,0,0,Hapoel_Tel-Aviv,A,26,26,Ilan Amar
+Tal Zvi Bar Hama,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-4,0,1,0,0,0,0,Hapoel_Tel-Aviv,A,26,26,Ilan Amar
+Deandre Pinckney,*,34,23,58,50,60,6,5,11,5,4,0,1,4,0,0,27,-4,7,12,2,4,3,5,Hapoel_Tel-Aviv,A,26,26,Ilan Amar
+Omer Poleg,,19,8,40,0,0,0,0,0,4,3,0,1,1,0,1,0,-16,4,10,0,0,0,0,Hapoel_Tel-Aviv,A,26,26,Ilan Amar
+Daniel Rosenbaum,*,34,11,100,50,0,3,0,3,3,2,0,1,2,0,0,11,-7,1,1,3,6,0,0,Hapoel_Tel-Aviv,A,26,26,Ilan Amar
+Itay Shneider,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-2,0,1,0,0,0,0,Hapoel_Tel-Aviv,A,26,26,Ilan Amar
+Amit Gershon,*,38,18,0,40,100,2,0,2,3,4,0,0,2,0,1,14,-14,0,2,4,10,6,6,Hapoel_Tel-Aviv,A,26,26,Ilan Amar
+JaKeenan Gant,*,16,12,100,67,0,2,0,2,1,0,4,0,2,0,0,18,11,3,3,2,3,0,0,Hapoel_Tel-Aviv,A,26,26,Ilan Amar
+Gil Noyovitch,,15,6,75,0,0,1,0,1,3,0,1,4,3,0,0,3,-23,3,4,0,0,0,0,Hapoel_Tel-Aviv,A,26,26,Ilan Amar
+Alex Sobel,,7,0,0,0,0,1,0,1,4,2,0,1,0,0,0,-4,-12,0,0,0,0,0,2,Hapoel_Tel-Aviv,A,26,26,Ilan Amar
+Total,,200,99,54,46,71,17,8,25,25,18,7,13,23,0,2,92,0,25,46,13,28,10,14,Hapoel_Tel-Aviv,A,26,26,Ilan Amar
+Team,,0,0,0,0,0,4,0,4,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,Elitzur_Netanya,H,29,29,Ilan Amar
+Matt Coleman III,*,23,9,33,50,100,2,0,2,4,1,0,4,2,0,0,1,-7,2,6,1,2,2,2,Elitzur_Netanya,H,29,29,Ilan Amar
+Deandre Pinckney,*,20,4,50,0,0,3,0,3,4,0,1,4,1,0,0,-3,-19,2,4,0,2,0,0,Elitzur_Netanya,H,29,29,Ilan Amar
+Omer Poleg,,23,13,80,50,100,0,0,0,3,2,5,2,1,0,0,14,4,4,5,1,2,2,2,Elitzur_Netanya,H,29,29,Ilan Amar
+Daniel Rosenbaum,*,35,13,0,50,67,4,4,8,4,5,2,1,2,0,0,19,-10,0,1,3,6,4,6,Elitzur_Netanya,H,29,29,Ilan Amar
+Elijah Pemberton,,28,7,40,50,0,3,0,3,2,2,1,4,0,0,0,1,5,2,5,1,2,0,2,Elitzur_Netanya,H,29,29,Ilan Amar
+Amit Gershon,*,34,22,75,67,100,2,0,2,3,5,1,2,1,0,0,23,-9,3,4,4,6,4,4,Elitzur_Netanya,H,29,29,Ilan Amar
+Gil Noyovitch,*,26,14,40,67,100,2,2,4,3,4,1,2,4,0,0,18,5,2,5,2,3,4,4,Elitzur_Netanya,H,29,29,Ilan Amar
+Alex Sobel,,11,6,60,0,0,3,4,7,3,0,0,0,0,2,0,10,-4,3,5,0,0,0,0,Elitzur_Netanya,H,29,29,Ilan Amar
+Total,,200,88,51,52,80,23,10,33,26,19,11,20,11,2,0,86,0,18,35,12,23,16,20,Elitzur_Netanya,H,29,29,Ilan Amar
+Team,,0,0,0,0,0,3,2,5,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0,Hapoel_Afula,H,32,32,Ilan Amar
+Matt Coleman III,*,34,17,45,17,67,2,1,3,2,6,2,2,9,0,0,20,-5,5,11,1,6,4,6,Hapoel_Afula,H,32,32,Ilan Amar
+Ben Amar,,1,2,100,0,0,1,0,1,0,0,0,0,0,0,0,3,-2,1,1,0,0,0,0,Hapoel_Afula,H,32,32,Ilan Amar
+Tal Zvi Bar Hama,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,Hapoel_Afula,H,32,32,Ilan Amar
+Omer Poleg,,20,10,43,25,50,2,1,3,3,1,1,1,4,0,0,7,8,3,7,1,4,1,2,Hapoel_Afula,H,32,32,Ilan Amar
+Daniel Rosenbaum,*,36,15,83,33,100,3,1,4,2,2,2,2,1,0,0,17,-11,5,6,1,3,2,2,Hapoel_Afula,H,32,32,Ilan Amar
+Elijah Pemberton,*,25,4,50,0,0,3,1,4,3,1,1,0,1,0,0,2,-9,2,4,0,4,0,0,Hapoel_Afula,H,32,32,Ilan Amar
+Itay Shneider,,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,-10,0,0,0,0,0,0,Hapoel_Afula,H,32,32,Ilan Amar
+Amit Gershon,*,36,21,0,58,0,2,0,2,4,0,2,2,1,0,1,12,-11,0,2,7,12,0,0,Hapoel_Afula,H,32,32,Ilan Amar
+Gil Noyovitch,,16,6,50,50,100,1,1,2,3,2,0,0,2,0,0,7,-16,1,2,1,2,1,1,Hapoel_Afula,H,32,32,Ilan Amar
+Alex Sobel,*,26,13,62,0,60,5,5,10,2,5,3,0,0,4,1,27,-7,5,8,0,0,3,5,Hapoel_Afula,H,32,32,Ilan Amar
+Total,,200,88,54,35,69,22,12,34,19,17,11,9,19,4,2,99,0,22,41,11,31,11,16,Hapoel_Afula,H,32,32,Ilan Amar

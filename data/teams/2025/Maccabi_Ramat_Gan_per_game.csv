@@ -1,0 +1,315 @@
+player name,sf,min,pts,%_2pt,%_3pt,%_1pt,dr_rebounds,or_rebounds,tr_rebounds,pf_fouls,fa_fouls,st,to,as,bkf_blocks,bka_blocks,val,+/-,m_2pt,a_2pt,m_3pt,a_3pt,m_1pt,a_1pt,opponent,loc,round,game_idx,coach
+Team,,0,0,0,0,0,5,3,8,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,Hapoel_Tel-Aviv,H,1,10,Shmulik Brenner
+Amin Stevens,*,32,21,56,0,75,7,3,10,1,4,1,3,1,1,0,26,1,9,16,0,0,3,4,Hapoel_Tel-Aviv,H,1,10,Shmulik Brenner
+Dori Sahar,*,14,2,100,0,0,0,0,0,2,1,0,0,0,0,0,1,-10,1,1,0,0,0,0,Hapoel_Tel-Aviv,H,1,10,Shmulik Brenner
+Kendale McCullum,*,35,16,50,40,100,1,0,1,2,3,0,2,6,0,0,16,-3,3,6,2,5,4,4,Hapoel_Tel-Aviv,H,1,10,Shmulik Brenner
+Yahel Melamed,,12,0,0,0,0,2,0,2,1,0,0,1,0,0,0,-2,-7,0,1,0,1,0,0,Hapoel_Tel-Aviv,H,1,10,Shmulik Brenner
+Roi Huber,,31,7,33,17,0,2,0,2,3,0,1,1,5,0,1,1,-6,2,6,1,6,0,0,Hapoel_Tel-Aviv,H,1,10,Shmulik Brenner
+Isaiah Miles,*,28,10,100,25,100,3,1,4,2,2,0,1,1,0,0,11,-2,2,2,1,4,3,3,Hapoel_Tel-Aviv,H,1,10,Shmulik Brenner
+Benaya Srur,,10,2,50,0,0,4,0,4,3,3,0,1,1,2,0,5,-11,1,2,0,0,0,2,Hapoel_Tel-Aviv,H,1,10,Shmulik Brenner
+Roberto Gallinat,*,38,24,70,25,100,4,0,4,2,3,2,3,2,0,2,22,-7,7,10,1,4,7,7,Hapoel_Tel-Aviv,H,1,10,Shmulik Brenner
+Total,,200,82,57,25,85,28,7,35,16,16,4,12,16,3,3,88,0,25,44,5,20,17,20,Hapoel_Tel-Aviv,H,1,10,Shmulik Brenner
+Team,,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,Bnei_Herzliya,A,4,3,Shmulik Brenner
+Amin Stevens,*,27,14,33,0,67,1,6,7,1,5,1,3,1,0,1,12,-13,4,12,0,0,6,9,Bnei_Herzliya,A,4,3,Shmulik Brenner
+Dori Sahar,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6,0,0,0,0,0,0,Bnei_Herzliya,A,4,3,Shmulik Brenner
+Kendale McCullum,*,32,20,25,60,71,2,2,4,4,8,4,2,4,0,0,21,-4,3,12,3,5,5,7,Bnei_Herzliya,A,4,3,Shmulik Brenner
+Adam Ariel,*,32,12,100,40,40,4,1,5,2,4,1,0,0,0,0,14,-7,2,2,2,5,2,5,Bnei_Herzliya,A,4,3,Shmulik Brenner
+Yahel Melamed,*,21,4,67,0,0,1,2,3,2,0,2,0,3,0,0,8,14,2,3,0,1,0,0,Bnei_Herzliya,A,4,3,Shmulik Brenner
+Roi Huber,,22,11,0,60,100,2,0,2,4,2,1,3,3,0,1,6,2,0,3,3,5,2,2,Bnei_Herzliya,A,4,3,Shmulik Brenner
+Drew Crawford,,26,8,100,0,0,2,1,3,4,0,1,1,1,0,0,7,-2,4,4,0,1,0,0,Bnei_Herzliya,A,4,3,Shmulik Brenner
+Benaya Srur,,12,2,50,0,0,3,1,4,3,0,0,1,0,0,1,0,11,1,2,0,0,0,0,Bnei_Herzliya,A,4,3,Shmulik Brenner
+Roberto Gallinat,*,27,15,40,50,67,3,0,3,5,5,1,3,2,0,0,11,-5,2,5,3,6,2,3,Bnei_Herzliya,A,4,3,Shmulik Brenner
+Total,,200,86,42,48,65,18,15,33,25,24,11,13,14,0,3,81,0,18,43,11,23,17,26,Bnei_Herzliya,A,4,3,Shmulik Brenner
+Team,,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,-1,0,0,0,0,0,0,0,Hapoel_Holon,H,11,9,Shmulik Brenner
+Amin Stevens,*,26,27,71,0,64,5,1,6,5,7,0,5,1,0,0,23,-4,10,14,0,0,7,11,Hapoel_Holon,H,11,9,Shmulik Brenner
+Dori Sahar,,17,6,0,67,0,2,0,2,3,0,1,0,0,0,0,5,1,0,0,2,3,0,0,Hapoel_Holon,H,11,9,Shmulik Brenner
+Omer Poleg,,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-1,-3,0,0,0,0,0,0,Hapoel_Holon,H,11,9,Shmulik Brenner
+Kendale McCullum,*,33,23,73,0,100,1,0,1,1,10,3,5,12,0,0,40,10,8,11,0,0,7,7,Hapoel_Holon,H,11,9,Shmulik Brenner
+Adam Ariel,*,23,0,0,0,0,4,0,4,1,2,0,0,2,0,0,4,-5,0,1,0,2,0,0,Hapoel_Holon,H,11,9,Shmulik Brenner
+Roi Huber,,21,10,0,43,50,1,0,1,3,1,0,3,4,0,0,4,1,0,1,3,7,1,2,Hapoel_Holon,H,11,9,Shmulik Brenner
+Isaiah Miles,*,33,15,50,33,88,7,2,9,2,4,1,0,0,0,0,21,5,1,2,2,6,7,8,Hapoel_Holon,H,11,9,Shmulik Brenner
+Drew Crawford,*,34,5,67,0,50,4,0,4,2,1,1,0,1,0,0,5,-3,2,3,0,3,1,2,Hapoel_Holon,H,11,9,Shmulik Brenner
+Benaya Srur,,12,4,100,0,0,4,3,7,5,1,0,3,1,0,0,3,8,2,2,0,0,0,2,Hapoel_Holon,H,11,9,Shmulik Brenner
+Total,,200,90,68,33,72,28,7,35,24,26,6,17,21,0,0,103,0,23,34,7,21,23,32,Hapoel_Holon,H,11,9,Shmulik Brenner
+Team,,0,0,0,0,0,2,2,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,Maccabi_Tel-Aviv,A,8,6,Shmulik Brenner
+Amin Stevens,*,32,22,82,0,80,4,2,6,3,5,2,4,1,0,0,26,-1,9,11,0,0,4,5,Maccabi_Tel-Aviv,A,8,6,Shmulik Brenner
+,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,Maccabi_Tel-Aviv,A,8,6,Shmulik Brenner
+Dori Sahar,,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-1,-11,0,0,0,0,0,0,Maccabi_Tel-Aviv,A,8,6,Shmulik Brenner
+Omer Poleg,,3,3,0,100,0,2,0,2,0,0,1,0,1,0,0,7,5,0,0,1,1,0,0,Maccabi_Tel-Aviv,A,8,6,Shmulik Brenner
+Kendale McCullum,*,21,4,67,0,0,3,0,3,1,0,1,5,6,1,1,4,-7,2,3,0,3,0,0,Maccabi_Tel-Aviv,A,8,6,Shmulik Brenner
+Adam Ariel,*,27,4,40,0,0,4,1,5,1,2,0,0,1,0,1,1,-4,2,5,0,6,0,0,Maccabi_Tel-Aviv,A,8,6,Shmulik Brenner
+Yahel Melamed,*,24,6,100,0,0,4,1,5,2,1,3,0,3,0,0,14,-10,3,3,0,2,0,0,Maccabi_Tel-Aviv,A,8,6,Shmulik Brenner
+Roi Huber,,25,20,67,62,100,1,0,1,3,3,0,3,3,0,0,17,3,2,3,5,8,1,1,Maccabi_Tel-Aviv,A,8,6,Shmulik Brenner
+Drew Crawford,,25,6,0,50,0,1,0,1,4,1,0,0,2,0,0,3,3,0,1,2,4,0,0,Maccabi_Tel-Aviv,A,8,6,Shmulik Brenner
+Benaya Srur,,13,3,50,0,33,1,0,1,2,3,0,2,0,0,0,0,1,1,2,0,0,1,3,Maccabi_Tel-Aviv,A,8,6,Shmulik Brenner
+Roberto Gallinat,*,26,19,67,50,100,1,0,1,2,3,0,1,2,1,0,18,-7,4,6,3,6,2,2,Maccabi_Tel-Aviv,A,8,6,Shmulik Brenner
+Total,,200,87,68,37,73,23,6,29,19,18,7,15,19,2,2,93,0,23,34,11,30,8,11,Maccabi_Tel-Aviv,A,8,6,Shmulik Brenner
+Team,,0,0,0,0,0,1,5,6,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,Hapoel_Jerusalem,A,13,13,Shmulik Brenner
+Amin Stevens,*,32,16,62,0,0,6,1,7,3,3,0,4,6,1,1,19,3,8,13,0,0,0,1,Hapoel_Jerusalem,A,13,13,Shmulik Brenner
+,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Hapoel_Jerusalem,A,13,13,Shmulik Brenner
+Dori Sahar,,10,0,0,0,0,1,0,1,0,0,0,1,1,0,1,-1,6,0,0,0,1,0,0,Hapoel_Jerusalem,A,13,13,Shmulik Brenner
+Kendale McCullum,*,23,11,50,0,71,3,0,3,2,7,2,5,4,0,0,14,-13,3,6,0,1,5,7,Hapoel_Jerusalem,A,13,13,Shmulik Brenner
+Adam Ariel,*,32,15,75,33,0,2,1,3,2,4,0,3,4,0,1,16,-3,6,8,1,3,0,0,Hapoel_Jerusalem,A,13,13,Shmulik Brenner
+Yahel Melamed,,14,4,67,0,0,3,1,4,2,0,0,0,0,0,0,5,2,2,3,0,0,0,0,Hapoel_Jerusalem,A,13,13,Shmulik Brenner
+Roi Huber,,24,21,33,83,100,0,0,0,4,1,0,1,3,0,1,14,7,2,6,5,6,2,2,Hapoel_Jerusalem,A,13,13,Shmulik Brenner
+Isaiah Miles,*,23,3,0,33,0,5,0,5,2,0,1,1,1,0,1,3,-2,0,1,1,3,0,0,Hapoel_Jerusalem,A,13,13,Shmulik Brenner
+Shon Dalid,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Hapoel_Jerusalem,A,13,13,Shmulik Brenner
+Benaya Srur,,9,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,Hapoel_Jerusalem,A,13,13,Shmulik Brenner
+Roberto Gallinat,*,31,17,33,71,0,3,1,4,2,2,1,1,0,0,0,17,4,1,3,5,7,0,0,Hapoel_Jerusalem,A,13,13,Shmulik Brenner
+Total,,200,87,55,57,70,25,9,34,18,17,4,16,19,1,5,93,0,22,40,12,21,7,10,Hapoel_Jerusalem,A,13,13,Shmulik Brenner
+Team,,0,0,0,0,0,5,1,6,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,Bnei_Herzliya,H,14,14,Shmulik Brenner
+Inbar Shevach,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,Bnei_Herzliya,H,14,14,Shmulik Brenner
+Amin Stevens,*,29,10,36,0,100,7,0,7,3,2,1,5,4,0,1,8,6,4,11,0,0,2,2,Bnei_Herzliya,H,14,14,Shmulik Brenner
+,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,Bnei_Herzliya,H,14,14,Shmulik Brenner
+Dori Sahar,*,30,8,100,40,0,3,0,3,2,3,0,1,0,0,0,8,7,1,1,2,5,0,0,Bnei_Herzliya,H,14,14,Shmulik Brenner
+Kendale McCullum,*,32,17,55,0,62,3,0,3,4,7,2,4,7,0,1,19,0,6,11,0,0,5,8,Bnei_Herzliya,H,14,14,Shmulik Brenner
+Yahel Melamed,,10,2,50,0,0,1,0,1,1,0,0,0,0,0,0,0,10,1,2,0,1,0,0,Bnei_Herzliya,H,14,14,Shmulik Brenner
+Roi Huber,,30,18,80,43,50,1,1,2,2,2,1,0,3,0,0,18,16,4,5,3,7,1,2,Bnei_Herzliya,H,14,14,Shmulik Brenner
+Isaiah Miles,,23,10,50,29,100,2,0,2,2,1,0,0,1,0,0,6,18,1,2,2,7,2,2,Bnei_Herzliya,H,14,14,Shmulik Brenner
+Shon Dalid,,1,4,100,0,67,0,0,0,0,2,0,0,0,0,0,5,-1,1,1,0,0,2,3,Bnei_Herzliya,H,14,14,Shmulik Brenner
+Drew Crawford,*,22,14,100,80,0,3,0,3,4,0,0,1,1,0,0,12,7,1,1,4,5,0,0,Bnei_Herzliya,H,14,14,Shmulik Brenner
+Benaya Srur,*,21,6,100,0,0,4,4,8,2,3,1,0,1,2,0,19,9,3,3,0,0,0,0,Bnei_Herzliya,H,14,14,Shmulik Brenner
+Total,,200,89,59,44,71,29,6,35,20,20,5,11,17,2,2,101,0,22,37,11,25,12,17,Bnei_Herzliya,H,14,14,Shmulik Brenner
+Team,,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Maccabi_Tel-Aviv,H,16,16,Shmulik Brenner
+Amin Stevens,*,32,25,79,0,75,4,0,4,3,5,2,2,1,0,1,27,-4,11,14,0,0,3,4,Maccabi_Tel-Aviv,H,16,16,Shmulik Brenner
+,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Maccabi_Tel-Aviv,H,16,16,Shmulik Brenner
+Dori Sahar,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-3,0,1,0,0,0,0,Maccabi_Tel-Aviv,H,16,16,Shmulik Brenner
+Kendale McCullum,*,31,15,44,33,67,3,0,3,5,7,4,7,10,0,1,17,-4,4,9,1,3,4,6,Maccabi_Tel-Aviv,H,16,16,Shmulik Brenner
+Adam Ariel,*,27,12,100,25,75,1,0,1,2,2,0,3,3,0,0,9,-6,3,3,1,4,3,4,Maccabi_Tel-Aviv,H,16,16,Shmulik Brenner
+Roi Huber,,24,11,0,75,100,1,0,1,3,2,0,2,4,0,1,9,-7,0,2,3,4,2,2,Maccabi_Tel-Aviv,H,16,16,Shmulik Brenner
+Isaiah Miles,,23,11,100,50,0,1,1,2,3,0,1,0,0,0,0,8,-10,1,1,3,6,0,0,Maccabi_Tel-Aviv,H,16,16,Shmulik Brenner
+Drew Crawford,*,33,11,33,75,0,3,0,3,1,1,1,0,0,0,0,12,-10,1,3,3,4,0,0,Maccabi_Tel-Aviv,H,16,16,Shmulik Brenner
+Benaya Srur,*,24,2,33,0,0,4,0,4,0,1,0,2,2,0,0,5,-11,1,3,0,0,0,0,Maccabi_Tel-Aviv,H,16,16,Shmulik Brenner
+Total,,200,87,58,52,75,18,1,19,17,18,8,16,20,0,3,87,0,21,36,11,21,12,16,Maccabi_Tel-Aviv,H,16,16,Shmulik Brenner
+Team,,0,0,0,0,0,3,2,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,Hapoel_Jerusalem,H,19,19,Shmulik Brenner
+Amin Stevens,*,24,14,64,0,0,6,0,6,5,1,0,3,0,0,0,9,-11,7,11,0,0,0,0,Hapoel_Jerusalem,H,19,19,Shmulik Brenner
+Dori Sahar,,8,2,100,0,0,0,1,1,0,0,0,0,1,0,0,3,1,1,1,0,1,0,0,Hapoel_Jerusalem,H,19,19,Shmulik Brenner
+Kendale McCullum,*,31,13,67,0,62,7,1,8,3,8,0,4,8,0,1,20,-3,4,6,0,4,5,8,Hapoel_Jerusalem,H,19,19,Shmulik Brenner
+Adam Ariel,*,29,15,25,50,50,3,0,3,0,1,0,0,1,0,0,12,-13,1,4,4,8,1,2,Hapoel_Jerusalem,H,19,19,Shmulik Brenner
+Yahel Melamed,,16,5,50,100,0,1,1,2,3,1,1,1,0,0,0,4,-7,1,2,1,1,0,0,Hapoel_Jerusalem,H,19,19,Shmulik Brenner
+Roi Huber,,25,6,0,40,0,2,0,2,4,0,0,4,4,0,0,-2,-10,0,3,2,5,0,0,Hapoel_Jerusalem,H,19,19,Shmulik Brenner
+Isaiah Miles,*,21,9,0,50,75,1,1,2,3,4,1,2,0,0,0,7,1,0,1,2,4,3,4,Hapoel_Jerusalem,H,19,19,Shmulik Brenner
+Drew Crawford,*,30,7,75,0,50,2,0,2,3,4,0,1,3,0,0,10,0,3,4,0,0,1,2,Hapoel_Jerusalem,H,19,19,Shmulik Brenner
+Benaya Srur,,16,4,100,0,0,5,2,7,1,0,1,1,0,0,0,10,7,2,2,0,0,0,0,Hapoel_Jerusalem,H,19,19,Shmulik Brenner
+Total,,200,75,56,39,63,30,8,38,22,19,3,16,17,0,1,78,0,19,34,9,23,10,16,Hapoel_Jerusalem,H,19,19,Shmulik Brenner
+Team,,0,0,0,0,0,1,2,3,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,Elitzur_Netanya,A,9,7,Shmulik Brenner
+Amin Stevens,*,29,10,56,0,0,7,2,9,2,2,1,4,2,0,1,13,-1,5,9,0,0,0,0,Elitzur_Netanya,A,9,7,Shmulik Brenner
+Dori Sahar,,12,7,67,100,0,1,0,1,2,0,1,0,1,0,0,7,5,2,3,1,1,0,0,Elitzur_Netanya,A,9,7,Shmulik Brenner
+Omer Poleg,,10,3,0,100,0,1,0,1,2,1,0,2,4,0,0,4,-3,0,1,1,1,0,0,Elitzur_Netanya,A,9,7,Shmulik Brenner
+Adam Ariel,*,24,7,67,20,0,1,4,5,4,4,0,1,0,0,1,5,-3,2,3,1,5,0,0,Elitzur_Netanya,A,9,7,Shmulik Brenner
+Yahel Melamed,,10,4,100,0,0,0,1,1,0,0,0,1,1,0,0,3,-5,2,2,0,2,0,0,Elitzur_Netanya,A,9,7,Shmulik Brenner
+Roi Huber,*,33,18,50,57,100,0,0,0,2,5,1,3,10,0,0,24,-7,2,4,4,7,2,2,Elitzur_Netanya,A,9,7,Shmulik Brenner
+Isaiah Miles,*,26,14,50,60,75,3,1,4,3,1,0,0,3,0,1,14,3,1,2,3,5,3,4,Elitzur_Netanya,A,9,7,Shmulik Brenner
+Drew Crawford,,16,2,33,0,0,4,1,5,2,0,0,1,0,0,0,0,-4,1,3,0,2,0,0,Elitzur_Netanya,A,9,7,Shmulik Brenner
+Benaya Srur,,10,5,100,0,50,2,0,2,0,1,0,0,0,0,0,7,-8,2,2,0,0,1,2,Elitzur_Netanya,A,9,7,Shmulik Brenner
+Roberto Gallinat,*,30,19,14,56,100,5,0,5,2,2,1,1,0,0,2,12,-7,1,7,5,9,2,2,Elitzur_Netanya,A,9,7,Shmulik Brenner
+Total,,200,89,50,47,80,25,11,36,20,16,4,15,21,0,5,89,0,18,36,15,32,8,10,Elitzur_Netanya,A,9,7,Shmulik Brenner
+Team,,0,0,0,0,0,2,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Ness_Ziona,H,3,2,Shmulik Brenner
+Amin Stevens,*,25,19,73,0,50,11,1,12,1,4,0,1,2,0,0,29,19,8,11,0,0,3,6,Ness_Ziona,H,3,2,Shmulik Brenner
+Dori Sahar,,10,9,0,75,0,2,0,2,1,0,0,0,1,0,0,10,4,0,0,3,4,0,0,Ness_Ziona,H,3,2,Shmulik Brenner
+Omer Poleg,,4,2,25,0,0,0,2,2,2,0,0,0,1,0,1,-1,3,1,4,0,0,0,0,Ness_Ziona,H,3,2,Shmulik Brenner
+Kendale McCullum,*,31,17,62,100,100,0,0,0,2,6,0,3,8,0,0,23,8,5,8,1,1,4,4,Ness_Ziona,H,3,2,Shmulik Brenner
+Adam Ariel,*,27,4,100,0,0,1,0,1,1,1,3,1,2,0,0,7,21,2,2,0,2,0,0,Ness_Ziona,H,3,2,Shmulik Brenner
+Yahel Melamed,,15,2,50,0,0,0,0,0,4,0,0,0,0,0,0,-4,0,1,2,0,1,0,0,Ness_Ziona,H,3,2,Shmulik Brenner
+Roi Huber,,21,15,100,60,0,3,0,3,1,0,0,1,4,0,0,18,10,3,3,3,5,0,0,Ness_Ziona,H,3,2,Shmulik Brenner
+Isaiah Miles,*,25,20,50,60,100,5,2,7,3,5,1,1,1,0,0,27,24,1,2,3,5,9,9,Ness_Ziona,H,3,2,Shmulik Brenner
+Shon Dalid,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,1,0,0,Ness_Ziona,H,3,2,Shmulik Brenner
+Benaya Srur,,15,8,100,0,0,2,2,4,3,1,0,0,0,0,0,10,5,4,4,0,0,0,0,Ness_Ziona,H,3,2,Shmulik Brenner
+Roberto Gallinat,*,24,12,57,0,80,2,0,2,4,5,0,0,3,0,0,11,26,4,7,0,3,4,5,Ness_Ziona,H,3,2,Shmulik Brenner
+Total,,200,108,67,45,83,28,7,35,22,22,4,8,22,0,1,130,0,29,43,10,22,20,24,Ness_Ziona,H,3,2,Shmulik Brenner
+Team,,0,0,0,0,0,3,1,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,Ironi_Kiryat_Ata,H,2,1,Shmulik Brenner
+Amin Stevens,*,25,18,70,0,80,8,3,11,3,4,2,2,5,0,1,30,16,7,10,0,0,4,5,Ironi_Kiryat_Ata,H,2,1,Shmulik Brenner
+,,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,1,-2,0,1,0,0,0,0,Ironi_Kiryat_Ata,H,2,1,Shmulik Brenner
+Dori Sahar,,11,6,0,50,0,2,0,2,0,0,0,0,0,0,0,6,-3,0,0,2,4,0,0,Ironi_Kiryat_Ata,H,2,1,Shmulik Brenner
+Omer Poleg,,4,0,0,0,0,2,1,3,1,0,1,1,0,0,0,0,-2,0,2,0,0,0,0,Ironi_Kiryat_Ata,H,2,1,Shmulik Brenner
+Kendale McCullum,*,22,21,70,50,100,5,0,5,2,5,3,3,8,0,1,31,16,7,10,2,4,1,1,Ironi_Kiryat_Ata,H,2,1,Shmulik Brenner
+Adam Ariel,*,25,10,33,40,100,1,0,1,1,2,0,0,1,0,0,8,23,1,3,2,5,2,2,Ironi_Kiryat_Ata,H,2,1,Shmulik Brenner
+Yahel Melamed,*,26,9,75,100,0,5,1,6,3,0,1,0,2,0,0,14,9,3,4,1,1,0,0,Ironi_Kiryat_Ata,H,2,1,Shmulik Brenner
+Roi Huber,,21,8,20,40,0,0,0,0,2,0,1,1,4,0,0,3,6,1,5,2,5,0,0,Ironi_Kiryat_Ata,H,2,1,Shmulik Brenner
+Shon Dalid,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-2,0,1,0,0,0,0,Ironi_Kiryat_Ata,H,2,1,Shmulik Brenner
+Drew Crawford,,24,5,33,33,0,3,0,3,4,1,1,1,2,0,0,3,3,1,3,1,3,0,0,Ironi_Kiryat_Ata,H,2,1,Shmulik Brenner
+Benaya Srur,,15,2,50,0,0,3,1,4,2,1,0,1,0,2,0,5,7,1,2,0,0,0,0,Ironi_Kiryat_Ata,H,2,1,Shmulik Brenner
+Roberto Gallinat,*,25,14,33,33,75,2,1,3,2,3,1,2,1,0,1,8,19,1,3,3,9,3,4,Ironi_Kiryat_Ata,H,2,1,Shmulik Brenner
+Total,,200,93,50,42,83,34,10,44,20,16,10,11,23,2,3,112,0,22,44,13,31,10,12,Ironi_Kiryat_Ata,H,2,1,Shmulik Brenner
+Team,,0,0,0,0,0,1,4,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,Hapoel_Afula,H,12,11,Shmulik Brenner
+Amin Stevens,*,34,25,56,0,71,7,4,11,1,5,1,3,3,0,1,30,12,10,18,0,0,5,7,Hapoel_Afula,H,12,11,Shmulik Brenner
+,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Hapoel_Afula,H,12,11,Shmulik Brenner
+Dori Sahar,,6,0,0,0,0,0,0,0,0,0,0,1,0,1,1,-3,-11,0,1,0,1,0,0,Hapoel_Afula,H,12,11,Shmulik Brenner
+Kendale McCullum,*,32,21,38,50,100,3,0,3,3,8,4,3,2,0,0,26,3,3,8,1,2,12,12,Hapoel_Afula,H,12,11,Shmulik Brenner
+Adam Ariel,*,33,9,75,12,0,2,0,2,1,1,1,1,0,0,0,3,2,3,4,1,8,0,0,Hapoel_Afula,H,12,11,Shmulik Brenner
+Yahel Melamed,,9,2,100,0,0,1,2,3,3,0,0,0,1,0,0,1,-12,1,1,0,2,0,0,Hapoel_Afula,H,12,11,Shmulik Brenner
+Roi Huber,,30,11,0,33,100,8,0,8,3,3,2,2,10,0,0,24,14,0,1,2,6,5,5,Hapoel_Afula,H,12,11,Shmulik Brenner
+Drew Crawford,*,27,13,40,60,0,1,2,3,4,1,0,0,1,2,0,11,15,2,5,3,5,0,0,Hapoel_Afula,H,12,11,Shmulik Brenner
+Benaya Srur,,12,4,100,0,0,1,1,2,3,2,0,0,0,0,0,4,6,2,2,0,0,0,1,Hapoel_Afula,H,12,11,Shmulik Brenner
+Roberto Gallinat,*,16,0,0,0,0,1,0,1,1,2,0,1,0,0,0,-5,-14,0,1,0,5,0,0,Hapoel_Afula,H,12,11,Shmulik Brenner
+Total,,200,85,51,24,88,25,13,38,19,22,8,11,17,3,2,96,0,21,41,7,29,22,25,Hapoel_Afula,H,12,11,Shmulik Brenner
+Team,,0,0,0,0,0,3,2,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,Gilboa_Galil,H,10,8,Shmulik Brenner
+Amin Stevens,*,34,22,75,0,50,6,2,8,1,6,0,2,2,0,0,28,-7,9,12,0,0,4,8,Gilboa_Galil,H,10,8,Shmulik Brenner
+Dori Sahar,,15,5,50,50,0,2,1,3,2,0,0,0,0,0,1,3,3,1,2,1,2,0,0,Gilboa_Galil,H,10,8,Shmulik Brenner
+Omer Poleg,,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-1,-4,0,0,0,0,0,0,Gilboa_Galil,H,10,8,Shmulik Brenner
+Kendale McCullum,*,29,11,20,20,75,4,2,6,3,7,2,2,11,0,1,21,-1,1,5,1,5,6,8,Gilboa_Galil,H,10,8,Shmulik Brenner
+Adam Ariel,*,28,7,100,17,0,1,1,2,4,2,0,1,1,0,0,2,-12,2,2,1,6,0,0,Gilboa_Galil,H,10,8,Shmulik Brenner
+Yahel Melamed,,10,4,67,0,0,3,0,3,1,0,0,1,1,1,0,6,1,2,3,0,0,0,0,Gilboa_Galil,H,10,8,Shmulik Brenner
+Roi Huber,,22,7,50,20,0,1,1,2,2,0,1,1,2,0,0,3,-2,2,4,1,5,0,0,Gilboa_Galil,H,10,8,Shmulik Brenner
+Isaiah Miles,*,31,16,75,29,80,2,1,3,2,3,0,1,1,0,0,13,-3,3,4,2,7,4,5,Gilboa_Galil,H,10,8,Shmulik Brenner
+Benaya Srur,,6,1,0,0,50,2,0,2,1,1,0,1,0,0,0,1,5,0,0,0,0,1,2,Gilboa_Galil,H,10,8,Shmulik Brenner
+Roberto Gallinat,*,24,6,0,0,100,1,0,1,4,3,3,0,3,0,2,3,0,0,3,0,4,6,6,Gilboa_Galil,H,10,8,Shmulik Brenner
+Total,,199,79,57,21,72,25,10,35,21,22,6,9,21,1,4,84,0,20,35,6,29,21,29,Gilboa_Galil,H,10,8,Shmulik Brenner
+Team,,0,0,0,0,0,4,1,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,Be'er_Sheva_Dimona,H,7,12,Shmulik Brenner
+Inbar Shevach,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,0,Be'er_Sheva_Dimona,H,7,12,Shmulik Brenner
+Amin Stevens,*,30,23,71,0,38,5,2,7,1,5,3,2,3,0,1,28,5,10,14,0,0,3,8,Be'er_Sheva_Dimona,H,7,12,Shmulik Brenner
+,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-5,0,1,0,0,0,0,Be'er_Sheva_Dimona,H,7,12,Shmulik Brenner
+Dori Sahar,,7,0,0,0,0,1,0,1,1,0,0,1,0,0,0,-1,2,0,0,0,0,0,0,Be'er_Sheva_Dimona,H,7,12,Shmulik Brenner
+Kendale McCullum,*,30,19,42,100,100,3,2,5,1,8,3,1,10,1,1,36,12,5,12,1,1,6,6,Be'er_Sheva_Dimona,H,7,12,Shmulik Brenner
+Adam Ariel,,25,6,40,0,100,6,0,6,3,1,1,0,1,2,0,8,11,2,5,0,3,2,2,Be'er_Sheva_Dimona,H,7,12,Shmulik Brenner
+Yahel Melamed,*,15,2,50,0,0,1,0,1,3,0,0,1,1,0,1,-3,-6,1,2,0,1,0,0,Be'er_Sheva_Dimona,H,7,12,Shmulik Brenner
+Roi Huber,,24,8,50,67,0,4,0,4,0,0,0,2,5,0,0,13,7,1,2,2,3,0,0,Be'er_Sheva_Dimona,H,7,12,Shmulik Brenner
+Shon Dalid,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,0,Be'er_Sheva_Dimona,H,7,12,Shmulik Brenner
+Drew Crawford,*,35,17,100,38,100,2,0,2,3,2,3,1,2,0,0,17,13,3,3,3,8,2,2,Be'er_Sheva_Dimona,H,7,12,Shmulik Brenner
+Benaya Srur,,10,2,50,0,0,2,2,4,1,2,0,0,0,0,0,2,5,1,2,0,0,0,4,Be'er_Sheva_Dimona,H,7,12,Shmulik Brenner
+Roberto Gallinat,*,21,8,50,0,57,3,2,5,1,3,2,1,2,0,0,10,1,2,4,0,3,4,7,Be'er_Sheva_Dimona,H,7,12,Shmulik Brenner
+Total,,200,85,56,32,59,31,9,40,14,21,12,9,24,3,3,114,0,25,45,6,19,17,29,Be'er_Sheva_Dimona,H,7,12,Shmulik Brenner
+Team,,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,Hapoel_Galil_Elion,A,6,5,Shmulik Brenner
+Amin Stevens,*,28,20,82,0,100,3,1,4,1,1,2,2,5,0,0,27,7,9,11,0,0,2,2,Hapoel_Galil_Elion,A,6,5,Shmulik Brenner
+Dori Sahar,,13,7,100,33,0,2,0,2,2,0,0,0,0,0,0,5,5,2,2,1,3,0,0,Hapoel_Galil_Elion,A,6,5,Shmulik Brenner
+Omer Poleg,,5,0,0,0,0,0,1,1,1,1,0,0,2,0,1,1,0,0,1,0,0,0,0,Hapoel_Galil_Elion,A,6,5,Shmulik Brenner
+Kendale McCullum,*,29,11,22,100,100,2,0,2,2,5,3,0,13,0,1,24,8,2,9,1,1,4,4,Hapoel_Galil_Elion,A,6,5,Shmulik Brenner
+Adam Ariel,*,28,13,50,67,100,4,2,6,2,4,1,2,4,0,0,21,10,2,4,2,3,3,3,Hapoel_Galil_Elion,A,6,5,Shmulik Brenner
+Yahel Melamed,,18,9,100,0,100,4,0,4,1,1,1,1,0,0,0,11,-2,4,4,0,2,1,1,Hapoel_Galil_Elion,A,6,5,Shmulik Brenner
+Roi Huber,,17,4,100,0,0,0,0,0,2,0,1,1,6,0,0,5,8,2,2,0,3,0,0,Hapoel_Galil_Elion,A,6,5,Shmulik Brenner
+Isaiah Miles,*,25,9,75,0,100,4,0,4,2,1,1,0,1,0,1,12,18,3,4,0,0,3,3,Hapoel_Galil_Elion,A,6,5,Shmulik Brenner
+Shon Dalid,,1,2,100,0,0,0,0,0,0,0,0,0,0,0,0,2,-2,1,1,0,0,0,0,Hapoel_Galil_Elion,A,6,5,Shmulik Brenner
+Benaya Srur,,9,0,0,0,0,1,0,1,1,0,0,0,0,0,0,-1,9,0,1,0,0,0,0,Hapoel_Galil_Elion,A,6,5,Shmulik Brenner
+Roberto Gallinat,*,27,21,33,50,80,2,0,2,4,5,2,1,1,0,0,18,19,1,3,5,10,4,5,Hapoel_Galil_Elion,A,6,5,Shmulik Brenner
+Total,,200,96,62,41,94,24,4,28,18,18,11,7,32,0,3,127,0,26,42,9,22,17,18,Hapoel_Galil_Elion,A,6,5,Shmulik Brenner
+Team,,0,0,0,0,0,1,2,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,Hapoel_Haifa,H,5,4,Shmulik Brenner
+Amin Stevens,*,26,14,70,0,0,2,2,4,2,2,1,1,1,0,0,16,13,7,10,0,0,0,0,Hapoel_Haifa,H,5,4,Shmulik Brenner
+,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-2,-9,0,1,0,0,0,0,Hapoel_Haifa,H,5,4,Shmulik Brenner
+Dori Sahar,,15,4,0,33,50,1,1,2,1,1,0,1,1,0,0,3,-10,0,0,1,3,1,2,Hapoel_Haifa,H,5,4,Shmulik Brenner
+Omer Poleg,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Hapoel_Haifa,H,5,4,Shmulik Brenner
+Kendale McCullum,*,18,9,44,0,50,6,0,6,3,3,3,2,4,0,1,10,5,4,9,0,3,1,2,Hapoel_Haifa,H,5,4,Shmulik Brenner
+Adam Ariel,*,26,17,67,50,80,4,0,4,4,4,0,0,4,0,1,19,20,2,3,3,6,4,5,Hapoel_Haifa,H,5,4,Shmulik Brenner
+Yahel Melamed,,15,6,100,0,0,1,0,1,2,0,0,0,1,0,0,5,-5,3,3,0,1,0,0,Hapoel_Haifa,H,5,4,Shmulik Brenner
+Roi Huber,,25,5,20,20,0,3,0,3,3,1,1,2,9,0,1,5,18,1,5,1,5,0,0,Hapoel_Haifa,H,5,4,Shmulik Brenner
+Isaiah Miles,*,26,15,100,29,33,7,2,9,1,1,2,3,0,0,0,16,16,4,4,2,7,1,3,Hapoel_Haifa,H,5,4,Shmulik Brenner
+Shon Dalid,,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,-2,-12,0,0,0,0,0,0,Hapoel_Haifa,H,5,4,Shmulik Brenner
+Drew Crawford,*,31,17,100,50,100,3,1,4,2,4,1,1,3,0,0,23,17,2,2,3,6,4,4,Hapoel_Haifa,H,5,4,Shmulik Brenner
+Benaya Srur,,14,2,33,0,0,2,0,2,2,1,1,1,2,1,1,3,-3,1,3,0,0,0,0,Hapoel_Haifa,H,5,4,Shmulik Brenner
+Total,,200,89,60,32,69,30,8,38,20,17,9,13,25,1,5,99,0,24,40,10,31,11,16,Hapoel_Haifa,H,5,4,Shmulik Brenner
+Team,,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Hapoel_Tel-Aviv,A,23,23,Shmulik Brenner
+,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,Hapoel_Tel-Aviv,A,23,23,Shmulik Brenner
+Dori Sahar,,16,8,33,67,0,1,2,3,2,1,1,0,0,0,1,7,15,1,3,2,3,0,0,Hapoel_Tel-Aviv,A,23,23,Shmulik Brenner
+Yonathan Atias,*,16,2,33,0,0,0,2,2,3,1,1,0,0,0,0,1,-7,1,3,0,0,0,0,Hapoel_Tel-Aviv,A,23,23,Shmulik Brenner
+Luther Muhammad,*,20,6,33,0,0,0,2,2,4,0,1,2,2,0,0,-1,-11,3,9,0,0,0,0,Hapoel_Tel-Aviv,A,23,23,Shmulik Brenner
+Kendale McCullum,*,27,14,36,50,0,1,0,1,3,5,3,0,9,0,1,17,-1,4,11,2,4,0,2,Hapoel_Tel-Aviv,A,23,23,Shmulik Brenner
+Adam Ariel,*,30,19,67,57,100,1,0,1,4,3,1,3,0,0,0,13,-14,2,3,4,7,3,3,Hapoel_Tel-Aviv,A,23,23,Shmulik Brenner
+Yahel Melamed,,13,4,67,0,0,1,1,2,3,1,0,1,1,0,0,3,-8,2,3,0,0,0,0,Hapoel_Tel-Aviv,A,23,23,Shmulik Brenner
+Roi Huber,,24,12,50,40,100,0,0,0,3,2,0,2,2,0,1,5,-2,2,4,2,5,2,2,Hapoel_Tel-Aviv,A,23,23,Shmulik Brenner
+Isaiah Miles,*,31,15,60,40,100,6,2,8,3,2,0,0,2,0,0,19,-4,3,5,2,5,3,3,Hapoel_Tel-Aviv,A,23,23,Shmulik Brenner
+Drew Crawford,,22,2,33,0,0,6,2,8,1,0,0,0,1,1,0,7,0,1,3,0,2,0,0,Hapoel_Tel-Aviv,A,23,23,Shmulik Brenner
+Total,,200,82,43,46,80,17,11,28,26,15,7,8,17,1,3,72,0,19,44,12,26,8,10,Hapoel_Tel-Aviv,A,23,23,Shmulik Brenner
+Team,,0,0,0,0,0,2,6,8,0,0,0,1,0,0,0,7,0,0,0,0,0,0,0,Hapoel_Holon,A,22,22,Shmulik Brenner
+Dori Sahar,,9,2,100,0,0,0,0,0,0,0,1,0,0,0,0,3,4,1,1,0,0,0,0,Hapoel_Holon,A,22,22,Shmulik Brenner
+Yonathan Atias,,2,0,0,0,0,1,0,1,2,0,0,0,0,0,0,-2,-4,0,1,0,0,0,0,Hapoel_Holon,A,22,22,Shmulik Brenner
+Luther Muhammad,,15,2,17,0,0,2,1,3,2,1,0,1,1,0,1,-2,-4,1,6,0,0,0,0,Hapoel_Holon,A,22,22,Shmulik Brenner
+Kendale McCullum,*,30,14,44,0,75,5,0,5,2,8,3,7,7,0,3,17,-11,4,9,0,1,6,8,Hapoel_Holon,A,22,22,Shmulik Brenner
+Adam Ariel,*,30,12,43,67,0,2,1,3,3,4,1,1,3,0,1,13,-12,3,7,2,3,0,0,Hapoel_Holon,A,22,22,Shmulik Brenner
+Yahel Melamed,*,32,7,40,50,0,3,0,3,4,0,2,2,1,1,1,3,2,2,5,1,2,0,0,Hapoel_Holon,A,22,22,Shmulik Brenner
+Roi Huber,,24,11,25,75,0,0,0,0,3,1,0,4,3,0,0,4,0,1,4,3,4,0,0,Hapoel_Holon,A,22,22,Shmulik Brenner
+Isaiah Miles,*,24,5,0,20,67,2,1,3,2,1,0,0,1,1,1,3,-16,0,0,1,5,2,3,Hapoel_Holon,A,22,22,Shmulik Brenner
+Drew Crawford,*,34,14,40,60,20,9,2,11,3,3,1,1,0,0,0,16,-9,2,5,3,5,1,5,Hapoel_Holon,A,22,22,Shmulik Brenner
+Total,,200,67,37,50,56,26,11,37,21,18,8,17,16,2,7,62,0,14,38,10,20,9,16,Hapoel_Holon,A,22,22,Shmulik Brenner
+Team,,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,Ness_Ziona,A,15,15,Shmulik Brenner
+Amin Stevens,*,34,26,59,0,60,9,3,12,3,6,3,2,2,0,1,32,9,10,17,0,0,6,10,Ness_Ziona,A,15,15,Shmulik Brenner
+,,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1,2,0,1,0,1,0,0,Ness_Ziona,A,15,15,Shmulik Brenner
+Dori Sahar,,14,0,0,0,0,2,0,2,2,0,0,0,1,0,0,-1,5,0,1,0,1,0,0,Ness_Ziona,A,15,15,Shmulik Brenner
+Kendale McCullum,*,29,10,40,0,75,4,2,6,1,7,2,5,8,0,0,22,5,2,5,0,0,6,8,Ness_Ziona,A,15,15,Shmulik Brenner
+Adam Ariel,*,30,13,71,25,0,3,1,4,0,1,1,2,0,0,0,12,15,5,7,1,4,0,0,Ness_Ziona,A,15,15,Shmulik Brenner
+Roi Huber,,27,7,33,25,100,4,0,4,2,1,0,2,5,0,0,8,14,1,3,1,4,2,2,Ness_Ziona,A,15,15,Shmulik Brenner
+Isaiah Miles,*,27,14,67,33,100,5,2,7,4,2,0,2,0,0,0,12,12,2,3,2,6,4,4,Ness_Ziona,A,15,15,Shmulik Brenner
+Shon Dalid,,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-1,2,0,0,0,0,0,0,Ness_Ziona,A,15,15,Shmulik Brenner
+Drew Crawford,*,24,2,100,0,0,2,0,2,2,0,1,0,0,0,0,0,6,1,1,0,3,0,0,Ness_Ziona,A,15,15,Shmulik Brenner
+Benaya Srur,,13,4,100,0,0,2,1,3,3,0,1,0,0,1,0,6,5,2,2,0,0,0,0,Ness_Ziona,A,15,15,Shmulik Brenner
+Total,,200,76,57,21,75,33,9,42,18,17,9,13,16,1,1,91,0,23,40,4,19,18,24,Ness_Ziona,A,15,15,Shmulik Brenner
+Team,,0,0,0,0,0,4,0,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,Be'er_Sheva_Dimona,A,17,17,Shmulik Brenner
+Amin Stevens,*,28,15,44,0,100,4,4,8,1,1,1,4,0,0,1,10,-19,7,16,0,0,1,1,Be'er_Sheva_Dimona,A,17,17,Shmulik Brenner
+,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,Be'er_Sheva_Dimona,A,17,17,Shmulik Brenner
+Dori Sahar,,14,4,0,25,50,1,0,1,3,1,0,0,0,0,0,-1,1,0,0,1,4,1,2,Be'er_Sheva_Dimona,A,17,17,Shmulik Brenner
+Kendale McCullum,*,29,21,54,0,88,1,0,1,0,7,3,6,4,0,0,21,-7,7,13,0,2,7,8,Be'er_Sheva_Dimona,A,17,17,Shmulik Brenner
+Adam Ariel,*,23,9,0,50,0,0,0,0,4,2,1,0,1,0,0,6,-15,0,0,3,6,0,0,Be'er_Sheva_Dimona,A,17,17,Shmulik Brenner
+Yahel Melamed,,17,6,100,0,50,4,3,7,4,2,0,0,3,0,0,11,-3,2,2,0,1,2,4,Be'er_Sheva_Dimona,A,17,17,Shmulik Brenner
+Roi Huber,,24,6,25,20,100,1,0,1,2,2,1,3,4,0,0,2,-20,1,4,1,5,1,1,Be'er_Sheva_Dimona,A,17,17,Shmulik Brenner
+Isaiah Miles,,25,13,33,50,83,3,1,4,1,4,2,0,1,0,0,18,-15,1,3,2,4,5,6,Be'er_Sheva_Dimona,A,17,17,Shmulik Brenner
+Yogev Ovadia,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-2,0,0,0,1,0,0,Be'er_Sheva_Dimona,A,17,17,Shmulik Brenner
+Drew Crawford,*,29,10,71,0,0,5,2,7,3,3,2,0,3,0,0,17,-17,5,7,0,3,0,0,Be'er_Sheva_Dimona,A,17,17,Shmulik Brenner
+Benaya Srur,*,9,0,0,0,0,0,0,0,2,0,0,0,0,0,0,-2,-1,0,0,0,0,0,0,Be'er_Sheva_Dimona,A,17,17,Shmulik Brenner
+Total,,200,84,51,27,77,23,10,33,20,22,10,13,16,0,1,85,0,23,45,7,26,17,22,Be'er_Sheva_Dimona,A,17,17,Shmulik Brenner
+Team,,0,0,0,0,0,5,3,8,0,1,0,0,0,0,0,9,0,0,0,0,0,0,0,Hapoel_Haifa,A,18,18,Shmulik Brenner
+Amin Stevens,*,22,12,62,0,50,1,0,1,2,3,0,4,3,0,1,7,12,5,8,0,0,2,4,Hapoel_Haifa,A,18,18,Shmulik Brenner
+,,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-1,-3,0,0,0,0,0,0,Hapoel_Haifa,A,18,18,Shmulik Brenner
+Dori Sahar,,18,7,100,33,0,4,0,4,1,0,0,1,3,1,0,11,21,2,2,1,3,0,0,Hapoel_Haifa,A,18,18,Shmulik Brenner
+Kendale McCullum,*,24,26,67,60,100,6,1,7,3,9,4,3,7,0,0,43,13,4,6,3,5,9,9,Hapoel_Haifa,A,18,18,Shmulik Brenner
+Adam Ariel,*,24,24,100,71,100,1,0,1,1,3,0,2,1,0,0,24,19,3,3,5,7,3,3,Hapoel_Haifa,A,18,18,Shmulik Brenner
+Yahel Melamed,,19,5,33,50,0,4,1,5,3,0,1,3,1,0,1,2,22,1,3,1,2,0,0,Hapoel_Haifa,A,18,18,Shmulik Brenner
+Isaiah Miles,*,21,5,50,20,0,4,0,4,2,1,1,1,2,0,0,5,5,1,2,1,5,0,0,Hapoel_Haifa,A,18,18,Shmulik Brenner
+Yogev Ovadia,,16,3,0,50,0,0,0,0,4,0,0,0,1,0,1,-5,9,0,3,1,2,0,0,Hapoel_Haifa,A,18,18,Shmulik Brenner
+Shon Dalid,,7,2,0,0,100,0,0,0,0,1,2,2,0,0,0,2,-4,0,1,0,0,2,2,Hapoel_Haifa,A,18,18,Shmulik Brenner
+Drew Crawford,*,26,13,100,100,100,2,0,2,3,2,2,2,2,1,0,17,26,2,2,2,2,3,3,Hapoel_Haifa,A,18,18,Shmulik Brenner
+Benaya Srur,,18,9,40,0,50,3,5,8,2,7,1,0,1,0,0,16,15,2,5,0,0,5,10,Hapoel_Haifa,A,18,18,Shmulik Brenner
+Total,,200,106,57,54,77,30,10,40,22,27,11,18,21,2,3,130,0,20,35,14,26,24,31,Hapoel_Haifa,A,18,18,Shmulik Brenner
+Team,,0,0,0,0,0,3,6,9,0,0,0,1,0,0,0,8,0,0,0,0,0,0,0,Hapoel_Afula,A,20,20,Shmulik Brenner
+Amin Stevens,*,24,7,50,0,33,6,2,8,1,3,1,2,0,0,1,9,-2,3,6,0,1,1,3,Hapoel_Afula,A,20,20,Shmulik Brenner
+Dori Sahar,,11,5,0,50,100,0,0,0,0,1,0,0,1,0,0,6,11,0,0,1,2,2,2,Hapoel_Afula,A,20,20,Shmulik Brenner
+Kendale McCullum,*,26,10,20,17,83,8,0,8,2,7,4,3,4,0,2,16,3,1,5,1,6,5,6,Hapoel_Afula,A,20,20,Shmulik Brenner
+Adam Ariel,*,28,13,75,40,50,1,1,2,2,1,0,2,2,0,0,9,5,3,4,2,5,1,2,Hapoel_Afula,A,20,20,Shmulik Brenner
+Yahel Melamed,,14,4,100,0,0,0,0,0,1,0,0,1,1,0,0,-1,12,2,2,0,4,0,0,Hapoel_Afula,A,20,20,Shmulik Brenner
+Roi Huber,,27,24,44,71,100,3,1,4,3,2,0,2,5,0,0,23,20,4,9,5,7,1,1,Hapoel_Afula,A,20,20,Shmulik Brenner
+Isaiah Miles,*,27,11,33,33,100,3,2,5,1,4,0,0,0,0,1,12,5,1,3,2,6,3,3,Hapoel_Afula,A,20,20,Shmulik Brenner
+Drew Crawford,*,29,4,50,0,0,1,0,1,4,0,0,0,0,0,1,-5,9,2,4,0,3,0,0,Hapoel_Afula,A,20,20,Shmulik Brenner
+Benaya Srur,,14,6,100,0,100,6,2,8,2,2,2,1,1,1,0,17,17,2,2,0,0,2,2,Hapoel_Afula,A,20,20,Shmulik Brenner
+Total,,200,84,51,32,79,31,14,45,16,20,7,12,14,1,5,94,0,18,35,11,34,15,19,Hapoel_Afula,A,20,20,Shmulik Brenner
+Team,,0,0,0,0,0,2,2,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,Hapoel_Galil_Elion,H,21,21,Shmulik Brenner
+,,2,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Hapoel_Galil_Elion,H,21,21,Shmulik Brenner
+Dori Sahar,,6,0,0,0,0,2,0,2,0,0,0,0,0,0,0,1,2,0,0,0,1,0,0,Hapoel_Galil_Elion,H,21,21,Shmulik Brenner
+Luther Muhammad,*,27,9,20,67,50,3,0,3,2,3,4,1,0,0,1,9,6,1,5,2,3,1,2,Hapoel_Galil_Elion,H,21,21,Shmulik Brenner
+Kendale McCullum,*,27,19,46,0,70,1,0,1,1,7,1,3,5,0,2,15,0,6,13,0,2,7,10,Hapoel_Galil_Elion,H,21,21,Shmulik Brenner
+Adam Ariel,*,34,19,71,40,75,5,0,5,2,4,1,0,0,0,0,21,5,5,7,2,5,3,4,Hapoel_Galil_Elion,H,21,21,Shmulik Brenner
+Yahel Melamed,,13,2,33,0,0,1,2,3,2,0,2,0,0,0,0,3,-9,1,3,0,0,0,0,Hapoel_Galil_Elion,H,21,21,Shmulik Brenner
+Roi Huber,,27,18,40,50,100,0,1,1,4,1,1,2,3,0,1,10,-4,2,5,4,8,2,2,Hapoel_Galil_Elion,H,21,21,Shmulik Brenner
+Isaiah Miles,*,33,7,50,25,100,5,2,7,0,3,0,1,1,0,0,13,-2,1,2,1,4,2,2,Hapoel_Galil_Elion,H,21,21,Shmulik Brenner
+Drew Crawford,*,31,7,67,25,0,4,1,5,4,0,1,1,1,0,0,5,-8,2,3,1,4,0,0,Hapoel_Galil_Elion,H,21,21,Shmulik Brenner
+Total,,200,81,46,37,75,24,8,32,15,18,10,8,10,0,4,81,0,18,39,10,27,15,20,Hapoel_Galil_Elion,H,21,21,Shmulik Brenner
+Team,,0,0,0,0,0,2,3,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,Ironi_Kiryat_Ata,A,24,24,Shmulik Brenner
+Amin Stevens,*,25,12,86,0,0,3,1,4,3,3,1,5,3,0,0,10,5,6,7,0,0,0,4,Ironi_Kiryat_Ata,A,24,24,Shmulik Brenner
+Dori Sahar,,10,2,100,0,0,0,0,0,4,0,0,1,1,0,0,-3,0,1,1,0,1,0,0,Ironi_Kiryat_Ata,A,24,24,Shmulik Brenner
+Yonathan Atias,,6,4,100,0,0,0,0,0,2,0,0,0,0,0,0,2,-4,2,2,0,0,0,0,Ironi_Kiryat_Ata,A,24,24,Shmulik Brenner
+Kendale McCullum,*,27,19,57,29,100,5,0,5,4,7,1,5,7,1,0,23,-3,4,7,2,7,5,5,Ironi_Kiryat_Ata,A,24,24,Shmulik Brenner
+Adam Ariel,*,34,18,50,57,100,5,3,8,2,3,1,2,2,0,1,23,-6,1,2,4,7,4,4,Ironi_Kiryat_Ata,A,24,24,Shmulik Brenner
+Yahel Melamed,,15,6,0,100,0,0,0,0,2,0,0,0,1,0,0,3,-8,0,2,2,2,0,0,Ironi_Kiryat_Ata,A,24,24,Shmulik Brenner
+Roi Huber,,23,8,0,33,100,1,1,2,2,2,0,4,2,0,1,2,-11,0,1,2,6,2,2,Ironi_Kiryat_Ata,A,24,24,Shmulik Brenner
+Isaiah Miles,*,31,12,0,50,0,2,1,3,3,1,3,1,3,0,0,12,-7,0,2,4,8,0,0,Ironi_Kiryat_Ata,A,24,24,Shmulik Brenner
+Drew Crawford,*,29,2,100,0,0,1,1,2,1,3,0,2,2,1,0,5,-16,1,1,0,2,0,0,Ironi_Kiryat_Ata,A,24,24,Shmulik Brenner
+Total,,200,83,60,42,73,19,10,29,23,19,6,20,21,2,2,82,0,15,25,14,33,11,15,Ironi_Kiryat_Ata,A,24,24,Shmulik Brenner
+Team,,0,0,0,0,0,3,1,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,Elitzur_Netanya,H,25,25,Shmulik Brenner
+Dori Sahar,,16,4,67,0,0,2,3,5,1,1,0,1,0,0,0,5,-5,2,3,0,1,0,1,Elitzur_Netanya,H,25,25,Shmulik Brenner
+Yonathan Atias,*,21,9,50,0,75,1,0,1,3,4,0,1,0,1,1,6,-1,3,6,0,0,3,4,Elitzur_Netanya,H,25,25,Shmulik Brenner
+Luther Muhammad,*,25,22,70,50,67,5,0,5,1,5,1,1,2,0,0,27,10,7,10,2,4,2,3,Elitzur_Netanya,H,25,25,Shmulik Brenner
+Kendale McCullum,*,19,11,100,0,100,2,1,3,1,4,2,5,6,0,0,20,14,3,3,0,0,5,5,Elitzur_Netanya,H,25,25,Shmulik Brenner
+Adam Ariel,*,34,23,88,67,100,6,2,8,2,4,0,1,1,0,0,31,4,7,8,2,3,3,3,Elitzur_Netanya,H,25,25,Shmulik Brenner
+Yahel Melamed,,11,5,100,0,100,1,0,1,2,1,1,1,0,0,0,4,8,2,2,0,1,1,1,Elitzur_Netanya,H,25,25,Shmulik Brenner
+Roi Huber,,28,9,75,25,0,1,0,1,2,0,0,3,6,0,0,7,5,3,4,1,4,0,0,Elitzur_Netanya,H,25,25,Shmulik Brenner
+Isaiah Miles,,17,5,50,33,0,3,0,3,1,1,1,0,0,1,0,7,7,1,2,1,3,0,0,Elitzur_Netanya,H,25,25,Shmulik Brenner
+Yogev Ovadia,,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-2,10,0,0,0,1,0,0,Elitzur_Netanya,H,25,25,Shmulik Brenner
+Drew Crawford,*,29,10,67,50,0,3,2,5,4,1,0,1,1,1,0,10,8,2,3,2,4,0,0,Elitzur_Netanya,H,25,25,Shmulik Brenner
+Total,,200,98,73,38,82,27,9,36,18,21,5,14,16,3,1,119,0,30,41,8,21,14,17,Elitzur_Netanya,H,25,25,Shmulik Brenner
+Team,,0,0,0,0,0,2,5,7,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,Gilboa_Galil,A,26,26,Shmulik Brenner
+Dori Sahar,,11,0,0,0,0,1,0,1,0,0,0,2,1,0,0,-2,1,0,1,0,1,0,0,Gilboa_Galil,A,26,26,Shmulik Brenner
+Yonathan Atias,*,21,8,50,0,0,1,3,4,3,0,0,0,1,1,1,6,-7,4,8,0,0,0,0,Gilboa_Galil,A,26,26,Shmulik Brenner
+Luther Muhammad,,15,2,17,0,0,2,1,3,3,1,0,0,0,0,0,-4,-3,1,6,0,2,0,0,Gilboa_Galil,A,26,26,Shmulik Brenner
+Kendale McCullum,*,21,8,22,0,100,4,1,5,0,4,1,4,6,0,2,8,-6,2,9,0,3,4,4,Gilboa_Galil,A,26,26,Shmulik Brenner
+Adam Ariel,*,28,17,62,25,67,2,4,6,3,6,1,1,3,0,0,21,-5,5,8,1,4,4,6,Gilboa_Galil,A,26,26,Shmulik Brenner
+Yahel Melamed,,20,7,40,0,100,6,5,11,4,3,2,3,3,1,0,16,1,2,5,0,1,3,3,Gilboa_Galil,A,26,26,Shmulik Brenner
+Noam Dovrat,,25,7,0,40,50,1,0,1,3,4,0,2,3,0,1,3,-5,0,2,2,5,1,2,Gilboa_Galil,A,26,26,Shmulik Brenner
+Isaiah Miles,*,31,15,80,25,80,4,1,5,4,4,3,1,0,2,0,19,1,4,5,1,4,4,5,Gilboa_Galil,A,26,26,Shmulik Brenner
+Drew Crawford,*,28,10,29,33,0,0,0,0,1,1,4,1,1,0,2,3,3,2,7,2,6,0,0,Gilboa_Galil,A,26,26,Shmulik Brenner
+Total,,200,74,39,23,80,23,20,43,21,23,11,14,18,4,6,77,0,20,51,6,26,16,20,Gilboa_Galil,A,26,26,Shmulik Brenner

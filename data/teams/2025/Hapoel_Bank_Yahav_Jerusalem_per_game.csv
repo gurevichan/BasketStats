@@ -1,0 +1,309 @@
+player name,sf,min,pts,%_2pt,%_3pt,%_1pt,dr_rebounds,or_rebounds,tr_rebounds,pf_fouls,fa_fouls,st,to,as,bkf_blocks,bka_blocks,val,+/-,m_2pt,a_2pt,m_3pt,a_3pt,m_1pt,a_1pt,opponent,loc,round,game_idx,coach
+Team,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Maccabi_Tel-Aviv,H,11,11,Jonathan Alon
+Jared Harper,*,26,30,56,57,67,4,0,4,3,8,0,3,5,0,0,30,10,5,9,4,7,8,12,Maccabi_Tel-Aviv,H,11,11,Jonathan Alon
+Khadeen Carrington,,20,12,33,50,100,1,0,1,4,2,1,2,3,0,1,6,14,2,6,2,4,2,2,Maccabi_Tel-Aviv,H,11,11,Jonathan Alon
+Chris Johnson,*,28,15,100,60,100,2,1,3,3,2,1,1,1,1,0,17,13,1,1,3,5,4,4,Maccabi_Tel-Aviv,H,11,11,Jonathan Alon
+Gabriel Chachashvili,,23,10,67,0,50,2,2,4,0,2,2,0,2,0,0,16,18,4,6,0,0,2,4,Maccabi_Tel-Aviv,H,11,11,Jonathan Alon
+Jeremy Morgan,,22,4,0,50,50,3,1,4,3,4,1,1,2,0,0,9,-1,0,0,1,2,1,2,Maccabi_Tel-Aviv,H,11,11,Jonathan Alon
+Tarik Phillip,*,29,4,33,0,50,1,3,4,2,5,0,1,1,0,0,6,15,1,3,0,1,2,4,Maccabi_Tel-Aviv,H,11,11,Jonathan Alon
+Derek Ogbeide,*,16,6,75,0,0,1,1,2,0,0,1,0,0,0,1,7,-2,3,4,0,0,0,0,Maccabi_Tel-Aviv,H,11,11,Jonathan Alon
+Yovel Zoosman,*,30,17,67,80,50,5,2,7,2,2,1,0,2,1,0,25,11,2,3,4,5,1,2,Maccabi_Tel-Aviv,H,11,11,Jonathan Alon
+Egor Koulechov,,6,3,0,100,0,1,0,1,4,0,0,0,0,0,0,0,7,0,0,1,1,0,0,Maccabi_Tel-Aviv,H,11,11,Jonathan Alon
+Total,,200,101,56,60,67,20,10,30,21,25,7,8,16,2,2,116,0,18,32,15,25,20,30,Maccabi_Tel-Aviv,H,11,11,Jonathan Alon
+Team,,0,0,0,0,0,1,3,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,Hapoel_Tel-Aviv,H,2,2,Jonathan Alon
+Justin Smith,,21,9,75,100,0,1,1,2,3,2,0,1,0,1,0,7,0,3,4,1,1,0,2,Hapoel_Tel-Aviv,H,2,2,Jonathan Alon
+Jared Harper,*,30,19,44,0,92,3,1,4,3,6,0,3,4,0,1,15,-23,4,9,0,5,11,12,Hapoel_Tel-Aviv,H,2,2,Jonathan Alon
+Chris Johnson,,16,2,25,0,0,2,0,2,3,1,1,0,0,0,1,-2,8,1,4,0,1,0,0,Hapoel_Tel-Aviv,H,2,2,Jonathan Alon
+Austin Wiley,*,25,11,50,0,50,6,5,11,4,6,0,1,0,2,0,18,-9,4,8,0,0,3,6,Hapoel_Tel-Aviv,H,2,2,Jonathan Alon
+Gabriel Chachashvili,*,16,4,100,0,0,0,1,1,1,2,1,1,2,2,0,9,-16,2,2,0,1,0,0,Hapoel_Tel-Aviv,H,2,2,Jonathan Alon
+Noam Dovrat,,21,8,50,33,75,1,1,2,2,3,1,4,1,0,0,5,-6,1,2,1,3,3,4,Hapoel_Tel-Aviv,H,2,2,Jonathan Alon
+Speedy Smith,*,30,14,20,50,0,2,1,3,1,0,1,2,2,0,0,9,-12,1,5,4,8,0,0,Hapoel_Tel-Aviv,H,2,2,Jonathan Alon
+Yovel Zoosman,*,26,2,33,0,0,2,1,3,1,0,3,2,0,0,0,0,-22,1,3,0,3,0,0,Hapoel_Tel-Aviv,H,2,2,Jonathan Alon
+Or Cornelius,,15,3,0,50,0,1,0,1,2,0,2,0,3,0,0,6,15,0,0,1,2,0,0,Hapoel_Tel-Aviv,H,2,2,Jonathan Alon
+Total,,200,72,46,29,71,19,14,33,20,20,9,14,12,5,2,71,0,17,37,7,24,17,24,Hapoel_Tel-Aviv,H,2,2,Jonathan Alon
+Team,,0,0,0,0,0,1,5,6,0,0,0,1,0,0,0,5,0,0,0,0,0,0,0,Hapoel_Tel-Aviv,A,14,14,Jonathan Alon
+Justin Smith,*,28,16,57,0,0,2,4,6,3,2,3,1,1,1,1,17,19,8,14,0,0,0,1,Hapoel_Tel-Aviv,A,14,14,Jonathan Alon
+Jared Harper,*,30,21,31,33,88,2,1,3,2,5,2,2,4,0,2,15,17,4,13,2,6,7,8,Hapoel_Tel-Aviv,A,14,14,Jonathan Alon
+Khadeen Carrington,,26,26,40,71,100,4,0,4,2,2,0,3,2,0,0,21,-2,4,10,5,7,3,3,Hapoel_Tel-Aviv,A,14,14,Jonathan Alon
+Chris Johnson,*,25,5,67,0,50,5,4,9,0,2,1,0,0,0,0,15,15,2,3,0,0,1,2,Hapoel_Tel-Aviv,A,14,14,Jonathan Alon
+Gabriel Chachashvili,,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,-7,0,0,0,0,0,2,Hapoel_Tel-Aviv,A,14,14,Jonathan Alon
+Jeremy Morgan,,18,0,0,0,0,1,0,1,5,0,0,0,2,0,1,-6,3,0,2,0,1,0,0,Hapoel_Tel-Aviv,A,14,14,Jonathan Alon
+Tarik Phillip,*,25,8,50,50,33,0,1,1,2,4,2,0,2,0,0,10,11,2,4,1,2,1,3,Hapoel_Tel-Aviv,A,14,14,Jonathan Alon
+Yovel Zoosman,*,32,11,80,50,0,7,1,8,2,2,3,3,1,1,0,19,26,4,5,1,2,0,0,Hapoel_Tel-Aviv,A,14,14,Jonathan Alon
+Egor Koulechov,,12,5,100,100,0,0,1,1,2,0,1,0,0,0,0,5,-7,1,1,1,1,0,0,Hapoel_Tel-Aviv,A,14,14,Jonathan Alon
+Total,,200,92,48,53,63,22,17,39,18,19,12,10,12,2,4,101,0,25,52,10,19,12,19,Hapoel_Tel-Aviv,A,14,14,Jonathan Alon
+Team,,0,0,0,0,0,2,2,4,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,Gilboa_Galil,A,5,5,Jonathan Alon
+Jared Harper,,28,23,40,75,83,2,1,3,3,8,1,2,2,0,0,26,1,2,5,3,4,10,12,Gilboa_Galil,A,5,5,Jonathan Alon
+Khadeen Carrington,*,24,7,20,20,50,3,0,3,3,3,1,1,2,0,0,2,10,1,5,1,5,2,4,Gilboa_Galil,A,5,5,Jonathan Alon
+Chris Johnson,,23,9,100,50,50,2,1,3,2,3,0,0,0,0,0,10,3,1,1,2,4,1,2,Gilboa_Galil,A,5,5,Jonathan Alon
+Gabriel Chachashvili,*,26,13,57,0,83,3,3,6,1,3,0,1,0,1,1,16,2,4,7,0,0,5,6,Gilboa_Galil,A,5,5,Jonathan Alon
+Noam Dovrat,*,25,13,0,50,67,1,0,1,2,4,1,0,5,0,0,16,15,0,1,3,6,4,6,Gilboa_Galil,A,5,5,Jonathan Alon
+Jeremy Morgan,*,18,12,0,80,0,2,0,2,4,0,1,0,1,0,0,9,2,0,2,4,5,0,0,Gilboa_Galil,A,5,5,Jonathan Alon
+Speedy Smith,,10,0,0,0,0,1,0,1,0,0,1,1,2,0,0,1,-2,0,0,0,2,0,0,Gilboa_Galil,A,5,5,Jonathan Alon
+Yovel Zoosman,*,30,6,50,0,100,3,0,3,1,2,2,2,3,2,1,10,10,1,2,0,3,4,4,Gilboa_Galil,A,5,5,Jonathan Alon
+Or Cornelius,,16,6,100,0,100,5,0,5,1,3,1,2,2,0,0,13,-1,1,1,0,1,4,4,Gilboa_Galil,A,5,5,Jonathan Alon
+Total,,200,89,42,43,79,24,7,31,18,26,8,10,17,3,2,105,0,10,24,13,30,30,38,Gilboa_Galil,A,5,5,Jonathan Alon
+Team,,0,0,0,0,0,1,6,7,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,Hapoel_Haifa,A,6,6,Jonathan Alon
+Jared Harper,,22,12,0,40,86,2,0,2,3,7,1,3,4,0,0,15,21,0,1,2,5,6,7,Hapoel_Haifa,A,6,6,Jonathan Alon
+Khadeen Carrington,*,22,13,25,40,100,3,0,3,3,3,0,2,4,0,0,9,22,2,8,2,5,3,3,Hapoel_Haifa,A,6,6,Jonathan Alon
+Chris Johnson,*,26,16,83,33,0,10,2,12,3,1,1,2,1,2,0,23,19,5,6,2,6,0,0,Hapoel_Haifa,A,6,6,Jonathan Alon
+Gabriel Chachashvili,*,22,9,67,0,50,4,1,5,3,4,0,1,3,0,0,14,14,4,6,0,0,1,2,Hapoel_Haifa,A,6,6,Jonathan Alon
+Noam Dovrat,*,28,5,33,17,0,4,0,4,3,1,1,3,7,0,1,4,22,1,3,1,6,0,0,Hapoel_Haifa,A,6,6,Jonathan Alon
+Nir Perri,,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-2,-2,0,1,0,0,0,0,Hapoel_Haifa,A,6,6,Jonathan Alon
+Jeremy Morgan,*,21,0,0,0,0,2,0,2,4,1,2,1,1,0,1,-4,-8,0,1,0,3,0,0,Hapoel_Haifa,A,6,6,Jonathan Alon
+Derek Ogbeide,,19,10,80,0,50,3,2,5,2,2,0,0,1,0,0,12,7,4,5,0,1,2,4,Hapoel_Haifa,A,6,6,Jonathan Alon
+Yovel Zoosman,,25,17,100,43,100,8,1,9,1,2,3,2,4,0,0,28,23,2,2,3,7,4,4,Hapoel_Haifa,A,6,6,Jonathan Alon
+Or Cornelius,,13,0,0,0,0,0,0,0,1,1,0,1,1,0,0,-3,-13,0,0,0,3,0,0,Hapoel_Haifa,A,6,6,Jonathan Alon
+Total,,200,82,55,28,80,37,12,49,24,22,8,15,26,2,2,103,0,18,33,10,36,16,20,Hapoel_Haifa,A,6,6,Jonathan Alon
+Team,,0,0,0,0,0,2,3,5,0,0,0,1,0,0,0,4,0,0,0,0,0,0,0,Ness_Ziona,A,1,1,Jonathan Alon
+Justin Smith,,21,10,62,0,0,1,1,2,4,2,0,1,2,2,0,10,1,5,8,0,0,0,0,Ness_Ziona,A,1,1,Jonathan Alon
+Jared Harper,*,27,20,75,50,100,0,0,0,2,5,0,5,4,0,0,19,-2,3,4,2,4,8,8,Ness_Ziona,A,1,1,Jonathan Alon
+Chris Johnson,*,20,5,0,50,100,3,1,4,5,2,2,1,0,0,0,3,9,0,3,1,2,2,2,Ness_Ziona,A,1,1,Jonathan Alon
+Austin Wiley,*,21,18,73,0,100,5,2,7,1,2,0,0,1,1,1,24,6,8,11,0,0,2,2,Ness_Ziona,A,1,1,Jonathan Alon
+Gabriel Chachashvili,,17,4,33,0,0,6,1,7,3,2,2,2,3,0,0,9,6,2,6,0,0,0,0,Ness_Ziona,A,1,1,Jonathan Alon
+Noam Dovrat,,20,6,50,100,50,2,0,2,1,2,1,0,3,0,0,11,1,1,2,1,1,1,2,Ness_Ziona,A,1,1,Jonathan Alon
+Speedy Smith,*,29,8,50,40,0,4,0,4,3,0,1,4,3,0,0,5,4,1,2,2,5,0,0,Ness_Ziona,A,1,1,Jonathan Alon
+Yovel Zoosman,*,32,10,50,25,100,2,0,2,1,1,1,0,2,0,0,10,13,2,4,1,4,3,3,Ness_Ziona,A,1,1,Jonathan Alon
+Or Cornelius,,13,0,0,0,0,2,0,2,1,2,0,1,1,0,0,1,-3,0,1,0,1,0,0,Ness_Ziona,A,1,1,Jonathan Alon
+Total,,200,81,54,41,94,27,8,35,21,18,7,15,19,3,1,96,0,22,41,7,17,16,17,Ness_Ziona,A,1,1,Jonathan Alon
+Team,,0,0,0,0,0,2,3,5,2,0,0,0,0,0,0,3,0,0,0,0,0,0,0,Ironi_Kiryat_Ata,H,3,3,Jonathan Alon
+Justin Smith,,21,22,75,0,67,1,1,2,2,6,1,0,0,0,1,23,13,9,12,0,0,4,6,Ironi_Kiryat_Ata,H,3,3,Jonathan Alon
+Jared Harper,,19,14,60,50,100,3,0,3,1,3,1,1,3,0,0,19,19,3,5,1,2,5,5,Ironi_Kiryat_Ata,H,3,3,Jonathan Alon
+Austin Wiley,*,20,6,43,0,0,11,2,13,3,2,0,1,0,0,2,9,13,3,7,0,0,0,2,Ironi_Kiryat_Ata,H,3,3,Jonathan Alon
+Gabriel Chachashvili,*,24,12,100,40,0,4,0,4,4,0,2,1,3,2,0,15,4,3,3,2,5,0,0,Ironi_Kiryat_Ata,H,3,3,Jonathan Alon
+Noam Dovrat,,21,4,0,33,50,2,1,3,0,1,1,3,7,0,0,9,12,0,1,1,3,1,2,Ironi_Kiryat_Ata,H,3,3,Jonathan Alon
+Nir Perri,,1,3,0,100,0,0,0,0,1,0,0,0,0,0,1,0,5,0,1,1,1,0,0,Ironi_Kiryat_Ata,H,3,3,Jonathan Alon
+Jeremy Morgan,,18,3,0,0,100,1,0,1,4,2,1,2,2,1,0,2,9,0,0,0,2,3,3,Ironi_Kiryat_Ata,H,3,3,Jonathan Alon
+Speedy Smith,*,27,8,33,40,0,1,1,2,3,2,0,2,5,0,0,7,3,1,3,2,5,0,0,Ironi_Kiryat_Ata,H,3,3,Jonathan Alon
+Yovel Zoosman,*,22,8,100,33,0,4,0,4,2,3,0,0,1,0,0,10,31,1,1,2,6,0,0,Ironi_Kiryat_Ata,H,3,3,Jonathan Alon
+Or Cornelius,*,27,9,60,25,0,5,0,5,1,0,2,1,3,0,1,11,6,3,5,1,4,0,0,Ironi_Kiryat_Ata,H,3,3,Jonathan Alon
+Total,,200,89,61,36,72,34,8,42,23,19,8,11,24,3,5,108,0,23,38,10,28,13,18,Ironi_Kiryat_Ata,H,3,3,Jonathan Alon
+Team,,0,0,0,0,0,2,2,4,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,Bnei_Herzliya,A,10,10,Jonathan Alon
+Jared Harper,*,29,19,27,17,100,3,3,6,3,7,2,5,4,0,2,15,-7,3,11,1,6,10,10,Bnei_Herzliya,A,10,10,Jonathan Alon
+Khadeen Carrington,*,27,8,22,17,50,1,0,1,3,2,1,2,2,0,0,-4,-2,2,9,1,6,1,2,Bnei_Herzliya,A,10,10,Jonathan Alon
+Chris Johnson,*,16,6,67,0,50,5,3,8,3,3,0,3,1,0,0,7,-14,2,3,0,2,2,4,Bnei_Herzliya,A,10,10,Jonathan Alon
+Gabriel Chachashvili,*,31,6,40,0,100,9,3,12,1,4,2,2,0,1,0,19,0,2,5,0,0,2,2,Bnei_Herzliya,A,10,10,Jonathan Alon
+Noam Dovrat,,7,0,0,0,0,1,2,3,1,0,0,0,1,0,1,-2,8,0,1,0,3,0,0,Bnei_Herzliya,A,10,10,Jonathan Alon
+Jeremy Morgan,,31,11,0,50,100,1,3,4,4,2,3,0,4,0,1,14,21,0,2,3,6,2,2,Bnei_Herzliya,A,10,10,Jonathan Alon
+Tarik Phillip,,24,7,0,33,100,4,1,5,0,4,1,2,1,2,2,12,10,0,2,1,3,4,4,Bnei_Herzliya,A,10,10,Jonathan Alon
+Derek Ogbeide,,17,4,40,0,0,3,1,4,1,0,0,2,0,1,2,1,-8,2,5,0,0,0,0,Bnei_Herzliya,A,10,10,Jonathan Alon
+Or Cornelius,*,18,5,33,50,0,0,1,1,4,0,0,2,0,0,0,-3,-18,1,3,1,2,0,0,Bnei_Herzliya,A,10,10,Jonathan Alon
+Total,,200,66,29,25,88,29,19,48,21,22,9,18,13,4,8,62,0,12,41,7,28,21,24,Bnei_Herzliya,A,10,10,Jonathan Alon
+Team,,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Hapoel_Holon,H,4,4,Jonathan Alon
+Justin Smith,*,19,14,60,0,100,4,4,8,2,2,1,0,2,1,1,21,16,6,10,0,0,2,2,Hapoel_Holon,H,4,4,Jonathan Alon
+Jared Harper,,21,22,71,75,100,1,0,1,0,3,2,2,5,0,1,27,22,5,7,3,4,3,3,Hapoel_Holon,H,4,4,Jonathan Alon
+Khadeen Carrington,*,26,17,80,33,75,7,1,8,3,4,1,0,3,0,0,24,13,4,5,2,6,3,4,Hapoel_Holon,H,4,4,Jonathan Alon
+Chris Johnson,*,25,14,80,25,100,4,1,5,4,2,1,2,0,1,0,13,15,4,5,1,4,3,3,Hapoel_Holon,H,4,4,Jonathan Alon
+Gabriel Chachashvili,,17,1,0,0,50,4,1,5,4,1,0,1,3,1,0,5,5,0,0,0,0,1,2,Hapoel_Holon,H,4,4,Jonathan Alon
+Noam Dovrat,,12,3,0,33,0,4,0,4,0,0,0,1,0,0,0,3,6,0,1,1,3,0,0,Hapoel_Holon,H,4,4,Jonathan Alon
+Nir Perri,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,Hapoel_Holon,H,4,4,Jonathan Alon
+Jeremy Morgan,,20,5,40,0,50,3,1,4,0,1,2,1,1,0,0,6,8,2,5,0,2,1,2,Hapoel_Holon,H,4,4,Jonathan Alon
+Speedy Smith,*,17,5,100,33,0,2,0,2,3,1,0,2,5,0,0,6,16,1,1,1,3,0,0,Hapoel_Holon,H,4,4,Jonathan Alon
+Yovel Zoosman,,24,8,33,100,0,1,1,2,0,2,1,1,1,2,0,11,14,1,3,2,2,0,2,Hapoel_Holon,H,4,4,Jonathan Alon
+Or Cornelius,*,17,2,33,0,0,2,0,2,1,0,0,1,1,0,0,0,8,1,3,0,1,0,0,Hapoel_Holon,H,4,4,Jonathan Alon
+Total,,200,91,60,40,72,33,9,42,17,16,8,12,21,5,2,116,0,24,40,10,25,13,18,Hapoel_Holon,H,4,4,Jonathan Alon
+Team,,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,Be'er_Sheva_Dimona,A,8,8,Jonathan Alon
+Jared Harper,,17,14,0,50,100,0,0,0,0,7,0,3,3,0,0,19,8,0,1,1,2,11,11,Be'er_Sheva_Dimona,A,8,8,Jonathan Alon
+Khadeen Carrington,*,18,12,57,33,100,3,0,3,1,1,2,4,1,0,0,9,16,4,7,1,3,1,1,Be'er_Sheva_Dimona,A,8,8,Jonathan Alon
+Chris Johnson,*,19,11,100,100,0,1,2,3,2,2,1,0,1,0,0,16,16,1,1,3,3,0,0,Be'er_Sheva_Dimona,A,8,8,Jonathan Alon
+Gabriel Chachashvili,,16,10,75,0,67,4,2,6,4,5,0,2,2,0,0,14,15,3,4,0,0,4,6,Be'er_Sheva_Dimona,A,8,8,Jonathan Alon
+Noam Dovrat,*,24,9,50,33,67,4,0,4,4,3,0,2,6,0,0,11,26,2,4,1,3,2,3,Be'er_Sheva_Dimona,A,8,8,Jonathan Alon
+Nir Perri,,3,3,0,100,0,0,0,0,1,0,0,1,0,0,0,1,10,0,0,1,1,0,0,Be'er_Sheva_Dimona,A,8,8,Jonathan Alon
+Jeremy Morgan,,17,9,100,100,100,1,1,2,0,2,1,2,3,0,0,15,13,1,1,2,2,1,1,Be'er_Sheva_Dimona,A,8,8,Jonathan Alon
+Tarik Phillip,,22,4,25,0,33,4,0,4,2,4,4,1,3,0,0,7,8,1,4,0,2,2,6,Be'er_Sheva_Dimona,A,8,8,Jonathan Alon
+Derek Ogbeide,*,22,12,86,0,0,3,1,4,3,2,3,2,0,1,0,15,18,6,7,0,0,0,1,Be'er_Sheva_Dimona,A,8,8,Jonathan Alon
+Yovel Zoosman,*,22,7,67,50,0,3,1,4,2,1,2,1,1,0,0,10,31,2,3,1,2,0,0,Be'er_Sheva_Dimona,A,8,8,Jonathan Alon
+Or Cornelius,,20,13,50,60,0,2,0,2,3,0,0,0,2,0,0,10,19,2,4,3,5,0,0,Be'er_Sheva_Dimona,A,8,8,Jonathan Alon
+Total,,200,104,61,57,72,27,7,34,22,27,13,18,22,1,0,129,0,22,36,13,23,21,29,Be'er_Sheva_Dimona,A,8,8,Jonathan Alon
+Team,,0,0,0,0,0,4,1,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,Elitzur_Netanya,A,12,12,Jonathan Alon
+Justin Smith,,16,12,62,0,100,2,5,7,3,1,2,2,1,1,1,15,12,5,8,0,0,2,2,Elitzur_Netanya,A,12,12,Jonathan Alon
+Jared Harper,,25,11,100,50,100,2,2,4,1,2,2,1,5,0,0,20,13,1,1,2,4,3,3,Elitzur_Netanya,A,12,12,Jonathan Alon
+Khadeen Carrington,*,21,15,38,33,100,1,1,2,3,3,0,1,0,0,0,9,23,3,8,1,3,6,6,Elitzur_Netanya,A,12,12,Jonathan Alon
+Chris Johnson,*,21,6,0,50,75,2,1,3,2,2,3,0,2,0,0,10,15,0,2,1,2,3,4,Elitzur_Netanya,A,12,12,Jonathan Alon
+Gabriel Chachashvili,*,25,10,67,0,100,3,4,7,2,3,0,5,2,0,1,12,12,4,6,0,0,2,2,Elitzur_Netanya,A,12,12,Jonathan Alon
+Nir Perri,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-1,-3,0,0,0,0,0,0,Elitzur_Netanya,A,12,12,Jonathan Alon
+Yarin Hasson,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3,0,0,0,0,0,0,Elitzur_Netanya,A,12,12,Jonathan Alon
+Jeremy Morgan,,21,9,0,25,100,3,1,4,1,3,1,0,4,0,0,17,30,0,0,1,4,6,6,Elitzur_Netanya,A,12,12,Jonathan Alon
+Tarik Phillip,*,29,7,60,0,33,5,1,6,2,4,0,1,4,0,1,10,6,3,5,0,3,1,3,Elitzur_Netanya,A,12,12,Jonathan Alon
+Yovel Zoosman,*,24,19,25,71,100,3,0,3,4,3,3,4,1,1,1,16,6,1,4,5,7,2,2,Elitzur_Netanya,A,12,12,Jonathan Alon
+Egor Koulechov,,16,9,0,60,0,2,0,2,2,0,1,0,0,1,0,8,9,0,1,3,5,0,0,Elitzur_Netanya,A,12,12,Jonathan Alon
+Total,,200,98,49,46,89,27,16,43,20,21,12,15,19,3,4,121,0,17,35,13,28,25,28,Elitzur_Netanya,A,12,12,Jonathan Alon
+Team,,0,0,0,0,0,2,2,4,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,Hapoel_Galil_Elion,H,9,9,Jonathan Alon
+Jared Harper,*,34,29,67,22,83,5,0,5,2,11,1,0,1,0,0,33,2,4,6,2,9,15,18,Hapoel_Galil_Elion,H,9,9,Jonathan Alon
+Khadeen Carrington,,26,10,50,0,100,1,0,1,3,2,1,0,2,0,0,3,1,4,8,0,6,2,2,Hapoel_Galil_Elion,H,9,9,Jonathan Alon
+Gabriel Chachashvili,,32,3,11,0,50,4,0,4,1,3,2,1,0,0,0,-1,1,1,9,0,2,1,2,Hapoel_Galil_Elion,H,9,9,Jonathan Alon
+Noam Dovrat,,15,2,0,0,100,0,1,1,2,1,0,2,3,0,0,0,-2,0,1,0,2,2,2,Hapoel_Galil_Elion,H,9,9,Jonathan Alon
+Jeremy Morgan,*,25,5,40,0,50,2,5,7,4,1,2,0,2,0,0,7,2,2,5,0,2,1,2,Hapoel_Galil_Elion,H,9,9,Jonathan Alon
+Tarik Phillip,,15,0,0,0,0,4,1,5,3,1,1,4,1,0,0,-1,6,0,0,0,2,0,0,Hapoel_Galil_Elion,H,9,9,Jonathan Alon
+Derek Ogbeide,*,18,11,80,0,75,5,1,6,0,2,0,0,0,0,0,17,0,4,5,0,0,3,4,Hapoel_Galil_Elion,H,9,9,Jonathan Alon
+Yovel Zoosman,*,37,16,29,67,75,5,1,6,2,4,4,0,4,1,1,24,8,2,7,2,3,6,8,Hapoel_Galil_Elion,H,9,9,Jonathan Alon
+Or Cornelius,*,23,8,33,67,0,2,4,6,2,0,0,1,1,0,0,9,2,1,3,2,3,0,0,Hapoel_Galil_Elion,H,9,9,Jonathan Alon
+Total,,225,84,41,21,79,30,15,45,21,25,11,8,14,1,1,93,0,18,44,6,29,30,38,Hapoel_Galil_Elion,H,9,9,Jonathan Alon
+Team,,0,0,0,0,0,6,2,8,1,0,0,0,0,0,0,7,0,0,0,0,0,0,0,Hapoel_Afula,H,7,7,Jonathan Alon
+Jared Harper,,26,28,25,75,89,3,1,4,3,9,0,4,4,0,0,32,-3,1,4,6,8,8,9,Hapoel_Afula,H,7,7,Jonathan Alon
+Khadeen Carrington,*,26,8,33,0,100,2,0,2,2,3,0,3,4,0,1,2,5,2,6,0,5,4,4,Hapoel_Afula,H,7,7,Jonathan Alon
+Chris Johnson,*,24,6,100,0,100,6,2,8,3,1,1,1,2,1,0,11,2,2,2,0,4,2,2,Hapoel_Afula,H,7,7,Jonathan Alon
+Gabriel Chachashvili,*,27,2,100,0,0,1,0,1,2,2,2,2,2,1,0,6,-6,1,1,0,0,0,0,Hapoel_Afula,H,7,7,Jonathan Alon
+Noam Dovrat,*,22,9,33,50,50,1,1,2,1,2,0,5,0,0,1,1,-5,1,3,2,4,1,2,Hapoel_Afula,H,7,7,Jonathan Alon
+Jeremy Morgan,,23,10,50,50,100,5,0,5,3,5,3,0,1,0,0,18,8,1,2,2,4,2,2,Hapoel_Afula,H,7,7,Jonathan Alon
+Derek Ogbeide,,18,10,100,0,50,3,1,4,3,2,0,1,0,0,0,10,7,4,4,0,0,2,4,Hapoel_Afula,H,7,7,Jonathan Alon
+Yovel Zoosman,*,23,5,0,50,100,2,0,2,2,1,1,1,0,1,0,3,-8,0,3,1,2,2,2,Hapoel_Afula,H,7,7,Jonathan Alon
+Or Cornelius,,11,2,50,0,0,1,0,1,2,0,1,1,1,0,0,-1,10,1,2,0,2,0,0,Hapoel_Afula,H,7,7,Jonathan Alon
+Total,,200,80,48,38,84,30,7,37,22,25,8,18,14,3,2,89,0,13,27,11,29,21,25,Hapoel_Afula,H,7,7,Jonathan Alon
+Team,,0,0,0,0,0,1,1,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Maccabi_Ramat_Gan,H,13,13,Jonathan Alon
+Justin Smith,*,28,18,69,0,0,4,4,8,2,1,2,1,0,0,0,22,-9,9,13,0,0,0,0,Maccabi_Ramat_Gan,H,13,13,Jonathan Alon
+Jared Harper,*,27,15,25,38,67,0,1,1,2,3,2,3,7,2,0,15,-11,1,4,3,8,4,6,Maccabi_Ramat_Gan,H,13,13,Jonathan Alon
+Khadeen Carrington,,29,21,62,33,100,4,0,4,3,4,3,1,4,0,0,25,0,5,8,2,6,5,5,Maccabi_Ramat_Gan,H,13,13,Jonathan Alon
+Gabriel Chachashvili,*,25,9,60,100,0,2,2,4,2,3,1,2,3,1,1,11,20,3,5,1,1,0,3,Maccabi_Ramat_Gan,H,13,13,Jonathan Alon
+Jeremy Morgan,,26,8,100,67,0,2,0,2,1,0,1,1,1,1,0,10,11,1,1,2,3,0,0,Maccabi_Ramat_Gan,H,13,13,Jonathan Alon
+Tarik Phillip,*,19,5,50,0,50,1,0,1,3,4,2,3,3,0,0,5,-1,2,4,0,1,1,2,Maccabi_Ramat_Gan,H,13,13,Jonathan Alon
+Derek Ogbeide,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,Maccabi_Ramat_Gan,H,13,13,Jonathan Alon
+Yovel Zoosman,*,34,7,20,17,100,6,2,8,3,2,1,0,2,1,0,9,-6,1,5,1,6,2,2,Maccabi_Ramat_Gan,H,13,13,Jonathan Alon
+Egor Koulechov,,9,3,100,0,100,0,0,0,1,1,0,0,0,0,0,2,-8,1,1,0,1,1,1,Maccabi_Ramat_Gan,H,13,13,Jonathan Alon
+Total,,200,86,56,35,68,20,10,30,17,18,12,12,20,5,1,100,0,23,41,9,26,13,19,Maccabi_Ramat_Gan,H,13,13,Jonathan Alon
+Team,,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,Hapoel_Holon,A,15,15,Jonathan Alon
+Justin Smith,*,24,10,62,0,0,1,3,4,1,0,2,0,1,0,0,13,10,5,8,0,0,0,0,Hapoel_Holon,A,15,15,Jonathan Alon
+Jared Harper,,24,18,25,75,71,0,0,0,0,5,3,1,6,0,0,22,-4,2,8,3,4,5,7,Hapoel_Holon,A,15,15,Jonathan Alon
+Khadeen Carrington,*,30,17,57,20,100,3,1,4,4,5,0,3,3,0,0,15,2,4,7,1,5,6,6,Hapoel_Holon,A,15,15,Jonathan Alon
+Chris Johnson,*,27,18,67,100,67,7,4,11,2,5,1,1,0,0,0,28,15,4,6,2,2,4,6,Hapoel_Holon,A,15,15,Jonathan Alon
+Gabriel Chachashvili,,21,6,100,0,0,2,0,2,2,0,1,1,0,1,0,7,-4,3,3,0,0,0,0,Hapoel_Holon,A,15,15,Jonathan Alon
+Jeremy Morgan,*,23,5,100,33,0,3,1,4,3,0,0,1,1,1,0,5,12,1,1,1,3,0,0,Hapoel_Holon,A,15,15,Jonathan Alon
+Tarik Phillip,*,21,3,0,33,0,4,2,6,2,3,0,1,2,1,1,3,6,0,4,1,3,0,2,Hapoel_Holon,A,15,15,Jonathan Alon
+Yovel Zoosman,,22,8,33,50,0,4,1,5,2,1,2,2,3,0,0,11,2,1,3,2,4,0,0,Hapoel_Holon,A,15,15,Jonathan Alon
+Egor Koulechov,,8,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-9,0,0,0,1,0,0,Hapoel_Holon,A,15,15,Jonathan Alon
+Total,,200,85,50,45,71,25,13,38,16,19,9,10,17,3,1,106,0,20,40,10,22,15,21,Hapoel_Holon,A,15,15,Jonathan Alon
+Team,,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,Maccabi_Tel-Aviv,A,23,23,Jonathan Alon
+Justin Smith,,22,4,50,0,0,1,1,2,1,0,2,0,0,0,1,4,-3,2,4,0,0,0,0,Maccabi_Tel-Aviv,A,23,23,Jonathan Alon
+Jared Harper,*,32,30,64,43,78,4,0,4,1,6,0,4,6,0,0,31,22,7,11,3,7,7,9,Maccabi_Tel-Aviv,A,23,23,Jonathan Alon
+Khadeen Carrington,,29,16,29,50,86,2,0,2,3,4,0,2,2,0,0,11,0,2,7,2,4,6,7,Maccabi_Tel-Aviv,A,23,23,Jonathan Alon
+Chris Johnson,*,17,2,50,0,0,3,1,4,4,1,2,1,2,0,0,4,9,1,2,0,1,0,0,Maccabi_Tel-Aviv,A,23,23,Jonathan Alon
+Austin Wiley,*,18,15,100,0,75,7,3,10,0,3,1,1,0,2,0,29,15,6,6,0,0,3,4,Maccabi_Tel-Aviv,A,23,23,Jonathan Alon
+Noam Dovrat,,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,Maccabi_Tel-Aviv,A,23,23,Jonathan Alon
+Nimrod Levi,,15,4,0,50,25,1,0,1,3,4,2,1,1,0,0,4,-4,0,0,1,2,1,4,Maccabi_Tel-Aviv,A,23,23,Jonathan Alon
+Jeremy Morgan,*,28,11,0,60,100,2,0,2,4,3,0,1,3,1,0,13,15,0,0,3,5,2,2,Maccabi_Tel-Aviv,A,23,23,Jonathan Alon
+Yovel Zoosman,*,28,11,25,75,0,2,0,2,3,3,2,2,5,0,0,14,8,1,4,3,4,0,0,Maccabi_Tel-Aviv,A,23,23,Jonathan Alon
+Or Cornelius,,10,2,100,0,0,1,0,1,2,0,0,0,0,0,0,0,-4,1,1,0,1,0,0,Maccabi_Tel-Aviv,A,23,23,Jonathan Alon
+Total,,200,95,57,50,73,25,6,31,22,24,9,12,19,3,1,112,0,20,35,12,24,19,26,Maccabi_Tel-Aviv,A,23,23,Jonathan Alon
+Team,,0,0,0,0,0,1,2,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,Gilboa_Galil,H,17,17,Jonathan Alon
+Jared Harper,*,30,17,20,67,90,3,1,4,1,9,2,1,8,0,0,32,9,1,5,2,3,9,10,Gilboa_Galil,H,17,17,Jonathan Alon
+Chris Johnson,*,27,14,57,40,0,6,1,7,2,1,2,0,2,0,0,18,7,4,7,2,5,0,0,Gilboa_Galil,H,17,17,Jonathan Alon
+Austin Wiley,*,24,12,62,0,40,5,1,6,2,4,0,2,0,1,0,13,9,5,8,0,0,2,5,Gilboa_Galil,H,17,17,Jonathan Alon
+Gabriel Chachashvili,,15,4,50,0,100,4,0,4,3,3,0,2,1,0,1,5,0,1,2,0,0,2,2,Gilboa_Galil,H,17,17,Jonathan Alon
+Noam Dovrat,,17,5,33,50,0,0,1,1,2,1,1,1,1,0,0,3,8,1,3,1,2,0,0,Gilboa_Galil,H,17,17,Jonathan Alon
+Jeremy Morgan,,21,4,0,25,50,3,0,3,1,2,1,0,1,0,0,5,13,0,1,1,4,1,2,Gilboa_Galil,H,17,17,Jonathan Alon
+Tarik Phillip,*,20,10,75,33,100,0,2,2,2,2,0,1,3,0,0,11,-2,3,4,1,3,1,1,Gilboa_Galil,H,17,17,Jonathan Alon
+Yovel Zoosman,*,33,13,33,38,100,2,0,2,3,1,0,2,5,1,0,10,3,1,3,3,8,2,2,Gilboa_Galil,H,17,17,Jonathan Alon
+Egor Koulechov,,13,6,0,50,0,4,1,5,2,0,0,2,0,1,0,6,3,0,0,2,4,0,0,Gilboa_Galil,H,17,17,Jonathan Alon
+Total,,200,85,48,41,77,28,9,37,18,23,6,11,21,3,1,106,0,16,33,12,29,17,22,Gilboa_Galil,H,17,17,Jonathan Alon
+Team,,0,0,0,0,0,1,3,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,Ironi_Kiryat_Ata,A,16,16,Jonathan Alon
+Justin Smith,*,7,4,100,0,0,0,1,1,2,0,0,0,1,0,0,4,-3,2,2,0,0,0,0,Ironi_Kiryat_Ata,A,16,16,Jonathan Alon
+Khadeen Carrington,*,28,18,38,40,86,1,2,3,2,8,1,4,2,0,1,16,-17,3,8,2,5,6,7,Ironi_Kiryat_Ata,A,16,16,Jonathan Alon
+Chris Johnson,,21,9,0,75,0,2,3,5,2,1,0,1,1,2,0,14,-7,0,0,3,4,0,0,Ironi_Kiryat_Ata,A,16,16,Jonathan Alon
+Austin Wiley,,24,11,33,0,71,4,4,8,1,5,2,2,1,2,0,18,-14,3,9,0,0,5,7,Ironi_Kiryat_Ata,A,16,16,Jonathan Alon
+Gabriel Chachashvili,*,24,5,33,50,0,4,0,4,4,2,2,3,1,0,0,4,11,1,3,1,2,0,0,Ironi_Kiryat_Ata,A,16,16,Jonathan Alon
+Jeremy Morgan,,27,13,75,40,50,1,3,4,3,2,1,0,2,0,1,13,-4,3,4,2,5,1,2,Ironi_Kiryat_Ata,A,16,16,Jonathan Alon
+Tarik Phillip,*,31,12,100,33,0,4,0,4,3,2,1,6,9,0,0,15,6,3,3,2,6,0,0,Ironi_Kiryat_Ata,A,16,16,Jonathan Alon
+Egor Koulechov,,13,3,0,25,0,0,0,0,1,0,0,0,1,0,0,0,-11,0,0,1,4,0,0,Ironi_Kiryat_Ata,A,16,16,Jonathan Alon
+Or Cornelius,*,25,10,40,33,50,2,2,4,3,5,1,2,0,0,0,7,-8,2,5,1,3,3,6,Ironi_Kiryat_Ata,A,16,16,Jonathan Alon
+Total,,200,85,50,41,68,19,18,37,21,25,8,18,18,4,2,95,0,17,34,12,29,15,22,Ironi_Kiryat_Ata,A,16,16,Jonathan Alon
+Team,,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,Hapoel_Haifa,H,20,20,Jonathan Alon
+Justin Smith,,16,14,75,0,100,1,2,3,2,3,1,1,0,1,0,17,20,6,8,0,0,2,2,Hapoel_Haifa,H,20,20,Jonathan Alon
+Jared Harper,*,20,18,100,75,100,4,0,4,1,5,0,1,9,0,0,33,26,2,2,3,4,5,5,Hapoel_Haifa,H,20,20,Jonathan Alon
+Khadeen Carrington,,15,7,43,0,100,2,0,2,2,3,0,0,2,0,0,5,7,3,7,0,3,1,1,Hapoel_Haifa,H,20,20,Jonathan Alon
+Chris Johnson,*,15,4,0,25,50,3,0,3,0,2,1,1,0,0,0,4,21,0,1,1,4,1,2,Hapoel_Haifa,H,20,20,Jonathan Alon
+Austin Wiley,*,24,20,100,0,50,7,3,10,2,3,1,1,1,1,0,31,3,9,9,0,0,2,4,Hapoel_Haifa,H,20,20,Jonathan Alon
+Noam Dovrat,,30,8,33,33,0,4,0,4,4,0,0,4,2,0,0,0,4,1,3,2,6,0,0,Hapoel_Haifa,H,20,20,Jonathan Alon
+Nir Perri,,7,0,0,0,0,1,1,2,0,0,0,0,0,0,0,-1,-8,0,2,0,1,0,0,Hapoel_Haifa,H,20,20,Jonathan Alon
+Yarin Hasson,,5,0,0,0,0,0,1,1,2,0,0,2,1,0,1,-4,-11,0,1,0,0,0,0,Hapoel_Haifa,H,20,20,Jonathan Alon
+Jeremy Morgan,*,18,12,0,67,0,4,1,5,2,0,1,0,1,0,0,14,23,0,1,4,6,0,0,Hapoel_Haifa,H,20,20,Jonathan Alon
+Yovel Zoosman,*,13,7,50,100,67,1,1,2,1,1,1,0,5,0,0,13,24,1,2,1,1,2,3,Hapoel_Haifa,H,20,20,Jonathan Alon
+Egor Koulechov,,16,5,100,17,0,1,2,3,2,0,0,0,0,0,0,1,6,1,1,1,6,0,0,Hapoel_Haifa,H,20,20,Jonathan Alon
+Or Cornelius,,21,11,100,25,0,2,1,3,0,0,0,0,0,1,0,12,0,4,4,1,4,0,0,Hapoel_Haifa,H,20,20,Jonathan Alon
+Total,,200,106,66,37,76,30,15,45,18,17,5,10,21,3,1,128,0,27,41,13,35,13,17,Hapoel_Haifa,H,20,20,Jonathan Alon
+Team,,0,0,0,0,0,2,2,4,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,Maccabi_Ramat_Gan,A,19,19,Jonathan Alon
+Justin Smith,*,27,10,100,0,0,6,1,7,3,3,2,1,0,0,0,17,-3,5,5,0,0,0,1,Maccabi_Ramat_Gan,A,19,19,Jonathan Alon
+Jared Harper,*,29,23,43,33,89,1,0,1,3,9,0,4,6,0,0,21,12,3,7,3,9,8,9,Maccabi_Ramat_Gan,A,19,19,Jonathan Alon
+Khadeen Carrington,*,28,17,40,29,100,2,1,3,1,3,1,0,4,0,0,16,6,4,10,2,7,3,3,Maccabi_Ramat_Gan,A,19,19,Jonathan Alon
+Chris Johnson,*,23,5,100,100,0,3,2,5,2,1,1,0,0,0,0,10,3,1,1,1,1,0,0,Maccabi_Ramat_Gan,A,19,19,Jonathan Alon
+Noam Dovrat,,9,5,0,33,67,0,0,0,1,1,1,0,0,0,0,3,-1,0,0,1,3,2,3,Maccabi_Ramat_Gan,A,19,19,Jonathan Alon
+Tarik Phillip,,19,8,50,50,0,3,0,3,0,0,0,1,1,0,0,8,2,1,2,2,4,0,0,Maccabi_Ramat_Gan,A,19,19,Jonathan Alon
+Derek Ogbeide,,13,2,100,0,0,1,1,2,3,2,1,0,1,0,0,4,11,1,1,0,0,0,1,Maccabi_Ramat_Gan,A,19,19,Jonathan Alon
+Yovel Zoosman,*,29,10,67,25,60,0,0,0,4,3,2,2,2,0,0,5,11,2,3,1,4,3,5,Maccabi_Ramat_Gan,A,19,19,Jonathan Alon
+Egor Koulechov,,13,2,100,0,0,2,1,3,2,0,1,0,1,1,0,2,-4,1,1,0,4,0,0,Maccabi_Ramat_Gan,A,19,19,Jonathan Alon
+Or Cornelius,,10,0,0,0,0,1,0,1,0,0,1,1,0,0,0,1,-2,0,0,0,0,0,0,Maccabi_Ramat_Gan,A,19,19,Jonathan Alon
+Total,,200,82,60,31,73,21,8,29,19,22,10,10,15,1,0,90,0,18,30,10,32,16,22,Maccabi_Ramat_Gan,A,19,19,Jonathan Alon
+Team,,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Bnei_Herzliya,H,18,18,Jonathan Alon
+Justin Smith,*,23,15,64,0,33,4,1,5,3,3,1,1,0,1,2,13,16,7,11,0,0,1,3,Bnei_Herzliya,H,18,18,Jonathan Alon
+Jared Harper,*,26,15,57,50,50,1,1,2,2,3,3,3,8,0,0,20,17,4,7,2,4,1,2,Bnei_Herzliya,H,18,18,Jonathan Alon
+Khadeen Carrington,,22,15,29,67,100,2,1,3,1,3,1,3,3,0,0,15,-7,2,7,2,3,5,5,Bnei_Herzliya,H,18,18,Jonathan Alon
+Chris Johnson,*,23,5,50,0,50,2,3,5,2,2,4,0,0,1,0,11,11,2,4,0,1,1,2,Bnei_Herzliya,H,18,18,Jonathan Alon
+Gabriel Chachashvili,,8,2,50,0,0,1,0,1,1,1,0,0,0,0,0,2,-1,1,2,0,0,0,0,Bnei_Herzliya,H,18,18,Jonathan Alon
+Noam Dovrat,,6,3,0,100,0,0,0,0,2,0,0,0,1,0,0,2,-10,0,0,1,1,0,0,Bnei_Herzliya,H,18,18,Jonathan Alon
+Jeremy Morgan,,19,7,50,50,0,1,2,3,1,0,1,3,0,0,0,4,1,2,4,1,2,0,0,Bnei_Herzliya,H,18,18,Jonathan Alon
+Tarik Phillip,*,21,16,100,100,0,1,0,1,2,3,1,0,2,0,0,19,25,5,5,2,2,0,2,Bnei_Herzliya,H,18,18,Jonathan Alon
+Yovel Zoosman,*,25,10,33,50,50,3,1,4,4,2,1,1,0,0,1,5,12,1,3,2,4,2,4,Bnei_Herzliya,H,18,18,Jonathan Alon
+Egor Koulechov,,18,6,0,40,0,5,0,5,1,0,1,0,1,2,0,9,5,0,2,2,5,0,0,Bnei_Herzliya,H,18,18,Jonathan Alon
+Or Cornelius,,9,0,0,0,0,3,0,3,0,0,0,0,2,0,1,3,6,0,1,0,0,0,0,Bnei_Herzliya,H,18,18,Jonathan Alon
+Total,,200,94,52,55,56,24,9,33,19,17,13,11,17,4,4,104,0,24,46,12,22,10,18,Bnei_Herzliya,H,18,18,Jonathan Alon
+Team,,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,Hapoel_Afula,A,21,21,Jonathan Alon
+Justin Smith,,21,7,33,0,25,5,3,8,1,4,0,0,0,0,1,8,-3,3,9,0,0,1,4,Hapoel_Afula,A,21,21,Jonathan Alon
+Jared Harper,*,31,13,29,33,75,2,0,2,3,4,1,3,6,1,0,11,1,2,7,2,6,3,4,Hapoel_Afula,A,21,21,Jonathan Alon
+Khadeen Carrington,,26,11,43,20,100,1,2,3,0,2,0,2,4,0,1,9,-17,3,7,1,5,2,2,Hapoel_Afula,A,21,21,Jonathan Alon
+Chris Johnson,*,29,5,33,0,50,3,3,6,3,2,2,2,0,1,1,2,-4,2,6,0,3,1,2,Hapoel_Afula,A,21,21,Jonathan Alon
+Austin Wiley,*,19,13,71,0,100,6,5,11,2,3,0,1,0,0,0,22,2,5,7,0,0,3,3,Hapoel_Afula,A,21,21,Jonathan Alon
+Noam Dovrat,,14,5,50,33,0,0,1,1,2,1,1,3,3,0,0,3,4,1,2,1,3,0,0,Hapoel_Afula,A,21,21,Jonathan Alon
+Jeremy Morgan,*,25,9,0,100,0,0,1,1,1,1,1,0,4,1,0,14,-9,0,2,3,3,0,0,Hapoel_Afula,A,21,21,Jonathan Alon
+Yovel Zoosman,*,21,15,50,75,100,2,0,2,3,2,1,1,1,0,0,14,10,2,4,3,4,2,2,Hapoel_Afula,A,21,21,Jonathan Alon
+Egor Koulechov,,8,3,0,50,0,2,0,2,0,0,0,0,0,0,0,4,2,0,0,1,2,0,0,Hapoel_Afula,A,21,21,Jonathan Alon
+Or Cornelius,,6,1,0,0,50,1,0,1,1,1,0,0,0,0,0,1,4,0,0,0,0,1,2,Hapoel_Afula,A,21,21,Jonathan Alon
+Total,,200,82,41,42,68,22,17,39,16,20,6,12,18,3,3,90,0,18,44,11,26,13,19,Hapoel_Afula,A,21,21,Jonathan Alon
+Team,,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,Elitzur_Netanya,H,22,22,Jonathan Alon
+Justin Smith,,20,8,80,0,0,5,4,9,1,0,1,3,2,4,0,19,3,4,5,0,0,0,0,Elitzur_Netanya,H,22,22,Jonathan Alon
+Jared Harper,*,27,17,25,40,100,1,0,1,2,6,1,4,4,0,1,16,7,1,4,2,5,9,9,Elitzur_Netanya,H,22,22,Jonathan Alon
+Khadeen Carrington,*,26,12,25,40,50,1,1,2,1,4,3,2,3,0,0,10,6,2,8,2,5,2,4,Elitzur_Netanya,H,22,22,Jonathan Alon
+Chris Johnson,*,19,6,33,50,50,1,1,2,4,1,1,0,2,0,1,3,8,1,3,1,2,1,2,Elitzur_Netanya,H,22,22,Jonathan Alon
+Austin Wiley,*,20,14,62,0,80,11,2,13,1,3,1,0,0,4,0,30,14,5,8,0,0,4,5,Elitzur_Netanya,H,22,22,Jonathan Alon
+Noam Dovrat,,8,3,0,50,0,1,0,1,1,0,0,0,1,0,1,0,-5,0,2,1,2,0,0,Elitzur_Netanya,H,22,22,Jonathan Alon
+Nimrod Levi,,13,3,0,50,0,2,0,2,2,1,0,1,4,0,0,5,-6,0,1,1,2,0,0,Elitzur_Netanya,H,22,22,Jonathan Alon
+Tarik Phillip,,20,4,67,0,0,1,1,2,3,0,1,1,4,0,0,4,25,2,3,0,2,0,0,Elitzur_Netanya,H,22,22,Jonathan Alon
+Yovel Zoosman,,23,18,80,50,50,4,1,5,0,2,3,1,2,1,0,25,27,4,5,3,6,1,2,Elitzur_Netanya,H,22,22,Jonathan Alon
+Egor Koulechov,,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-1,1,0,0,0,0,0,0,Elitzur_Netanya,H,22,22,Jonathan Alon
+Or Cornelius,*,23,8,50,50,0,1,1,2,4,1,1,0,2,1,0,8,5,1,2,2,4,0,0,Elitzur_Netanya,H,22,22,Jonathan Alon
+Total,,200,93,49,43,77,31,11,42,20,18,12,12,24,10,3,122,0,20,41,12,28,17,22,Elitzur_Netanya,H,22,22,Jonathan Alon
+Team,,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,Be'er_Sheva_Dimona,H,24,24,Jonathan Alon
+Justin Smith,,16,6,43,0,0,1,2,3,2,1,2,2,2,1,0,7,-9,3,7,0,0,0,0,Be'er_Sheva_Dimona,H,24,24,Jonathan Alon
+Jared Harper,*,34,26,67,44,86,3,1,4,2,5,2,1,7,0,0,33,0,4,6,4,9,6,7,Be'er_Sheva_Dimona,H,24,24,Jonathan Alon
+Khadeen Carrington,,25,10,30,0,100,4,1,5,2,5,0,2,1,0,0,5,5,3,10,0,5,4,4,Be'er_Sheva_Dimona,H,24,24,Jonathan Alon
+Austin Wiley,*,22,14,57,0,75,6,6,12,0,5,1,0,1,2,0,30,9,4,7,0,0,6,8,Be'er_Sheva_Dimona,H,24,24,Jonathan Alon
+Nimrod Levi,*,21,13,100,50,0,1,2,3,3,0,1,1,1,0,0,11,5,2,2,3,6,0,0,Be'er_Sheva_Dimona,H,24,24,Jonathan Alon
+Jeremy Morgan,*,26,5,0,50,100,1,1,2,3,2,0,3,1,0,0,3,1,0,0,1,2,2,2,Be'er_Sheva_Dimona,H,24,24,Jonathan Alon
+Tarik Phillip,,8,6,0,67,0,0,0,0,2,0,0,0,0,0,0,3,-7,0,0,2,3,0,0,Be'er_Sheva_Dimona,H,24,24,Jonathan Alon
+Yovel Zoosman,*,29,3,17,0,50,3,2,5,1,1,2,2,4,0,1,2,6,1,6,0,3,1,2,Be'er_Sheva_Dimona,H,24,24,Jonathan Alon
+Egor Koulechov,,8,0,0,0,0,2,0,2,2,0,0,0,1,1,0,2,-1,0,0,0,0,0,0,Be'er_Sheva_Dimona,H,24,24,Jonathan Alon
+Or Cornelius,,11,0,0,0,0,0,0,0,1,0,0,2,0,0,0,-3,1,0,0,0,0,0,0,Be'er_Sheva_Dimona,H,24,24,Jonathan Alon
+Total,,200,83,45,36,83,23,15,38,18,19,8,13,18,4,1,95,0,17,38,10,28,19,23,Be'er_Sheva_Dimona,H,24,24,Jonathan Alon
+Team,,0,0,0,0,0,2,4,6,0,0,0,1,0,0,0,5,0,0,0,0,0,0,0,Hapoel_Galil_Elion,A,25,25,Jonathan Alon
+Jared Harper,*,36,23,33,38,80,3,1,4,3,4,3,3,10,0,1,24,-4,2,6,5,13,4,5,Hapoel_Galil_Elion,A,25,25,Jonathan Alon
+Khadeen Carrington,,30,14,40,33,100,3,0,3,3,4,0,1,0,0,0,10,-4,2,5,2,6,4,4,Hapoel_Galil_Elion,A,25,25,Jonathan Alon
+Chris Johnson,*,15,3,50,0,100,1,1,2,2,1,1,2,0,0,0,2,-7,1,2,0,0,1,1,Hapoel_Galil_Elion,A,25,25,Jonathan Alon
+Austin Wiley,*,29,8,44,0,0,10,4,14,3,2,1,1,1,2,0,19,-4,4,9,0,0,0,0,Hapoel_Galil_Elion,A,25,25,Jonathan Alon
+Nimrod Levi,,23,15,80,67,50,2,3,5,2,2,0,1,0,0,1,15,3,4,5,2,3,1,2,Hapoel_Galil_Elion,A,25,25,Jonathan Alon
+Jeremy Morgan,*,29,11,33,50,0,3,1,4,4,2,0,2,0,0,0,6,0,1,3,3,6,0,0,Hapoel_Galil_Elion,A,25,25,Jonathan Alon
+Tarik Phillip,,19,4,50,0,100,0,0,0,2,2,1,0,1,0,0,3,-5,1,2,0,2,2,2,Hapoel_Galil_Elion,A,25,25,Jonathan Alon
+Yovel Zoosman,*,32,4,40,0,0,2,1,3,3,0,0,3,5,0,0,-2,-4,2,5,0,5,0,0,Hapoel_Galil_Elion,A,25,25,Jonathan Alon
+Egor Koulechov,,5,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,Hapoel_Galil_Elion,A,25,25,Jonathan Alon
+Or Cornelius,,7,0,0,0,0,1,0,1,0,0,1,0,0,0,0,1,-4,0,1,0,0,0,0,Hapoel_Galil_Elion,A,25,25,Jonathan Alon
+Total,,225,82,45,33,86,28,15,43,22,17,7,14,17,2,2,83,0,17,38,12,36,12,14,Hapoel_Galil_Elion,A,25,25,Jonathan Alon
+Team,,0,0,0,0,0,2,1,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,Ness_Ziona,H,26,26,Jonathan Alon
+Justin Smith,,19,12,62,0,67,3,4,7,2,6,1,0,0,1,0,21,-8,5,8,0,0,2,3,Ness_Ziona,H,26,26,Jonathan Alon
+Jared Harper,*,26,4,50,0,0,0,0,0,3,1,3,1,6,1,1,3,-9,2,4,0,5,0,0,Ness_Ziona,H,26,26,Jonathan Alon
+Khadeen Carrington,,22,10,20,40,40,2,0,2,1,5,1,0,1,0,0,8,16,1,5,2,5,2,5,Ness_Ziona,H,26,26,Jonathan Alon
+Austin Wiley,*,21,18,55,0,75,3,7,10,2,4,0,0,0,2,1,24,13,6,11,0,0,6,8,Ness_Ziona,H,26,26,Jonathan Alon
+Roi Huber,,18,9,33,33,100,1,0,1,4,2,2,1,5,0,1,9,7,1,3,1,3,4,4,Ness_Ziona,H,26,26,Jonathan Alon
+Nimrod Levi,*,23,13,67,60,0,2,1,3,3,1,0,2,3,0,0,12,0,2,3,3,5,0,0,Ness_Ziona,H,26,26,Jonathan Alon
+Jeremy Morgan,,15,5,0,25,100,1,0,1,2,1,1,0,1,0,0,4,-5,0,0,1,4,2,2,Ness_Ziona,H,26,26,Jonathan Alon
+Tarik Phillip,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-7,0,0,0,0,0,0,Ness_Ziona,H,26,26,Jonathan Alon
+Yovel Zoosman,*,30,13,67,33,67,4,1,5,1,2,2,2,3,0,0,17,13,4,6,1,3,2,3,Ness_Ziona,H,26,26,Jonathan Alon
+Egor Koulechov,,8,3,0,33,0,1,0,1,2,0,0,0,0,0,0,0,0,0,0,1,3,0,0,Ness_Ziona,H,26,26,Jonathan Alon
+Or Cornelius,*,15,7,100,50,0,2,1,3,2,0,2,1,4,0,0,12,5,2,2,1,2,0,0,Ness_Ziona,H,26,26,Jonathan Alon
+Total,,200,94,55,33,72,21,15,36,22,22,12,7,23,4,3,113,0,23,42,10,30,18,25,Ness_Ziona,H,26,26,Jonathan Alon
