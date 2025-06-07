@@ -51,6 +51,7 @@ def parse_table(tbl, index_idx, start_idx=None, end_idx=None, ignore_prev_idx=Fa
     """
     tbl.fillna("", inplace=True)
     tbl = tbl.T.drop_duplicates().T # fixed columns that have double width in some tables
+    tbl = tbl.dropna()  # drop rows that are completely empty
     columns = get_columns(tbl, index_idx, ignore_prev_idx)
     end_idx = end_idx if end_idx else len(tbl)
     start_idx = start_idx if start_idx else index_idx+1
