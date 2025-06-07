@@ -13,9 +13,11 @@ import urllib.error
 import concurrent.futures
 
 
+from io import StringIO
+
 @backoff.on_exception(backoff.expo, (urllib.error.URLError), max_tries=3)
 def read_html(url):
-    return pd.read_html(url)
+    return pd.read_html(StringIO(url))
 
 def print_tables(cls):
     for key in cls.__dict__:
@@ -37,8 +39,9 @@ def parse_table(tbl, index_idx, start_idx=None, end_idx=None, ignore_prev_idx=Fa
             if c == '+/-':
                 continue
             pref, suf = c.split('_')
-            df[pref.split('/')[0] + "_" + suf] = df[c].str.split('/').str[0]
-            df[pref.split('/')[1] + "_" + suf] = df[c].str.split('/').str[1]
+            df = df.copy()
+            df.loc[:, pref.split('/')[0] + "_" + suf] = df[c].str.split('/').str[0]
+            df.loc[:, pref.split('/')[1] + "_" + suf] = df[c].str.split('/').str[1]
             del df[c]    
     return df.apply(pd.to_numeric, errors='ignore')
 
@@ -160,9 +163,11 @@ def plot_property(df, x, y,  hue='loc'):
     ax.set_title(f"{y} per {x}")
 
 def df_for_print_groupby(filtered_df, by=['player name', 'coach'], sort_by=None):
-    mean_coach = filtered_df.groupby(by).mean()
-    std_coach = filtered_df.groupby(by).std()
-    sum_coach = filtered_df.groupby(by).sum()
+    get_numeric_columns = lambda df: df.select_dtypes(include=[np.number]).columns.tolist()
+    numeric_columns = get_numeric_columns(filtered_df)
+    mean_coach = filtered_df[numeric_columns+by].groupby(by).mean()
+    std_coach = filtered_df[numeric_columns+by].groupby(by).std()
+    sum_coach = filtered_df[numeric_columns+by].groupby(by).sum()
     mean_coach['games'] = filtered_df.groupby(by).size()
     mean_coach['%3'] = sum_coach['m_3pt'] / sum_coach['a_3pt'] * 100
     mean_coach['%2'] = sum_coach['m_2pt'] / sum_coach['a_2pt'] * 100
