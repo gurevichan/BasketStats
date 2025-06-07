@@ -11,7 +11,7 @@ from time import sleep
 import matplotlib.pyplot as plt
 import urllib.error
 import concurrent.futures
-from data import data_consts as dc
+from . import consts
 from io import StringIO
 
 from bs4 import MarkupResemblesLocatorWarning
@@ -132,7 +132,7 @@ class TeamScraper:
         self.stats_players = parse_table(tables[5], 2)
 
     def read_games(self, max_games=None, sleep_time=0.1, multithreaded=True):
-        all_games_links = self.links[4]
+        all_games_links = self.links[consts.TEAM_LINKS_ALL_GAMES_IDX]
         self.all_games = {}
         if multithreaded:
             self.read_games_multithreaded(max_games, all_games_links)
@@ -140,7 +140,7 @@ class TeamScraper:
             for i, (round, row) in tqdm(enumerate(self.stats_per_game.iterrows())):
                 if max_games and i > max_games:
                     break
-                game = GameScraper(dc.base_url + all_games_links[f"{row['game']}_{i}"], name=row['game'], round=round, game_idx=i+1)
+                game = GameScraper(consts.base_url + all_games_links[f"{row['game']}_{i}"], name=row['game'], round=round, game_idx=i+1)
                 self.all_games[f"{game.name}_{game.round}"] = game
                 sleep(sleep_time)
         self.per_game_player_stats = self.creat_per_game_player_stats()
@@ -151,7 +151,7 @@ class TeamScraper:
             for i, (round, row) in tqdm(enumerate(self.stats_per_game.iterrows())):
                 if max_games and i > max_games:
                     break
-                future = executor.submit(GameScraper, dc.base_url + all_games_links[f"{row['game']}_{i}"], name=row['game'], round=round, game_idx=i+1)
+                future = executor.submit(GameScraper, consts.base_url + all_games_links[f"{row['game']}_{i}"], name=row['game'], round=round, game_idx=i+1)
                 futures.append(future)
             for future in tqdm(concurrent.futures.as_completed(futures)):
                 game = future.result()
@@ -178,7 +178,7 @@ class TeamScraper:
     
     @property
     def player_stats_path(self):
-        return os.path.join(dc.team_save_path.format(year=self.year), f"{self.name}_per_game.csv")
+        return os.path.join(consts.team_save_path.format(year=self.year), f"{self.name}_per_game.csv")
     
     def save_to_csv(self, verbose=True):
         os.makedirs(os.path.dirname(self.player_stats_path), exist_ok=True)
@@ -192,7 +192,7 @@ class SeasonTableScraper:
     
     def __init__(self, year):
         self.year = year
-        self.url = dc.season_table.format(year=year)
+        self.url = consts.season_table.format(year=year)
         self.season_table, self._teams_urls_dict = read_html_with_links(self.url)
         self._teams_urls_dict = self._teams_urls_dict[0]  # the first table contains the teams urls
         self.season_table = parse_table(self.season_table[0], 3, ignore_prev_idx=True)
@@ -204,7 +204,7 @@ class SeasonTableScraper:
         for k, suffix in self._teams_urls_dict.items():
             name, position = k.split('_')
             self.team2pos[name] = position
-            self.teams_dict[name] = TeamScraper(dc.base_url + suffix, year=self.year)
+            self.teams_dict[name] = TeamScraper(consts.base_url + suffix, year=self.year)
     
     def read_teams_data(self):
         for team_name, team in self.teams_dict.items():
